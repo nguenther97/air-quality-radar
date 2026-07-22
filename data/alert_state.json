@@ -1,1 +1,226 @@
-{}
+{
+  "US|OR|Baker City": {
+    "region": "Baker City, OR",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 1
+  },
+  "US|OR|Bend and Redmond": {
+    "region": "Bend and Redmond, OR",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 2
+  },
+  "US|ID|Boise": {
+    "region": "Boise, ID",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 3
+  },
+  "US|OR|Cove": {
+    "region": "Cove, OR",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 4
+  },
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 5
+  },
+  "US|WA|Dayton": {
+    "region": "Dayton, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 6
+  },
+  "US|CO|Denver-Boulder": {
+    "region": "Denver-Boulder, CO",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 7
+  },
+  "US|CA|Eureka": {
+    "region": "Eureka, CA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 8
+  },
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 9
+  },
+  "US|OR|John Day": {
+    "region": "John Day, OR",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 10
+  },
+  "US|OR|La Grande": {
+    "region": "La Grande, OR",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 11
+  },
+  "US|OR|Madras": {
+    "region": "Madras, OR",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 12
+  },
+  "US|WA|Mesa": {
+    "region": "Mesa, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 13
+  },
+  "US|WA|Moses Lake": {
+    "region": "Moses Lake, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 14
+  },
+  "US|WA|Omak": {
+    "region": "Omak, WA",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 15
+  },
+  "US|OR|Ontario": {
+    "region": "Ontario, OR",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 16
+  },
+  "US|OR|Pendleton": {
+    "region": "Pendleton, OR",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 17
+  },
+  "US|WA|Pomeroy": {
+    "region": "Pomeroy, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 18
+  },
+  "US|OR|Prineville": {
+    "region": "Prineville, OR",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 19
+  },
+  "US|WA|Ritzville": {
+    "region": "Ritzville, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 20
+  },
+  "US|OR|Sisters": {
+    "region": "Sisters, OR",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 21
+  },
+  "US|WA|Walla Walla": {
+    "region": "Walla Walla, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 22
+  },
+  "CA|JCVCC|Eastern Fraser Valley": {
+    "region": "Eastern Fraser Valley, null",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 23
+  },
+  "CA|LARCU|Norman Wells": {
+    "region": "Norman Wells, null",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 24
+  },
+  "CA|HASIZ|Buffalo Narrows": {
+    "region": "Buffalo Narrows, null",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 25
+  },
+  "CA|GADMZ|Brandon": {
+    "region": "Brandon, null",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 26
+  },
+  "CA|GBEIN|Winnipeg": {
+    "region": "Winnipeg, null",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 27
+  },
+  "CA|LAILN|Fort Smith": {
+    "region": "Fort Smith, null",
+    "tier": "alert",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 28
+  },
+  "CA|IAFFI|Fort McMurray": {
+    "region": "Fort McMurray, null",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 29
+  },
+  "CA|IAFFF|Fort McKay": {
+    "region": "Fort McKay, null",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 30
+  },
+  "CA|IAFEW|Fort Chipewyan": {
+    "region": "Fort Chipewyan, null",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 31
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784754125317,
+    "issueNumber": 32
+  }
+}
