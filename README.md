@@ -16,8 +16,9 @@ air quality across North America is bad enough to drive real purchase intent.
 
 ## Data
 
-- `data/cities_us_ca.json` — bundled US/Canada city population dataset (SimpleMaps
-  Basic World Cities Database, CC BY 4.0).
+- `data/cities_us_ca.json` — bundled US/Canada city population dataset, top 3,000
+  cities by population, from the [SimpleMaps Basic World Cities Database](https://simplemaps.com/data/world-cities)
+  (Creative Commons Attribution 4.0 — attribution required, hence this link).
 - `data/snapshots.json` — rolling 48h trend history, rewritten each refresh run.
 - `data/alert_state.json` — per-location dedupe state for the alert check.
 
