@@ -1,0 +1,202 @@
+import { MAX_POP } from './metrics.mjs';
+
+const TREND_LABEL = { worsening: 'Worsening', improving: 'Improving', steady: 'Steady', new: 'New' };
+const TREND_ICON = { worsening: '↑', improving: '↓', steady: '→', new: '∗' };
+
+export function renderDashboard(data) {
+  const payload = JSON.stringify(data).replace(/</g, '\\u003c');
+
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Air Quality Radar — Alen Air</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<style>${CSS}</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="title-row">
+      <h1>Air Quality Radar</h1>
+      <button id="themeToggle" class="theme-btn" aria-label="Toggle dark mode">◑</button>
+    </div>
+    <p class="sub">Timing geo-targeted marketing to bad-air-quality moments across the US &amp; Canada. Refreshed automatically every 30 minutes.</p>
+    <p class="disclosure">Mexico is not covered — no free real-time air-quality feed was available when this tool was built.</p>
+    <div id="statusBanner" class="status-banner hidden"></div>
+  </header>
+
+  <div class="tabs">
+    <button class="tab on" data-panel="opps">Top Opportunities</button>
+    <button class="tab" data-panel="list">List</button>
+    <button class="tab" data-panel="map">Map</button>
+  </div>
+
+  <section id="panel-opps" class="panel on"></section>
+  <section id="panel-list" class="panel"></section>
+  <section id="panel-map" class="panel"><div id="mapEl"></div></section>
+
+  <footer class="foot">Last updated <span id="asOf"></span> · Sources: AirNow (US), Environment Canada AQHI (Canada)</footer>
+</div>
+
+<script type="application/json" id="aqr-data">${payload}</script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>${CLIENT_JS}</script>
+</body>
+</html>
+`;
+}
+
+const CSS = `
+:root{color-scheme:light dark;--bg:#fff;--fg:#1A1A1A;--muted:#555;--border:#ddd;--card:#fafafa;
+ --red:#B5271F;--red-bg:#fbeceb;--amber:#9A6A00;--amber-bg:#fbf3e2;--green:#1E7A3D;--green-bg:#e9f5ee;--blue:#1C5FA8;--blue-bg:#eaf1fa;}
+:root[data-theme="dark"]{--bg:#14161a;--fg:#e8e8e8;--muted:#a7a7a7;--border:#33363c;--card:#1c1f24;
+ --red:#ff6b60;--red-bg:#3a1c1a;--amber:#e0a83c;--amber-bg:#3a2f14;--green:#5fd08a;--green-bg:#153a24;--blue:#6fa8dc;--blue-bg:#152840;}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#14161a;--fg:#e8e8e8;--muted:#a7a7a7;--border:#33363c;--card:#1c1f24;
+ --red:#ff6b60;--red-bg:#3a1c1a;--amber:#e0a83c;--amber-bg:#3a2f14;--green:#5fd08a;--green-bg:#153a24;--blue:#6fa8dc;--blue-bg:#152840;}}
+*{box-sizing:border-box;}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+.wrap{max-width:1080px;margin:0 auto;padding:24px 18px 60px;}
+.title-row{display:flex;align-items:center;justify-content:space-between;}
+h1{font-size:26px;margin:0;}
+.theme-btn{background:none;border:1px solid var(--border);border-radius:8px;font-size:16px;padding:4px 10px;cursor:pointer;color:var(--fg);}
+.sub{color:var(--muted);font-size:14px;margin:6px 0 4px;}
+.disclosure{color:var(--muted);font-size:13px;margin:0 0 10px;font-style:italic;}
+.status-banner{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber);border-radius:8px;padding:8px 12px;font-size:13px;margin:8px 0;}
+.status-banner.hidden{display:none;}
+.tabs{display:flex;gap:6px;border-bottom:2px solid var(--border);margin:18px 0 16px;}
+.tab{padding:9px 16px;border:1px solid var(--border);border-bottom:none;border-radius:8px 8px 0 0;background:var(--card);cursor:pointer;font-size:14px;font-weight:600;color:var(--fg);}
+.tab.on{background:var(--bg);border-bottom:2px solid var(--bg);margin-bottom:-2px;}
+.panel{display:none;}
+.panel.on{display:block;}
+h2{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:6px;margin:22px 0 12px;}
+.opp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;}
+.opp-card{border:1px solid var(--border);border-top:4px solid var(--red);border-radius:10px;padding:14px 16px;background:var(--card);}
+.opp-card .rank{font-size:11px;color:var(--muted);text-transform:uppercase;font-weight:700;}
+.opp-card .name{font-size:18px;font-weight:700;margin:2px 0 6px;}
+.opp-card .meta{font-size:13px;color:var(--muted);}
+.opp-card .angle{margin-top:10px;font-size:13px;background:var(--blue-bg);color:var(--blue);border-radius:6px;padding:8px 10px;}
+.reading{border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin-bottom:8px;background:var(--card);display:flex;flex-wrap:wrap;align-items:center;gap:10px;}
+.reading .name{font-weight:700;flex:1 1 200px;}
+.reading .val{font-size:15px;font-weight:700;}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:5px;border:1px solid;}
+.b-alert{color:var(--red);border-color:var(--red);background:var(--red-bg);}
+.b-watch{color:var(--amber);border-color:var(--amber);background:var(--amber-bg);}
+.b-worsening{color:var(--red);border-color:var(--red);background:var(--red-bg);}
+.b-improving{color:var(--green);border-color:var(--green);background:var(--green-bg);}
+.b-steady,.b-new{color:var(--blue);border-color:var(--blue);background:var(--blue-bg);}
+.reading .sub2{width:100%;font-size:12.5px;color:var(--muted);}
+.empty{color:var(--muted);font-size:14px;padding:10px 0;}
+#mapEl{height:600px;border-radius:10px;overflow:hidden;border:1px solid var(--border);}
+.foot{margin-top:30px;color:var(--muted);font-size:12px;text-align:center;}
+`;
+
+const CLIENT_JS = `
+const DATA = JSON.parse(document.getElementById('aqr-data').textContent);
+const MAX_POP = ${MAX_POP};
+const TREND_LABEL = ${JSON.stringify(TREND_LABEL)};
+const TREND_ICON = ${JSON.stringify(TREND_ICON)};
+
+(function initTheme(){
+  const saved = localStorage.getItem('aqr-theme');
+  if (saved) document.documentElement.setAttribute('data-theme', saved);
+  document.getElementById('themeToggle').addEventListener('click', () => {
+    const cur = document.documentElement.getAttribute('data-theme') ||
+      (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    const next = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('aqr-theme', next);
+  });
+})();
+
+document.getElementById('asOf').textContent = new Date(DATA.generatedAt).toLocaleString();
+
+const failed = (DATA.sourceStatus || []).filter(s => !s.ok);
+if (failed.length) {
+  const banner = document.getElementById('statusBanner');
+  banner.classList.remove('hidden');
+  banner.textContent = 'Data source issue: ' + failed.map(s => s.source + ' (' + s.error + ')').join(', ') + ' — showing last known good data for that source.';
+}
+
+function badgeTier(tier) { return '<span class="badge b-' + tier + '">' + tier.toUpperCase() + '</span>'; }
+function badgeTrend(trend) { return '<span class="badge b-' + trend + '">' + TREND_ICON[trend] + ' ' + TREND_LABEL[trend] + '</span>'; }
+function fmtPop(p) { return p == null ? 'population unknown' : Math.round(p).toLocaleString() + ' pop.'; }
+function elevatedText(h) { return h == null ? '' : ' · elevated for ' + (h < 1 ? '<1' : Math.round(h)) + 'h'; }
+
+function renderOpportunities() {
+  const el = document.getElementById('panel-opps');
+  if (!DATA.topOpportunities.length) {
+    el.innerHTML = '<div class="empty">No scored opportunities right now — nothing at Watch/Alert tier with a population match.</div>';
+    return;
+  }
+  el.innerHTML = '<h2>Top Opportunities Right Now</h2><div class="opp-grid">' +
+    DATA.topOpportunities.map((r, i) => \`
+      <div class="opp-card">
+        <div class="rank">#\${i + 1}</div>
+        <div class="name">\${r.name}, \${r.state || ''}</div>
+        <div class="meta">\${r.value} \${r.unit} · \${r.category} \${badgeTier(r.tier)}</div>
+        <div class="meta">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} \${badgeTrend(r.trend)}</div>
+      </div>\`).join('') + '</div>';
+}
+
+function renderList() {
+  const el = document.getElementById('panel-list');
+  const alerts = DATA.readings.filter(r => r.tier === 'alert');
+  const watches = DATA.readings.filter(r => r.tier === 'watch');
+  function section(title, items) {
+    if (!items.length) return '<h2>' + title + '</h2><div class="empty">None right now.</div>';
+    return '<h2>' + title + ' (' + items.length + ')</h2>' + items.map(r => \`
+      <div class="reading">
+        <span class="name">\${r.name}, \${r.state || ''}</span>
+        <span class="val">\${r.value} \${r.unit}</span>
+        <span>\${r.category}</span>
+        \${badgeTrend(r.trend)}
+        <span class="sub2">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} · \${r.source} · observed \${r.observedAt || 'n/a'}</span>
+      </div>\`).join('');
+  }
+  el.innerHTML = section('Alert', alerts) + section('Watch', watches);
+}
+
+let map, markerLayer;
+function initMap() {
+  map = L.map('mapEl', { worldCopyJump: false }).setView([45, -95], 4);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 12,
+  }).addTo(map);
+  markerLayer = L.layerGroup().addTo(map);
+
+  for (const r of DATA.readings) {
+    if (r.tier === 'ignore' || r.lat == null || r.lon == null) continue;
+    const color = r.tier === 'alert' ? '#B5271F' : '#9A6A00';
+    const pop = r.population || 0;
+    const radius = 6 + 24 * Math.sqrt(pop) / Math.sqrt(MAX_POP);
+    L.circleMarker([r.lat, r.lon], {
+      radius, color, fillColor: color, fillOpacity: 0.45, weight: 1.5,
+    }).bindPopup(
+      '<b>' + r.name + ', ' + (r.state || '') + '</b><br>' +
+      r.value + ' ' + r.unit + ' · ' + r.category + '<br>' +
+      fmtPop(r.population) + elevatedText(r.elevatedHours) + '<br>' +
+      TREND_LABEL[r.trend]
+    ).addTo(markerLayer);
+  }
+}
+
+renderOpportunities();
+renderList();
+initMap();
+
+const tabs = document.querySelectorAll('.tab');
+tabs.forEach(tab => tab.addEventListener('click', () => {
+  tabs.forEach(t => t.classList.remove('on'));
+  tab.classList.add('on');
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('on'));
+  const panel = document.getElementById('panel-' + tab.dataset.panel);
+  panel.classList.add('on');
+  if (tab.dataset.panel === 'map' && map) {
+    map.invalidateSize();
+    map.setView([45, -95], 4);
+  }
+}));
+`;
