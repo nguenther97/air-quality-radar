@@ -6,6 +6,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { parseAirNow } from './lib/airnow.mjs';
 import { parseCanadaAQHI } from './lib/canada.mjs';
 import { classify } from './lib/metrics.mjs';
+import { buildPopulationIndex, matchPopulation } from './lib/population.mjs';
 import { createIssue, addComment, closeIssue } from './lib/github.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -115,13 +116,17 @@ async function fetchDeterministicReadings() {
     ...(canadaRaw ? parseCanadaAQHI(JSON.parse(canadaRaw)) : []),
   ];
 
+  const cities = await readJson('data/cities_us_ca.json', []);
+  const popIndex = buildPopulationIndex(cities);
+
   return readings
     .map((r) => ({ ...r, tier: classify(r.unit, r.value) }))
     .filter((r) => r.tier !== 'ignore')
     .map((r) => ({
       locationKey: r.id,
       region: r.name,
-      stateOrProvince: r.state,
+      // Environment Canada's feed has no province field — backfill it from the nearest bundled city.
+      stateOrProvince: r.state || matchPopulation(r, popIndex).matchedState,
       country: r.country,
       tier: r.tier,
       value: r.value,
