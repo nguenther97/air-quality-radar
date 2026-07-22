@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 174,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Dayton",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|CA|Eureka",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Mesa",
+    "value": 135,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Pomeroy",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Ritzville",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784752510076
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784752510076
+  }
+]
