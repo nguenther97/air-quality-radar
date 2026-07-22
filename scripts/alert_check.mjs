@@ -77,7 +77,7 @@ async function writeJson(relPath, value) {
 async function gatherEvents() {
   const client = new Anthropic();
   const response = await client.messages.create({
-    model: 'claude-opus-4-8',
+    model: 'claude-sonnet-5',
     max_tokens: 8000,
     tools: [{ type: 'web_search_20260209', name: 'web_search', max_uses: 10 }],
     output_config: { effort: 'medium', format: { type: 'json_schema', schema: EVENT_SCHEMA } },
