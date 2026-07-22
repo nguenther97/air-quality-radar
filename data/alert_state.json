@@ -48,13 +48,6 @@
     "lastAlertedAt": 1784754125317,
     "issueNumber": 7
   },
-  "US|CA|Eureka": {
-    "region": "Eureka, CA",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 8
-  },
   "US|TX|Houston-Galveston-Brazoria": {
     "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
@@ -118,13 +111,6 @@
     "lastAlertedAt": 1784754125317,
     "issueNumber": 17
   },
-  "US|WA|Pomeroy": {
-    "region": "Pomeroy, WA",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 18
-  },
   "US|OR|Prineville": {
     "region": "Prineville, OR",
     "tier": "alert",
@@ -154,7 +140,7 @@
     "issueNumber": 22
   },
   "CA|JCVCC|Eastern Fraser Valley": {
-    "region": "Eastern Fraser Valley, null",
+    "region": "Eastern Fraser Valley, BC",
     "tier": "alert",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784754125317,
@@ -175,14 +161,14 @@
     "issueNumber": 25
   },
   "CA|GADMZ|Brandon": {
-    "region": "Brandon, null",
+    "region": "Brandon, MB",
     "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784754125317,
     "issueNumber": 26
   },
   "CA|GBEIN|Winnipeg": {
-    "region": "Winnipeg, null",
+    "region": "Winnipeg, MB",
     "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784754125317,
@@ -196,14 +182,14 @@
     "issueNumber": 28
   },
   "CA|IAFFI|Fort McMurray": {
-    "region": "Fort McMurray, null",
+    "region": "Fort McMurray, AB",
     "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784754125317,
     "issueNumber": 29
   },
   "CA|IAFFF|Fort McKay": {
-    "region": "Fort McKay, null",
+    "region": "Fort McKay, AB",
     "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784754125317,
@@ -216,11 +202,81 @@
     "lastAlertedAt": 1784754125317,
     "issueNumber": 31
   },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
+  "US|CO|Fort Collins": {
+    "region": "Fort Collins, CO",
     "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 32
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 33
+  },
+  "US|CO|Greeley": {
+    "region": "Greeley, CO",
+    "tier": "watch",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 34
+  },
+  "US-OR-Salem": {
+    "region": "Salem, OR",
+    "tier": "watch",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 35
+  },
+  "US-OR-Hermiston": {
+    "region": "Hermiston, OR",
+    "tier": "watch",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 36
+  },
+  "US-OR-Portland": {
+    "region": "Portland, OR",
+    "tier": "watch",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 37
+  },
+  "US-WA-Wenatchee": {
+    "region": "Wenatchee, WA",
+    "tier": "watch",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 38
+  },
+  "CA-BC-Vancouver": {
+    "region": "Vancouver (Metro Vancouver), BC",
+    "tier": "watch",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 39
+  },
+  "CA-NT-Inuvik": {
+    "region": "Inuvik, NT",
+    "tier": "alert",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 40
+  },
+  "CA-NT-Hay River": {
+    "region": "Hay River, NT",
+    "tier": "alert",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 41
+  },
+  "CA-AB-Grande Prairie": {
+    "region": "Grande Prairie, AB",
+    "tier": "alert",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 42
+  },
+  "CA-SK-Saskatoon": {
+    "region": "Saskatoon, SK",
+    "tier": "alert",
+    "firstSeen": 1784754967089,
+    "lastAlertedAt": 1784754967089,
+    "issueNumber": 43
   }
 }
