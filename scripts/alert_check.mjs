@@ -133,22 +133,33 @@ async function fetchDeterministicReadings() {
 
 async function enrichAndFindAdditional(readings) {
   const client = new Anthropic();
-  const response = await client.messages.create({
+  const stream = client.messages.stream({
     model: 'claude-sonnet-5',
-    max_tokens: 8000,
+    max_tokens: 32000,
     tools: [{ type: 'web_search_20260209', name: 'web_search', max_uses: 10 }],
     output_config: { effort: 'medium', format: { type: 'json_schema', schema: ENRICHMENT_SCHEMA } },
     messages: [{ role: 'user', content: buildPrompt(readings) }],
   });
+  const response = await stream.finalMessage();
 
   if (response.stop_reason === 'refusal') {
     console.error('Model declined the request; proceeding with numeric readings only, no enrichment.');
     return { enriched: [], additionalEvents: [] };
   }
 
+  if (response.stop_reason === 'max_tokens') {
+    throw new Error(
+      `Response hit the max_tokens limit before finishing (likely too many elevated locations this run to fit the budget) — raise max_tokens rather than treating this as a parse bug.`,
+    );
+  }
+
   const textBlock = response.content.find((b) => b.type === 'text');
   if (!textBlock) return { enriched: [], additionalEvents: [] };
-  return JSON.parse(textBlock.text);
+  try {
+    return JSON.parse(textBlock.text);
+  } catch (err) {
+    throw new Error(`Failed to parse model output as JSON (stop_reason=${response.stop_reason}): ${err.message}`);
+  }
 }
 
 function mergeEvents(readings, enrichmentResult) {
