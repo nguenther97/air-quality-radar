@@ -37,7 +37,7 @@ export function renderDashboard(data) {
   <section id="panel-list" class="panel"></section>
   <section id="panel-map" class="panel"><div id="mapEl"></div></section>
 
-  <footer class="foot">Last updated <span id="asOf"></span> · Sources: AirNow (US), Environment Canada AQHI (Canada)</footer>
+  <footer class="foot">Last updated <span id="asOf"></span> · Sources: AirNow (US), Environment Canada AQHI (Canada) · Population data from <a href="https://simplemaps.com/data/world-cities">SimpleMaps</a> (CC BY 4.0)</footer>
 </div>
 
 <script type="application/json" id="aqr-data">${payload}</script>
