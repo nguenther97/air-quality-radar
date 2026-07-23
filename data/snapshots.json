@@ -670,5 +670,159 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1784812486393
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 196,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|WA|Clarkston",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 172,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|MT|Flathead Valley",
+    "value": 135,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|ID|Grangeville",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 220,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|ID|Kamiah - Nez Perce Reservation",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|La Pine",
+    "value": 148,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 256,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784829766146
   }
 ]
