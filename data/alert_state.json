@@ -13,23 +13,16 @@
     "lastAlertedAt": 1784799121584,
     "issueNumber": 2
   },
-  "US|ID|Boise": {
-    "region": "Boise, ID",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 3
-  },
   "US|OR|Cove": {
     "region": "Cove, OR",
     "tier": "alert",
     "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
+    "lastAlertedAt": 1784843186263,
     "issueNumber": 4
   },
   "US|OR|John Day": {
     "region": "John Day, OR",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784799121584,
     "issueNumber": 10
@@ -38,7 +31,7 @@
     "region": "La Grande, OR",
     "tier": "alert",
     "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
+    "lastAlertedAt": 1784843186263,
     "issueNumber": 11
   },
   "US|OR|Madras": {
@@ -48,40 +41,26 @@
     "lastAlertedAt": 1784826290522,
     "issueNumber": 12
   },
-  "US|OR|Pendleton": {
-    "region": "Pendleton, OR",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 17
-  },
   "US|OR|Prineville": {
     "region": "Prineville, OR",
     "tier": "alert",
     "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
+    "lastAlertedAt": 1784843186263,
     "issueNumber": 19
   },
   "US|OR|Sisters": {
     "region": "Sisters, OR",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784826290522,
     "issueNumber": 21
   },
   "CA|LARCU|Norman Wells": {
     "region": "Norman Wells, null",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 24
-  },
-  "US-OR-Portland": {
-    "region": "Portland, OR",
     "tier": "alert",
-    "firstSeen": 1784754967089,
-    "lastAlertedAt": 1784826290522,
-    "issueNumber": 37
+    "firstSeen": 1784754125317,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 24
   },
   "US|WA|Colville": {
     "region": "Colville, WA",
@@ -89,20 +68,6 @@
     "firstSeen": 1784799121584,
     "lastAlertedAt": 1784799121584,
     "issueNumber": 44
-  },
-  "US|MT|Flathead Valley": {
-    "region": "Flathead Valley, MT",
-    "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 45
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "alert",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 49
   },
   "US|ID|Porthill (seasonal)": {
     "region": "Porthill (seasonal), ID",
@@ -113,9 +78,9 @@
   },
   "CA|JAFNW|Kamloops": {
     "region": "Kamloops, BC",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
+    "lastAlertedAt": 1784843186263,
     "issueNumber": 52
   },
   "US|WA|Clarkston": {
@@ -127,17 +92,10 @@
   },
   "US|OR|Enterprise": {
     "region": "Enterprise, OR",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1784826290522,
-    "lastAlertedAt": 1784826290522,
+    "lastAlertedAt": 1784843186263,
     "issueNumber": 58
-  },
-  "US|ID|Grangeville": {
-    "region": "Grangeville, ID",
-    "tier": "watch",
-    "firstSeen": 1784826290522,
-    "lastAlertedAt": 1784826290522,
-    "issueNumber": 59
   },
   "US|WA|Moses Lake": {
     "region": "Moses Lake, WA",
@@ -153,18 +111,207 @@
     "lastAlertedAt": 1784826290522,
     "issueNumber": 61
   },
-  "US|WA|Quincy": {
-    "region": "Quincy, WA",
-    "tier": "alert",
-    "firstSeen": 1784826290522,
-    "lastAlertedAt": 1784826290522,
-    "issueNumber": 62
-  },
   "US|WA|Twisp": {
     "region": "Twisp, WA",
     "tier": "alert",
     "firstSeen": 1784826290522,
     "lastAlertedAt": 1784826290522,
     "issueNumber": 63
+  },
+  "US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 64
+  },
+  "US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 65
+  },
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 66
+  },
+  "US|CO|Denver-Boulder": {
+    "region": "Denver-Boulder, CO",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 67
+  },
+  "US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "alert",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 68
+  },
+  "US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 69
+  },
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 70
+  },
+  "US|ID|Juliaetta (seasonal)": {
+    "region": "Juliaetta (seasonal), ID",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 71
+  },
+  "US|ID|Kamiah - Nez Perce Reservation": {
+    "region": "Kamiah - Nez Perce Reservation, ID",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 72
+  },
+  "US|ID|Lapwai - Nez Perce Reservation": {
+    "region": "Lapwai - Nez Perce Reservation, ID",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 73
+  },
+  "US|ID|Lewiston": {
+    "region": "Lewiston, ID",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 74
+  },
+  "US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 75
+  },
+  "US|CA|Nipomo CDF": {
+    "region": "Nipomo CDF, CA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 76
+  },
+  "US|OR|Ontario": {
+    "region": "Ontario, OR",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 77
+  },
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 78
+  },
+  "US|UT|Salt Lake City": {
+    "region": "Salt Lake City, UT",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 79
+  },
+  "US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 80
+  },
+  "US|WA|Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 81
+  },
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
+    "tier": "alert",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 82
+  },
+  "CA|IADGP|Lethbridge": {
+    "region": "Lethbridge, AB",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 83
+  },
+  "CA|JAFUV|Central Okanagan": {
+    "region": "Central Okanagan, BC",
+    "tier": "alert",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 84
+  },
+  "CA|JBHJG|South Okanagan": {
+    "region": "South Okanagan, null",
+    "tier": "alert",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 85
+  },
+  "CA|JCAAC|Castlegar": {
+    "region": "Castlegar, null",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 86
+  },
+  "CA|JBOAP|North Okanagan": {
+    "region": "North Okanagan, BC",
+    "tier": "alert",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 87
+  },
+  "CA|IAQFR|Airdrie": {
+    "region": "Airdrie, AB",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 88
+  },
+  "CA|IAKID|Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 89
+  },
+  "US-ID-Boise": {
+    "region": "Boise (Treasure Valley), ID",
+    "tier": "alert",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 90
+  },
+  "US-CO-Fort Collins-Greeley": {
+    "region": "Fort Collins-Greeley, CO",
+    "tier": "watch",
+    "firstSeen": 1784843186263,
+    "lastAlertedAt": 1784843186263,
+    "issueNumber": 91
   }
 }
