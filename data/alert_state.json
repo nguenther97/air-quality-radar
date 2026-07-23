@@ -27,13 +27,6 @@
     "lastAlertedAt": 1784754125317,
     "issueNumber": 4
   },
-  "US|WA|Dayton": {
-    "region": "Dayton, WA",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 6
-  },
   "US|OR|John Day": {
     "region": "John Day, OR",
     "tier": "alert",
@@ -50,17 +43,10 @@
   },
   "US|OR|Madras": {
     "region": "Madras, OR",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
+    "lastAlertedAt": 1784826290522,
     "issueNumber": 12
-  },
-  "US|WA|Mesa": {
-    "region": "Mesa, WA",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 13
   },
   "US|OR|Pendleton": {
     "region": "Pendleton, OR",
@@ -76,60 +62,25 @@
     "lastAlertedAt": 1784754125317,
     "issueNumber": 19
   },
-  "US|WA|Ritzville": {
-    "region": "Ritzville, WA",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 20
-  },
   "US|OR|Sisters": {
     "region": "Sisters, OR",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
+    "lastAlertedAt": 1784826290522,
     "issueNumber": 21
-  },
-  "US|WA|Walla Walla": {
-    "region": "Walla Walla, WA",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 22
   },
   "CA|LARCU|Norman Wells": {
     "region": "Norman Wells, null",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1784754125317,
     "lastAlertedAt": 1784754125317,
     "issueNumber": 24
   },
-  "CA|GADMZ|Brandon": {
-    "region": "Brandon, MB",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 26
-  },
-  "CA|LAILN|Fort Smith": {
-    "region": "Fort Smith, null",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 28
-  },
-  "CA|IAFEW|Fort Chipewyan": {
-    "region": "Fort Chipewyan, null",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784754125317,
-    "issueNumber": 31
-  },
   "US-OR-Portland": {
-    "region": "Portland Metro, OR",
-    "tier": "watch",
+    "region": "Portland, OR",
+    "tier": "alert",
     "firstSeen": 1784754967089,
-    "lastAlertedAt": 1784754967089,
+    "lastAlertedAt": 1784826290522,
     "issueNumber": 37
   },
   "US|WA|Colville": {
@@ -146,40 +97,12 @@
     "lastAlertedAt": 1784799121584,
     "issueNumber": 45
   },
-  "US|ID|Garden Valley": {
-    "region": "Garden Valley, ID",
-    "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 46
-  },
-  "US|OR|Hermiston": {
-    "region": "Hermiston, OR",
-    "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 47
-  },
-  "US|ID|Idaho City": {
-    "region": "Idaho City, ID",
-    "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 48
-  },
   "US|OR|La Pine": {
     "region": "La Pine, OR",
     "tier": "alert",
     "firstSeen": 1784799121584,
     "lastAlertedAt": 1784799121584,
     "issueNumber": 49
-  },
-  "US|ID|McCall": {
-    "region": "McCall, ID",
-    "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 50
   },
   "US|ID|Porthill (seasonal)": {
     "region": "Porthill (seasonal), ID",
@@ -195,32 +118,53 @@
     "lastAlertedAt": 1784799121584,
     "issueNumber": 52
   },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
-    "tier": "alert",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 53
-  },
-  "US-WA-Bellingham": {
-    "region": "Bellingham (Whatcom County), WA",
+  "US|WA|Clarkston": {
+    "region": "Clarkston, WA",
     "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 54
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 57
   },
-  "CA-AB-Edmonton": {
-    "region": "Edmonton, AB",
-    "tier": "alert",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 55
-  },
-  "CA-AB-Fort McMurray": {
-    "region": "Fort McMurray, AB",
+  "US|OR|Enterprise": {
+    "region": "Enterprise, OR",
     "tier": "watch",
-    "firstSeen": 1784799121584,
-    "lastAlertedAt": 1784799121584,
-    "issueNumber": 56
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 58
+  },
+  "US|ID|Grangeville": {
+    "region": "Grangeville, ID",
+    "tier": "watch",
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 59
+  },
+  "US|WA|Moses Lake": {
+    "region": "Moses Lake, WA",
+    "tier": "alert",
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 60
+  },
+  "US|WA|Omak": {
+    "region": "Omak, WA",
+    "tier": "watch",
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 61
+  },
+  "US|WA|Quincy": {
+    "region": "Quincy, WA",
+    "tier": "alert",
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 62
+  },
+  "US|WA|Twisp": {
+    "region": "Twisp, WA",
+    "tier": "alert",
+    "firstSeen": 1784826290522,
+    "lastAlertedAt": 1784826290522,
+    "issueNumber": 63
   }
 }
