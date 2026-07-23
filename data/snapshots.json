@@ -383,5 +383,159 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1784760371943
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 226,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Dayton",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|MT|Flathead Valley",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Hermiston",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|La Pine",
+    "value": 174,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|ID|McCall",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Mesa",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Pomeroy",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 175,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Ritzville",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784793619307
   }
 ]
