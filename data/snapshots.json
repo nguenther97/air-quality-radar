@@ -1062,5 +1062,152 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1784842809301
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 189,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 276,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Dayton",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|CA|Joshua Tree National Park",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|ID|Juliaetta (seasonal)",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Pomeroy",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Pullman",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Rosalia",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 146,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|WA|Spokane",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|ID|St. Maries",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|MT|Thompson Falls",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784878899178
   }
 ]
