@@ -1209,5 +1209,124 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1784878899178
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|WA|Clarkston",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 172,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|WA|Dayton",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|ID|Juliaetta (seasonal)",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 143,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|ID|St. Maries",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784898414929
   }
 ]
