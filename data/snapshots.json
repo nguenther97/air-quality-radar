@@ -1328,5 +1328,110 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1784898414929
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|WA|Clarkston",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 183,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|NV|Las Vegas",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|ID|Lewiston",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784916340151
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 262,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784916340151
   }
 ]
