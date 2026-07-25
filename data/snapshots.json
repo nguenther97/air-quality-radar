@@ -1090,5 +1090,103 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1785003039968
+  },
+  {
+    "region_key": "US|NM|Albuquerque",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 189,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CO|Fort Collins",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 212,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785015505498
+  },
+  {
+    "region_key": "US|WA|Yakima",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785015505498
   }
 ]
