@@ -1,139 +1,6 @@
 [
   {
     "region_key": "US|OR|Baker City",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 188,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|ID|Boise",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 196,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|MT|Flathead Valley",
-    "value": 131,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|John Day",
-    "value": 221,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|La Grande",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|La Pine",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 343,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Sisters",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 184,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784812486393
-  },
-  {
-    "region_key": "US|OR|Baker City",
     "value": 150,
     "unit": "AQI",
     "tier": "watch",
@@ -1237,5 +1104,68 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1784977088989
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 182,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|WA|Confederated Tribes and Bands of Yakama Nations",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 146,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|WA|Sunnyside",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|ND|Theodore Roosevelt National Park",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1784991048192
   }
 ]
