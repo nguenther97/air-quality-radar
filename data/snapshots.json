@@ -1,111 +1,6 @@
 [
   {
     "region_key": "US|OR|Baker City",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|ID|Boise",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|Burns",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|WA|Clarkston",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 183,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|John Day",
-    "value": 149,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|La Grande",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|NV|Las Vegas",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|ID|Lewiston",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 131,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|Ontario",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 262,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1784916340151
-  },
-  {
-    "region_key": "US|OR|Baker City",
     "value": 139,
     "unit": "AQI",
     "tier": "watch",
@@ -880,5 +775,180 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1785080864456
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 208,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 255,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 951,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 419,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Cut Bank",
+    "value": 146,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Flathead Valley",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|WA|Kennewick",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 278,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Malta",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|ID|McCall",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Missoula",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 231,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|WA|Pomeroy",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 236,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|ND|Theodore Roosevelt National Park",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|MT|Thompson Falls",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|ID|Twin Falls",
+    "value": 190,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 187,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785097029737
   }
 ]
