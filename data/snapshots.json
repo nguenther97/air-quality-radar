@@ -845,5 +845,68 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1785051989634
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 242,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 355,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|MT|Libby",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|MT|Missoula",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 202,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785066581255
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 202,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785066581255
   }
 ]
