@@ -36,3 +36,29 @@ function aqhiRiskLabel(value) {
   if (value < 10) return 'High Risk';
   return 'Very High Risk';
 }
+
+const FORECAST_WINDOW_MIN_MS = 18 * 60 * 60 * 1000;
+const FORECAST_WINDOW_MAX_MS = 30 * 60 * 60 * 1000;
+
+export function parseCanadaAQHIForecast(geojson, nowMs) {
+  const byLocation = new Map();
+
+  for (const feature of geojson.features ?? []) {
+    const p = feature.properties ?? {};
+    const aqhi = Number(p.aqhi);
+    const locationId = (p.location_id ?? '').trim();
+    const name = (p.location_name_en ?? '').trim();
+    const forecastAt = p.forecast_datetime ? Date.parse(p.forecast_datetime) : NaN;
+    if (!Number.isFinite(aqhi) || !locationId || !name || !Number.isFinite(forecastAt)) continue;
+
+    const age = forecastAt - nowMs;
+    if (age < FORECAST_WINDOW_MIN_MS || age > FORECAST_WINDOW_MAX_MS) continue;
+
+    const id = `CA|${locationId}|${name}`;
+    const existing = byLocation.get(id);
+    if (existing && existing.value >= aqhi) continue;
+    byLocation.set(id, { id, dayOffset: 1, unit: 'AQHI', value: aqhi, category: aqhiRiskLabel(aqhi) });
+  }
+
+  return [...byLocation.values()];
+}
