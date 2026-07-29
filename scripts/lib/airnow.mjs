@@ -25,7 +25,10 @@ export function parseAirNow(rawText) {
     const country = US_STATES.has(state) ? 'US' : CA_PROVINCES.has(state) ? 'CA' : null;
     if (!country) continue;
 
-    const aqi = Number(aqiRaw);
+    // Number('') is 0, not NaN — an empty AQI field means "no numeric reading", not a real zero.
+    const aqiTrimmed = aqiRaw.trim();
+    if (!aqiTrimmed) continue;
+    const aqi = Number(aqiTrimmed);
     if (!Number.isFinite(aqi)) continue;
 
     const key = `${country}|${state}|${reportingArea.trim()}`;
@@ -67,8 +70,11 @@ export function parseAirNowForecast(rawText) {
     const country = US_STATES.has(state) ? 'US' : CA_PROVINCES.has(state) ? 'CA' : null;
     if (!country) continue;
 
+    // Number('') is 0, not NaN — an empty AQI field means this forecast day is category-only, no exact number.
+    const aqiTrimmed = aqiRaw.trim();
+    if (!aqiTrimmed) continue;
     const dayOffset = Number(dayOffsetRaw);
-    const aqi = Number(aqiRaw);
+    const aqi = Number(aqiTrimmed);
     if (!Number.isFinite(dayOffset) || dayOffset < 1 || !Number.isFinite(aqi)) continue;
 
     const id = `${country}|${state}|${reportingArea.trim()}`;
