@@ -123,6 +123,12 @@ function badgeTier(tier) { return '<span class="badge b-' + tier + '">' + tier.t
 function badgeTrend(trend) { return '<span class="badge b-' + trend + '">' + TREND_ICON[trend] + ' ' + TREND_LABEL[trend] + '</span>'; }
 function fmtPop(p) { return p == null ? 'population unknown' : Math.round(p).toLocaleString() + ' pop.'; }
 function elevatedText(h) { return h == null ? '' : ' · elevated for ' + (h < 1 ? '<1' : Math.round(h)) + 'h'; }
+function forecastBadge(r) {
+  const f = r.forecastNextDay;
+  if (!f) return '';
+  const cls = f.tier === 'ignore' ? 'improving' : (f.value > r.value ? 'worsening' : (f.value < r.value ? 'improving' : 'steady'));
+  return '<span class="badge b-' + cls + '">Tomorrow: ' + f.value + ' ' + f.unit + ' · ' + f.category + '</span>';
+}
 
 function renderOpportunities() {
   const el = document.getElementById('panel-opps');
@@ -136,7 +142,7 @@ function renderOpportunities() {
         <div class="rank">#\${i + 1}</div>
         <div class="name">\${r.name}, \${r.state || ''}</div>
         <div class="meta">\${r.value} \${r.unit} · \${r.category} \${badgeTier(r.tier)}</div>
-        <div class="meta">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} \${badgeTrend(r.trend)}</div>
+        <div class="meta">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} \${badgeTrend(r.trend)} \${forecastBadge(r)}</div>
       </div>\`).join('') + '</div>';
 }
 
@@ -151,7 +157,7 @@ function renderList() {
         <span class="name">\${r.name}, \${r.state || ''}</span>
         <span class="val">\${r.value} \${r.unit}</span>
         <span>\${r.category}</span>
-        \${badgeTrend(r.trend)}
+        \${badgeTrend(r.trend)} \${forecastBadge(r)}
         <span class="sub2">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} · \${r.source} · observed \${r.observedAt || 'n/a'}</span>
       </div>\`).join('');
   }
