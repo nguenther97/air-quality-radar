@@ -1573,5 +1573,131 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 219,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 148,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|CO|Fort Collins",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|MT|Malta",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|ID|Twin Falls",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785356186126
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785356186126
   }
 ]
