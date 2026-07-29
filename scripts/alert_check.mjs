@@ -3,8 +3,8 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import Anthropic from '@anthropic-ai/sdk';
 
-import { parseAirNow } from './lib/airnow.mjs';
-import { parseCanadaAQHI } from './lib/canada.mjs';
+import { parseAirNow, parseAirNowForecast } from './lib/airnow.mjs';
+import { parseCanadaAQHI, parseCanadaAQHIForecast } from './lib/canada.mjs';
 import { classify } from './lib/metrics.mjs';
 import { buildPopulationIndex, matchPopulation } from './lib/population.mjs';
 import { createIssue, addComment, closeIssue } from './lib/github.mjs';
@@ -14,7 +14,9 @@ const STATE_PATH = 'data/alert_state.json';
 const REALERT_WINDOW_MS = 24 * 60 * 60 * 1000;
 const AIRNOW_URL = 'https://files.airnowtech.org/airnow/today/reportingarea.dat';
 const CANADA_URL = 'https://api.weather.gc.ca/collections/aqhi-observations-realtime/items?f=json&limit=2000&latest=true';
+const CANADA_FORECAST_URL = 'https://api.weather.gc.ca/collections/aqhi-forecasts-realtime/items?f=json&limit=2000';
 const FETCH_TIMEOUT_MS = 30_000;
+const TIER_RANK = { ignore: 0, watch: 1, alert: 2 };
 
 const ENRICHMENT_SCHEMA = {
   type: 'object',
@@ -68,13 +70,13 @@ const ENRICHMENT_SCHEMA = {
 function buildPrompt(readings) {
   return `You are helping Alen Air, an air purifier brand, time geo-targeted marketing pushes around real air-quality events across the US and Canada.
 
-A separate deterministic data feed has already identified the following currently elevated locations (AQI/AQHI readings pulled directly from AirNow and Environment Canada) and classified their tier. Do NOT re-derive or second-guess these numbers or tiers — treat them as ground truth:
+A separate deterministic data feed has already identified the following locations and classified their tier. Do NOT re-derive or second-guess these numbers or tiers — treat them as ground truth. Most entries are CURRENT conditions. Any entry with "isForecast": true has NOT happened yet — it's a next-day forecast reading that is worse than that location's current tier, i.e. an early warning:
 
 ${JSON.stringify(readings, null, 2)}
 
 Your job has two parts:
 
-**Part 1 — Enrich each location above.** For each locationKey in the list, research and return: the likely cause (this can be anything — wildfire smoke, ozone/summer smog, industrial or traffic particulate, dust storms, or something else entirely; do not assume wildfire smoke by default), the current trend or forecast direction, whether an official government health or air-quality advisory is active for that location (name it, or say "none"), and one specific marketing angle for Alen Air tailored to that region's actual character (dense urban metro vs affluent suburb vs rural area, likely demographics) rather than a generic template.
+**Part 1 — Enrich each location above.** For each locationKey in the list, research and return: the likely cause (this can be anything — wildfire smoke, ozone/summer smog, industrial or traffic particulate, dust storms, or something else entirely; do not assume wildfire smoke by default), the current trend or forecast direction, whether an official government health or air-quality advisory is active for that location (name it, or say "none"), and one specific marketing angle for Alen Air tailored to that region's actual character (dense urban metro vs affluent suburb vs rural area, likely demographics) rather than a generic template. For entries with "isForecast": true, write the marketing angle as advance preparation — e.g. pre-positioning creative or scheduling a push to go live when conditions actually turn — rather than an "act right now" angle, since the event hasn't occurred yet.
 
 **Part 2 — Find what the numeric feed would miss.** Separately search for any other US or Canadian metro area currently under an active official air-quality or health advisory of any kind (not limited to wildfire smoke — ozone action days, dust storm warnings, industrial incidents, and general air-quality advisories all count) that is NOT already in the list above. This is the whole reason for doing live research instead of just reading the numbers: an advisory can cover a metro area even when no single monitoring station's reading crosses the numeric threshold. For each one you find, classify it ALERT or WATCH using the same rule as the numeric feed (ALERT = an active official advisory covering the metro, or equivalent severity to AQI >= 151 / AQHI >= 10; WATCH = a milder advisory or equivalent to AQI 101-150 / AQHI 7-9), and provide the same fields plus a marketing angle.
 
@@ -100,7 +102,8 @@ async function fetchText(url) {
 }
 
 async function fetchDeterministicReadings() {
-  const [airnowRaw, canadaRaw] = await Promise.all([
+  const now = Date.now();
+  const [airnowRaw, canadaRaw, canadaForecastRaw] = await Promise.all([
     fetchText(AIRNOW_URL).catch((err) => {
       console.error(`AirNow fetch failed: ${err.message}`);
       return null;
@@ -109,31 +112,66 @@ async function fetchDeterministicReadings() {
       console.error(`Environment Canada fetch failed: ${err.message}`);
       return null;
     }),
+    fetchText(CANADA_FORECAST_URL).catch((err) => {
+      console.error(`Environment Canada forecast fetch failed: ${err.message}`);
+      return null;
+    }),
   ]);
 
-  const readings = [
+  const observed = [
     ...(airnowRaw ? parseAirNow(airnowRaw) : []),
     ...(canadaRaw ? parseCanadaAQHI(JSON.parse(canadaRaw)) : []),
-  ];
+  ].map((r) => ({ ...r, tier: classify(r.unit, r.value) }));
 
   const cities = await readJson('data/cities_us_ca.json', []);
   const popIndex = buildPopulationIndex(cities);
 
-  return readings
-    .map((r) => ({ ...r, tier: classify(r.unit, r.value) }))
-    .filter((r) => r.tier !== 'ignore')
-    .map((r) => ({
-      locationKey: r.id,
-      region: r.name,
-      // Environment Canada's feed has no province field — backfill it from the nearest bundled city.
-      stateOrProvince: r.state || matchPopulation(r, popIndex).matchedState,
-      country: r.country,
-      tier: r.tier,
-      value: r.value,
-      unit: r.unit,
-      category: r.category,
-      source: r.source,
-    }));
+  const toEnrichmentShape = (r) => ({
+    locationKey: r.id,
+    region: r.name,
+    // Environment Canada's feed has no province field — backfill it from the nearest bundled city.
+    stateOrProvince: r.state || matchPopulation(r, popIndex).matchedState,
+    country: r.country,
+    tier: r.tier,
+    value: r.value,
+    unit: r.unit,
+    category: r.category,
+    source: r.source,
+  });
+
+  const elevated = observed.filter((r) => r.tier !== 'ignore').map(toEnrichmentShape);
+
+  const currentTierById = new Map(observed.map((r) => [r.id, r.tier]));
+  const forecastRows = [
+    ...(airnowRaw ? parseAirNowForecast(airnowRaw) : []),
+    ...(canadaForecastRaw ? parseCanadaAQHIForecast(JSON.parse(canadaForecastRaw), now) : []),
+  ];
+
+  const forecastByRegion = new Map();
+  for (const f of forecastRows) {
+    const existing = forecastByRegion.get(f.id);
+    if (!existing || existing.value < f.value) forecastByRegion.set(f.id, f);
+  }
+
+  const forecastCandidates = [];
+  for (const f of forecastByRegion.values()) {
+    const forecastTier = classify(f.unit, f.value);
+    const currentTier = currentTierById.get(f.id) ?? 'ignore';
+    if (TIER_RANK[forecastTier] <= TIER_RANK[currentTier]) continue;
+
+    // f.id has no name/state/country/lat/lon on its own — look those up from the matching observed row.
+    const base = observed.find((r) => r.id === f.id);
+    if (!base) continue;
+
+    forecastCandidates.push({
+      ...toEnrichmentShape({ ...base, tier: forecastTier, value: f.value, unit: f.unit, category: f.category }),
+      locationKey: `FORECAST|${f.id}`,
+      isForecast: true,
+      forecastWhen: 'tomorrow',
+    });
+  }
+
+  return { elevated, forecastCandidates };
 }
 
 async function enrichAndFindAdditional(readings) {
@@ -201,12 +239,14 @@ function mergeEvents(readings, enrichmentResult) {
 }
 
 function issueBody(event, state) {
-  const lines = [
+  const lines = [];
+  if (event.isForecast) lines.push(`**Forecast for tomorrow — has not happened yet.**`, '');
+  lines.push(
     `**${event.region}, ${event.stateOrProvince} (${event.country})** — ${event.value != null ? `${event.value} ${event.unit}` : event.unit} · ${event.category}`,
     '',
     `**Cause:** ${event.cause}`,
     `**Trend:** ${event.trend}`,
-  ];
+  );
   if (event.advisory && event.advisory !== 'none') lines.push(`**Active advisory:** ${event.advisory}`);
   lines.push('', `**Source:** ${event.source}`, '', `**Suggested marketing angle:** ${event.marketingAngle}`, '', `_First seen: ${new Date(state.firstSeen).toISOString()}_`);
   return lines.join('\n');
@@ -216,7 +256,8 @@ async function main() {
   const now = Date.now();
   const state = await readJson(STATE_PATH, {});
 
-  const readings = await fetchDeterministicReadings();
+  const { elevated, forecastCandidates } = await fetchDeterministicReadings();
+  const readings = [...elevated, ...forecastCandidates];
   const enrichmentResult = await enrichAndFindAdditional(readings);
   const events = mergeEvents(readings, enrichmentResult);
 
@@ -243,10 +284,11 @@ async function main() {
 
     if (shouldReport) {
       if (isNew) {
+        const tierLabel = event.isForecast ? `FORECAST ${event.tier.toUpperCase()}` : event.tier.toUpperCase();
         nextState.issueNumber = await createIssue({
-          title: `[${event.tier.toUpperCase()}] ${event.region}, ${event.stateOrProvince} — ${event.value != null ? `${event.value} ${event.unit}` : event.unit}`,
+          title: `[${tierLabel}] ${event.region}, ${event.stateOrProvince} — ${event.value != null ? `${event.value} ${event.unit}` : event.unit}`,
           body: issueBody(event, nextState),
-          labels: [event.tier],
+          labels: event.isForecast ? [event.tier, 'forecast'] : [event.tier],
         });
         console.log(`Opened issue #${nextState.issueNumber} for ${event.locationKey}`);
       } else {
@@ -270,7 +312,10 @@ async function main() {
   }
 
   await writeJson(STATE_PATH, state);
-  console.log(`Done. ${readings.length} from the numeric feed, ${enrichmentResult.additionalEvents.length} additional advisory-only location(s), ${events.length} total this run.`);
+  console.log(
+    `Done. ${elevated.length} currently elevated, ${forecastCandidates.length} forecast escalation(s), ` +
+      `${enrichmentResult.additionalEvents.length} additional advisory-only location(s), ${events.length} total this run.`,
+  );
 }
 
 main().catch((err) => {
