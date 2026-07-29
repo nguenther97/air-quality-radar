@@ -1,10 +1,10 @@
 {
   "canada": {
-    "fetchedAt": 1785351512201,
+    "fetchedAt": 1785351787079,
     "readings": []
   },
   "airnow": {
-    "fetchedAt": 1785351512587,
+    "fetchedAt": 1785351787478,
     "readings": [
       {
         "id": "US|SD|Aberdeen",

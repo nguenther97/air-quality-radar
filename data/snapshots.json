@@ -1461,5 +1461,117 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1785351511961
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 193,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|SC|Columbia",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 195,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|ID|Kamiah - Nez Perce Reservation",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|ID|Twin Falls",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 259,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785351786738
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785351786738
   }
 ]
