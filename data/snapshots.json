@@ -1125,5 +1125,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|CA|Bishop",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 196,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785599272226
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785599272226
   }
 ]
