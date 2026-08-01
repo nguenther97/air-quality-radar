@@ -1083,5 +1083,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1785543288812
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 177,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|MT|Cut Bank",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|TX|El Paso",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|MT|Havre",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|CA|Joshua Tree National Park",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785574618124
   }
 ]
