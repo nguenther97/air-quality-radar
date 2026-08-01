@@ -1,76 +1,6 @@
 [
   {
     "region_key": "US|ID|Boise",
-    "value": 163,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|OR|Burns",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 219,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|ID|Garden Valley",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|MT|Hamilton",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|ID|Idaho City",
-    "value": 146,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|OR|Ontario",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|AZ|Salt River Pima-Maricopa Indian Community",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785404281208
-  },
-  {
-    "region_key": "US|ID|Boise",
     "value": 183,
     "unit": "AQI",
     "tier": "alert",
@@ -1139,5 +1069,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1785574618124
+  },
+  {
+    "region_key": "US|OR|Baker City",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|MT|Cut Bank",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|TX|El Paso",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|MT|Havre",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785586643775
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785586643775
   }
 ]
