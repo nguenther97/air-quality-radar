@@ -1412,5 +1412,82 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Idaho Falls",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|MT|Libby",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|ID|Pocatello",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|AZ|Rillito",
+    "value": 143,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|ID|Twin Falls",
+    "value": 216,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785685660741
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785685660741
   }
 ]
