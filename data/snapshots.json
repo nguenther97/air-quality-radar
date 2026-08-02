@@ -1,146 +1,6 @@
 [
   {
     "region_key": "US|OR|Baker City",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|ID|Boise",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|Burns",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|CA|C San Bernardino M",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|WA|Clarkston",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 232,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|WA|Dayton",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|CA|Hesperia",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|John Day",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|La Grande",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|ID|Lewiston",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|GA|Macon",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|Ontario",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|WA|Pomeroy",
-    "value": 149,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|CA|Santa Rosa",
-    "value": 181,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|CA|Victorville",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1785485454937
-  },
-  {
-    "region_key": "US|OR|Baker City",
     "value": 107,
     "unit": "AQI",
     "tier": "watch",
@@ -1468,5 +1328,89 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1785657348965
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Coeur d'Alene",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 145,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|WA|Spokane",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1785671156280
+  },
+  {
+    "region_key": "US|ID|Twin Falls",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1785671156280
   }
 ]
