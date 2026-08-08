@@ -5171,5 +5171,299 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786162707998
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Butte",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|UT|Canyonlands National Park",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 189,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Cut Bank",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Dillon",
+    "value": 173,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Flathead Valley",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|CO|Fort Collins",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Grangeville",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|CA|Joshua Tree National Park",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Juliaetta (seasonal)",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Kamiah - Nez Perce Reservation",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Libby",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|McCall",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Moscow",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 148,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 279,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Pomeroy",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Pullman",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Salmon",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Spokane",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|St. Maries",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786170409572
+  },
+  {
+    "region_key": "US|MT|Yellowstone National Park",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786170409572
   }
 ]
