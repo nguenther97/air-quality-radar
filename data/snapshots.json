@@ -7257,5 +7257,432 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786216623402
+  },
+  {
+    "region_key": "US|NM|Albuquerque",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Billings",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Butte",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Clarkston",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Coeur d'Alene",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CO|Colorado Springs",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Cottonwood (seasonal)",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Dillon",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Flathead Valley",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Grangeville",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Kamiah - Nez Perce Reservation",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Ketchum",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|Klamath Falls",
+    "value": 182,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|Lake Elsinore",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Lapwai - Nez Perce Reservation",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Lewiston",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|MT|Libby",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|NY|Long Island Region",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|McCall",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|UT|Ogden",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 231,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|Ontario",
+    "value": 146,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Pinehurst",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 220,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 183,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Ritzville",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Rosalia",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Salmon",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|UT|Salt Lake City",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WY|Sheridan",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Spokane",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|St. Maries",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CT|Stratford",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Twin Falls",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|CA|Victorville",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786222875964
   }
 ]
