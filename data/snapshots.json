@@ -1,461 +1,6 @@
 [
   {
     "region_key": "US|MT|Billings",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Coeur d'Alene",
-    "value": 185,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 225,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Dillon",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Flathead Valley",
-    "value": 208,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Great Falls",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Hamilton",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Juliaetta (seasonal)",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Lewistown",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Libby",
-    "value": 171,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|McCall",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Moscow",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 213,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 178,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Pinehurst",
-    "value": 175,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 192,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Rosalia",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Salmon",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Sandpoint",
-    "value": 214,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Spokane",
-    "value": 186,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
-    "value": 193,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|St. Maries",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Thompson Falls",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Twin Falls",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|ID|Weiser (seasonal)",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786288630644
-  },
-  {
-    "region_key": "US|MT|Billings",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Boise",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Butte",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Coeur d'Alene",
-    "value": 178,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 229,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Dillon",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Flathead Valley",
-    "value": 206,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Great Falls",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Hamilton",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Idaho Falls",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Juliaetta (seasonal)",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|OR|Klamath Falls",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 174,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Lewistown",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Libby",
-    "value": 174,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|McCall",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 198,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 178,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 178,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Pinehurst",
-    "value": 174,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 510,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Rosalia",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Salmon",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Sandpoint",
-    "value": 205,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Spokane",
-    "value": 195,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
-    "value": 190,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|St. Maries",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Thompson Falls",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Twin Falls",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|ID|Weiser (seasonal)",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786295233797
-  },
-  {
-    "region_key": "US|MT|Billings",
     "value": 117,
     "unit": "AQI",
     "tier": "watch",
@@ -4590,5 +4135,208 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786459636318
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Burns",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Crater Lake",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|MT|Dillon",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Enterprise",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|MT|Flathead Valley",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Garden Valley",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|MT|Hamilton",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|John Day",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Klamath Falls",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|La Pine",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Lakeview",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|NV|Las Vegas",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|McCall",
+    "value": 138,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|MT|Missoula",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 193,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 502,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|WA|Spokane",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|ID|Weiser (seasonal)",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
+  },
+  {
+    "region_key": "US|AZ|Yuma",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786471679798
   }
 ]
