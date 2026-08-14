@@ -1006,5 +1006,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786741320736
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786744404512
+  },
+  {
+    "region_key": "US|LA|Monroe",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786744404512
+  },
+  {
+    "region_key": "US|OR|Multorpor",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786744404512
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786744404512
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786744404512
   }
 ]
