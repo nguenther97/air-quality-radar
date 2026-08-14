@@ -1,174 +1,6 @@
 [
   {
     "region_key": "US|ID|Boise",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|PR|Catano",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|MT|Dillon",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|NM|Dona Ana County",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|TX|El Paso",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 198,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|Garden Valley",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|MT|Helena",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|Idaho City",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|OR|John Day",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|McCall",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|MT|Missoula",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 195,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|Porthill (seasonal)",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Ritzville",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|Sandpoint",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Spokane",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
-    "value": 169,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 190,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786511925208
-  },
-  {
-    "region_key": "US|ID|Boise",
     "value": 109,
     "unit": "AQI",
     "tier": "watch",
@@ -1447,5 +1279,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786684472398
+  },
+  {
+    "region_key": "US|WA|Confederated Tribes and Bands of Yakama Nations",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786700161304
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 176,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786700161304
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786700161304
+  },
+  {
+    "region_key": "US|OR|The Dalles",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786700161304
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786700161304
   }
 ]
