@@ -894,5 +894,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786748112792
+  },
+  {
+    "region_key": "US|WV|Huntington",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786751695215
+  },
+  {
+    "region_key": "US|MS|Jackson",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786751695215
+  },
+  {
+    "region_key": "US|LA|Monroe",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786751695215
+  },
+  {
+    "region_key": "US|HI|Waikoloa",
+    "value": 138,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786751695215
   }
 ]
