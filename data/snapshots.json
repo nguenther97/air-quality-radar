@@ -943,5 +943,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786763080639
+  },
+  {
+    "region_key": "US|MS|Jackson",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786767383949
+  },
+  {
+    "region_key": "US|HI|Kihei",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786767383949
+  },
+  {
+    "region_key": "US|MO|Saint Louis",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786767383949
   }
 ]
