@@ -929,5 +929,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786801337349
+  },
+  {
+    "region_key": "US|IN|Hammond-Gary",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786805613607
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786805613607
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786805613607
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786805613607
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786805613607
   }
 ]
