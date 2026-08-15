@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|OR|Bend and Redmond",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786624567145
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786624567145
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786624567145
-  },
-  {
-    "region_key": "US|OR|La Pine",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786624567145
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786624567145
-  },
-  {
-    "region_key": "US|ID|St. Maries",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786624567145
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
     "value": 115,
     "unit": "AQI",
     "tier": "watch",
@@ -957,5 +915,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786794207735
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786801337349
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786801337349
   }
 ]
