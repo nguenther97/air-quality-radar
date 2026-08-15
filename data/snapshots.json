@@ -936,5 +936,12 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786787571536
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786791120095
   }
 ]
