@@ -1,41 +1,6 @@
 [
   {
     "region_key": "US|OR|Bend and Redmond",
-    "value": 171,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786614197431
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786614197431
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786614197431
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786614197431
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786614197431
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
     "value": 132,
     "unit": "AQI",
     "tier": "watch",
@@ -957,5 +922,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786784552894
+  },
+  {
+    "region_key": "US|MS|Jackson",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786787571536
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786787571536
   }
 ]
