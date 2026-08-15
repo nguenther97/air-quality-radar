@@ -929,5 +929,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786779792319
+  },
+  {
+    "region_key": "US|MS|Jackson",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786784552894
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786784552894
+  },
+  {
+    "region_key": "US|AZ|Salt River Pima-Maricopa Indian Community",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786784552894
+  },
+  {
+    "region_key": "US|OR|The Dalles",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786784552894
   }
 ]
