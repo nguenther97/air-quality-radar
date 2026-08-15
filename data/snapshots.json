@@ -922,5 +922,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786751695215
+  },
+  {
+    "region_key": "US|NM|Albuquerque",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786763080639
+  },
+  {
+    "region_key": "US|MS|Jackson",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786763080639
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786763080639
   }
 ]
