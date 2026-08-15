@@ -1020,5 +1020,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786834316089
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786837333112
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786837333112
+  },
+  {
+    "region_key": "US|HI|Kihei",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786837333112
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786837333112
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786837333112
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 235,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786837333112
   }
 ]
