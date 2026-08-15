@@ -1,82 +1,5 @@
 [
   {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 198,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|OR|Cove",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|OR|Enterprise",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|CA|Niland",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|ID|St. Maries",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
-    "region_key": "US|CA|Truckee",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786598380574
-  },
-  {
     "region_key": "US|OR|Bend and Redmond",
     "value": 171,
     "unit": "AQI",
@@ -964,5 +887,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786767383949
+  },
+  {
+    "region_key": "US|MS|Cleveland",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786772770577
+  },
+  {
+    "region_key": "US|MS|Jackson",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786772770577
+  },
+  {
+    "region_key": "US|OR|La Grande",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786772770577
   }
 ]
