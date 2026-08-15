@@ -943,5 +943,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786791120095
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786794207735
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786794207735
   }
 ]
