@@ -999,5 +999,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786823093035
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 187,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|WA|Yakima",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786827193576
   }
 ]
