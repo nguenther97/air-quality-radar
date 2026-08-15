@@ -1055,5 +1055,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786827193576
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|NC|Mitchell County",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 142,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 196,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786830362556
+  },
+  {
+    "region_key": "US|WA|Yakima",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786830362556
   }
 ]
