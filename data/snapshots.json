@@ -1,34 +1,6 @@
 [
   {
     "region_key": "US|WV|Huntington",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786748112792
-  },
-  {
-    "region_key": "US|MS|Jackson",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786748112792
-  },
-  {
-    "region_key": "US|LA|Monroe",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786748112792
-  },
-  {
-    "region_key": "US|HI|Waikoloa",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786748112792
-  },
-  {
-    "region_key": "US|WV|Huntington",
     "value": 166,
     "unit": "AQI",
     "tier": "alert",
@@ -1265,5 +1237,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786920608347
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786923655713
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786923655713
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786923655713
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 194,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786923655713
   }
 ]
