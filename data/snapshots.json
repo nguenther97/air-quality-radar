@@ -1139,5 +1139,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786887861870
+  },
+  {
+    "region_key": "US|IN|Hammond-Gary",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786892070264
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786892070264
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 184,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786892070264
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786892070264
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786892070264
   }
 ]
