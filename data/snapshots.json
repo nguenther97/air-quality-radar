@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|CO|Denver-Boulder",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786744404512
-  },
-  {
-    "region_key": "US|LA|Monroe",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786744404512
-  },
-  {
-    "region_key": "US|OR|Multorpor",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786744404512
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786744404512
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786744404512
-  },
-  {
     "region_key": "US|WV|Huntington",
     "value": 115,
     "unit": "AQI",
@@ -1258,5 +1223,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786916534819
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786920608347
+  },
+  {
+    "region_key": "US|WA|Kennewick",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786920608347
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786920608347
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786920608347
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786920608347
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 206,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786920608347
   }
 ]
