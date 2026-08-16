@@ -4,76 +4,6 @@
     "value": 114,
     "unit": "AQI",
     "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|NC|Cumberland County",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|WA|Ellensburg",
-    "value": 149,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|AZ|Miami",
-    "value": 169,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|IL|North and West Suburbs (Chicago)",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|AZ|Phoenix",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|OR|The Dalles",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|WA|Yakima",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786684472398
-  },
-  {
-    "region_key": "US|WA|Confederated Tribes and Bands of Yakama Nations",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
     "captured_at": 1786700161304
   },
   {
@@ -1125,5 +1055,19 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786856588689
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786859920643
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 200,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786859920643
   }
 ]
