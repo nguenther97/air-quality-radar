@@ -1174,5 +1174,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786899355099
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786899355099
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 198,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786899355099
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786899355099
   }
 ]
