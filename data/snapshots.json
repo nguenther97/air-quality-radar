@@ -1,41 +1,6 @@
 [
   {
     "region_key": "US|WA|Confederated Tribes and Bands of Yakama Nations",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786700161304
-  },
-  {
-    "region_key": "US|WA|Ellensburg",
-    "value": 176,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786700161304
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786700161304
-  },
-  {
-    "region_key": "US|OR|The Dalles",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786700161304
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786700161304
-  },
-  {
-    "region_key": "US|WA|Confederated Tribes and Bands of Yakama Nations",
     "value": 109,
     "unit": "AQI",
     "tier": "watch",
@@ -1111,5 +1076,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786870902022
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786874077731
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786874077731
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786874077731
   }
 ]
