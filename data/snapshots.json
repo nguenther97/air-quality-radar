@@ -1097,5 +1097,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786874077731
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786877559881
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 145,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786877559881
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786877559881
   }
 ]
