@@ -1223,5 +1223,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786906828116
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786909261716
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 198,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786909261716
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786909261716
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786909261716
   }
 ]
