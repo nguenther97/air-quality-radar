@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|WA|Confederated Tribes and Bands of Yakama Nations",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786720079158
-  },
-  {
-    "region_key": "US|WA|Ellensburg",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786720079158
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786720079158
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786720079158
-  },
-  {
-    "region_key": "US|OR|Multorpor",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786720079158
-  },
-  {
-    "region_key": "US|OR|Sisters",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786720079158
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786720079158
-  },
-  {
     "region_key": "US|OR|Bend and Redmond",
     "value": 103,
     "unit": "AQI",
@@ -1174,5 +1125,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786892070264
+  },
+  {
+    "region_key": "US|IN|Hammond-Gary",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 189,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786895348311
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786895348311
   }
 ]
