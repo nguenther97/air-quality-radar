@@ -1104,5 +1104,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786850839041
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786856588689
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786856588689
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 211,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786856588689
   }
 ]
