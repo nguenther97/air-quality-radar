@@ -1118,5 +1118,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786877559881
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786880695515
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786880695515
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786880695515
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786880695515
   }
 ]
