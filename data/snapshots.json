@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|WV|Huntington",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786751695215
-  },
-  {
-    "region_key": "US|MS|Jackson",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786751695215
-  },
-  {
-    "region_key": "US|LA|Monroe",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786751695215
-  },
-  {
-    "region_key": "US|HI|Waikoloa",
-    "value": 138,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786751695215
-  },
-  {
-    "region_key": "US|NM|Albuquerque",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786763080639
-  },
-  {
-    "region_key": "US|MS|Jackson",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786763080639
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786763080639
-  },
-  {
     "region_key": "US|MS|Jackson",
     "value": 125,
     "unit": "AQI",
@@ -1265,5 +1216,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1786923655713
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786937270383
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786937270383
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786937270383
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786937270383
   }
 ]
