@@ -1,26 +1,5 @@
 [
   {
-    "region_key": "US|MS|Jackson",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786767383949
-  },
-  {
-    "region_key": "US|HI|Kihei",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786767383949
-  },
-  {
-    "region_key": "US|MO|Saint Louis",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786767383949
-  },
-  {
     "region_key": "US|MS|Cleveland",
     "value": 101,
     "unit": "AQI",
@@ -1244,5 +1223,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786937270383
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786944170327
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 142,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786944170327
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786944170327
   }
 ]
