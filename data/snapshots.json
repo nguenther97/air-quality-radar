@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|MS|Cleveland",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786772770577
-  },
-  {
-    "region_key": "US|MS|Jackson",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786772770577
-  },
-  {
-    "region_key": "US|OR|La Grande",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786772770577
-  },
-  {
-    "region_key": "US|MS|Jackson",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786779792319
-  },
-  {
-    "region_key": "US|AZ|Salt River Pima-Maricopa Indian Community",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786779792319
-  },
-  {
-    "region_key": "US|OR|The Dalles",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786779792319
-  },
-  {
     "region_key": "US|MS|Jackson",
     "value": 121,
     "unit": "AQI",
@@ -1244,5 +1202,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786944170327
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786953856081
+  },
+  {
+    "region_key": "US|IN|Hammond-Gary",
+    "value": 583,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786953856081
+  },
+  {
+    "region_key": "US|MS|Mississippi Gulf Coast",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786953856081
+  },
+  {
+    "region_key": "US|CA|San Diego Foothills",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786953856081
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786953856081
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786953856081
   }
 ]
