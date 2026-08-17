@@ -1,41 +1,6 @@
 [
   {
     "region_key": "US|IN|Hammond-Gary",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786805613607
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 149,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786805613607
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786805613607
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786805613607
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786805613607
-  },
-  {
-    "region_key": "US|IN|Hammond-Gary",
     "value": 133,
     "unit": "AQI",
     "tier": "watch",
@@ -1328,5 +1293,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786975012734
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|SC|Myrtle Beach-Conway",
+    "value": 174,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|FL|Pensacola",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 138,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786978668078
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786978668078
   }
 ]
