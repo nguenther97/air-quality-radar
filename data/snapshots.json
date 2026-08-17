@@ -1,20 +1,6 @@
 [
   {
     "region_key": "US|WA|Omak",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786794207735
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786794207735
-  },
-  {
-    "region_key": "US|WA|Omak",
     "value": 152,
     "unit": "AQI",
     "tier": "alert",
@@ -1272,5 +1258,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786964498080
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786967680087
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786967680087
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786967680087
+  },
+  {
+    "region_key": "US|FL|Pensacola",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786967680087
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786967680087
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786967680087
   }
 ]
