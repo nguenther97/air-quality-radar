@@ -1,55 +1,6 @@
 [
   {
     "region_key": "US|OR|Bend and Redmond",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|IN|Hammond-Gary",
-    "value": 136,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 135,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 142,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786812928292
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
     "value": 137,
     "unit": "AQI",
     "tier": "watch",
@@ -1349,5 +1300,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1786982046437
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1786986077989
+  },
+  {
+    "region_key": "US|SC|Myrtle Beach-Conway",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786986077989
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786986077989
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786986077989
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 142,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786986077989
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1786986077989
   }
 ]
