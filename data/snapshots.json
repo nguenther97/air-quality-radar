@@ -1384,5 +1384,82 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787010598686
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 143,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787022688637
   }
 ]
