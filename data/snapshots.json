@@ -1,89 +1,5 @@
 [
   {
-    "region_key": "US|IN|Hammond-Gary",
-    "value": 149,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786892070264
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786892070264
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 184,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786892070264
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786892070264
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 170,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786892070264
-  },
-  {
-    "region_key": "US|IN|Hammond-Gary",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786895348311
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786895348311
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786895348311
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786895348311
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 189,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786895348311
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786895348311
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786895348311
-  },
-  {
     "region_key": "US|OR|Pendleton",
     "value": 117,
     "unit": "AQI",
@@ -1468,5 +1384,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787062006097
+  },
+  {
+    "region_key": "US|NM|Albuquerque",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|NM|Deming",
+    "value": 135,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|CA|Hesperia",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787068150406
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787068150406
   }
 ]
