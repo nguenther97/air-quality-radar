@@ -1,27 +1,6 @@
 [
   {
     "region_key": "US|WA|Moses Lake",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786866304644
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786866304644
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 187,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786866304644
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
     "value": 123,
     "unit": "AQI",
     "tier": "watch",
@@ -1468,5 +1447,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787032816005
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787039919047
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787039919047
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787039919047
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787039919047
   }
 ]
