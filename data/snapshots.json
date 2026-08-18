@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|IN|Hammond-Gary",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786887861870
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786887861870
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786887861870
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 171,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786887861870
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786887861870
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786887861870
-  },
-  {
-    "region_key": "US|IN|Hammond-Gary",
     "value": 149,
     "unit": "AQI",
     "tier": "watch",
@@ -1482,5 +1440,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787054200592
+  },
+  {
+    "region_key": "US|NM|Deming",
+    "value": 247,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787062006097
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787062006097
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787062006097
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787062006097
   }
 ]
