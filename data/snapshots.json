@@ -1,41 +1,6 @@
 [
   {
     "region_key": "US|WA|Omak",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786906828116
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786906828116
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786906828116
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 203,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786906828116
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786906828116
-  },
-  {
-    "region_key": "US|WA|Omak",
     "value": 128,
     "unit": "AQI",
     "tier": "watch",
@@ -1447,5 +1412,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787075947997
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787080683272
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787080683272
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787080683272
+  },
+  {
+    "region_key": "US|OK|Tulsa",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787080683272
   }
 ]
