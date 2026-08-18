@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|CO|Denver-Boulder",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786920608347
-  },
-  {
-    "region_key": "US|WA|Kennewick",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786920608347
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786920608347
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786920608347
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786920608347
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 206,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786920608347
-  },
-  {
     "region_key": "US|WA|Omak",
     "value": 107,
     "unit": "AQI",
@@ -1475,5 +1433,117 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787089841182
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|Lake Elsinore",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|OK|Tulsa",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
+  },
+  {
+    "region_key": "US|KS|Wichita",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787093775310
   }
 ]
