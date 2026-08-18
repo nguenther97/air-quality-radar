@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|WA|Ellensburg",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786913477276
-  },
-  {
-    "region_key": "US|WA|Mesa",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786913477276
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786913477276
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 180,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786913477276
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786913477276
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786913477276
-  },
-  {
-    "region_key": "US|WA|Ellensburg",
     "value": 102,
     "unit": "AQI",
     "tier": "watch",
@@ -1461,5 +1419,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787083245499
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 143,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787086511109
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787086511109
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787086511109
+  },
+  {
+    "region_key": "US|AZ|Tucson",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787086511109
+  },
+  {
+    "region_key": "US|OK|Tulsa",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787086511109
   }
 ]
