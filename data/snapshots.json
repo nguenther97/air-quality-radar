@@ -1,33 +1,5 @@
 [
   {
-    "region_key": "US|CA|Banning",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786937270383
-  },
-  {
-    "region_key": "US|CA|C San Bernardino M",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786937270383
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786937270383
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786937270383
-  },
-  {
     "region_key": "US|CA|C San Bernardino M",
     "value": 115,
     "unit": "AQI",
@@ -1734,5 +1706,68 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787115956149
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787115956149
   }
 ]
