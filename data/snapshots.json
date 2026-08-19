@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|OR|Madras",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786986077989
-  },
-  {
-    "region_key": "US|SC|Myrtle Beach-Conway",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786986077989
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 131,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786986077989
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786986077989
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 142,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786986077989
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786986077989
-  },
-  {
-    "region_key": "US|OR|Madras",
     "value": 165,
     "unit": "AQI",
     "tier": "alert",
@@ -1888,5 +1846,68 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|WA|Dayton",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|OR|The Dalles",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787162062308
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787162062308
   }
 ]
