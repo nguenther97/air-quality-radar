@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|OR|Bend and Redmond",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786953856081
-  },
-  {
-    "region_key": "US|IN|Hammond-Gary",
-    "value": 583,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786953856081
-  },
-  {
-    "region_key": "US|MS|Mississippi Gulf Coast",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786953856081
-  },
-  {
-    "region_key": "US|CA|San Diego Foothills",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786953856081
-  },
-  {
-    "region_key": "US|WA|Twisp",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786953856081
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786953856081
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
     "value": 157,
     "unit": "AQI",
     "tier": "alert",
@@ -1874,5 +1832,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787126283575
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787133173235
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787133173235
   }
 ]
