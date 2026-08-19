@@ -1664,5 +1664,75 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787097024681
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787109230001
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787109230001
   }
 ]
