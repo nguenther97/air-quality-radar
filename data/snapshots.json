@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786982046437
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786982046437
-  },
-  {
-    "region_key": "US|SC|Myrtle Beach-Conway",
-    "value": 174,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786982046437
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786982046437
-  },
-  {
-    "region_key": "US|OR|Pendleton",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786982046437
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1786982046437
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1786982046437
-  },
-  {
     "region_key": "US|OR|Madras",
     "value": 155,
     "unit": "AQI",
@@ -1881,5 +1832,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787152598343
+  },
+  {
+    "region_key": "US|WA|Colville",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|WA|Dayton",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|ID|Kootenai Tribe",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|ID|Mount Hall (seasonal)",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|ID|Porthill (seasonal)",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787158570285
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787158570285
   }
 ]
