@@ -4,48 +4,6 @@
     "value": 102,
     "unit": "AQI",
     "tier": "watch",
-    "captured_at": 1787072588920
-  },
-  {
-    "region_key": "US|CA|Hesperia",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787072588920
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787072588920
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 170,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787072588920
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787072588920
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787072588920
-  },
-  {
-    "region_key": "US|OR|Estacada",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
     "captured_at": 1787075947997
   },
   {
@@ -2021,5 +1979,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787241733002
+  },
+  {
+    "region_key": "US|OR|Estacada",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787246115295
+  },
+  {
+    "region_key": "US|OR|Hood River",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787246115295
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787246115295
+  },
+  {
+    "region_key": "US|OR|Pendleton",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787246115295
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787246115295
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787246115295
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 191,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787246115295
   }
 ]
