@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787054200592
-  },
-  {
-    "region_key": "US|NM|Deming",
-    "value": 248,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787054200592
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787054200592
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787054200592
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787054200592
-  },
-  {
     "region_key": "US|NM|Deming",
     "value": 247,
     "unit": "AQI",
@@ -2049,5 +2014,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787223773775
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787227121372
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787227121372
   }
 ]
