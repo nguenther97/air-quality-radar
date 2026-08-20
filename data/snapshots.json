@@ -1,55 +1,6 @@
 [
   {
     "region_key": "US|CA|Banning",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|CA|C San Bernardino M",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787029509829
-  },
-  {
-    "region_key": "US|CA|Banning",
     "value": 126,
     "unit": "AQI",
     "tier": "watch",
@@ -2049,5 +2000,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787195576310
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|ID|Lewiston",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|AZ|Rillito",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 172,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787202447697
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 882,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787202447697
   }
 ]
