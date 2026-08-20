@@ -1,34 +1,6 @@
 [
   {
     "region_key": "US|OR|Bend and Redmond",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787050556226
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787050556226
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787050556226
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787050556226
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
     "value": 140,
     "unit": "AQI",
     "tier": "watch",
@@ -2056,5 +2028,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787219602143
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787223773775
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787223773775
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787223773775
   }
 ]
