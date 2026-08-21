@@ -130,7 +130,7 @@ async function fetchDeterministicReadings() {
     locationKey: r.id,
     region: r.name,
     // Environment Canada's feed has no province field — backfill it from the nearest bundled city.
-    stateOrProvince: r.state || matchPopulation(r, popIndex).matchedState,
+    stateOrProvince: r.state || matchPopulation(r, popIndex).matchedState || r.country,
     country: r.country,
     tier: r.tier,
     value: r.value,
