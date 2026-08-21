@@ -1,131 +1,5 @@
 [
   {
-    "region_key": "US|CA|Banning",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|CA|C San Bernardino M",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 185,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787119305600
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|AZ|Gila River Indian Community",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 128,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 146,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787126283575
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 217,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787126283575
-  },
-  {
     "region_key": "US|OR|Bend and Redmond",
     "value": 166,
     "unit": "AQI",
@@ -2238,5 +2112,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787288892482
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787299202231
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787299202231
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787299202231
   }
 ]
