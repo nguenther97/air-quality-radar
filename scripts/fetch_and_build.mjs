@@ -83,7 +83,7 @@ async function main() {
       tier,
       population: pop.population,
       populationMatch: pop.matchType,
-      state: r.state || pop.matchedState,
+      state: r.state || pop.matchedState || r.country,
       forecastNextDay: forecast ? { ...forecast, tier: classify(forecast.unit, forecast.value) } : null,
     };
   });
