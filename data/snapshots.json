@@ -2049,5 +2049,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787313461796
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|OR|La Pine",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|IL|South and West Suburbs (Chicago)",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 190,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787321194105
   }
 ]
