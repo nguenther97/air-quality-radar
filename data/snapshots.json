@@ -1,96 +1,5 @@
 [
   {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787148422448
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787152598343
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787152598343
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787152598343
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787152598343
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787152598343
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 159,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787152598343
-  },
-  {
     "region_key": "US|WA|Colville",
     "value": 106,
     "unit": "AQI",
@@ -2098,5 +2007,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787321194105
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|NV|Elko",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|OR|La Pine",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|ID|Sandpoint",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787327539732
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 174,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787327539732
   }
 ]
