@@ -1,69 +1,6 @@
 [
   {
     "region_key": "US|CA|Banning",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|CA|C San Bernardino M",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|CA|Coachella Vly",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 181,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787115956149
-  },
-  {
-    "region_key": "US|CA|Banning",
     "value": 129,
     "unit": "AQI",
     "tier": "watch",
@@ -2273,5 +2210,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787283074560
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787288892482
+  },
+  {
+    "region_key": "US|OR|Cove",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787288892482
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787288892482
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787288892482
   }
 ]
