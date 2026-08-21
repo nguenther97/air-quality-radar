@@ -1,62 +1,6 @@
 [
   {
     "region_key": "US|OR|Bend and Redmond",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|ID|Kootenai Tribe",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|ID|Mount Hall (seasonal)",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|OR|Prineville",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 179,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787133173235
-  },
-  {
-    "region_key": "US|OR|Bend and Redmond",
     "value": 157,
     "unit": "AQI",
     "tier": "alert",
@@ -2133,5 +2077,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787299202231
+  },
+  {
+    "region_key": "US|OR|Bend and Redmond",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787306134612
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787306134612
+  },
+  {
+    "region_key": "US|WA|Twisp",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787306134612
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 175,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787306134612
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787306134612
   }
 ]
