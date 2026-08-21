@@ -1,9 +1,9 @@
 {
   "US|OR|Bend and Redmond": {
     "region": "Bend and Redmond, OR",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784799121584,
+    "lastAlertedAt": 1787340817893,
     "issueNumber": 2
   },
   "US|OR|Madras": {
@@ -29,66 +29,10 @@
   },
   "US|WA|Twisp": {
     "region": "Twisp, WA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1784826290522,
-    "lastAlertedAt": 1784826290522,
+    "lastAlertedAt": 1787340817893,
     "issueNumber": 63
-  },
-  "US|CO|Denver-Boulder": {
-    "region": "Denver-Boulder, CO",
-    "tier": "watch",
-    "firstSeen": 1784843186263,
-    "lastAlertedAt": 1784843186263,
-    "issueNumber": 67
-  },
-  "CA|JBHJG|South Okanagan": {
-    "region": "South Okanagan, null",
-    "tier": "watch",
-    "firstSeen": 1784843186263,
-    "lastAlertedAt": 1784843186263,
-    "issueNumber": 85
-  },
-  "US|NV|Elko": {
-    "region": "Elko, NV",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 92
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 93
-  },
-  "US|ID|Sandpoint": {
-    "region": "Sandpoint, ID",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 94
-  },
-  "US|WA|Walla Walla": {
-    "region": "Walla Walla, WA",
-    "tier": "alert",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 95
-  },
-  "CA|GAILW|Flin Flon": {
-    "region": "Flin Flon, null",
-    "tier": "alert",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 96
-  },
-  "CA|IAFEW|Fort Chipewyan": {
-    "region": "Fort Chipewyan, null",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 97
   },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
@@ -174,25 +118,95 @@
     "lastAlertedAt": 1787326385716,
     "issueNumber": 109
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
+  "US|GA|Atlanta": {
+    "region": "Atlanta, GA",
     "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 110
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 113
   },
-  "CA-AB-Edmonton": {
-    "region": "Edmonton, AB",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 111
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 114
   },
-  "CA-MB-Winnipeg": {
-    "region": "Winnipeg, MB",
+  "US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 112
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 115
+  },
+  "US|ID|Ketchum": {
+    "region": "Ketchum, ID",
+    "tier": "alert",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 116
+  },
+  "US|OR|Pendleton": {
+    "region": "Pendleton, OR",
+    "tier": "watch",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 117
+  },
+  "US|OR|Prineville": {
+    "region": "Prineville, OR",
+    "tier": "watch",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 118
+  },
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
+    "tier": "alert",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 119
+  },
+  "CA|JCVCC|Eastern Fraser Valley": {
+    "region": "Eastern Fraser Valley, BC",
+    "tier": "alert",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 120
+  },
+  "FORECAST|US|AR|Little Rock-North Little Rock": {
+    "region": "Little Rock-North Little Rock, AR",
+    "tier": "watch",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 121
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "alert",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 122
+  },
+  "US-OR-Portland": {
+    "region": "Portland Metro (incl. Vancouver, WA), OR",
+    "tier": "alert",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 123
+  },
+  "CA-BC-Vancouver": {
+    "region": "Metro Vancouver, BC",
+    "tier": "watch",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 124
+  },
+  "US-OR-Medford": {
+    "region": "Medford / Rogue Valley, OR",
+    "tier": "watch",
+    "firstSeen": 1787340817893,
+    "lastAlertedAt": 1787340817893,
+    "issueNumber": 125
   }
 }
