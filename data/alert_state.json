@@ -41,13 +41,6 @@
     "lastAlertedAt": 1787326385716,
     "issueNumber": 107
   },
-  "FORECAST|US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 108
-  },
   "FORECAST|US|CA|Santa Clarita Vly": {
     "region": "Santa Clarita Vly, CA",
     "tier": "watch",
@@ -55,110 +48,12 @@
     "lastAlertedAt": 1787326385716,
     "issueNumber": 109
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 114
-  },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 115
-  },
   "US|WA|Wenatchee": {
     "region": "Wenatchee, WA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787340817893,
     "lastAlertedAt": 1787340817893,
     "issueNumber": 119
-  },
-  "CA|JCVCC|Eastern Fraser Valley": {
-    "region": "Eastern Fraser Valley, BC",
-    "tier": "alert",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 120
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 126
-  },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 127
-  },
-  "US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 128
-  },
-  "US|CA|Central LA CO": {
-    "region": "Central LA CO, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 129
-  },
-  "US|CA|E San Fernando Vly": {
-    "region": "E San Fernando Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 130
-  },
-  "US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "alert",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 131
-  },
-  "US|OR|Hermiston": {
-    "region": "Hermiston, OR",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 132
-  },
-  "US|ID|Kamiah - Nez Perce Reservation": {
-    "region": "Kamiah - Nez Perce Reservation, ID",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 133
-  },
-  "US|OR|Multorpor": {
-    "region": "Multorpor, OR",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 134
-  },
-  "US|CA|Sequoia and Kings Canyon National Parks": {
-    "region": "Sequoia and Kings Canyon National Parks, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 135
-  },
-  "US|CA|W San Gabriel Vly": {
-    "region": "W San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 136
   },
   "CA|JAFUV|Central Okanagan": {
     "region": "Central Okanagan, BC",
@@ -174,11 +69,53 @@
     "lastAlertedAt": 1787363353042,
     "issueNumber": 138
   },
-  "CA-BC-Metro Vancouver": {
-    "region": "Metro Vancouver, BC",
+  "US|OR|Madras": {
+    "region": "Madras, OR",
+    "tier": "alert",
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 140
+  },
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 139
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 141
+  },
+  "US|WA|Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 142
+  },
+  "US|AZ|Yuma": {
+    "region": "Yuma, AZ",
+    "tier": "alert",
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 143
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 144
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 145
+  },
+  "FORECAST|US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787381914423,
+    "lastAlertedAt": 1787381914423,
+    "issueNumber": 146
   }
 }
