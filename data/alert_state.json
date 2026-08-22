@@ -1,46 +1,4 @@
 {
-  "US|OR|Bend and Redmond": {
-    "region": "Bend and Redmond, OR",
-    "tier": "alert",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 2
-  },
-  "US|OR|Madras": {
-    "region": "Madras, OR",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784826290522,
-    "issueNumber": 12
-  },
-  "US|OR|Sisters": {
-    "region": "Sisters, OR",
-    "tier": "watch",
-    "firstSeen": 1784754125317,
-    "lastAlertedAt": 1784826290522,
-    "issueNumber": 21
-  },
-  "US|WA|Omak": {
-    "region": "Omak, WA",
-    "tier": "watch",
-    "firstSeen": 1784826290522,
-    "lastAlertedAt": 1784826290522,
-    "issueNumber": 61
-  },
-  "US|WA|Twisp": {
-    "region": "Twisp, WA",
-    "tier": "alert",
-    "firstSeen": 1784826290522,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 63
-  },
-  "FORECAST|US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 98
-  },
   "FORECAST|US|CA|Banning": {
     "region": "Banning, CA",
     "tier": "watch",
@@ -55,33 +13,12 @@
     "lastAlertedAt": 1787326385716,
     "issueNumber": 100
   },
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 101
-  },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 102
-  },
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
     "tier": "alert",
     "firstSeen": 1787326385716,
     "lastAlertedAt": 1787326385716,
     "issueNumber": 103
-  },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 104
   },
   "FORECAST|US|MS|Hernando": {
     "region": "Hernando, MS",
@@ -118,13 +55,6 @@
     "lastAlertedAt": 1787326385716,
     "issueNumber": 109
   },
-  "US|GA|Atlanta": {
-    "region": "Atlanta, GA",
-    "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 113
-  },
   "US|TX|Dallas-Fort Worth": {
     "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
@@ -138,27 +68,6 @@
     "firstSeen": 1787340817893,
     "lastAlertedAt": 1787340817893,
     "issueNumber": 115
-  },
-  "US|ID|Ketchum": {
-    "region": "Ketchum, ID",
-    "tier": "alert",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 116
-  },
-  "US|OR|Pendleton": {
-    "region": "Pendleton, OR",
-    "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 117
-  },
-  "US|OR|Prineville": {
-    "region": "Prineville, OR",
-    "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 118
   },
   "US|WA|Wenatchee": {
     "region": "Wenatchee, WA",
@@ -174,39 +83,102 @@
     "lastAlertedAt": 1787340817893,
     "issueNumber": 120
   },
-  "FORECAST|US|AR|Little Rock-North Little Rock": {
-    "region": "Little Rock-North Little Rock, AR",
+  "US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
     "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 121
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 126
   },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
+  "US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 127
+  },
+  "US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 128
+  },
+  "US|CA|Central LA CO": {
+    "region": "Central LA CO, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 129
+  },
+  "US|CA|E San Fernando Vly": {
+    "region": "E San Fernando Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 130
+  },
+  "US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
     "tier": "alert",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 122
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 131
   },
-  "US-OR-Portland": {
-    "region": "Portland Metro (incl. Vancouver, WA), OR",
-    "tier": "alert",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 123
+  "US|OR|Hermiston": {
+    "region": "Hermiston, OR",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 132
   },
-  "CA-BC-Vancouver": {
+  "US|ID|Kamiah - Nez Perce Reservation": {
+    "region": "Kamiah - Nez Perce Reservation, ID",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 133
+  },
+  "US|OR|Multorpor": {
+    "region": "Multorpor, OR",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 134
+  },
+  "US|CA|Sequoia and Kings Canyon National Parks": {
+    "region": "Sequoia and Kings Canyon National Parks, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 135
+  },
+  "US|CA|W San Gabriel Vly": {
+    "region": "W San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 136
+  },
+  "CA|JAFUV|Central Okanagan": {
+    "region": "Central Okanagan, BC",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 137
+  },
+  "FORECAST|US|CA|San Diego Foothills": {
+    "region": "San Diego Foothills, CA",
+    "tier": "watch",
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 138
+  },
+  "CA-BC-Metro Vancouver": {
     "region": "Metro Vancouver, BC",
     "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 124
-  },
-  "US-OR-Medford": {
-    "region": "Medford / Rogue Valley, OR",
-    "tier": "watch",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787340817893,
-    "issueNumber": 125
+    "firstSeen": 1787363353042,
+    "lastAlertedAt": 1787363353042,
+    "issueNumber": 139
   }
 }
