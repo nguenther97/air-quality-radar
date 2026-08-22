@@ -1,18 +1,4 @@
 {
-  "FORECAST|US|CA|Banning": {
-    "region": "Banning, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 99
-  },
-  "FORECAST|US|CA|Big Bear Lake": {
-    "region": "Big Bear Lake, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 100
-  },
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
     "tier": "alert",
@@ -36,7 +22,7 @@
   },
   "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787326385716,
     "lastAlertedAt": 1787326385716,
     "issueNumber": 107
@@ -55,13 +41,6 @@
     "lastAlertedAt": 1787340817893,
     "issueNumber": 119
   },
-  "CA|JAFUV|Central Okanagan": {
-    "region": "Central Okanagan, BC",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 137
-  },
   "FORECAST|US|CA|San Diego Foothills": {
     "region": "San Diego Foothills, CA",
     "tier": "watch",
@@ -75,27 +54,6 @@
     "firstSeen": 1787381914423,
     "lastAlertedAt": 1787381914423,
     "issueNumber": 140
-  },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "watch",
-    "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787381914423,
-    "issueNumber": 141
-  },
-  "US|WA|Spokane": {
-    "region": "Spokane, WA",
-    "tier": "watch",
-    "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787381914423,
-    "issueNumber": 142
-  },
-  "US|AZ|Yuma": {
-    "region": "Yuma, AZ",
-    "tier": "alert",
-    "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787381914423,
-    "issueNumber": 143
   },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
@@ -117,5 +75,54 @@
     "firstSeen": 1787381914423,
     "lastAlertedAt": 1787381914423,
     "issueNumber": 146
+  },
+  "US|CA|Coachella Vly": {
+    "region": "Coachella Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 147
+  },
+  "US|ID|Kamiah - Nez Perce Reservation": {
+    "region": "Kamiah - Nez Perce Reservation, ID",
+    "tier": "watch",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 148
+  },
+  "US|MN|Northwestern Minnesota": {
+    "region": "Northwestern Minnesota, MN",
+    "tier": "watch",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 149
+  },
+  "US|OR|Prineville": {
+    "region": "Prineville, OR",
+    "tier": "alert",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 150
+  },
+  "CA|GBEIN|Winnipeg": {
+    "region": "Winnipeg, MB",
+    "tier": "watch",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 151
+  },
+  "FORECAST|US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "watch",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 152
+  },
+  "CA-MB-Brandon": {
+    "region": "Brandon, MB",
+    "tier": "watch",
+    "firstSeen": 1787403570182,
+    "lastAlertedAt": 1787403570182,
+    "issueNumber": 153
   }
 }
