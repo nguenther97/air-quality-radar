@@ -152,5 +152,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787514455080
+  },
+  {
+    "region_key": "US|CA|Central LA CO",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
+  },
+  {
+    "region_key": "US|IN|Hammond-Gary",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
+  },
+  {
+    "region_key": "US|CA|Oakland",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
+  },
+  {
+    "region_key": "US|OH|Toledo",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787517042741
   }
 ]
