@@ -250,5 +250,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787518259021
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 204,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787520495157
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787520495157
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787520495157
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787520495157
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787520495157
+  },
+  {
+    "region_key": "US|OH|Toledo",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787520495157
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787520495157
   }
 ]
