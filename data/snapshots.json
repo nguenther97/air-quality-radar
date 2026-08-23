@@ -138,5 +138,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787513244242
+  },
+  {
+    "region_key": "US|IL|South and West Suburbs (Chicago)",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787514455080
+  },
+  {
+    "region_key": "US|OH|Toledo",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787514455080
   }
 ]
