@@ -68,5 +68,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787505990347
+  },
+  {
+    "region_key": "US|IL|Aurora and Elgin",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787507349228
+  },
+  {
+    "region_key": "US|IL|Chicago",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787507349228
+  },
+  {
+    "region_key": "US|IL|North and West Suburbs (Chicago)",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787507349228
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787507349228
+  },
+  {
+    "region_key": "US|IL|South and West Suburbs (Chicago)",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787507349228
   }
 ]
