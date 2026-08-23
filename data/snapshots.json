@@ -103,5 +103,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787507349228
+  },
+  {
+    "region_key": "US|IL|Chicago",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787510341287
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787510341287
+  },
+  {
+    "region_key": "US|IL|South and West Suburbs (Chicago)",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787510341287
   }
 ]
