@@ -41,18 +41,53 @@
     "lastAlertedAt": 1787468408375,
     "issueNumber": 178
   },
-  "US|FL|Broward County": {
-    "region": "Broward County, FL",
+  "US|IL|Chicago": {
+    "region": "Chicago, IL",
     "tier": "watch",
-    "firstSeen": 1787490042816,
-    "lastAlertedAt": 1787490042816,
-    "issueNumber": 180
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 182
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles County, CA",
+  "US|IL|South and West Suburbs (Chicago)": {
+    "region": "South and West Suburbs (Chicago), IL",
     "tier": "watch",
-    "firstSeen": 1787490042816,
-    "lastAlertedAt": 1787490042816,
-    "issueNumber": 181
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 183
+  },
+  "FORECAST|US|GA|Atlanta": {
+    "region": "Atlanta, GA",
+    "tier": "watch",
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 184
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 185
+  },
+  "FORECAST|US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 186
+  },
+  "FORECAST|US|CA|W San Gabriel Vly": {
+    "region": "W San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 187
+  },
+  "US-MN-Minneapolis-Saint Paul": {
+    "region": "Minneapolis-Saint Paul, MN",
+    "tier": "watch",
+    "firstSeen": 1787510842416,
+    "lastAlertedAt": 1787510842416,
+    "issueNumber": 188
   }
 }
