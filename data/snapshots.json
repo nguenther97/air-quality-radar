@@ -516,5 +516,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787527670995
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787528920188
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787528920188
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787528920188
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787528920188
+  },
+  {
+    "region_key": "US|CA|North Orange CO",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787528920188
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787528920188
   }
 ]
