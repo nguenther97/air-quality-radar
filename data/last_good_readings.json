@@ -1,10 +1,10 @@
 {
   "canada": {
-    "fetchedAt": 1787504098325,
+    "fetchedAt": 1787505990547,
     "readings": []
   },
   "airnow": {
-    "fetchedAt": 1787504098482,
+    "fetchedAt": 1787505990811,
     "readings": [
       {
         "id": "US|SD|Aberdeen",
@@ -17,7 +17,7 @@
         "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -28,10 +28,10 @@
         "lat": 47.1076,
         "lon": -123.7837,
         "unit": "AQI",
-        "value": 15,
+        "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -45,7 +45,7 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -56,10 +56,10 @@
         "lat": 33.37,
         "lon": -81.97,
         "unit": "AQI",
-        "value": 52,
+        "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -70,10 +70,10 @@
         "lat": 37.2385,
         "lon": -94.4247,
         "unit": "AQI",
-        "value": 29,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -87,7 +87,7 @@
         "value": 8,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -101,7 +101,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -112,10 +112,10 @@
         "lat": 35.9208,
         "lon": -81.1773,
         "unit": "AQI",
-        "value": 33,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -129,7 +129,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -143,7 +143,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "CST"
       },
       {
@@ -157,7 +157,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -171,7 +171,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "ADT"
       },
       {
@@ -185,7 +185,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -196,10 +196,10 @@
         "lat": 38.6138,
         "lon": -121.368,
         "unit": "AQI",
-        "value": 30,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -213,7 +213,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -224,10 +224,10 @@
         "lat": 38.4784,
         "lon": -82.6379,
         "unit": "AQI",
-        "value": 39,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -241,7 +241,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -252,10 +252,10 @@
         "lat": 39.19,
         "lon": -106.82,
         "unit": "AQI",
-        "value": 23,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -266,10 +266,10 @@
         "lat": 35.49,
         "lon": -120.69,
         "unit": "AQI",
-        "value": 26,
+        "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -283,7 +283,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -297,7 +297,7 @@
         "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -311,7 +311,7 @@
         "value": 58,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -322,10 +322,10 @@
         "lat": 38.8963,
         "lon": -121.0784,
         "unit": "AQI",
-        "value": 29,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -339,7 +339,7 @@
         "value": 106,
         "category": "Unhealthy for Sensitive Groups",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -353,7 +353,7 @@
         "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -364,10 +364,10 @@
         "lat": 36.0768,
         "lon": -81.9226,
         "unit": "AQI",
-        "value": 30,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -381,7 +381,7 @@
         "value": 80,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -395,7 +395,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -409,7 +409,7 @@
         "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -423,7 +423,7 @@
         "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -434,10 +434,10 @@
         "lat": 34.8938,
         "lon": -117.0244,
         "unit": "AQI",
-        "value": 35,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -451,7 +451,7 @@
         "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -462,10 +462,10 @@
         "lat": 43.629,
         "lon": -83.6172,
         "unit": "AQI",
-        "value": 55,
+        "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -476,10 +476,10 @@
         "lat": 40.29,
         "lon": -96.82,
         "unit": "AQI",
-        "value": 42,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -490,10 +490,10 @@
         "lat": 30.083,
         "lon": -94.1,
         "unit": "AQI",
-        "value": 61,
-        "category": "Moderate",
+        "value": 28,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -507,7 +507,7 @@
         "value": 9,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -521,21 +521,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
-        "timeZone": "EDT"
-      },
-      {
-        "id": "US|FL|Belle Glade",
-        "country": "US",
-        "state": "FL",
-        "name": "Belle Glade",
-        "lat": 26.761,
-        "lon": -80.6748,
-        "unit": "AQI",
-        "value": 63,
-        "category": "Moderate",
-        "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -549,7 +535,7 @@
         "value": 7,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -563,7 +549,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -577,7 +563,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -591,7 +577,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -605,7 +591,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -616,10 +602,10 @@
         "lat": 34.1734,
         "lon": -116.8851,
         "unit": "AQI",
-        "value": 38,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -630,10 +616,10 @@
         "lat": 29.3025,
         "lon": -103.1781,
         "unit": "AQI",
-        "value": 55,
-        "category": "Moderate",
+        "value": 30,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -647,7 +633,7 @@
         "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -661,7 +647,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -672,10 +658,10 @@
         "lat": 33.4331,
         "lon": -86.7979,
         "unit": "AQI",
-        "value": 38,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -686,10 +672,10 @@
         "lat": 37.3615,
         "lon": -118.3952,
         "unit": "AQI",
-        "value": 35,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -700,25 +686,11 @@
         "lat": 46.8253,
         "lon": -100.7681,
         "unit": "AQI",
-        "value": 43,
-        "category": "Good",
-        "source": "AirNow",
-        "observedAt": "11:00",
-        "timeZone": "CDT"
-      },
-      {
-        "id": "US|IN|Bloomington",
-        "country": "US",
-        "state": "IN",
-        "name": "Bloomington",
-        "lat": 39.1594,
-        "lon": -86.5047,
-        "unit": "AQI",
-        "value": 46,
+        "value": 42,
         "category": "Good",
         "source": "AirNow",
         "observedAt": "12:00",
-        "timeZone": "EDT"
+        "timeZone": "CDT"
       },
       {
         "id": "US|IL|Bloomington and Normal",
@@ -731,7 +703,7 @@
         "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -745,7 +717,7 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -759,7 +731,7 @@
         "value": 73,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -770,10 +742,10 @@
         "lat": 37.9008,
         "lon": -90.4239,
         "unit": "AQI",
-        "value": 26,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -784,10 +756,10 @@
         "lat": 32.55,
         "lon": -116.95,
         "unit": "AQI",
-        "value": 107,
-        "category": "Unhealthy for Sensitive Groups",
+        "value": 88,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -801,7 +773,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -815,7 +787,7 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -829,7 +801,7 @@
         "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -843,7 +815,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -854,10 +826,10 @@
         "lat": 32.9783,
         "lon": -115.5383,
         "unit": "AQI",
-        "value": 39,
-        "category": "Good",
+        "value": 56,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -868,10 +840,10 @@
         "lat": 47.64,
         "lon": -122.647,
         "unit": "AQI",
-        "value": 0,
+        "value": 2,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -885,7 +857,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -899,7 +871,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -913,7 +885,7 @@
         "value": 9,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -927,7 +899,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -938,10 +910,10 @@
         "lat": 26.1523,
         "lon": -80.4871,
         "unit": "AQI",
-        "value": 81,
+        "value": 70,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -952,10 +924,10 @@
         "lat": 26.19,
         "lon": -97.69,
         "unit": "AQI",
-        "value": 68,
+        "value": 63,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -969,22 +941,8 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
-      },
-      {
-        "id": "US|TX|Bryan-College Station",
-        "country": "US",
-        "state": "TX",
-        "name": "Bryan-College Station",
-        "lat": 30.6199,
-        "lon": -96.326,
-        "unit": "AQI",
-        "value": 56,
-        "category": "Moderate",
-        "source": "AirNow",
-        "observedAt": "11:00",
-        "timeZone": "CDT"
       },
       {
         "id": "US|NC|Buncombe County",
@@ -994,10 +952,10 @@
         "lat": 35.595,
         "lon": -82.551,
         "unit": "AQI",
-        "value": 49,
+        "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1011,7 +969,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1025,7 +983,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1039,7 +997,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "ADT"
       },
       {
@@ -1053,7 +1011,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1064,10 +1022,10 @@
         "lat": 34.113,
         "lon": -117.371,
         "unit": "AQI",
-        "value": 55,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1081,7 +1039,7 @@
         "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1095,7 +1053,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1106,10 +1064,10 @@
         "lat": 35.953,
         "lon": -81.5466,
         "unit": "AQI",
-        "value": 27,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1123,7 +1081,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1134,10 +1092,10 @@
         "lat": 40.7949,
         "lon": -81.4576,
         "unit": "AQI",
-        "value": 55,
+        "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1151,7 +1109,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1165,7 +1123,7 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1179,7 +1137,7 @@
         "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1190,10 +1148,10 @@
         "lat": 36.4833,
         "lon": -121.7319,
         "unit": "AQI",
-        "value": 42,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1204,10 +1162,10 @@
         "lat": 34.4027,
         "lon": -119.4575,
         "unit": "AQI",
-        "value": 52,
+        "value": 58,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1218,10 +1176,10 @@
         "lat": 35.32,
         "lon": -120,
         "unit": "AQI",
-        "value": 32,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1232,10 +1190,10 @@
         "lat": 39.1448,
         "lon": -119.7664,
         "unit": "AQI",
-        "value": 34,
+        "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1249,7 +1207,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1263,7 +1221,7 @@
         "value": 15,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1274,10 +1232,10 @@
         "lat": 18.4284,
         "lon": -66.1417,
         "unit": "AQI",
-        "value": 56,
+        "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "AST"
       },
       {
@@ -1291,7 +1249,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1302,10 +1260,10 @@
         "lat": 34.9126,
         "lon": -80.8743,
         "unit": "AQI",
-        "value": 32,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1319,7 +1277,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1333,7 +1291,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1347,7 +1305,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1358,10 +1316,10 @@
         "lat": 46.5444,
         "lon": -94.0916,
         "unit": "AQI",
-        "value": 47,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1375,7 +1333,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1386,10 +1344,10 @@
         "lat": 33.813,
         "lon": -117.964,
         "unit": "AQI",
-        "value": 59,
+        "value": 63,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1400,10 +1358,10 @@
         "lat": 44.6615,
         "lon": -89.846,
         "unit": "AQI",
-        "value": 61,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1414,10 +1372,10 @@
         "lat": 43.7672,
         "lon": -89.6177,
         "unit": "AQI",
-        "value": 76,
+        "value": 73,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1431,7 +1389,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1445,7 +1403,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1456,10 +1414,10 @@
         "lat": 32.8,
         "lon": -79.95,
         "unit": "AQI",
-        "value": 41,
-        "category": "Good",
+        "value": 51,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1470,10 +1428,10 @@
         "lat": 38.3458,
         "lon": -81.6283,
         "unit": "AQI",
-        "value": 49,
+        "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1487,7 +1445,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1501,7 +1459,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1515,7 +1473,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1529,7 +1487,7 @@
         "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1543,7 +1501,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1557,7 +1515,7 @@
         "value": 85,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1571,7 +1529,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1585,7 +1543,7 @@
         "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1596,10 +1554,10 @@
         "lat": 44.9048,
         "lon": -91.8261,
         "unit": "AQI",
-        "value": 71,
+        "value": 65,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1613,7 +1571,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1627,7 +1585,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1641,7 +1599,7 @@
         "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1652,10 +1610,10 @@
         "lat": 46.4255,
         "lon": -117.0597,
         "unit": "AQI",
-        "value": 66,
+        "value": 65,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1669,7 +1627,7 @@
         "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1680,10 +1638,10 @@
         "lat": 33.744,
         "lon": -90.7248,
         "unit": "AQI",
-        "value": 41,
+        "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1697,7 +1655,7 @@
         "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1708,10 +1666,10 @@
         "lat": 41.844,
         "lon": -90.189,
         "unit": "AQI",
-        "value": 90,
+        "value": 94,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1725,7 +1683,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1736,10 +1694,10 @@
         "lat": 41.4797,
         "lon": -71.516,
         "unit": "AQI",
-        "value": 22,
+        "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1753,7 +1711,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1767,7 +1725,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1781,7 +1739,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1792,10 +1750,10 @@
         "lat": 39.1003,
         "lon": -120.9528,
         "unit": "AQI",
-        "value": 26,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1806,10 +1764,10 @@
         "lat": 39.497,
         "lon": -107.939,
         "unit": "AQI",
-        "value": 19,
+        "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1820,10 +1778,10 @@
         "lat": 38.8755,
         "lon": -104.6532,
         "unit": "AQI",
-        "value": 41,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -1834,10 +1792,10 @@
         "lat": 39.078,
         "lon": -92.3163,
         "unit": "AQI",
-        "value": 19,
+        "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1848,10 +1806,10 @@
         "lat": 34.039,
         "lon": -80.886,
         "unit": "AQI",
-        "value": 55,
+        "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1865,7 +1823,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1879,7 +1837,7 @@
         "value": 50,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1893,7 +1851,7 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1907,7 +1865,7 @@
         "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -1921,7 +1879,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1935,7 +1893,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1949,7 +1907,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1963,7 +1921,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -1977,7 +1935,7 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -1991,7 +1949,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2002,10 +1960,10 @@
         "lat": 43.3819,
         "lon": -124.2639,
         "unit": "AQI",
-        "value": 2,
+        "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2019,7 +1977,7 @@
         "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2030,10 +1988,10 @@
         "lat": 43.7995,
         "lon": -123.0535,
         "unit": "AQI",
-        "value": 16,
+        "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2047,7 +2005,7 @@
         "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2061,7 +2019,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2072,10 +2030,10 @@
         "lat": 36.1877,
         "lon": -106.6984,
         "unit": "AQI",
-        "value": 32,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2089,7 +2047,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2100,10 +2058,10 @@
         "lat": 41.7561,
         "lon": -124.2035,
         "unit": "AQI",
-        "value": 2,
+        "value": 4,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2114,10 +2072,10 @@
         "lat": 35.072,
         "lon": -78.9,
         "unit": "AQI",
-        "value": 56,
+        "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2131,7 +2089,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2145,7 +2103,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2159,7 +2117,7 @@
         "value": 3,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2173,7 +2131,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2187,7 +2145,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2201,7 +2159,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2212,10 +2170,10 @@
         "lat": 41.522,
         "lon": -90.576,
         "unit": "AQI",
-        "value": 87,
+        "value": 93,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2229,7 +2187,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2243,7 +2201,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2257,7 +2215,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2271,7 +2229,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2285,7 +2243,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2299,7 +2257,7 @@
         "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2313,7 +2271,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2324,10 +2282,10 @@
         "lat": 32.2558,
         "lon": -107.7227,
         "unit": "AQI",
-        "value": 9,
+        "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2338,10 +2296,10 @@
         "lat": 39.9003,
         "lon": -105.042,
         "unit": "AQI",
-        "value": 41,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2352,10 +2310,10 @@
         "lat": 41.535,
         "lon": -93.66,
         "unit": "AQI",
-        "value": 70,
+        "value": 74,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2369,7 +2327,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2383,7 +2341,7 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2394,10 +2352,10 @@
         "lat": 31.9187,
         "lon": -106.633,
         "unit": "AQI",
-        "value": 57,
+        "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2411,7 +2369,7 @@
         "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -2425,7 +2383,7 @@
         "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2439,7 +2397,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2450,10 +2408,10 @@
         "lat": 44.7851,
         "lon": -67.5356,
         "unit": "AQI",
-        "value": 28,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2464,10 +2422,10 @@
         "lat": 44.0848,
         "lon": -91.0395,
         "unit": "AQI",
-        "value": 74,
+        "value": 66,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2478,10 +2436,10 @@
         "lat": 42.9564,
         "lon": -90.3683,
         "unit": "AQI",
-        "value": 92,
+        "value": 87,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2492,10 +2450,10 @@
         "lat": 46.7137,
         "lon": -92.5117,
         "unit": "AQI",
-        "value": 35,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2506,10 +2464,10 @@
         "lat": 36.0359,
         "lon": -78.8768,
         "unit": "AQI",
-        "value": 51,
-        "category": "Moderate",
+        "value": 50,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2523,7 +2481,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2537,7 +2495,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2548,10 +2506,10 @@
         "lat": 34.1758,
         "lon": -118.3169,
         "unit": "AQI",
-        "value": 59,
+        "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2562,10 +2520,10 @@
         "lat": 34.13,
         "lon": -117.89,
         "unit": "AQI",
-        "value": 56,
+        "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2579,7 +2537,7 @@
         "value": 4,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "ADT"
       },
       {
@@ -2590,10 +2548,10 @@
         "lat": 45.6842,
         "lon": -93.1604,
         "unit": "AQI",
-        "value": 39,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2607,7 +2565,7 @@
         "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2621,7 +2579,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2635,7 +2593,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2649,7 +2607,7 @@
         "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2660,10 +2618,10 @@
         "lat": 32.6761,
         "lon": -115.4833,
         "unit": "AQI",
-        "value": 34,
+        "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2674,10 +2632,10 @@
         "lat": 37.701,
         "lon": -94.0347,
         "unit": "AQI",
-        "value": 43,
+        "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2691,7 +2649,7 @@
         "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2705,7 +2663,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2716,10 +2674,10 @@
         "lat": 38.4086,
         "lon": -121.3733,
         "unit": "AQI",
-        "value": 15,
+        "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2730,10 +2688,10 @@
         "lat": 40.8324,
         "lon": -115.7631,
         "unit": "AQI",
-        "value": 21,
+        "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2747,7 +2705,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2761,7 +2719,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2775,7 +2733,7 @@
         "value": 63,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2786,10 +2744,10 @@
         "lat": 42.1292,
         "lon": -80.0851,
         "unit": "AQI",
-        "value": 31,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2803,7 +2761,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2817,7 +2775,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2828,10 +2786,10 @@
         "lat": 40.8021,
         "lon": -124.1637,
         "unit": "AQI",
-        "value": 4,
+        "value": 3,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2842,10 +2800,10 @@
         "lat": 38.022,
         "lon": -87.569,
         "unit": "AQI",
-        "value": 46,
+        "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2856,10 +2814,10 @@
         "lat": 48.0551,
         "lon": -122.1758,
         "unit": "AQI",
-        "value": 6,
+        "value": 8,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2873,7 +2831,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "ADT"
       },
       {
@@ -2887,7 +2845,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2901,7 +2859,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2915,7 +2873,7 @@
         "value": 75,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "CST"
       },
       {
@@ -2926,10 +2884,10 @@
         "lat": 37.7026,
         "lon": -89.6986,
         "unit": "AQI",
-        "value": 28,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -2943,7 +2901,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -2957,7 +2915,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -2971,7 +2929,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -2982,10 +2940,10 @@
         "lat": 43.0264,
         "lon": -83.6614,
         "unit": "AQI",
-        "value": 59,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -2996,10 +2954,10 @@
         "lat": 43.9896,
         "lon": -124.1093,
         "unit": "AQI",
-        "value": 15,
+        "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3010,10 +2968,10 @@
         "lat": 34.18,
         "lon": -79.72,
         "unit": "AQI",
-        "value": 55,
+        "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3024,10 +2982,10 @@
         "lat": 38.6767,
         "lon": -121.1461,
         "unit": "AQI",
-        "value": 22,
+        "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3041,7 +2999,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3052,10 +3010,10 @@
         "lat": 39.4373,
         "lon": -123.7877,
         "unit": "AQI",
-        "value": 0,
+        "value": 2,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3069,7 +3027,7 @@
         "value": 45,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3083,7 +3041,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3097,7 +3055,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3108,10 +3066,10 @@
         "lat": 41.0847,
         "lon": -85.158,
         "unit": "AQI",
-        "value": 60,
-        "category": "Moderate",
+        "value": 25,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3122,10 +3080,10 @@
         "lat": 37.299,
         "lon": -108.637,
         "unit": "AQI",
-        "value": 31,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3136,10 +3094,10 @@
         "lat": 42.5831,
         "lon": -72.5919,
         "unit": "AQI",
-        "value": 15,
+        "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3153,7 +3111,7 @@
         "value": 10,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3164,10 +3122,10 @@
         "lat": 37.55,
         "lon": -122.03,
         "unit": "AQI",
-        "value": 15,
+        "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3181,7 +3139,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3195,7 +3153,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3209,7 +3167,7 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3223,7 +3181,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3237,7 +3195,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3248,10 +3206,10 @@
         "lat": 34.4897,
         "lon": -120.0469,
         "unit": "AQI",
-        "value": 23,
+        "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3265,7 +3223,7 @@
         "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -3279,7 +3237,7 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3293,7 +3251,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3307,7 +3265,7 @@
         "value": 3,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3321,7 +3279,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3335,7 +3293,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3346,10 +3304,10 @@
         "lat": 36.055,
         "lon": -112.1531,
         "unit": "AQI",
-        "value": 61,
+        "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -3360,10 +3318,10 @@
         "lat": 40.9183,
         "lon": -98.3789,
         "unit": "AQI",
-        "value": 40,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3374,10 +3332,10 @@
         "lat": 39.0666,
         "lon": -108.5625,
         "unit": "AQI",
-        "value": 29,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3388,10 +3346,10 @@
         "lat": 42.8775,
         "lon": -85.7627,
         "unit": "AQI",
-        "value": 87,
+        "value": 84,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3405,7 +3363,7 @@
         "value": 65,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3419,7 +3377,7 @@
         "value": 9,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3430,10 +3388,10 @@
         "lat": 36.3039,
         "lon": -78.653,
         "unit": "AQI",
-        "value": 26,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3447,7 +3405,7 @@
         "value": 45,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3461,7 +3419,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3475,7 +3433,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3489,7 +3447,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3503,7 +3461,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3514,10 +3472,10 @@
         "lat": 44.2711,
         "lon": -88.3526,
         "unit": "AQI",
-        "value": 71,
+        "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3528,10 +3486,10 @@
         "lat": 37.9081,
         "lon": -80.6328,
         "unit": "AQI",
-        "value": 28,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3542,10 +3500,10 @@
         "lat": 34.919,
         "lon": -82.149,
         "unit": "AQI",
-        "value": 54,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3559,7 +3517,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3570,10 +3528,10 @@
         "lat": 39.6116,
         "lon": -77.9143,
         "unit": "AQI",
-        "value": 31,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3587,7 +3545,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3601,7 +3559,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3612,10 +3570,10 @@
         "lat": 41.5734,
         "lon": -87.3579,
         "unit": "AQI",
-        "value": 55,
-        "category": "Moderate",
+        "value": 27,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3626,10 +3584,10 @@
         "lat": 42.23,
         "lon": -72.6465,
         "unit": "AQI",
-        "value": 19,
+        "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3643,7 +3601,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3657,7 +3615,7 @@
         "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3671,7 +3629,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3685,7 +3643,7 @@
         "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3696,10 +3654,10 @@
         "lat": 31.3271,
         "lon": -89.2903,
         "unit": "AQI",
-        "value": 54,
+        "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3713,22 +3671,8 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
-      },
-      {
-        "id": "US|AZ|Hayden",
-        "country": "US",
-        "state": "AZ",
-        "name": "Hayden",
-        "lat": 33.015,
-        "lon": -110.81,
-        "unit": "AQI",
-        "value": 34,
-        "category": "Good",
-        "source": "AirNow",
-        "observedAt": "9:00",
-        "timeZone": "MST"
       },
       {
         "id": "US|NC|Haywood County",
@@ -3738,10 +3682,10 @@
         "lat": 35.5558,
         "lon": -82.9821,
         "unit": "AQI",
-        "value": 25,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3752,10 +3696,10 @@
         "lat": 37.28,
         "lon": -83.22,
         "unit": "AQI",
-        "value": 34,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3769,7 +3713,7 @@
         "value": 15,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3783,7 +3727,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3794,10 +3738,10 @@
         "lat": 34.8275,
         "lon": -89.9889,
         "unit": "AQI",
-        "value": 43,
+        "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3811,7 +3755,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3822,10 +3766,10 @@
         "lat": 44.3127,
         "lon": -68.2069,
         "unit": "AQI",
-        "value": 25,
+        "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3839,7 +3783,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3853,7 +3797,7 @@
         "value": 10,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3867,7 +3811,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3881,7 +3825,7 @@
         "value": 15,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -3895,7 +3839,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -3909,7 +3853,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -3920,10 +3864,10 @@
         "lat": 36.8442,
         "lon": -121.361,
         "unit": "AQI",
-        "value": 15,
+        "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3937,7 +3881,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -3951,7 +3895,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -3962,10 +3906,10 @@
         "lat": 29.751,
         "lon": -95.351,
         "unit": "AQI",
-        "value": 67,
+        "value": 63,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3976,10 +3920,10 @@
         "lat": 34.632,
         "lon": -86.6784,
         "unit": "AQI",
-        "value": 48,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -3993,7 +3937,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4007,7 +3951,7 @@
         "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4021,7 +3965,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4032,10 +3976,10 @@
         "lat": 32.7919,
         "lon": -115.5637,
         "unit": "AQI",
-        "value": 49,
-        "category": "Good",
+        "value": 56,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4049,7 +3993,7 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4063,7 +4007,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4077,7 +4021,7 @@
         "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4091,7 +4035,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4105,7 +4049,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4116,10 +4060,10 @@
         "lat": 41.6606,
         "lon": -91.5634,
         "unit": "AQI",
-        "value": 85,
+        "value": 86,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4130,10 +4074,10 @@
         "lat": 42.0157,
         "lon": -84.3428,
         "unit": "AQI",
-        "value": 72,
+        "value": 80,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4147,7 +4091,7 @@
         "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4161,7 +4105,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4175,7 +4119,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4186,10 +4130,10 @@
         "lat": 30.335,
         "lon": -81.658,
         "unit": "AQI",
-        "value": 52,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4200,10 +4144,10 @@
         "lat": 35.7857,
         "lon": -115.3571,
         "unit": "AQI",
-        "value": 40,
+        "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4214,10 +4158,10 @@
         "lat": 38.7061,
         "lon": -92.0931,
         "unit": "AQI",
-        "value": 28,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4231,7 +4175,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4245,7 +4189,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "MST"
       },
       {
@@ -4256,10 +4200,10 @@
         "lat": 35.5184,
         "lon": -78.3651,
         "unit": "AQI",
-        "value": 53,
+        "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4270,10 +4214,10 @@
         "lat": 40.3267,
         "lon": -78.922,
         "unit": "AQI",
-        "value": 43,
+        "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4287,7 +4231,7 @@
         "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4301,7 +4245,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4315,7 +4259,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4329,7 +4273,7 @@
         "value": 58,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MDT"
       },
       {
@@ -4343,7 +4287,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "ADT"
       },
       {
@@ -4357,7 +4301,7 @@
         "value": 45,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -4368,10 +4312,10 @@
         "lat": 42.0993,
         "lon": -85.2641,
         "unit": "AQI",
-        "value": 87,
+        "value": 91,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4382,10 +4326,10 @@
         "lat": 46.2094,
         "lon": -116.0274,
         "unit": "AQI",
-        "value": 71,
+        "value": 74,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4399,7 +4343,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4413,7 +4357,7 @@
         "value": 7,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -4427,7 +4371,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4438,10 +4382,10 @@
         "lat": 42.6767,
         "lon": -87.9457,
         "unit": "AQI",
-        "value": 75,
+        "value": 78,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4455,7 +4399,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4469,7 +4413,7 @@
         "value": 4,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4480,10 +4424,10 @@
         "lat": 43.5294,
         "lon": -88.5294,
         "unit": "AQI",
-        "value": 84,
+        "value": 77,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4494,10 +4438,10 @@
         "lat": 42.8188,
         "lon": -88.6489,
         "unit": "AQI",
-        "value": 83,
+        "value": 75,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4511,7 +4455,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4525,7 +4469,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -4536,10 +4480,10 @@
         "lat": 36.2092,
         "lon": -121.126,
         "unit": "AQI",
-        "value": 49,
+        "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4553,7 +4497,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4567,7 +4511,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4578,10 +4522,10 @@
         "lat": 40.5683,
         "lon": -86.1386,
         "unit": "AQI",
-        "value": 19,
+        "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4592,10 +4536,10 @@
         "lat": 48.7056,
         "lon": -116.3689,
         "unit": "AQI",
-        "value": 60,
+        "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4609,7 +4553,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4620,25 +4564,11 @@
         "lat": 43.67,
         "lon": -121.5,
         "unit": "AQI",
-        "value": 26,
+        "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
-      },
-      {
-        "id": "US|IN|Lafayette",
-        "country": "US",
-        "state": "IN",
-        "name": "Lafayette",
-        "lat": 40.4317,
-        "lon": -86.8525,
-        "unit": "AQI",
-        "value": 52,
-        "category": "Moderate",
-        "source": "AirNow",
-        "observedAt": "12:00",
-        "timeZone": "EDT"
       },
       {
         "id": "US|LA|Lafayette",
@@ -4648,10 +4578,10 @@
         "lat": 30.2258,
         "lon": -92.0428,
         "unit": "AQI",
-        "value": 58,
+        "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4662,10 +4592,10 @@
         "lat": 30.2278,
         "lon": -93.5797,
         "unit": "AQI",
-        "value": 62,
+        "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4679,7 +4609,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4690,10 +4620,10 @@
         "lat": 42.3354,
         "lon": -87.9902,
         "unit": "AQI",
-        "value": 86,
+        "value": 87,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4704,10 +4634,10 @@
         "lat": 33.6763,
         "lon": -117.3308,
         "unit": "AQI",
-        "value": 47,
+        "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4718,10 +4648,10 @@
         "lat": 40.69,
         "lon": -92.01,
         "unit": "AQI",
-        "value": 66,
+        "value": 68,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4735,7 +4665,7 @@
         "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4749,7 +4679,7 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4760,10 +4690,10 @@
         "lat": 38.0847,
         "lon": -102.6186,
         "unit": "AQI",
-        "value": 54,
+        "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4777,7 +4707,7 @@
         "value": 50,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4788,10 +4718,10 @@
         "lat": 42.7721,
         "lon": -84.7255,
         "unit": "AQI",
-        "value": 72,
+        "value": 73,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4802,10 +4732,10 @@
         "lat": 46.3972,
         "lon": -116.8061,
         "unit": "AQI",
-        "value": 62,
+        "value": 66,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4816,10 +4746,10 @@
         "lat": 27.5069,
         "lon": -99.5079,
         "unit": "AQI",
-        "value": 73,
-        "category": "Moderate",
+        "value": 19,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4830,10 +4760,10 @@
         "lat": 32.3123,
         "lon": -106.7783,
         "unit": "AQI",
-        "value": 33,
+        "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4844,10 +4774,10 @@
         "lat": 36.206,
         "lon": -115.223,
         "unit": "AQI",
-        "value": 60,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4861,7 +4791,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4872,10 +4802,10 @@
         "lat": 34.6621,
         "lon": -98.4717,
         "unit": "AQI",
-        "value": 47,
-        "category": "Good",
+        "value": 58,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -4889,7 +4819,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4903,7 +4833,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4914,10 +4844,10 @@
         "lat": 35.2387,
         "lon": -77.6411,
         "unit": "AQI",
-        "value": 25,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4931,7 +4861,7 @@
         "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -4945,7 +4875,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4959,7 +4889,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -4973,7 +4903,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -4987,7 +4917,7 @@
         "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5001,7 +4931,7 @@
         "value": 72,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5012,10 +4942,10 @@
         "lat": 38.89,
         "lon": -121.3,
         "unit": "AQI",
-        "value": 56,
-        "category": "Moderate",
+        "value": 41,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5026,10 +4956,10 @@
         "lat": 40.8125,
         "lon": -96.6756,
         "unit": "AQI",
-        "value": 56,
+        "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5040,10 +4970,10 @@
         "lat": 35.4856,
         "lon": -81.2235,
         "unit": "AQI",
-        "value": 25,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5054,10 +4984,10 @@
         "lat": 34.722,
         "lon": -92.354,
         "unit": "AQI",
-        "value": 74,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5071,7 +5001,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5085,7 +5015,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -5096,10 +5026,10 @@
         "lat": 34.6375,
         "lon": -120.4564,
         "unit": "AQI",
-        "value": 14,
+        "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5113,7 +5043,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5127,7 +5057,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5141,7 +5071,7 @@
         "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5155,7 +5085,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5166,10 +5096,10 @@
         "lat": 38.1872,
         "lon": -85.6591,
         "unit": "AQI",
-        "value": 48,
+        "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5180,10 +5110,10 @@
         "lat": 38.6894,
         "lon": -75.9989,
         "unit": "AQI",
-        "value": 37,
+        "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5197,22 +5127,8 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
-      },
-      {
-        "id": "US|TX|Lubbock",
-        "country": "US",
-        "state": "TX",
-        "name": "Lubbock",
-        "lat": 33.5961,
-        "lon": -101.8539,
-        "unit": "AQI",
-        "value": 13,
-        "category": "Good",
-        "source": "AirNow",
-        "observedAt": "11:00",
-        "timeZone": "CDT"
       },
       {
         "id": "US|MI|Ludington",
@@ -5222,10 +5138,10 @@
         "lat": 43.7646,
         "lon": -85.9954,
         "unit": "AQI",
-        "value": 18,
+        "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5239,7 +5155,7 @@
         "value": 10,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5253,7 +5169,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5267,7 +5183,7 @@
         "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5281,7 +5197,7 @@
         "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5295,7 +5211,7 @@
         "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5306,10 +5222,10 @@
         "lat": 43.0673,
         "lon": -89.4181,
         "unit": "AQI",
-        "value": 82,
+        "value": 74,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5323,7 +5239,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5334,10 +5250,10 @@
         "lat": 48.1659,
         "lon": -124.4229,
         "unit": "AQI",
-        "value": 9,
+        "value": 10,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5351,7 +5267,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -5362,10 +5278,10 @@
         "lat": 39.4751,
         "lon": -91.789,
         "unit": "AQI",
-        "value": 24,
+        "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5376,10 +5292,10 @@
         "lat": 35.8426,
         "lon": -77.108,
         "unit": "AQI",
-        "value": 26,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5390,10 +5306,10 @@
         "lat": 39.4021,
         "lon": -77.9622,
         "unit": "AQI",
-        "value": 28,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5404,10 +5320,10 @@
         "lat": 39.4732,
         "lon": -77.3139,
         "unit": "AQI",
-        "value": 31,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5421,7 +5337,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5435,7 +5351,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -5449,7 +5365,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -5460,10 +5376,10 @@
         "lat": 35.227,
         "lon": -80.843,
         "unit": "AQI",
-        "value": 48,
-        "category": "Good",
+        "value": 51,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5477,7 +5393,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5491,7 +5407,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -5505,7 +5421,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5516,10 +5432,10 @@
         "lat": 35.106,
         "lon": -90.001,
         "unit": "AQI",
-        "value": 52,
-        "category": "Moderate",
+        "value": 34,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5533,7 +5449,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5544,10 +5460,10 @@
         "lat": 41.262,
         "lon": -80.1875,
         "unit": "AQI",
-        "value": 41,
+        "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5561,7 +5477,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5575,7 +5491,7 @@
         "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5589,7 +5505,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -5600,10 +5516,10 @@
         "lat": 39.1876,
         "lon": -76.5904,
         "unit": "AQI",
-        "value": 33,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5617,7 +5533,7 @@
         "value": 69,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5631,7 +5547,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -5642,10 +5558,10 @@
         "lat": 25.81,
         "lon": -80.3065,
         "unit": "AQI",
-        "value": 63,
-        "category": "Moderate",
+        "value": 25,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5659,7 +5575,7 @@
         "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5673,7 +5589,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5687,22 +5603,8 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
-      },
-      {
-        "id": "US|TX|Midland-Odessa",
-        "country": "US",
-        "state": "TX",
-        "name": "Midland-Odessa",
-        "lat": 31.9974,
-        "lon": -102.0789,
-        "unit": "AQI",
-        "value": 59,
-        "category": "Moderate",
-        "source": "AirNow",
-        "observedAt": "11:00",
-        "timeZone": "CDT"
       },
       {
         "id": "US|WI|Milwaukee-Ozaukee",
@@ -5712,10 +5614,10 @@
         "lat": 43.1932,
         "lon": -87.9589,
         "unit": "AQI",
-        "value": 74,
+        "value": 69,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5726,10 +5628,10 @@
         "lat": 47.9103,
         "lon": -90.6158,
         "unit": "AQI",
-        "value": 18,
+        "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5743,7 +5645,7 @@
         "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5757,7 +5659,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5771,7 +5673,7 @@
         "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -5785,7 +5687,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5799,7 +5701,7 @@
         "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5813,7 +5715,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5827,7 +5729,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5841,7 +5743,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5855,7 +5757,7 @@
         "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5869,7 +5771,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5880,10 +5782,10 @@
         "lat": 32.5097,
         "lon": -92.0461,
         "unit": "AQI",
-        "value": 55,
+        "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5897,7 +5799,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -5911,7 +5813,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5922,10 +5824,10 @@
         "lat": 39.6489,
         "lon": -79.9211,
         "unit": "AQI",
-        "value": 33,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5936,10 +5838,10 @@
         "lat": 35.36,
         "lon": -120.83,
         "unit": "AQI",
-        "value": 55,
-        "category": "Moderate",
+        "value": 47,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5953,7 +5855,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5967,7 +5869,7 @@
         "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -5978,10 +5880,10 @@
         "lat": 39.9158,
         "lon": -80.7342,
         "unit": "AQI",
-        "value": 44,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -5995,7 +5897,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6009,7 +5911,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6023,7 +5925,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -6034,10 +5936,10 @@
         "lat": 43.6318,
         "lon": -85.0226,
         "unit": "AQI",
-        "value": 72,
+        "value": 73,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6051,7 +5953,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6062,10 +5964,10 @@
         "lat": 40.3497,
         "lon": -84.9492,
         "unit": "AQI",
-        "value": 44,
+        "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6076,10 +5978,10 @@
         "lat": 41.4239,
         "lon": -91.0561,
         "unit": "AQI",
-        "value": 70,
+        "value": 73,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6090,10 +5992,10 @@
         "lat": 33.8005,
         "lon": -78.9941,
         "unit": "AQI",
-        "value": 28,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6107,7 +6009,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6121,7 +6023,7 @@
         "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6135,7 +6037,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6149,7 +6051,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6160,10 +6062,10 @@
         "lat": 34.273,
         "lon": -77.9079,
         "unit": "AQI",
-        "value": 46,
-        "category": "Good",
+        "value": 52,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6177,7 +6079,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6191,7 +6093,7 @@
         "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6202,10 +6104,10 @@
         "lat": 30.066,
         "lon": -89.931,
         "unit": "AQI",
-        "value": 70,
+        "value": 68,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6219,7 +6121,7 @@
         "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6230,10 +6132,10 @@
         "lat": 33.2136,
         "lon": -115.5444,
         "unit": "AQI",
-        "value": 31,
+        "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6244,10 +6146,10 @@
         "lat": 35.0555,
         "lon": -120.5388,
         "unit": "AQI",
-        "value": 14,
+        "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6258,10 +6160,10 @@
         "lat": 35.041,
         "lon": -120.6031,
         "unit": "AQI",
-        "value": 17,
+        "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6272,10 +6174,10 @@
         "lat": 35.04,
         "lon": -120.5599,
         "unit": "AQI",
-        "value": 7,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6289,7 +6191,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -6303,7 +6205,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6317,7 +6219,7 @@
         "value": 92,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6331,7 +6233,7 @@
         "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6345,7 +6247,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6356,10 +6258,10 @@
         "lat": 47.8177,
         "lon": -93.1076,
         "unit": "AQI",
-        "value": 18,
+        "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6370,10 +6272,10 @@
         "lat": 33.869,
         "lon": -117.8903,
         "unit": "AQI",
-        "value": 25,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6384,10 +6286,10 @@
         "lat": 36.1111,
         "lon": -81.8114,
         "unit": "AQI",
-        "value": 33,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6401,7 +6303,7 @@
         "value": 7,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6412,10 +6314,10 @@
         "lat": 36.4181,
         "lon": -77.3973,
         "unit": "AQI",
-        "value": 37,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6426,10 +6328,10 @@
         "lat": 44.7637,
         "lon": -84.3567,
         "unit": "AQI",
-        "value": 42,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6440,10 +6342,10 @@
         "lat": 39.546,
         "lon": -75.9574,
         "unit": "AQI",
-        "value": 34,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6457,7 +6359,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6468,10 +6370,10 @@
         "lat": 46.1858,
         "lon": -68.7978,
         "unit": "AQI",
-        "value": 13,
+        "value": 9,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6485,7 +6387,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6496,10 +6398,10 @@
         "lat": 38.97,
         "lon": -84.66,
         "unit": "AQI",
-        "value": 39,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6513,7 +6415,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6527,7 +6429,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6541,7 +6443,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6552,10 +6454,10 @@
         "lat": 44.9119,
         "lon": -85.492,
         "unit": "AQI",
-        "value": 55,
+        "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6566,10 +6468,10 @@
         "lat": 47.9437,
         "lon": -95.6024,
         "unit": "AQI",
-        "value": 23,
+        "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6580,10 +6482,10 @@
         "lat": 45.4305,
         "lon": -88.8849,
         "unit": "AQI",
-        "value": 43,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6594,10 +6496,10 @@
         "lat": 45.9135,
         "lon": -91.281,
         "unit": "AQI",
-        "value": 41,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6611,7 +6513,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6625,7 +6527,7 @@
         "value": 50,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6639,7 +6541,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6653,7 +6555,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6667,7 +6569,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -6678,10 +6580,10 @@
         "lat": 34.448,
         "lon": -119.2313,
         "unit": "AQI",
-        "value": 35,
+        "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6692,10 +6594,10 @@
         "lat": 30.6913,
         "lon": -86.5917,
         "unit": "AQI",
-        "value": 31,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6709,7 +6611,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6723,7 +6625,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6734,10 +6636,10 @@
         "lat": 47.0292,
         "lon": -122.8213,
         "unit": "AQI",
-        "value": 15,
+        "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6748,10 +6650,10 @@
         "lat": 41.2655,
         "lon": -95.9836,
         "unit": "AQI",
-        "value": 51,
-        "category": "Moderate",
+        "value": 50,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6765,7 +6667,7 @@
         "value": 139,
         "category": "Unhealthy for Sensitive Groups",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6779,7 +6681,7 @@
         "value": 60,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -6793,7 +6695,7 @@
         "value": 40,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6807,7 +6709,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6818,10 +6720,10 @@
         "lat": 37.7719,
         "lon": -87.1112,
         "unit": "AQI",
-        "value": 41,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6832,11 +6734,25 @@
         "lat": 34.2524,
         "lon": -119.1432,
         "unit": "AQI",
-        "value": 55,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
+      },
+      {
+        "id": "US|KY|Paducah",
+        "country": "US",
+        "state": "KY",
+        "name": "Paducah",
+        "lat": 37.06,
+        "lon": -88.57,
+        "unit": "AQI",
+        "value": 42,
+        "category": "Good",
+        "source": "AirNow",
+        "observedAt": "12:00",
+        "timeZone": "CDT"
       },
       {
         "id": "US|NV|Pahrump",
@@ -6846,10 +6762,10 @@
         "lat": 36.2083,
         "lon": -115.9839,
         "unit": "AQI",
-        "value": 32,
+        "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6863,7 +6779,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6874,10 +6790,10 @@
         "lat": 34.5416,
         "lon": -119.7914,
         "unit": "AQI",
-        "value": 14,
+        "value": 15,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6888,10 +6804,10 @@
         "lat": 39.325,
         "lon": -81.5522,
         "unit": "AQI",
-        "value": 23,
+        "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6905,7 +6821,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6916,10 +6832,10 @@
         "lat": 33.447,
         "lon": -117.088,
         "unit": "AQI",
-        "value": 29,
+        "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "EST"
       },
       {
@@ -6933,7 +6849,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -6947,7 +6863,7 @@
         "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6961,7 +6877,7 @@
         "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -6972,10 +6888,10 @@
         "lat": 36.39,
         "lon": -78.9718,
         "unit": "AQI",
-        "value": 31,
+        "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -6986,10 +6902,10 @@
         "lat": 39.95,
         "lon": -75.151,
         "unit": "AQI",
-        "value": 41,
+        "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7003,7 +6919,7 @@
         "value": 50,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -7017,7 +6933,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7028,10 +6944,10 @@
         "lat": 37.48,
         "lon": -82.54,
         "unit": "AQI",
-        "value": 32,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7045,7 +6961,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7059,7 +6975,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7073,7 +6989,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7084,10 +7000,10 @@
         "lat": 34.4043,
         "lon": -118.8099,
         "unit": "AQI",
-        "value": 25,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7098,10 +7014,10 @@
         "lat": 41.832,
         "lon": -95.926,
         "unit": "AQI",
-        "value": 19,
+        "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7112,10 +7028,10 @@
         "lat": 35.6376,
         "lon": -77.3818,
         "unit": "AQI",
-        "value": 60,
+        "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7126,10 +7042,10 @@
         "lat": 40.4422,
         "lon": -79.8301,
         "unit": "AQI",
-        "value": 50,
-        "category": "Good",
+        "value": 54,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7143,7 +7059,7 @@
         "value": 24,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7157,7 +7073,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7171,7 +7087,7 @@
         "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7185,7 +7101,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7199,7 +7115,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7213,7 +7129,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7227,7 +7143,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7241,7 +7157,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7255,7 +7171,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -7269,7 +7185,7 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7283,7 +7199,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7297,7 +7213,7 @@
         "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7308,10 +7224,10 @@
         "lat": 41.8259,
         "lon": -71.4512,
         "unit": "AQI",
-        "value": 33,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7325,7 +7241,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7336,10 +7252,10 @@
         "lat": 38.2249,
         "lon": -104.5895,
         "unit": "AQI",
-        "value": 48,
+        "value": 50,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7350,10 +7266,10 @@
         "lat": 46.7245,
         "lon": -117.1801,
         "unit": "AQI",
-        "value": 42,
+        "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7367,7 +7283,7 @@
         "value": 12,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7381,7 +7297,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7395,7 +7311,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7409,7 +7325,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7423,7 +7339,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7434,10 +7350,10 @@
         "lat": 40.1786,
         "lon": -122.2347,
         "unit": "AQI",
-        "value": 27,
+        "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7448,10 +7364,10 @@
         "lat": 35.65,
         "lon": -120.38,
         "unit": "AQI",
-        "value": 37,
+        "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7465,7 +7381,7 @@
         "value": 75,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7479,7 +7395,7 @@
         "value": 75,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7490,10 +7406,10 @@
         "lat": 40.5497,
         "lon": -122.3792,
         "unit": "AQI",
-        "value": 31,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7504,10 +7420,10 @@
         "lat": 37.48,
         "lon": -122.22,
         "unit": "AQI",
-        "value": 17,
+        "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7521,7 +7437,7 @@
         "value": 58,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7532,10 +7448,10 @@
         "lat": 37.4736,
         "lon": -77.4073,
         "unit": "AQI",
-        "value": 35,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7549,7 +7465,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -7563,7 +7479,7 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "PST"
       },
       {
@@ -7577,7 +7493,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7591,7 +7507,7 @@
         "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7605,7 +7521,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7616,10 +7532,10 @@
         "lat": 43.9969,
         "lon": -92.4504,
         "unit": "AQI",
-        "value": 67,
+        "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7633,7 +7549,7 @@
         "value": 90,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7647,7 +7563,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7661,7 +7577,7 @@
         "value": 80,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7675,7 +7591,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7689,7 +7605,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7703,7 +7619,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "PST"
       },
       {
@@ -7717,7 +7633,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7731,7 +7647,7 @@
         "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7742,10 +7658,10 @@
         "lat": 35.6399,
         "lon": -80.5252,
         "unit": "AQI",
-        "value": 52,
-        "category": "Moderate",
+        "value": 48,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7759,7 +7675,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -7770,10 +7686,10 @@
         "lat": 33.9288,
         "lon": -118.2108,
         "unit": "AQI",
-        "value": 60,
+        "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7787,7 +7703,7 @@
         "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7801,7 +7717,7 @@
         "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7812,10 +7728,10 @@
         "lat": 33.6302,
         "lon": -117.675,
         "unit": "AQI",
-        "value": 52,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7826,10 +7742,10 @@
         "lat": 38.6332,
         "lon": -90.7075,
         "unit": "AQI",
-        "value": 46,
+        "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7843,7 +7759,7 @@
         "value": 15,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7854,10 +7770,10 @@
         "lat": 36.6947,
         "lon": -121.6222,
         "unit": "AQI",
-        "value": 33,
+        "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7871,7 +7787,7 @@
         "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7885,7 +7801,7 @@
         "value": 48,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -7899,7 +7815,7 @@
         "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -7910,10 +7826,10 @@
         "lat": 29.417,
         "lon": -98.484,
         "unit": "AQI",
-        "value": 66,
+        "value": 58,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -7924,10 +7840,10 @@
         "lat": 32.824,
         "lon": -117.199,
         "unit": "AQI",
-        "value": 55,
+        "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7938,10 +7854,10 @@
         "lat": 32.911,
         "lon": -116.876,
         "unit": "AQI",
-        "value": 41,
+        "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7952,10 +7868,10 @@
         "lat": 32.86,
         "lon": -117.027,
         "unit": "AQI",
-        "value": 51,
-        "category": "Moderate",
+        "value": 47,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7969,7 +7885,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7983,7 +7899,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -7994,10 +7910,10 @@
         "lat": 36.898,
         "lon": -108.342,
         "unit": "AQI",
-        "value": 33,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8008,10 +7924,10 @@
         "lat": 37.0881,
         "lon": -122.0844,
         "unit": "AQI",
-        "value": 34,
+        "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8022,10 +7938,10 @@
         "lat": 35.27,
         "lon": -120.66,
         "unit": "AQI",
-        "value": 44,
+        "value": 50,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8039,7 +7955,7 @@
         "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8053,7 +7969,7 @@
         "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8067,7 +7983,7 @@
         "value": 6,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -8081,7 +7997,7 @@
         "value": 61,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8092,10 +8008,10 @@
         "lat": 34.3833,
         "lon": -118.5283,
         "unit": "AQI",
-        "value": 46,
+        "value": 45,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8106,10 +8022,10 @@
         "lat": 36.9858,
         "lon": -121.9931,
         "unit": "AQI",
-        "value": 38,
+        "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8120,10 +8036,10 @@
         "lat": 35.6198,
         "lon": -106.0797,
         "unit": "AQI",
-        "value": 30,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8134,10 +8050,10 @@
         "lat": 34.9345,
         "lon": -120.5357,
         "unit": "AQI",
-        "value": 29,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8151,7 +8067,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8165,7 +8081,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8179,7 +8095,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8193,7 +8109,7 @@
         "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8207,7 +8123,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8221,7 +8137,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8232,10 +8148,10 @@
         "lat": 41.8756,
         "lon": -103.6581,
         "unit": "AQI",
-        "value": 15,
+        "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8246,10 +8162,10 @@
         "lat": 41.3363,
         "lon": -75.7274,
         "unit": "AQI",
-        "value": 33,
+        "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8263,7 +8179,7 @@
         "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8277,7 +8193,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8291,7 +8207,7 @@
         "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8305,7 +8221,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8319,7 +8235,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8333,7 +8249,7 @@
         "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8347,7 +8263,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8361,7 +8277,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8372,10 +8288,10 @@
         "lat": 42.9783,
         "lon": -112.455,
         "unit": "AQI",
-        "value": 15,
+        "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8386,10 +8302,10 @@
         "lat": 32.5364,
         "lon": -93.749,
         "unit": "AQI",
-        "value": 55,
+        "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8400,10 +8316,10 @@
         "lat": 34.2764,
         "lon": -118.6838,
         "unit": "AQI",
-        "value": 31,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8414,10 +8330,10 @@
         "lat": 42.5312,
         "lon": -96.3738,
         "unit": "AQI",
-        "value": 21,
+        "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8428,10 +8344,10 @@
         "lat": 43.5479,
         "lon": -96.7007,
         "unit": "AQI",
-        "value": 34,
+        "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8445,7 +8361,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8456,10 +8372,10 @@
         "lat": 38.4945,
         "lon": -121.2111,
         "unit": "AQI",
-        "value": 20,
+        "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8473,22 +8389,8 @@
         "value": 89,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
-        "timeZone": "CDT"
-      },
-      {
-        "id": "US|IN|South Bend",
-        "country": "US",
-        "state": "IN",
-        "name": "South Bend",
-        "lat": 41.6626,
-        "lon": -86.2975,
-        "unit": "AQI",
-        "value": 52,
-        "category": "Moderate",
-        "source": "AirNow",
         "observedAt": "12:00",
-        "timeZone": "EDT"
+        "timeZone": "CDT"
       },
       {
         "id": "US|MA|South Bristol-Plymouth",
@@ -8501,7 +8403,7 @@
         "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8512,10 +8414,10 @@
         "lat": 44.256,
         "lon": -94.094,
         "unit": "AQI",
-        "value": 69,
+        "value": 63,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8529,7 +8431,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8540,10 +8442,10 @@
         "lat": 33.8236,
         "lon": -118.1886,
         "unit": "AQI",
-        "value": 51,
+        "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8557,7 +8459,7 @@
         "value": 9,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8571,7 +8473,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8582,10 +8484,10 @@
         "lat": 42.4984,
         "lon": -83.3649,
         "unit": "AQI",
-        "value": 69,
+        "value": 70,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8599,7 +8501,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8610,10 +8512,10 @@
         "lat": 38.3815,
         "lon": -76.7801,
         "unit": "AQI",
-        "value": 34,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8624,10 +8526,10 @@
         "lat": 44.71,
         "lon": -93.25,
         "unit": "AQI",
-        "value": 69,
+        "value": 67,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8638,10 +8540,10 @@
         "lat": 37.298,
         "lon": -108.135,
         "unit": "AQI",
-        "value": 34,
+        "value": 40,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8652,10 +8554,10 @@
         "lat": 42.0513,
         "lon": -86.1446,
         "unit": "AQI",
-        "value": 23,
+        "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8666,10 +8568,10 @@
         "lat": 43.6615,
         "lon": -70.2177,
         "unit": "AQI",
-        "value": 32,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8683,7 +8585,7 @@
         "value": 74,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8697,7 +8599,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8708,10 +8610,10 @@
         "lat": 36.1796,
         "lon": -94.1166,
         "unit": "AQI",
-        "value": 55,
-        "category": "Moderate",
+        "value": 29,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8725,7 +8627,7 @@
         "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8736,10 +8638,10 @@
         "lat": 37.2619,
         "lon": -93.2981,
         "unit": "AQI",
-        "value": 51,
-        "category": "Moderate",
+        "value": 37,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8750,10 +8652,10 @@
         "lat": 45.5498,
         "lon": -94.1335,
         "unit": "AQI",
-        "value": 62,
+        "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8764,10 +8666,10 @@
         "lat": 39.9544,
         "lon": -94.849,
         "unit": "AQI",
-        "value": 43,
-        "category": "Good",
+        "value": 51,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8781,7 +8683,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8795,7 +8697,7 @@
         "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8809,7 +8711,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8823,7 +8725,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8834,10 +8736,10 @@
         "lat": 40.7934,
         "lon": -77.86,
         "unit": "AQI",
-        "value": 36,
+        "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8848,10 +8750,10 @@
         "lat": 40.4855,
         "lon": -106.8321,
         "unit": "AQI",
-        "value": 21,
+        "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -8862,10 +8764,10 @@
         "lat": 35.7858,
         "lon": -94.6726,
         "unit": "AQI",
-        "value": 30,
+        "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -8879,7 +8781,7 @@
         "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8893,7 +8795,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8904,10 +8806,10 @@
         "lat": 39.0402,
         "lon": -76.9777,
         "unit": "AQI",
-        "value": 38,
+        "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8918,10 +8820,10 @@
         "lat": 46.3203,
         "lon": -119.9981,
         "unit": "AQI",
-        "value": 41,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8932,10 +8834,10 @@
         "lat": 39.94,
         "lon": -76.623,
         "unit": "AQI",
-        "value": 47,
+        "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8949,7 +8851,7 @@
         "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8963,7 +8865,7 @@
         "value": 51,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -8977,7 +8879,7 @@
         "value": 2,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -8988,10 +8890,10 @@
         "lat": 47.1864,
         "lon": -122.4517,
         "unit": "AQI",
-        "value": 11,
+        "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9002,10 +8904,10 @@
         "lat": 39.166,
         "lon": -120.1488,
         "unit": "AQI",
-        "value": 66,
+        "value": 70,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9019,7 +8921,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9033,7 +8935,7 @@
         "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9044,10 +8946,10 @@
         "lat": 27.9291,
         "lon": -82.3092,
         "unit": "AQI",
-        "value": 47,
+        "value": 49,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9058,10 +8960,10 @@
         "lat": 36.3833,
         "lon": -105.5833,
         "unit": "AQI",
-        "value": 6,
+        "value": 14,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9075,7 +8977,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9086,10 +8988,10 @@
         "lat": 33.487,
         "lon": -117.144,
         "unit": "AQI",
-        "value": 39,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9100,10 +9002,10 @@
         "lat": 39.486,
         "lon": -87.401,
         "unit": "AQI",
-        "value": 19,
+        "value": 18,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9117,7 +9019,7 @@
         "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9131,7 +9033,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9145,7 +9047,7 @@
         "value": 59,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9159,7 +9061,7 @@
         "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9170,10 +9072,10 @@
         "lat": 34.2101,
         "lon": -118.8705,
         "unit": "AQI",
-        "value": 42,
+        "value": 46,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9187,7 +9089,7 @@
         "value": 12,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9201,7 +9103,7 @@
         "value": 15,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9215,7 +9117,7 @@
         "value": 82,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9229,7 +9131,7 @@
         "value": 43,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9243,7 +9145,7 @@
         "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9257,7 +9159,7 @@
         "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9271,7 +9173,7 @@
         "value": 40,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9282,10 +9184,10 @@
         "lat": 35.7744,
         "lon": -117.3722,
         "unit": "AQI",
-        "value": 36,
+        "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9299,7 +9201,7 @@
         "value": 33,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9313,7 +9215,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -9327,7 +9229,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9341,7 +9243,7 @@
         "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9352,10 +9254,10 @@
         "lat": 34.2576,
         "lon": -88.7034,
         "unit": "AQI",
-        "value": 26,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9369,7 +9271,7 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9380,10 +9282,10 @@
         "lat": 44.955,
         "lon": -93.185,
         "unit": "AQI",
-        "value": 63,
+        "value": 62,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9397,7 +9299,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9408,10 +9310,10 @@
         "lat": 48.3645,
         "lon": -120.1211,
         "unit": "AQI",
-        "value": 43,
-        "category": "Good",
+        "value": 52,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9422,10 +9324,10 @@
         "lat": 32.35,
         "lon": -95.3,
         "unit": "AQI",
-        "value": 55,
-        "category": "Moderate",
+        "value": 34,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9436,10 +9338,10 @@
         "lat": 39.1502,
         "lon": -123.2078,
         "unit": "AQI",
-        "value": 29,
+        "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9450,10 +9352,10 @@
         "lat": 34.9883,
         "lon": -80.5307,
         "unit": "AQI",
-        "value": 33,
+        "value": 36,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9464,10 +9366,10 @@
         "lat": 39.1557,
         "lon": -76.0535,
         "unit": "AQI",
-        "value": 34,
+        "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9481,7 +9383,7 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9492,10 +9394,10 @@
         "lat": 38.3525,
         "lon": -121.9617,
         "unit": "AQI",
-        "value": 11,
+        "value": 12,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9509,7 +9411,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9523,7 +9425,7 @@
         "value": 20,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9537,7 +9439,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9551,7 +9453,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9562,10 +9464,10 @@
         "lat": 34.5108,
         "lon": -117.3255,
         "unit": "AQI",
-        "value": 53,
-        "category": "Moderate",
+        "value": 48,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9576,10 +9478,10 @@
         "lat": 40.971,
         "lon": -95.044,
         "unit": "AQI",
-        "value": 53,
-        "category": "Moderate",
+        "value": 47,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9593,7 +9495,7 @@
         "value": 28,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9607,7 +9509,7 @@
         "value": 54,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9618,10 +9520,10 @@
         "lat": 34.1991,
         "lon": -118.5327,
         "unit": "AQI",
-        "value": 63,
+        "value": 64,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9635,7 +9537,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9646,10 +9548,10 @@
         "lat": 31.5558,
         "lon": -97.1309,
         "unit": "AQI",
-        "value": 60,
-        "category": "Moderate",
+        "value": 45,
+        "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9663,7 +9565,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "6:00",
+        "observedAt": "7:00",
         "timeZone": "HST"
       },
       {
@@ -9674,10 +9576,10 @@
         "lat": 35.878,
         "lon": -78.787,
         "unit": "AQI",
-        "value": 43,
+        "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9691,7 +9593,7 @@
         "value": 25,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9705,7 +9607,7 @@
         "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9719,7 +9621,7 @@
         "value": 44,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9733,7 +9635,7 @@
         "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9747,7 +9649,7 @@
         "value": 11,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9758,10 +9660,10 @@
         "lat": 42.496,
         "lon": -92.4,
         "unit": "AQI",
-        "value": 71,
+        "value": 70,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9775,7 +9677,7 @@
         "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9786,10 +9688,10 @@
         "lat": 40.734,
         "lon": -122.941,
         "unit": "AQI",
-        "value": 3,
+        "value": 0,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9803,7 +9705,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9814,10 +9716,10 @@
         "lat": 40.4273,
         "lon": -80.5925,
         "unit": "AQI",
-        "value": 49,
-        "category": "Good",
+        "value": 55,
+        "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9831,7 +9733,7 @@
         "value": 56,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -9845,7 +9747,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9856,10 +9758,10 @@
         "lat": 46.4603,
         "lon": -95.5234,
         "unit": "AQI",
-        "value": 68,
+        "value": 70,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -9873,7 +9775,7 @@
         "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9887,7 +9789,7 @@
         "value": 66,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9901,7 +9803,7 @@
         "value": 52,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -9912,10 +9814,10 @@
         "lat": 41.7631,
         "lon": -71.6711,
         "unit": "AQI",
-        "value": 19,
+        "value": 21,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9926,10 +9828,10 @@
         "lat": 44.0922,
         "lon": -70.169,
         "unit": "AQI",
-        "value": 20,
+        "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9940,10 +9842,10 @@
         "lat": 39.6246,
         "lon": -78.9097,
         "unit": "AQI",
-        "value": 36,
+        "value": 29,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9957,7 +9859,7 @@
         "value": 19,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9971,7 +9873,7 @@
         "value": 30,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -9985,7 +9887,7 @@
         "value": 27,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -9996,10 +9898,10 @@
         "lat": 46.4545,
         "lon": -88.4451,
         "unit": "AQI",
-        "value": 14,
+        "value": 13,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10010,10 +9912,10 @@
         "lat": 33.0325,
         "lon": -115.6225,
         "unit": "AQI",
-        "value": 31,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10027,7 +9929,7 @@
         "value": 38,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10038,10 +9940,10 @@
         "lat": 40.1147,
         "lon": -80.7008,
         "unit": "AQI",
-        "value": 20,
+        "value": 22,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10055,7 +9957,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -10066,10 +9968,10 @@
         "lat": 37.7011,
         "lon": -97.3139,
         "unit": "AQI",
-        "value": 54,
+        "value": 55,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -10080,10 +9982,10 @@
         "lat": 41.2412,
         "lon": -77.0011,
         "unit": "AQI",
-        "value": 33,
+        "value": 32,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10094,10 +9996,10 @@
         "lat": 39.4117,
         "lon": -123.3527,
         "unit": "AQI",
-        "value": 19,
+        "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10111,7 +10013,7 @@
         "value": 17,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "8:00",
+        "observedAt": "9:00",
         "timeZone": "PST"
       },
       {
@@ -10125,7 +10027,7 @@
         "value": 37,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10139,7 +10041,7 @@
         "value": 41,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10153,7 +10055,7 @@
         "value": 42,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -10164,10 +10066,10 @@
         "lat": 38.6784,
         "lon": -121.7741,
         "unit": "AQI",
-        "value": 16,
+        "value": 10,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10181,7 +10083,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -10195,7 +10097,7 @@
         "value": 26,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10209,7 +10111,7 @@
         "value": 53,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -10220,10 +10122,10 @@
         "lat": 42.2218,
         "lon": -96.6629,
         "unit": "AQI",
-        "value": 58,
+        "value": 57,
         "category": "Moderate",
         "source": "AirNow",
-        "observedAt": "11:00",
+        "observedAt": "12:00",
         "timeZone": "CDT"
       },
       {
@@ -10237,7 +10139,7 @@
         "value": 31,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10251,7 +10153,7 @@
         "value": 12,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10265,7 +10167,7 @@
         "value": 16,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10279,7 +10181,7 @@
         "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       },
       {
@@ -10290,10 +10192,10 @@
         "lat": 34.9392,
         "lon": -81.0283,
         "unit": "AQI",
-        "value": 31,
+        "value": 35,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10307,7 +10209,7 @@
         "value": 40,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10318,10 +10220,10 @@
         "lat": 41.2215,
         "lon": -80.7521,
         "unit": "AQI",
-        "value": 48,
+        "value": 47,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "12:00",
+        "observedAt": "13:00",
         "timeZone": "EDT"
       },
       {
@@ -10335,7 +10237,7 @@
         "value": 23,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10349,7 +10251,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "PDT"
       },
       {
@@ -10363,7 +10265,7 @@
         "value": 34,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "9:00",
+        "observedAt": "10:00",
         "timeZone": "MST"
       },
       {
@@ -10377,7 +10279,7 @@
         "value": 39,
         "category": "Good",
         "source": "AirNow",
-        "observedAt": "10:00",
+        "observedAt": "11:00",
         "timeZone": "MDT"
       }
     ]
