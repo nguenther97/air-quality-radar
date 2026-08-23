@@ -1,17 +1,10 @@
 {
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787326385716,
     "lastAlertedAt": 1787424496672,
     "issueNumber": 103
-  },
-  "FORECAST|US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 109
   },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
@@ -27,54 +20,12 @@
     "lastAlertedAt": 1787424496672,
     "issueNumber": 146
   },
-  "US|AZ|Gila River Indian Community": {
-    "region": "Gila River Indian Community, AZ",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 170
-  },
-  "US|WI|Northwoods East": {
-    "region": "Northwoods East, WI",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 171
-  },
   "US|WA|Omak": {
     "region": "Omak, WA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787468408375,
     "lastAlertedAt": 1787468408375,
     "issueNumber": 172
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 173
-  },
-  "US|AZ|Yuma": {
-    "region": "Yuma, AZ",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 174
-  },
-  "CA|LARCU|Norman Wells": {
-    "region": "Norman Wells, CA",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 175
-  },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 176
   },
   "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
@@ -90,11 +41,18 @@
     "lastAlertedAt": 1787468408375,
     "issueNumber": 178
   },
-  "CA-AB-Edmonton": {
-    "region": "Edmonton, AB",
+  "US|FL|Broward County": {
+    "region": "Broward County, FL",
     "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 179
+    "firstSeen": 1787490042816,
+    "lastAlertedAt": 1787490042816,
+    "issueNumber": 180
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles County, CA",
+    "tier": "watch",
+    "firstSeen": 1787490042816,
+    "lastAlertedAt": 1787490042816,
+    "issueNumber": 181
   }
 }
