@@ -411,5 +411,68 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787524171979
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 177,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|CA|North Orange CO",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|OH|Toledo",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|CA|W San Gabriel Vly",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787525458545
   }
 ]
