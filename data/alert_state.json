@@ -13,13 +13,6 @@
     "lastAlertedAt": 1787326385716,
     "issueNumber": 109
   },
-  "US|WA|Wenatchee": {
-    "region": "Wenatchee, WA",
-    "tier": "alert",
-    "firstSeen": 1787340817893,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 119
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "alert",
@@ -34,67 +27,74 @@
     "lastAlertedAt": 1787424496672,
     "issueNumber": 146
   },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
+  "US|AZ|Gila River Indian Community": {
+    "region": "Gila River Indian Community, AZ",
     "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 161
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 170
   },
-  "US|CA|C San Bernardino M": {
+  "US|WI|Northwoods East": {
+    "region": "Northwoods East, WI",
+    "tier": "watch",
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 171
+  },
+  "US|WA|Omak": {
+    "region": "Omak, WA",
+    "tier": "alert",
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 172
+  },
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
+    "tier": "alert",
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 173
+  },
+  "US|AZ|Yuma": {
+    "region": "Yuma, AZ",
+    "tier": "watch",
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 174
+  },
+  "CA|LARCU|Norman Wells": {
+    "region": "Norman Wells, CA",
+    "tier": "watch",
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 175
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 162
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 176
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 163
-  },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 164
-  },
-  "US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 165
-  },
-  "US|CA|Metro Riverside CO": {
+  "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
     "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 166
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 177
   },
-  "US|AZ|Phoenix": {
+  "FORECAST|US|AZ|Phoenix": {
     "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 167
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 178
   },
-  "US|CA|Sequoia and Kings Canyon National Parks": {
-    "region": "Sequoia and Kings Canyon National Parks, CA",
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
     "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 168
-  },
-  "US|CA|W San Gabriel Vly": {
-    "region": "W San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787450331088,
-    "lastAlertedAt": 1787450331088,
-    "issueNumber": 169
+    "firstSeen": 1787468408375,
+    "lastAlertedAt": 1787468408375,
+    "issueNumber": 179
   }
 }
