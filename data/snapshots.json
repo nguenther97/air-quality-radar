@@ -12,5 +12,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787500764844
+  },
+  {
+    "region_key": "US|IL|Aurora and Elgin",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787502828893
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787502828893
+  },
+  {
+    "region_key": "US|WA|Omak",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787502828893
   }
 ]
