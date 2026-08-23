@@ -6,20 +6,6 @@
     "lastAlertedAt": 1787424496672,
     "issueNumber": 103
   },
-  "FORECAST|US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 106
-  },
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787326385716,
-    "issueNumber": 107
-  },
   "FORECAST|US|CA|Santa Clarita Vly": {
     "region": "Santa Clarita Vly, CA",
     "tier": "watch",
@@ -34,33 +20,12 @@
     "lastAlertedAt": 1787424496672,
     "issueNumber": 119
   },
-  "FORECAST|US|CA|San Diego Foothills": {
-    "region": "San Diego Foothills, CA",
-    "tier": "watch",
-    "firstSeen": 1787363353042,
-    "lastAlertedAt": 1787363353042,
-    "issueNumber": 138
-  },
-  "US|OR|Madras": {
-    "region": "Madras, OR",
-    "tier": "watch",
-    "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787381914423,
-    "issueNumber": 140
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "alert",
     "firstSeen": 1787381914423,
     "lastAlertedAt": 1787424496672,
     "issueNumber": 144
-  },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787381914423,
-    "issueNumber": 145
   },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
@@ -69,74 +34,67 @@
     "lastAlertedAt": 1787424496672,
     "issueNumber": 146
   },
-  "US|ID|Kamiah - Nez Perce Reservation": {
-    "region": "Kamiah - Nez Perce Reservation, ID",
-    "tier": "alert",
-    "firstSeen": 1787403570182,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 148
-  },
-  "US|OR|Prineville": {
-    "region": "Prineville, OR",
+  "US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1787403570182,
-    "lastAlertedAt": 1787403570182,
-    "issueNumber": 150
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 161
   },
-  "FORECAST|US|AZ|Phoenix": {
+  "US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 162
+  },
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 163
+  },
+  "US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 164
+  },
+  "US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 165
+  },
+  "US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 166
+  },
+  "US|AZ|Phoenix": {
     "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1787403570182,
-    "lastAlertedAt": 1787403570182,
-    "issueNumber": 152
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 167
   },
-  "US|MN|Central Minnesota": {
-    "region": "Central Minnesota, MN",
+  "US|CA|Sequoia and Kings Canyon National Parks": {
+    "region": "Sequoia and Kings Canyon National Parks, CA",
     "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 154
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 168
   },
-  "US|MN|North Central Minnesota": {
-    "region": "North Central Minnesota, MN",
+  "US|CA|W San Gabriel Vly": {
+    "region": "W San Gabriel Vly, CA",
     "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 155
-  },
-  "CA|LARCU|Norman Wells": {
-    "region": "Norman Wells, CA",
-    "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 156
-  },
-  "CA|JAFNW|Kamloops": {
-    "region": "Kamloops, BC",
-    "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 157
-  },
-  "CA|JBHJG|South Okanagan": {
-    "region": "South Okanagan, CA",
-    "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 158
-  },
-  "US-CA-San Francisco Bay Area": {
-    "region": "San Francisco Bay Area, CA",
-    "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 159
-  },
-  "US-NV-Las Vegas": {
-    "region": "Las Vegas Valley, NV",
-    "tier": "watch",
-    "firstSeen": 1787424496672,
-    "lastAlertedAt": 1787424496672,
-    "issueNumber": 160
+    "firstSeen": 1787450331088,
+    "lastAlertedAt": 1787450331088,
+    "issueNumber": 169
   }
 }
