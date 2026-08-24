@@ -950,5 +950,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787572683369
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787576620431
+  },
+  {
+    "region_key": "US|IN|Indianapolis",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787576620431
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787576620431
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787576620431
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787576620431
   }
 ]
