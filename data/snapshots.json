@@ -1048,5 +1048,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787586396923
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787589983083
+  },
+  {
+    "region_key": "US|AZ|Miami",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787589983083
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787589983083
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787589983083
   }
 ]
