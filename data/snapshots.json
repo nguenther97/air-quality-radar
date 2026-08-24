@@ -1377,5 +1377,82 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787607352936
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|OR|Lyons",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|AZ|McDowell",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|FL|Pensacola",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|FL|Sarasota",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787608635164
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787608635164
   }
 ]
