@@ -1111,5 +1111,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787592982794
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787594497574
+  },
+  {
+    "region_key": "US|AZ|Miami",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787594497574
+  },
+  {
+    "region_key": "US|TX|San Antonio",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787594497574
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787594497574
+  },
+  {
+    "region_key": "US|WA|Sunnyside",
+    "value": 205,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787594497574
   }
 ]
