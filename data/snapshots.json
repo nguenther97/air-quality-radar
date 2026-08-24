@@ -824,5 +824,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787566396127
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787569417772
+  },
+  {
+    "region_key": "US|AZ|Gila River Indian Community",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787569417772
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787569417772
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787569417772
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787569417772
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 191,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787569417772
   }
 ]
