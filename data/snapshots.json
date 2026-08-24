@@ -593,5 +593,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787541039653
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787545397577
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 860,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787545397577
   }
 ]
