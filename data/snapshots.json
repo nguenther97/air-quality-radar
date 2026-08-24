@@ -1027,5 +1027,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787583004382
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787586396923
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787586396923
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787586396923
   }
 ]
