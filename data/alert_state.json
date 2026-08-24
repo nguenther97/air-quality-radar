@@ -1,16 +1,16 @@
 {
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787424496672,
+    "lastAlertedAt": 1787597879915,
     "issueNumber": 103
   },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787536597226,
+    "lastAlertedAt": 1787597879915,
     "issueNumber": 144
   },
   "FORECAST|US|CA|E San Gabriel Vly": {
@@ -36,17 +36,10 @@
   },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
+    "lastAlertedAt": 1787597879915,
     "issueNumber": 185
-  },
-  "FORECAST|US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
-    "issueNumber": 186
   },
   "FORECAST|US|CA|W San Gabriel Vly": {
     "region": "W San Gabriel Vly, CA",
@@ -55,53 +48,102 @@
     "lastAlertedAt": 1787510842416,
     "issueNumber": 187
   },
-  "US|MT|Great Falls": {
-    "region": "Great Falls, MT",
-    "tier": "alert",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 194
-  },
-  "US|WA|Moses Lake": {
-    "region": "Moses Lake, WA",
-    "tier": "watch",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 195
-  },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "watch",
-    "firstSeen": 1787577110252,
-    "lastAlertedAt": 1787577110252,
-    "issueNumber": 202
-  },
-  "US|WA|Quincy": {
-    "region": "Quincy, WA",
-    "tier": "watch",
-    "firstSeen": 1787577110252,
-    "lastAlertedAt": 1787577110252,
-    "issueNumber": 203
-  },
-  "US|WA|Walla Walla": {
-    "region": "Walla Walla, WA",
-    "tier": "watch",
-    "firstSeen": 1787577110252,
-    "lastAlertedAt": 1787577110252,
-    "issueNumber": 204
-  },
-  "CA|LBAMG|Yellowknife": {
-    "region": "Yellowknife, NT",
-    "tier": "watch",
-    "firstSeen": 1787577110252,
-    "lastAlertedAt": 1787577110252,
-    "issueNumber": 205
-  },
   "FORECAST|US|AZ|Phoenix": {
     "region": "Phoenix, AZ",
     "tier": "watch",
     "firstSeen": 1787577110252,
     "lastAlertedAt": 1787577110252,
     "issueNumber": 206
+  },
+  "US|WA|Ellensburg": {
+    "region": "Ellensburg, WA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 207
+  },
+  "US|AZ|Miami": {
+    "region": "Miami, AZ",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 208
+  },
+  "US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 209
+  },
+  "US|WA|Sunnyside": {
+    "region": "Sunnyside, WA",
+    "tier": "alert",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 210
+  },
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 211
+  },
+  "FORECAST|US|CA|Banning": {
+    "region": "Banning, CA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 212
+  },
+  "FORECAST|US|CA|Big Bear Lake": {
+    "region": "Big Bear Lake, CA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 213
+  },
+  "FORECAST|US|WA|Cascade of east King-Pierce counties": {
+    "region": "Cascade of east King-Pierce counties, WA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 214
+  },
+  "FORECAST|US|CA|Central LA CO": {
+    "region": "Central LA CO, CA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 215
+  },
+  "FORECAST|US|CA|E San Fernando Vly": {
+    "region": "E San Fernando Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 216
+  },
+  "FORECAST|US|WA|Everett-Marysville-Lynnwood": {
+    "region": "Everett-Marysville-Lynnwood, WA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 217
+  },
+  "FORECAST|US|CA|S San Gabriel Vly": {
+    "region": "S San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 218
+  },
+  "US-WA-Yakima": {
+    "region": "Yakima, WA",
+    "tier": "alert",
+    "firstSeen": 1787597879915,
+    "lastAlertedAt": 1787597879915,
+    "issueNumber": 219
   }
 }
