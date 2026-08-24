@@ -10,22 +10,15 @@
     "region": "C San Bernardino, CA",
     "tier": "alert",
     "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787424496672,
+    "lastAlertedAt": 1787536597226,
     "issueNumber": 144
   },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "alert",
     "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787424496672,
+    "lastAlertedAt": 1787536597226,
     "issueNumber": 146
-  },
-  "US|WA|Omak": {
-    "region": "Omak, WA",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 172
   },
   "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
@@ -40,20 +33,6 @@
     "firstSeen": 1787468408375,
     "lastAlertedAt": 1787468408375,
     "issueNumber": 178
-  },
-  "US|IL|Chicago": {
-    "region": "Chicago, IL",
-    "tier": "watch",
-    "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
-    "issueNumber": 182
-  },
-  "US|IL|South and West Suburbs (Chicago)": {
-    "region": "South and West Suburbs (Chicago), IL",
-    "tier": "watch",
-    "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
-    "issueNumber": 183
   },
   "FORECAST|US|GA|Atlanta": {
     "region": "Atlanta, GA",
@@ -83,11 +62,39 @@
     "lastAlertedAt": 1787510842416,
     "issueNumber": 187
   },
-  "US-MN-Minneapolis-Saint Paul": {
-    "region": "Minneapolis-Saint Paul, MN",
+  "US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
-    "issueNumber": 188
+    "firstSeen": 1787536597226,
+    "lastAlertedAt": 1787536597226,
+    "issueNumber": 189
+  },
+  "US|CA|Coachella Vly": {
+    "region": "Coachella Vly, CA",
+    "tier": "alert",
+    "firstSeen": 1787536597226,
+    "lastAlertedAt": 1787536597226,
+    "issueNumber": 190
+  },
+  "US|OK|Oklahoma City": {
+    "region": "Oklahoma City, OK",
+    "tier": "watch",
+    "firstSeen": 1787536597226,
+    "lastAlertedAt": 1787536597226,
+    "issueNumber": 191
+  },
+  "US-CA-Central Los Angeles": {
+    "region": "Central Los Angeles County, CA",
+    "tier": "alert",
+    "firstSeen": 1787536597226,
+    "lastAlertedAt": 1787536597226,
+    "issueNumber": 192
+  },
+  "US-CA-East San Fernando Valley": {
+    "region": "East San Fernando Valley, CA",
+    "tier": "alert",
+    "firstSeen": 1787536597226,
+    "lastAlertedAt": 1787536597226,
+    "issueNumber": 193
   }
 }
