@@ -558,5 +558,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787528920188
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787535995854
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 354,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787535995854
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787535995854
   }
 ]
