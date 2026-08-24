@@ -1209,5 +1209,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787600129964
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787601502612
+  },
+  {
+    "region_key": "US|AZ|Miami",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787601502612
+  },
+  {
+    "region_key": "US|WA|Sunnyside",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787601502612
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787601502612
   }
 ]
