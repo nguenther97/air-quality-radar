@@ -635,5 +635,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787548835008
+  },
+  {
+    "region_key": "US|AZ|Gila River Indian Community",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787551516042
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787551516042
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787551516042
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 2031,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787551516042
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787551516042
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 994,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787551516042
   }
 ]
