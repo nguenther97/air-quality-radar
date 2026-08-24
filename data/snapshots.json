@@ -1146,5 +1146,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787594497574
+  },
+  {
+    "region_key": "US|WA|Ellensburg",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787597456620
+  },
+  {
+    "region_key": "US|AZ|Miami",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787597456620
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787597456620
+  },
+  {
+    "region_key": "US|WA|Sunnyside",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787597456620
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787597456620
   }
 ]
