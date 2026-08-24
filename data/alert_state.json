@@ -8,7 +8,7 @@
   },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787381914423,
     "lastAlertedAt": 1787536597226,
     "issueNumber": 144
@@ -64,51 +64,44 @@
   },
   "US|WA|Moses Lake": {
     "region": "Moses Lake, WA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787555948797,
     "lastAlertedAt": 1787555948797,
     "issueNumber": 195
   },
-  "US|AZ|Phoenix": {
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
+    "tier": "watch",
+    "firstSeen": 1787577110252,
+    "lastAlertedAt": 1787577110252,
+    "issueNumber": 202
+  },
+  "US|WA|Quincy": {
+    "region": "Quincy, WA",
+    "tier": "watch",
+    "firstSeen": 1787577110252,
+    "lastAlertedAt": 1787577110252,
+    "issueNumber": 203
+  },
+  "US|WA|Walla Walla": {
+    "region": "Walla Walla, WA",
+    "tier": "watch",
+    "firstSeen": 1787577110252,
+    "lastAlertedAt": 1787577110252,
+    "issueNumber": 204
+  },
+  "CA|LBAMG|Yellowknife": {
+    "region": "Yellowknife, NT",
+    "tier": "watch",
+    "firstSeen": 1787577110252,
+    "lastAlertedAt": 1787577110252,
+    "issueNumber": 205
+  },
+  "FORECAST|US|AZ|Phoenix": {
     "region": "Phoenix, AZ",
-    "tier": "alert",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 196
-  },
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
     "tier": "watch",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 197
-  },
-  "US|OR|Sisters": {
-    "region": "Sisters, OR",
-    "tier": "watch",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 198
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 199
-  },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
-    "tier": "watch",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 200
-  },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
-    "tier": "watch",
-    "firstSeen": 1787555948797,
-    "lastAlertedAt": 1787555948797,
-    "issueNumber": 201
+    "firstSeen": 1787577110252,
+    "lastAlertedAt": 1787577110252,
+    "issueNumber": 206
   }
 }
