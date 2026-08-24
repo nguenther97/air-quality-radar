@@ -719,5 +719,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787555693280
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 173,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787559123683
+  },
+  {
+    "region_key": "US|AZ|Miami",
+    "value": 146,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787559123683
+  },
+  {
+    "region_key": "US|WA|Moses Lake",
+    "value": 146,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787559123683
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 745,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787559123683
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787559123683
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787559123683
   }
 ]
