@@ -579,5 +579,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787535995854
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 560,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787541039653
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787541039653
   }
 ]
