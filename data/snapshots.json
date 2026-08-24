@@ -1531,5 +1531,82 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787610821402
+  },
+  {
+    "region_key": "US|ID|Boise",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|OR|Lyons",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|CT|Madison",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|AZ|McDowell",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|FL|Sarasota",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787612151909
   }
 ]
