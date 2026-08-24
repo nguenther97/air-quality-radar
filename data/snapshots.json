@@ -866,5 +866,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787569417772
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787571410150
+  },
+  {
+    "region_key": "US|TX|Brownsville-McAllen",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787571410150
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787571410150
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787571410150
+  },
+  {
+    "region_key": "US|OR|Sisters",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787571410150
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787571410150
   }
 ]
