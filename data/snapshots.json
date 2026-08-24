@@ -985,5 +985,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787576620431
+  },
+  {
+    "region_key": "US|MT|Great Falls",
+    "value": 138,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787579794823
+  },
+  {
+    "region_key": "US|IN|Indianapolis",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787579794823
+  },
+  {
+    "region_key": "US|WA|Quincy",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787579794823
+  },
+  {
+    "region_key": "US|WA|Walla Walla",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787579794823
   }
 ]
