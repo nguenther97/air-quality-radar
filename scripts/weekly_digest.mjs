@@ -41,15 +41,15 @@ async function getCompetitorPulse() {
   const stream = client.messages.stream({
     model: 'claude-sonnet-5',
     max_tokens: 800,
-    tools: [{ type: 'web_search_20260209', name: 'web_search', max_uses: 5 }],
+    tools: [{ type: 'web_search_20260209', name: 'web_search', max_uses: 2 }],
     messages: [
       {
         role: 'user',
         content: `You are writing a "competitor pulse" paragraph for a weekly internal email at Alen Air, an air purifier brand. The audience is marketing, paid media, and the CEO.
 
-Search for news from the past 7 days about how competitors in the air purifier or air quality space are using air quality data for marketing, advertising, or consumer campaigns. Companies to watch: IQAir, Dyson, Blueair, Levoit, Winix, Coway, Molekule, BreezoMeter, PurpleAir, AirNow.
+Do ONE web search covering recent news about air purifier competitors and air quality marketing. Search for: "air purifier IQAir Dyson Blueair Levoit Coway marketing campaign 2026"
 
-Write 2-4 sentences in plain English. Be specific — name the company and what they did. If nothing notable happened this week, say "Nothing notable this week in the competitive landscape." Do not use bullet points.`,
+Write 2-4 sentences in plain English summarizing anything notable from the past 7 days. Be specific — name the company and what they did. If nothing notable happened this week, say "Nothing notable this week in the competitive landscape." Do not use bullet points. Use at most 1 search.`,
       },
     ],
   });
