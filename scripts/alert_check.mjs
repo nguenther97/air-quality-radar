@@ -5,6 +5,7 @@ import Anthropic from '@anthropic-ai/sdk';
 
 import { parseAirNow, parseAirNowForecast } from './lib/airnow.mjs';
 import { parseCanadaAQHI, parseCanadaAQHIForecast } from './lib/canada.mjs';
+import { parseWaqi } from './lib/waqi.mjs';
 import { classify } from './lib/metrics.mjs';
 import { buildPopulationIndex, matchPopulation } from './lib/population.mjs';
 import { createIssue, addComment, closeIssue } from './lib/github.mjs';
@@ -15,6 +16,8 @@ const REALERT_WINDOW_MS = 24 * 60 * 60 * 1000;
 const AIRNOW_URL = 'https://files.airnowtech.org/airnow/today/reportingarea.dat';
 const CANADA_URL = 'https://api.weather.gc.ca/collections/aqhi-observations-realtime/items?f=json&limit=2000&latest=true';
 const CANADA_FORECAST_URL = 'https://api.weather.gc.ca/collections/aqhi-forecasts-realtime/items?f=json&limit=2000';
+const WAQI_TOKEN = process.env.WAQI_TOKEN ?? '';
+const WAQI_URL = `https://api.waqi.info/v2/map/bounds/?latlng=24,-130,60,-55&networks=all&token=${WAQI_TOKEN}`;
 const FETCH_TIMEOUT_MS = 30_000;
 const TIER_RANK = { ignore: 0, watch: 1, alert: 2 };
 
@@ -103,13 +106,17 @@ async function fetchText(url) {
 
 async function fetchDeterministicReadings() {
   const now = Date.now();
-  const [airnowRaw, canadaRaw, canadaForecastRaw] = await Promise.all([
+  const [airnowRaw, canadaRaw, waqiRaw, canadaForecastRaw] = await Promise.all([
     fetchText(AIRNOW_URL).catch((err) => {
       console.error(`AirNow fetch failed: ${err.message}`);
       return null;
     }),
     fetchText(CANADA_URL).catch((err) => {
       console.error(`Environment Canada fetch failed: ${err.message}`);
+      return null;
+    }),
+    fetchText(WAQI_URL).catch((err) => {
+      console.error(`WAQI fetch failed: ${err.message}`);
       return null;
     }),
     fetchText(CANADA_FORECAST_URL).catch((err) => {
@@ -121,6 +128,7 @@ async function fetchDeterministicReadings() {
   const observed = [
     ...(airnowRaw ? parseAirNow(airnowRaw) : []),
     ...(canadaRaw ? parseCanadaAQHI(JSON.parse(canadaRaw)) : []),
+    ...(waqiRaw ? parseWaqi(waqiRaw) : []),
   ].map((r) => ({ ...r, tier: classify(r.unit, r.value) }));
 
   const cities = await readJson('data/cities_us_ca.json', []);
