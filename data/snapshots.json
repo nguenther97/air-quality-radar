@@ -1,26 +1,5 @@
 [
   {
-    "region_key": "US|IL|Chicago",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787510341287
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787510341287
-  },
-  {
-    "region_key": "US|IL|South and West Suburbs (Chicago)",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787510341287
-  },
-  {
     "region_key": "US|IL|South and West Suburbs (Chicago)",
     "value": 106,
     "unit": "AQI",
@@ -2140,5 +2119,152 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787680854639
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "US|ID|Kamiah - Nez Perce Reservation",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "US|OK|McAlester",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "US|OK|Tulsa",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "CA|JCVCC|Eastern Fraser Valley",
+    "value": 11,
+    "unit": "AQHI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|-470485",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|134",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|10949",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|4223",
+    "value": 177,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|4216",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|5305",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|-1340200",
+    "value": 173,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|-398764",
+    "value": 414,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|7367",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|10709",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|4222",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
+  },
+  {
+    "region_key": "WAQI|-524473",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787683749889
   }
 ]
