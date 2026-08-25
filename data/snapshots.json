@@ -1902,5 +1902,12 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787666116559
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787669557738
   }
 ]
