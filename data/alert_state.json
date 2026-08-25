@@ -97,33 +97,12 @@
     "lastAlertedAt": 1787622693657,
     "issueNumber": 227
   },
-  "FORECAST|US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 228
-  },
   "FORECAST|US|CA|Simi Valley": {
     "region": "Simi Valley, CA",
     "tier": "watch",
     "firstSeen": 1787622693657,
     "lastAlertedAt": 1787622693657,
     "issueNumber": 229
-  },
-  "US|TX|El Paso": {
-    "region": "El Paso, TX",
-    "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 230
-  },
-  "US|AZ|Rillito": {
-    "region": "Rillito, AZ",
-    "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 231
   },
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
@@ -153,32 +132,18 @@
     "lastAlertedAt": 1787641634136,
     "issueNumber": 235
   },
-  "US-TX-Houston": {
-    "region": "Houston, TX",
-    "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 236
-  },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 237
-  },
-  "US-NV-Las Vegas": {
-    "region": "Las Vegas, NV",
-    "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 238
-  },
   "US-CA-Fresno": {
     "region": "Fresno, CA",
     "tier": "watch",
     "firstSeen": 1787641634136,
     "lastAlertedAt": 1787641634136,
     "issueNumber": 239
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "alert",
+    "firstSeen": 1787663432546,
+    "lastAlertedAt": 1787663432546,
+    "issueNumber": 240
   }
 }
