@@ -74,7 +74,7 @@ h2{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(--mute
   <footer class="foot">Last updated <span id="asOf"></span> · Sources: AirNow (US), Environment Canada AQHI (Canada) · Population data from <a href="https://simplemaps.com/data/world-cities">SimpleMaps</a> (CC BY 4.0)</footer>
 </div>
 
-<script type="application/json" id="aqr-data">{"generatedAt":1787662793158,"sourceStatus":[{"source":"airnow","ok":true},{"source":"canada","ok":true}],"readings":[],"topOpportunities":[]}</script>
+<script type="application/json" id="aqr-data">{"generatedAt":1787666116559,"sourceStatus":[{"source":"airnow","ok":true},{"source":"canada","ok":true}],"readings":[{"id":"US|TX|Houston-Galveston-Brazoria","country":"US","state":"TX","name":"Houston-Galveston-Brazoria","lat":29.751,"lon":-95.351,"unit":"AQI","value":110,"category":"Unhealthy for Sensitive Groups","source":"AirNow","observedAt":"8:00","timeZone":"CDT","tier":"watch","population":6227666,"populationMatch":"nearest","forecastNextDay":null,"trend":"new","elevatedHours":39.42905}],"topOpportunities":[{"id":"US|TX|Houston-Galveston-Brazoria","country":"US","state":"TX","name":"Houston-Galveston-Brazoria","lat":29.751,"lon":-95.351,"unit":"AQI","value":110,"category":"Unhealthy for Sensitive Groups","source":"AirNow","observedAt":"8:00","timeZone":"CDT","tier":"watch","population":6227666,"populationMatch":"nearest","forecastNextDay":null,"trend":"new","elevatedHours":39.42905,"score":0.29587245822140007}]}</script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script>
 const DATA = JSON.parse(document.getElementById('aqr-data').textContent);

@@ -1895,5 +1895,12 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787641136606
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787666116559
   }
 ]
