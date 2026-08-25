@@ -1811,5 +1811,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787627163865
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787627163865
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787627163865
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787627163865
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787627163865
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787627163865
   }
 ]
