@@ -1,11 +1,4 @@
 {
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "alert",
-    "firstSeen": 1787326385716,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 103
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "alert",
@@ -19,13 +12,6 @@
     "firstSeen": 1787381914423,
     "lastAlertedAt": 1787536597226,
     "issueNumber": 146
-  },
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1787468408375,
-    "lastAlertedAt": 1787468408375,
-    "issueNumber": 177
   },
   "FORECAST|US|GA|Atlanta": {
     "region": "Atlanta, GA",
@@ -54,41 +40,6 @@
     "firstSeen": 1787577110252,
     "lastAlertedAt": 1787577110252,
     "issueNumber": 206
-  },
-  "US|WA|Ellensburg": {
-    "region": "Ellensburg, WA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 207
-  },
-  "US|AZ|Miami": {
-    "region": "Miami, AZ",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 208
-  },
-  "US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 209
-  },
-  "US|WA|Sunnyside": {
-    "region": "Sunnyside, WA",
-    "tier": "alert",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 210
-  },
-  "US|WA|Wenatchee": {
-    "region": "Wenatchee, WA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 211
   },
   "FORECAST|US|CA|Banning": {
     "region": "Banning, CA",
@@ -139,11 +90,74 @@
     "lastAlertedAt": 1787597879915,
     "issueNumber": 218
   },
-  "US-WA-Yakima": {
-    "region": "Yakima, WA",
+  "US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 220
+  },
+  "US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 221
+  },
+  "US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
     "tier": "alert",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 219
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 222
+  },
+  "US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 223
+  },
+  "US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 224
+  },
+  "US|OK|Oklahoma City": {
+    "region": "Oklahoma City, OK",
+    "tier": "alert",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 225
+  },
+  "US|OK|Woodward": {
+    "region": "Woodward, OK",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 226
+  },
+  "FORECAST|US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 227
+  },
+  "FORECAST|US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 228
+  },
+  "FORECAST|US|CA|Simi Valley": {
+    "region": "Simi Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1787622693657,
+    "lastAlertedAt": 1787622693657,
+    "issueNumber": 229
   }
 }
