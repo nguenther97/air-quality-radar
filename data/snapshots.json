@@ -1,41 +1,6 @@
 [
   {
     "region_key": "US|IL|Aurora and Elgin",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787504098000
-  },
-  {
-    "region_key": "US|CA|Border Area",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787504098000
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787504098000
-  },
-  {
-    "region_key": "US|IL|Aurora and Elgin",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787505990347
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787505990347
-  },
-  {
-    "region_key": "US|IL|Aurora and Elgin",
     "value": 111,
     "unit": "AQI",
     "tier": "watch",
@@ -1888,5 +1853,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787676357882
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787679428648
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787679428648
+  },
+  {
+    "region_key": "US|OK|McAlester",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787679428648
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 145,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787679428648
   }
 ]
