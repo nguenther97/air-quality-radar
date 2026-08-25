@@ -4,20 +4,6 @@
     "value": 106,
     "unit": "AQI",
     "tier": "watch",
-    "captured_at": 1787513244242
-  },
-  {
-    "region_key": "US|OH|Toledo",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787513244242
-  },
-  {
-    "region_key": "US|IL|South and West Suburbs (Chicago)",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
     "captured_at": 1787514455080
   },
   {
@@ -2266,5 +2252,180 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787683749889
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|ID|Juliaetta (seasonal)",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|ID|Kamiah - Nez Perce Reservation",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|ID|Lewiston",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|OK|Tulsa",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "CA|JCVCC|Eastern Fraser Valley",
+    "value": 11,
+    "unit": "AQHI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|5307",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-524473",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-524686",
+    "value": 175,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-524527",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 197,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-398764",
+    "value": 431,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-1340200",
+    "value": 176,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|4223",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|5489",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|10709",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|162",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|4216",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|-470485",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787686659795
+  },
+  {
+    "region_key": "WAQI|9298",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787686659795
   }
 ]
