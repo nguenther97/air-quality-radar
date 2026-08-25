@@ -1762,5 +1762,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787615370733
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787622095590
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787622095590
   }
 ]
