@@ -13,13 +13,6 @@
     "lastAlertedAt": 1787641634136,
     "issueNumber": 146
   },
-  "FORECAST|US|GA|Atlanta": {
-    "region": "Atlanta, GA",
-    "tier": "watch",
-    "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
-    "issueNumber": 184
-  },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "alert",
@@ -55,13 +48,6 @@
     "lastAlertedAt": 1787597879915,
     "issueNumber": 213
   },
-  "FORECAST|US|WA|Cascade of east King-Pierce counties": {
-    "region": "Cascade of east King-Pierce counties, WA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 214
-  },
   "FORECAST|US|CA|Central LA CO": {
     "region": "Central LA CO, CA",
     "tier": "watch",
@@ -75,13 +61,6 @@
     "firstSeen": 1787597879915,
     "lastAlertedAt": 1787597879915,
     "issueNumber": 216
-  },
-  "FORECAST|US|WA|Everett-Marysville-Lynnwood": {
-    "region": "Everett-Marysville-Lynnwood, WA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 217
   },
   "FORECAST|US|CA|S San Gabriel Vly": {
     "region": "S San Gabriel Vly, CA",
@@ -125,25 +104,207 @@
     "lastAlertedAt": 1787641634136,
     "issueNumber": 234
   },
-  "FORECAST|US|OK|Oklahoma City": {
+  "US|ID|Idaho City": {
+    "region": "Idaho City, ID",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 241
+  },
+  "US|ID|Kamiah - Nez Perce Reservation": {
+    "region": "Kamiah - Nez Perce Reservation, ID",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 242
+  },
+  "US|OK|McAlester": {
+    "region": "McAlester, OK",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 243
+  },
+  "US|OK|Oklahoma City": {
     "region": "Oklahoma City, OK",
     "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 235
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 244
   },
-  "US-CA-Fresno": {
-    "region": "Fresno, CA",
+  "US|OK|Tulsa": {
+    "region": "Tulsa, OK",
     "tier": "watch",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
-    "issueNumber": 239
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 245
   },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
     "tier": "alert",
-    "firstSeen": 1787663432546,
-    "lastAlertedAt": 1787663432546,
-    "issueNumber": 240
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 246
+  },
+  "CA|JCVCC|Eastern Fraser Valley": {
+    "region": "Eastern Fraser Valley, BC",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 247
+  },
+  "WAQI|4223": {
+    "region": "Hope Airport, British Comlumbia, Canada, BC",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 248
+  },
+  "WAQI|10949": {
+    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 249
+  },
+  "WAQI|-470485": {
+    "region": "Cle Elum, WA",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 250
+  },
+  "WAQI|134": {
+    "region": "Dexter SE, Pullman, Washington, USA, WA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 251
+  },
+  "WAQI|10709": {
+    "region": "Buffalo Viewpoint, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 252
+  },
+  "WAQI|-398764": {
+    "region": "Big Sur Ranger Station, CA",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 253
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 254
+  },
+  "WAQI|4222": {
+    "region": "Chilliwack Airport, British Comlumbia, Canada, BC",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 255
+  },
+  "WAQI|-1340200": {
+    "region": "Wenatchee, WA",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 256
+  },
+  "WAQI|7367": {
+    "region": "McAlester, Oklahoma, USA, US",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 257
+  },
+  "WAQI|4216": {
+    "region": "Abbotsford A Columbia Street, British Comlumbia, Canada, BC",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 258
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 259
+  },
+  "WAQI|-524473": {
+    "region": "High Level, Alberta, CA",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 260
+  },
+  "WAQI|5305": {
+    "region": "Idaho City, Idaho, USA, ID",
+    "tier": "alert",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 261
+  },
+  "FORECAST|US|CA|Brawley": {
+    "region": "Brawley, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 262
+  },
+  "FORECAST|US|CA|Calexico": {
+    "region": "Calexico, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 263
+  },
+  "FORECAST|US|CA|El Centro": {
+    "region": "El Centro, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 264
+  },
+  "FORECAST|US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 265
+  },
+  "FORECAST|US|CA|Niland": {
+    "region": "Niland, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 266
+  },
+  "FORECAST|US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 267
+  },
+  "FORECAST|US|CA|W San Fernando Vly": {
+    "region": "W San Fernando Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 268
+  },
+  "FORECAST|US|CA|Westmorland": {
+    "region": "Westmorland, CA",
+    "tier": "watch",
+    "firstSeen": 1787684155412,
+    "lastAlertedAt": 1787684155412,
+    "issueNumber": 269
   }
 }
