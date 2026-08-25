@@ -1853,5 +1853,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787627163865
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787630126168
+  },
+  {
+    "region_key": "US|GA|Macon",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787630126168
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787630126168
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787630126168
   }
 ]
