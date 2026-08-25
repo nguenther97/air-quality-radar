@@ -1881,5 +1881,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787630126168
+  },
+  {
+    "region_key": "US|TX|El Paso",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787641136606
+  },
+  {
+    "region_key": "US|AZ|Rillito",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787641136606
   }
 ]
