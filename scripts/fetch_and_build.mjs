@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 
 import { parseAirNow, parseAirNowForecast } from './lib/airnow.mjs';
 import { parseCanadaAQHI, parseCanadaAQHIForecast } from './lib/canada.mjs';
+import { parseWaqi } from './lib/waqi.mjs';
 import { buildPopulationIndex, matchPopulation } from './lib/population.mjs';
 import {
   classify, pruneSnapshots, appendSnapshots, computeTrend, computeElevatedHours, topOpportunities,
@@ -14,6 +15,8 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const AIRNOW_URL = 'https://files.airnowtech.org/airnow/today/reportingarea.dat';
 const CANADA_URL = 'https://api.weather.gc.ca/collections/aqhi-observations-realtime/items?f=json&limit=2000&latest=true';
 const CANADA_FORECAST_URL = 'https://api.weather.gc.ca/collections/aqhi-forecasts-realtime/items?f=json&limit=2000';
+const WAQI_TOKEN = process.env.WAQI_TOKEN ?? '';
+const WAQI_URL = `https://api.waqi.info/v2/map/bounds/?latlng=24,-130,60,-55&networks=all&token=${WAQI_TOKEN}`;
 const FETCH_TIMEOUT_MS = 30_000;
 
 async function fetchText(url) {
@@ -56,9 +59,10 @@ async function main() {
   const cities = await readJson('data/cities_us_ca.json', []);
   const popIndex = buildPopulationIndex(cities);
 
-  const [airnow, canada, canadaForecastRaw] = await Promise.all([
+  const [airnow, canada, waqi, canadaForecastRaw] = await Promise.all([
     fetchSource('airnow', AIRNOW_URL, parseAirNow, cache),
-    fetchSource('canada', CANADA_URL, parseCanadaAQHI, cache),
+    fetchSource('canada', CANADA_URL, (raw) => parseCanadaAQHI(JSON.parse(raw)), cache),
+    fetchSource('waqi', WAQI_URL, parseWaqi, cache),
     fetchText(CANADA_FORECAST_URL).catch(() => null),
   ]);
 
@@ -73,7 +77,7 @@ async function main() {
     forecastById.set(f.id, f);
   }
 
-  let readings = [...airnow.readings, ...canada.readings];
+  let readings = [...airnow.readings, ...canada.readings, ...waqi.readings];
   readings = readings.map((r) => {
     const tier = classify(r.unit, r.value);
     const pop = matchPopulation(r, popIndex);
@@ -102,7 +106,7 @@ async function main() {
 
   const dashboardData = {
     generatedAt: now,
-    sourceStatus: [airnow.status, canada.status],
+    sourceStatus: [airnow.status, canada.status, waqi.status],
     readings: readings
       .filter((r) => r.tier !== 'ignore')
       .sort((a, b) => (b.tier === 'alert') - (a.tier === 'alert') || b.value - a.value),
