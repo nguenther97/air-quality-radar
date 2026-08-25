@@ -10,7 +10,7 @@
     "region": "E San Gabriel Vly, CA",
     "tier": "alert",
     "firstSeen": 1787381914423,
-    "lastAlertedAt": 1787536597226,
+    "lastAlertedAt": 1787641634136,
     "issueNumber": 146
   },
   "FORECAST|US|GA|Atlanta": {
@@ -90,55 +90,6 @@
     "lastAlertedAt": 1787597879915,
     "issueNumber": 218
   },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 220
-  },
-  "US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 221
-  },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "alert",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 222
-  },
-  "US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 223
-  },
-  "US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 224
-  },
-  "US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
-    "tier": "alert",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 225
-  },
-  "US|OK|Woodward": {
-    "region": "Woodward, OK",
-    "tier": "watch",
-    "firstSeen": 1787622693657,
-    "lastAlertedAt": 1787622693657,
-    "issueNumber": 226
-  },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
@@ -159,5 +110,75 @@
     "firstSeen": 1787622693657,
     "lastAlertedAt": 1787622693657,
     "issueNumber": 229
+  },
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 230
+  },
+  "US|AZ|Rillito": {
+    "region": "Rillito, AZ",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 231
+  },
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "alert",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 232
+  },
+  "FORECAST|US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 233
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 234
+  },
+  "FORECAST|US|OK|Oklahoma City": {
+    "region": "Oklahoma City, OK",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 235
+  },
+  "US-TX-Houston": {
+    "region": "Houston, TX",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 236
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 237
+  },
+  "US-NV-Las Vegas": {
+    "region": "Las Vegas, NV",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 238
+  },
+  "US-CA-Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1787641634136,
+    "lastAlertedAt": 1787641634136,
+    "issueNumber": 239
   }
 }
