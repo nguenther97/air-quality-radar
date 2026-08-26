@@ -59,57 +59,15 @@
     "region": "E San Bernardino, CA",
     "tier": "alert",
     "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787641634136,
+    "lastAlertedAt": 1787728061055,
     "issueNumber": 232
-  },
-  "US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
-    "tier": "watch",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 244
-  },
-  "US|OK|Tulsa": {
-    "region": "Tulsa, OK",
-    "tier": "watch",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 245
-  },
-  "CA|JCVCC|Eastern Fraser Valley": {
-    "region": "Eastern Fraser Valley, BC",
-    "tier": "watch",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 247
   },
   "WAQI|4223": {
     "region": "Hope Airport, British Comlumbia, Canada, BC",
-    "tier": "alert",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 248
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "alert",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 254
-  },
-  "WAQI|4222": {
-    "region": "Chilliwack Airport, British Comlumbia, Canada, BC",
-    "tier": "alert",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 255
-  },
-  "WAQI|4216": {
-    "region": "Abbotsford A Columbia Street, British Comlumbia, Canada, BC",
     "tier": "watch",
     "firstSeen": 1787684155412,
     "lastAlertedAt": 1787684155412,
-    "issueNumber": 258
+    "issueNumber": 248
   },
   "FORECAST|US|CA|Brawley": {
     "region": "Brawley, CA",
@@ -169,87 +127,17 @@
   },
   "US|CA|Banning": {
     "region": "Banning, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787709448283,
     "lastAlertedAt": 1787709448283,
     "issueNumber": 270
   },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "alert",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 271
-  },
-  "US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "alert",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 272
-  },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 273
-  },
-  "US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "alert",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 274
-  },
-  "US|CA|Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 275
-  },
-  "US|OK|Lawton": {
-    "region": "Lawton, OK",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 276
-  },
   "US|OR|Madras": {
     "region": "Madras, OR",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
+    "lastAlertedAt": 1787728061055,
     "issueNumber": 277
-  },
-  "US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 278
-  },
-  "US|OR|Multorpor": {
-    "region": "Multorpor, OR",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 279
-  },
-  "US|CA|Sequoia and Kings Canyon National Parks": {
-    "region": "Sequoia and Kings Canyon National Parks, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 280
-  },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 281
   },
   "WAQI|14115": {
     "region": "Fort Hills, Alberta, Canada, AB",
@@ -258,54 +146,12 @@
     "lastAlertedAt": 1787709448283,
     "issueNumber": 282
   },
-  "WAQI|95": {
-    "region": "Madras, Oregon, USA, OR",
-    "tier": "alert",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 283
-  },
-  "WAQI|4232": {
-    "region": "Tsawwassen, British Comlumbia, Canada, BC",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 284
-  },
-  "WAQI|14114": {
-    "region": "Ells River, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 285
-  },
-  "WAQI|-543475": {
-    "region": "Parkway Boulevard, BC",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 286
-  },
   "WAQI|-524632": {
     "region": "Rue Des Des Sables, QC",
     "tier": "alert",
     "firstSeen": 1787709448283,
     "lastAlertedAt": 1787709448283,
     "issueNumber": 287
-  },
-  "WAQI|94": {
-    "region": "The Dalles, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 288
-  },
-  "WAQI|-403717": {
-    "region": "University of British Columbia, BC",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 289
   },
   "FORECAST|US|CA|San Diego Foothills": {
     "region": "San Diego Foothills, CA",
@@ -314,11 +160,172 @@
     "lastAlertedAt": 1787709448283,
     "issueNumber": 290
   },
-  "US-CO-Denver": {
-    "region": "Denver / Front Range Urban Corridor, CO",
+  "US|OR|Bend and Redmond": {
+    "region": "Bend and Redmond, OR",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 292
+  },
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
     "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 291
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 293
+  },
+  "US|OR|Prineville": {
+    "region": "Prineville, OR",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 294
+  },
+  "CA|HAPKT|Swift Current": {
+    "region": "Swift Current, CA",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 295
+  },
+  "CA|HAIMP|Regina": {
+    "region": "Regina, SK",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 296
+  },
+  "WAQI|4227": {
+    "region": "North Vancouver Second Narrows, British Comlumbia, Canada, BC",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 297
+  },
+  "WAQI|5471": {
+    "region": "Swift Current, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 298
+  },
+  "WAQI|5470": {
+    "region": "Saskatoon, Saskatchewan, Canada, SK",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 299
+  },
+  "WAQI|5472": {
+    "region": "Regina, Saskatchewan, Canada, SK",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 300
+  },
+  "WAQI|7327": {
+    "region": "Indpls-W.18th St, Indiana, USA, IN",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 301
+  },
+  "WAQI|-503551": {
+    "region": "Redmond High School, OR",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 302
+  },
+  "WAQI|4206": {
+    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, BC",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 303
+  },
+  "WAQI|10709": {
+    "region": "Buffalo Viewpoint, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 304
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 305
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 306
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 307
+  },
+  "FORECAST|US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "alert",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 308
+  },
+  "FORECAST|US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 309
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 310
+  },
+  "FORECAST|US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 311
+  },
+  "US-CA-San Diego": {
+    "region": "San Diego, CA",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 312
+  },
+  "CA-BC-Vancouver": {
+    "region": "Vancouver, BC",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 313
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 314
+  },
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
+    "tier": "watch",
+    "firstSeen": 1787728061055,
+    "lastAlertedAt": 1787728061055,
+    "issueNumber": 315
   }
 }
