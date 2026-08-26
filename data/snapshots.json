@@ -1,41 +1,6 @@
 [
   {
     "region_key": "US|MT|Great Falls",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787576620431
-  },
-  {
-    "region_key": "US|IN|Indianapolis",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787576620431
-  },
-  {
-    "region_key": "US|WA|Moses Lake",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787576620431
-  },
-  {
-    "region_key": "US|WA|Quincy",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787576620431
-  },
-  {
-    "region_key": "US|WA|Walla Walla",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787576620431
-  },
-  {
-    "region_key": "US|MT|Great Falls",
     "value": 138,
     "unit": "AQI",
     "tier": "watch",
@@ -5360,5 +5325,166 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1787745576879
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "US|PA|Susquehanna Valley",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "CA|HAPKT|Swift Current",
+    "value": 9,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "CA|HAIMP|Regina",
+    "value": 7,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|9283",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-572956",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|193",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-208354",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|5900",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|5472",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-524632",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|5471",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|8592",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|6911",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|14115",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-470479",
+    "value": 138,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|219",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-492277",
+    "value": 195,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|95",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-470485",
+    "value": 217,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|5470",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787749522785
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 212,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787749522785
   }
 ]
