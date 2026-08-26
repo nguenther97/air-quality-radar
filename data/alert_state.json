@@ -20,20 +20,6 @@
     "lastAlertedAt": 1787597879915,
     "issueNumber": 213
   },
-  "FORECAST|US|CA|Central LA CO": {
-    "region": "Central LA CO, CA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 215
-  },
-  "FORECAST|US|CA|E San Fernando Vly": {
-    "region": "E San Fernando Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 216
-  },
   "FORECAST|US|CA|S San Gabriel Vly": {
     "region": "S San Gabriel Vly, CA",
     "tier": "watch",
@@ -61,13 +47,6 @@
     "firstSeen": 1787641634136,
     "lastAlertedAt": 1787728061055,
     "issueNumber": 232
-  },
-  "WAQI|4223": {
-    "region": "Hope Airport, British Comlumbia, Canada, BC",
-    "tier": "watch",
-    "firstSeen": 1787684155412,
-    "lastAlertedAt": 1787684155412,
-    "issueNumber": 248
   },
   "FORECAST|US|CA|Brawley": {
     "region": "Brawley, CA",
@@ -125,13 +104,6 @@
     "lastAlertedAt": 1787684155412,
     "issueNumber": 269
   },
-  "US|CA|Banning": {
-    "region": "Banning, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 270
-  },
   "US|OR|Madras": {
     "region": "Madras, OR",
     "tier": "alert",
@@ -141,14 +113,14 @@
   },
   "WAQI|14115": {
     "region": "Fort Hills, Alberta, Canada, AB",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
+    "lastAlertedAt": 1787750152219,
     "issueNumber": 282
   },
   "WAQI|-524632": {
     "region": "Rue Des Des Sables, QC",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787709448283,
     "lastAlertedAt": 1787709448283,
     "issueNumber": 287
@@ -160,30 +132,16 @@
     "lastAlertedAt": 1787709448283,
     "issueNumber": 290
   },
-  "US|OR|Bend and Redmond": {
-    "region": "Bend and Redmond, OR",
-    "tier": "alert",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 292
-  },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 293
-  },
   "US|OR|Prineville": {
     "region": "Prineville, OR",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787728061055,
     "lastAlertedAt": 1787728061055,
     "issueNumber": 294
   },
   "CA|HAPKT|Swift Current": {
     "region": "Swift Current, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787728061055,
     "lastAlertedAt": 1787728061055,
     "issueNumber": 295
@@ -194,13 +152,6 @@
     "firstSeen": 1787728061055,
     "lastAlertedAt": 1787728061055,
     "issueNumber": 296
-  },
-  "WAQI|4227": {
-    "region": "North Vancouver Second Narrows, British Comlumbia, Canada, BC",
-    "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 297
   },
   "WAQI|5471": {
     "region": "Swift Current, Saskatchewan, Canada, CA",
@@ -218,38 +169,10 @@
   },
   "WAQI|5472": {
     "region": "Regina, Saskatchewan, Canada, SK",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787728061055,
     "lastAlertedAt": 1787728061055,
     "issueNumber": 300
-  },
-  "WAQI|7327": {
-    "region": "Indpls-W.18th St, Indiana, USA, IN",
-    "tier": "alert",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 301
-  },
-  "WAQI|-503551": {
-    "region": "Redmond High School, OR",
-    "tier": "alert",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 302
-  },
-  "WAQI|4206": {
-    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, BC",
-    "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 303
-  },
-  "WAQI|10709": {
-    "region": "Buffalo Viewpoint, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 304
   },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
@@ -267,7 +190,7 @@
   },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1787728061055,
     "lastAlertedAt": 1787728061055,
     "issueNumber": 307
@@ -300,32 +223,81 @@
     "lastAlertedAt": 1787728061055,
     "issueNumber": 311
   },
-  "US-CA-San Diego": {
-    "region": "San Diego, CA",
+  "WAQI|9283": {
+    "region": "Estevan, Saskatchewan, Canada, US",
     "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 312
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 316
   },
-  "CA-BC-Vancouver": {
-    "region": "Vancouver, BC",
-    "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 313
+  "WAQI|-470485": {
+    "region": "Cle Elum, WA",
+    "tier": "alert",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 317
   },
-  "CA-AB-Calgary": {
-    "region": "Calgary, AB",
+  "WAQI|5900": {
+    "region": "Lancaster Downwind, Pennsylvania, USA, PA",
     "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 314
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 318
   },
-  "CA-AB-Edmonton": {
-    "region": "Edmonton, AB",
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
     "tier": "watch",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787728061055,
-    "issueNumber": 315
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 319
+  },
+  "WAQI|-470479": {
+    "region": "Mattawa Wahluke High School, US",
+    "tier": "watch",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 320
+  },
+  "WAQI|6911": {
+    "region": "Brandon, Manitoba, Canada, MB",
+    "tier": "watch",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 321
+  },
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 322
+  },
+  "WAQI|-572956": {
+    "region": "Houston Finnigan Park, TX",
+    "tier": "watch",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 323
+  },
+  "WAQI|-492277": {
+    "region": "Entiat, WA",
+    "tier": "alert",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 324
+  },
+  "WAQI|219": {
+    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
+    "tier": "alert",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 325
+  },
+  "WAQI|95": {
+    "region": "Madras, Oregon, USA, OR",
+    "tier": "alert",
+    "firstSeen": 1787750152219,
+    "lastAlertedAt": 1787750152219,
+    "issueNumber": 326
   }
 }
