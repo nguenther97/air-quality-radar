@@ -1,20 +1,6 @@
 [
   {
     "region_key": "US|MT|Great Falls",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787545397577
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 860,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787545397577
-  },
-  {
-    "region_key": "US|MT|Great Falls",
     "value": 176,
     "unit": "AQI",
     "tier": "alert",
@@ -4541,5 +4527,152 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1787717503291
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 198,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|-2463805",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|5471",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|5309",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|14115",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|4243",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|10709",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|95",
+    "value": 187,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|5472",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|-524686",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|-464104",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
+  },
+  {
+    "region_key": "WAQI|4223",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1787720835430
   }
 ]
