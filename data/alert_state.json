@@ -1,60 +1,4 @@
 {
-  "FORECAST|US|CA|W San Gabriel Vly": {
-    "region": "W San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787510842416,
-    "lastAlertedAt": 1787510842416,
-    "issueNumber": 187
-  },
-  "FORECAST|US|CA|S San Gabriel Vly": {
-    "region": "S San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787597879915,
-    "lastAlertedAt": 1787597879915,
-    "issueNumber": 218
-  },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "alert",
-    "firstSeen": 1787641634136,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 232
-  },
-  "FORECAST|US|CA|San Diego Foothills": {
-    "region": "San Diego Foothills, CA",
-    "tier": "watch",
-    "firstSeen": 1787709448283,
-    "lastAlertedAt": 1787709448283,
-    "issueNumber": 290
-  },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "alert",
-    "firstSeen": 1787728061055,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 308
-  },
-  "WAQI|10712": {
-    "region": "Janvier, Alberta, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1787823965454,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 363
-  },
-  "US|CA|Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1787868903162,
-    "lastAlertedAt": 1787868903162,
-    "issueNumber": 382
-  },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "watch",
-    "firstSeen": 1787868903162,
-    "lastAlertedAt": 1787868903162,
-    "issueNumber": 385
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
     "tier": "alert",
@@ -64,24 +8,10 @@
   },
   "WAQI|-524632": {
     "region": "Rue Des Des Sables, QC",
-    "tier": "alert",
-    "firstSeen": 1787868903162,
-    "lastAlertedAt": 1787868903162,
-    "issueNumber": 392
-  },
-  "WAQI|-573970": {
-    "region": "Spokane, WA",
-    "tier": "alert",
-    "firstSeen": 1787868903162,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 397
-  },
-  "FORECAST|US|CA|Carmel Valley": {
-    "region": "Carmel Valley, CA",
     "tier": "watch",
     "firstSeen": 1787868903162,
     "lastAlertedAt": 1787868903162,
-    "issueNumber": 404
+    "issueNumber": 392
   },
   "FORECAST|US|MS|Hernando": {
     "region": "Hernando, MS",
@@ -97,117 +27,12 @@
     "lastAlertedAt": 1787868903162,
     "issueNumber": 406
   },
-  "FORECAST|US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
-    "tier": "watch",
-    "firstSeen": 1787868903162,
-    "lastAlertedAt": 1787868903162,
-    "issueNumber": 407
-  },
   "US|WA|Colville": {
     "region": "Colville, WA",
     "tier": "watch",
     "firstSeen": 1787916107597,
     "lastAlertedAt": 1787916107597,
     "issueNumber": 409
-  },
-  "US|AZ|Gila River Indian Community": {
-    "region": "Gila River Indian Community, AZ",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 410
-  },
-  "US|CA|Madera": {
-    "region": "Madera, CA",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 411
-  },
-  "US|OR|Prineville": {
-    "region": "Prineville, OR",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 412
-  },
-  "US|WA|Spokane": {
-    "region": "Spokane, WA",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 413
-  },
-  "US|WA|Spokane Tribe of Spokane Reservation": {
-    "region": "Spokane Tribe of Spokane Reservation, WA",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 414
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 415
-  },
-  "CA|IANHQ|Wood Buffalo - south": {
-    "region": "Wood Buffalo - south, CA",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 416
-  },
-  "WAQI|-524473": {
-    "region": "High Level, Alberta, CA",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 417
-  },
-  "WAQI|5856": {
-    "region": "Woodin Ave, Chelan, Washington, USA, US",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 418
-  },
-  "WAQI|14115": {
-    "region": "Fort Hills, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 419
-  },
-  "WAQI|-501559": {
-    "region": "Gleneagles, AB",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 420
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 421
-  },
-  "WAQI|157": {
-    "region": "Spokane Tribe, Wellpinit, Washington, USA, WA",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 422
-  },
-  "WAQI|87": {
-    "region": "Prineville, Oregon, USA, OR",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 423
   },
   "WAQI|8861": {
     "region": "E 1st St, Colville, Washington, USA, US",
@@ -216,61 +41,12 @@
     "lastAlertedAt": 1787916107597,
     "issueNumber": 424
   },
-  "WAQI|-470908": {
-    "region": "Republic, US",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 425
-  },
-  "WAQI|-419824": {
-    "region": "NW Fairway Heights Dr, OR",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 426
-  },
-  "WAQI|-541255": {
-    "region": "Fort St Jhon,106 St and 97 Ave, BC,  Canada, BC",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 427
-  },
-  "WAQI|-470455": {
-    "region": "Spokane-Greenbluff, WA",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 428
-  },
-  "WAQI|-1387018": {
-    "region": "Davenport, US",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 429
-  },
   "WAQI|-562594": {
     "region": "Sundre West, CA",
     "tier": "watch",
     "firstSeen": 1787916107597,
     "lastAlertedAt": 1787916107597,
     "issueNumber": 430
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 431
-  },
-  "WAQI|-546703": {
-    "region": "WYK-Tuscany - Calgary NW, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 432
   },
   "FORECAST|US|CA|Banning": {
     "region": "Banning, CA",
@@ -286,46 +62,312 @@
     "lastAlertedAt": 1787916107597,
     "issueNumber": 434
   },
-  "FORECAST|US|CA|C San Bernardino": {
+  "US|TX|Austin": {
+    "region": "Austin, TX",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 441
+  },
+  "US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 435
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 442
   },
-  "FORECAST|US|CA|C San Bernardino M": {
+  "US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 436
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 443
   },
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
+  "US|NM|Carlsbad": {
+    "region": "Carlsbad, NM",
     "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 437
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 444
   },
-  "US-ID-Coeur d'Alene": {
-    "region": "Coeur d'Alene, ID",
+  "US|CA|Central LA CO": {
+    "region": "Central LA CO, CA",
     "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 438
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 445
   },
-  "US-MT-Missoula": {
-    "region": "Missoula, MT",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 439
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 446
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
+  "US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
     "tier": "alert",
-    "firstSeen": 1787916107597,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 440
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 447
+  },
+  "US|CA|E San Fernando Vly": {
+    "region": "E San Fernando Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 448
+  },
+  "US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "alert",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 449
+  },
+  "US|MT|Hamilton": {
+    "region": "Hamilton, MT",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 450
+  },
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 451
+  },
+  "US|ID|Kootenai Tribe": {
+    "region": "Kootenai Tribe, ID",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 452
+  },
+  "US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "alert",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 453
+  },
+  "US|ID|Mount Hall (seasonal)": {
+    "region": "Mount Hall (seasonal), ID",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 454
+  },
+  "US|ID|Porthill (seasonal)": {
+    "region": "Porthill (seasonal), ID",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 455
+  },
+  "US|CA|S San Gabriel Vly": {
+    "region": "S San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 456
+  },
+  "US|CA|San Diego Foothills": {
+    "region": "San Diego Foothills, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 457
+  },
+  "US|ID|Sandpoint": {
+    "region": "Sandpoint, ID",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 458
+  },
+  "US|OK|Tulsa": {
+    "region": "Tulsa, OK",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 459
+  },
+  "US|CA|W San Gabriel Vly": {
+    "region": "W San Gabriel Vly, CA",
+    "tier": "alert",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 460
+  },
+  "US|TX|Waco-Killeen": {
+    "region": "Waco-Killeen, TX",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 461
+  },
+  "WAQI|-235702": {
+    "region": "Creston Hillside, US",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 462
+  },
+  "WAQI|-573634": {
+    "region": "Skookumchuck Farstad Way, BC",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 463
+  },
+  "WAQI|-562864": {
+    "region": "Twisp-S Lincoln St, US",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 464
+  },
+  "WAQI|-403798": {
+    "region": "TMTV, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 465
+  },
+  "WAQI|-2437900": {
+    "region": "Tongue Creek, AB",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 466
+  },
+  "WAQI|-524434": {
+    "region": "Happy Valley, Alberta, CA",
+    "tier": "alert",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 467
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 468
+  },
+  "WAQI|242": {
+    "region": "Glendora-Laurel, Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 469
+  },
+  "WAQI|-524695": {
+    "region": "Farmington Community Hall, BC",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 470
+  },
+  "WAQI|177": {
+    "region": "Baytown, Houston, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 471
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 472
+  },
+  "WAQI|5319": {
+    "region": "Sandpoint, Idaho, USA, US",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 473
+  },
+  "WAQI|-499345": {
+    "region": "FHSR Resort, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 474
+  },
+  "WAQI|14116": {
+    "region": "Grimshaw, Alberta, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 475
+  },
+  "WAQI|5501": {
+    "region": "Smoky Heights, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 476
+  },
+  "FORECAST|US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 477
+  },
+  "FORECAST|US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 478
+  },
+  "US-CA-Sacramento": {
+    "region": "Sacramento, CA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 479
+  },
+  "US-CO-Denver": {
+    "region": "Denver, CO",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 480
+  },
+  "US-WA-Seattle": {
+    "region": "Seattle, WA",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 481
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 482
+  },
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 483
+  },
+  "CA-BC-Vancouver": {
+    "region": "Vancouver (Metro), BC",
+    "tier": "watch",
+    "firstSeen": 1787955479396,
+    "lastAlertedAt": 1787955479396,
+    "issueNumber": 484
   }
 }
