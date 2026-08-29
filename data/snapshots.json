@@ -1132,5 +1132,68 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788013290418
+  },
+  {
+    "region_key": "CA|IANHQ|Wood Buffalo - south",
+    "value": 7,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|-403798",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 195,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|10712",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|-499345",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|5856",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|-235702",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788025840374
+  },
+  {
+    "region_key": "WAQI|14110",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788025840374
   }
 ]
