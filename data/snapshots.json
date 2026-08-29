@@ -1195,5 +1195,152 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788025840374
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "US|MS|Hernando",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 192,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "US|WA|Kennewick",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "US|OK|Lawton",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "US|OK|Woodward",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|113",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|10712",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|-2437900",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|13980",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|14121",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|-398104",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|148",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|4212",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|-219883",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 192,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|181",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
+  },
+  {
+    "region_key": "WAQI|5497",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788036566834
   }
 ]
