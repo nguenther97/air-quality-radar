@@ -1251,5 +1251,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788074282795
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788095517611
+  },
+  {
+    "region_key": "WAQI|5362",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788095517611
+  },
+  {
+    "region_key": "WAQI|87",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788095517611
+  },
+  {
+    "region_key": "WAQI|-398764",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788095517611
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788095517611
+  },
+  {
+    "region_key": "WAQI|-494083",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788095517611
+  },
+  {
+    "region_key": "WAQI|-503554",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788095517611
   }
 ]
