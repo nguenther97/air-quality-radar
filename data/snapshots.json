@@ -1,180 +1,5 @@
 [
   {
-    "region_key": "US|CA|Banning",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|CA|E San Bernardino",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|CA|Fresno",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|CA|Hanford",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|CA|Madera",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|CA|Merced",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|WA|Omak",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|TX|Waco-Killeen",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 649,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|-563167",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|275",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|-573634",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|95",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|5856",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|10712",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|-470908",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|219",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|-501559",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 184,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|274",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 147,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|4613",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|14115",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
-    "region_key": "WAQI|14103",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787893844720
-  },
-  {
     "region_key": "US|CA|Border Area",
     "value": 102,
     "unit": "AQI",
@@ -1335,5 +1160,96 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788053654072
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 574,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "US|AZ|Salt River Pima-Maricopa Indian Community",
+    "value": 257,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 597,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|-401731",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|13292",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|5362",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|-470440",
+    "value": 175,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|5344",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|95",
+    "value": 135,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|10712",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|-1882396",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788074282795
+  },
+  {
+    "region_key": "WAQI|5950",
+    "value": 788,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788074282795
   }
 ]
