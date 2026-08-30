@@ -27,13 +27,6 @@
     "lastAlertedAt": 1788067354805,
     "issueNumber": 552
   },
-  "US|CA|Lincoln": {
-    "region": "Lincoln, CA",
-    "tier": "watch",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 555
-  },
   "US|OR|Prineville": {
     "region": "Prineville, OR",
     "tier": "watch",
@@ -47,13 +40,6 @@
     "firstSeen": 1788090790621,
     "lastAlertedAt": 1788090790621,
     "issueNumber": 557
-  },
-  "WAQI|7371": {
-    "region": "Tulsa, Oklahoma, USA, OK",
-    "tier": "watch",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 558
   },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
@@ -69,46 +55,32 @@
     "lastAlertedAt": 1788090790621,
     "issueNumber": 560
   },
-  "WAQI|5362": {
-    "region": "Lincoln-1445 1st Street, Placer, California, CA",
-    "tier": "watch",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 561
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
+  "WAQI|-531076": {
+    "region": "US 54, TX",
     "tier": "alert",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 562
+    "firstSeen": 1788107988610,
+    "lastAlertedAt": 1788107988610,
+    "issueNumber": 567
   },
-  "US-IL-Chicago": {
-    "region": "Chicago, IL",
+  "WAQI|-494083": {
+    "region": "Windrose Dr, Port Ludlow, WA",
     "tier": "alert",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 563
+    "firstSeen": 1788107988610,
+    "lastAlertedAt": 1788107988610,
+    "issueNumber": 568
   },
-  "US-MN-Duluth": {
-    "region": "Duluth, MN",
+  "WAQI|9160": {
+    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 564
+    "firstSeen": 1788107988610,
+    "lastAlertedAt": 1788107988610,
+    "issueNumber": 569
   },
-  "US-NY-New York": {
-    "region": "New York City, NY",
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
     "tier": "watch",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 565
-  },
-  "US-DC-Washington": {
-    "region": "Washington, DC",
-    "tier": "watch",
-    "firstSeen": 1788090790621,
-    "lastAlertedAt": 1788090790621,
-    "issueNumber": 566
+    "firstSeen": 1788107988610,
+    "lastAlertedAt": 1788107988610,
+    "issueNumber": 570
   }
 }
