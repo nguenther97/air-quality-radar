@@ -1125,5 +1125,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788111799671
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788123239197
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788123239197
+  },
+  {
+    "region_key": "WAQI|219",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788123239197
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 142,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788123239197
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 198,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788123239197
+  },
+  {
+    "region_key": "WAQI|-881458",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788123239197
+  },
+  {
+    "region_key": "WAQI|-531076",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788123239197
   }
 ]
