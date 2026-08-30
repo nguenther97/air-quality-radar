@@ -1279,5 +1279,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788045102711
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "US|CA|San Luis Obispo",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "WAQI|-568825",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 190,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788053654072
+  },
+  {
+    "region_key": "WAQI|9624",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788053654072
   }
 ]
