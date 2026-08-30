@@ -1,222 +1,5 @@
 [
   {
-    "region_key": "US|CA|Border Area",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|WA|Colville",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|CA|Fresno",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|AZ|Gila River Indian Community",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|MT|Hamilton",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|OR|Madras",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|AZ|Phoenix",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|ID|Sandpoint",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "US|WA|Spokane Tribe of Spokane Reservation",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|14116",
-    "value": 221,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|157",
-    "value": 135,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|10712",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|275",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-403798",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-235702",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-470908",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-524695",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|8842",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-401731",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-524632",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-541255",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|5861",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|8861",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|-524434",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|5856",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 190,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|14105",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|274",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1787938797135
-  },
-  {
-    "region_key": "WAQI|95",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1787938797135
-  },
-  {
     "region_key": "US|CA|Bakersfield",
     "value": 122,
     "unit": "AQI",
@@ -1300,5 +1083,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788095517611
+  },
+  {
+    "region_key": "US|OR|Prineville",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788111799671
+  },
+  {
+    "region_key": "WAQI|87",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788111799671
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788111799671
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 201,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788111799671
+  },
+  {
+    "region_key": "WAQI|-531076",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788111799671
+  },
+  {
+    "region_key": "WAQI|-398764",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788111799671
   }
 ]
