@@ -6,26 +6,12 @@
     "lastAlertedAt": 1787868903162,
     "issueNumber": 406
   },
-  "FORECAST|US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "watch",
-    "firstSeen": 1787955479396,
-    "lastAlertedAt": 1787955479396,
-    "issueNumber": 477
-  },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "watch",
     "firstSeen": 1787986990510,
     "lastAlertedAt": 1787986990510,
     "issueNumber": 507
-  },
-  "FORECAST|US|ID|Mount Hall (seasonal)": {
-    "region": "Mount Hall (seasonal), ID",
-    "tier": "watch",
-    "firstSeen": 1787986990510,
-    "lastAlertedAt": 1787986990510,
-    "issueNumber": 509
   },
   "FORECAST|US|ID|Sandpoint": {
     "region": "Sandpoint, ID",
@@ -34,48 +20,6 @@
     "lastAlertedAt": 1787986990510,
     "issueNumber": 512
   },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "watch",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 546
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 547
-  },
-  "WAQI|7324": {
-    "region": "Indpls-Washington Park, Indiana, USA, IN",
-    "tier": "watch",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 548
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "watch",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 549
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
-    "tier": "alert",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 550
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "watch",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 551
-  },
   "FORECAST|US|MS|Hernando": {
     "region": "Hernando, MS",
     "tier": "watch",
@@ -83,18 +27,88 @@
     "lastAlertedAt": 1788067354805,
     "issueNumber": 552
   },
-  "US-ID-Boise": {
-    "region": "Boise, ID",
-    "tier": "alert",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 553
+  "US|CA|Lincoln": {
+    "region": "Lincoln, CA",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 555
   },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
+  "US|OR|Prineville": {
+    "region": "Prineville, OR",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 556
+  },
+  "WAQI|87": {
+    "region": "Prineville, Oregon, USA, OR",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 557
+  },
+  "WAQI|7371": {
+    "region": "Tulsa, Oklahoma, USA, OK",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 558
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 559
+  },
+  "WAQI|-398764": {
+    "region": "Big Sur Ranger Station, CA",
     "tier": "alert",
-    "firstSeen": 1788067354805,
-    "lastAlertedAt": 1788067354805,
-    "issueNumber": 554
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 560
+  },
+  "WAQI|5362": {
+    "region": "Lincoln-1445 1st Street, Placer, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 561
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 562
+  },
+  "US-IL-Chicago": {
+    "region": "Chicago, IL",
+    "tier": "alert",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 563
+  },
+  "US-MN-Duluth": {
+    "region": "Duluth, MN",
+    "tier": "alert",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 564
+  },
+  "US-NY-New York": {
+    "region": "New York City, NY",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 565
+  },
+  "US-DC-Washington": {
+    "region": "Washington, DC",
+    "tier": "watch",
+    "firstSeen": 1788090790621,
+    "lastAlertedAt": 1788090790621,
+    "issueNumber": 566
   }
 }
