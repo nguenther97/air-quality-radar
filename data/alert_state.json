@@ -1,11 +1,4 @@
 {
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1787868903162,
-    "lastAlertedAt": 1787916107597,
-    "issueNumber": 387
-  },
   "FORECAST|US|TN|Memphis": {
     "region": "Memphis, TN",
     "tier": "watch",
@@ -19,20 +12,6 @@
     "firstSeen": 1787955479396,
     "lastAlertedAt": 1787955479396,
     "issueNumber": 477
-  },
-  "FORECAST|US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "watch",
-    "firstSeen": 1787955479396,
-    "lastAlertedAt": 1787955479396,
-    "issueNumber": 478
-  },
-  "WAQI|10712": {
-    "region": "Janvier, Alberta, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1787986990510,
-    "lastAlertedAt": 1787986990510,
-    "issueNumber": 495
   },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
@@ -55,144 +34,67 @@
     "lastAlertedAt": 1787986990510,
     "issueNumber": 512
   },
-  "WAQI|-219883": {
-    "region": "Edgewater, CA",
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
     "tier": "watch",
-    "firstSeen": 1788021757596,
-    "lastAlertedAt": 1788021757596,
-    "issueNumber": 523
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 546
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
+    "tier": "alert",
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 547
+  },
+  "WAQI|7324": {
+    "region": "Indpls-Washington Park, Indiana, USA, IN",
     "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 527
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 548
   },
-  "US|MS|Hernando": {
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "watch",
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 549
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
+    "tier": "alert",
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 550
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "watch",
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 551
+  },
+  "FORECAST|US|MS|Hernando": {
     "region": "Hernando, MS",
     "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 528
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 552
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "US-ID-Boise": {
+    "region": "Boise, ID",
     "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 529
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 553
   },
-  "US|WA|Kennewick": {
-    "region": "Kennewick, WA",
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
     "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 530
-  },
-  "US|OK|Lawton": {
-    "region": "Lawton, OK",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 531
-  },
-  "US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 532
-  },
-  "US|OK|Woodward": {
-    "region": "Woodward, OK",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 533
-  },
-  "WAQI|4212": {
-    "region": "Castlegar Zinio Park, British Comlumbia, Canada, US",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 534
-  },
-  "WAQI|-398104": {
-    "region": "Sagrado, AZ",
-    "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 535
-  },
-  "WAQI|181": {
-    "region": "Houston East, Houston, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 536
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 537
-  },
-  "WAQI|113": {
-    "region": "Metaline, Kennewick, Washington, USA, WA",
-    "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 538
-  },
-  "WAQI|13980": {
-    "region": "Torquay, Saskatchewan, Canada, US",
-    "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 539
-  },
-  "WAQI|5497": {
-    "region": "Medicine Hat - Crescent Heights, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 540
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 541
-  },
-  "WAQI|148": {
-    "region": "E Broadway Ave, Spokane, Washington, USA, WA",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 542
-  },
-  "WAQI|-2437900": {
-    "region": "Tongue Creek, AB",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 543
-  },
-  "WAQI|14121": {
-    "region": "Tamarack, Alberta, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 544
-  },
-  "US-MN-Minneapolis-St. Paul": {
-    "region": "Minneapolis-St. Paul, MN",
-    "tier": "alert",
-    "firstSeen": 1788036868270,
-    "lastAlertedAt": 1788036868270,
-    "issueNumber": 545
+    "firstSeen": 1788067354805,
+    "lastAlertedAt": 1788067354805,
+    "issueNumber": 554
   }
 }
