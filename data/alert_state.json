@@ -6,13 +6,6 @@
     "lastAlertedAt": 1787868903162,
     "issueNumber": 406
   },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1787986990510,
-    "lastAlertedAt": 1787986990510,
-    "issueNumber": 507
-  },
   "FORECAST|US|ID|Sandpoint": {
     "region": "Sandpoint, ID",
     "tier": "watch",
@@ -27,54 +20,12 @@
     "lastAlertedAt": 1788123832600,
     "issueNumber": 559
   },
-  "US|TX|El Paso": {
-    "region": "El Paso, TX",
-    "tier": "watch",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 577
-  },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "alert",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 578
-  },
-  "US|AZ|Salt River Pima-Maricopa Indian Community": {
-    "region": "Salt River Pima-Maricopa Indian Community, AZ",
-    "tier": "watch",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 579
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 580
-  },
   "WAQI|-419824": {
     "region": "NW Fairway Heights Dr, OR",
     "tier": "watch",
     "firstSeen": 1788154330719,
     "lastAlertedAt": 1788154330719,
     "issueNumber": 581
-  },
-  "WAQI|-1666027": {
-    "region": "I-10 W, TX",
-    "tier": "watch",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 582
-  },
-  "WAQI|7409": {
-    "region": "Cannons Lane, Kentucky, USA, KY",
-    "tier": "watch",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 583
   },
   "WAQI|-524674": {
     "region": "Boul Johnny-parent, QC",
@@ -83,32 +34,95 @@
     "lastAlertedAt": 1788154330719,
     "issueNumber": 584
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "alert",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 585
-  },
-  "WAQI|5856": {
-    "region": "Woodin Ave, Chelan, Washington, USA, US",
+  "US|OR|La Pine": {
+    "region": "La Pine, OR",
     "tier": "watch",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 586
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 589
   },
-  "WAQI|-400060": {
-    "region": "Big Pine, US",
+  "US|CA|Morro Bay": {
+    "region": "Morro Bay, CA",
     "tier": "watch",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 587
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 590
   },
-  "WAQI|5950": {
-    "region": "Tempe, Maricopa, USA, AZ",
+  "US|CA|San Luis Obispo": {
+    "region": "San Luis Obispo, CA",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 591
+  },
+  "US|OR|Sisters": {
+    "region": "Sisters, OR",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 592
+  },
+  "WAQI|92": {
+    "region": "Sisters, Oregon, USA, OR",
     "tier": "alert",
-    "firstSeen": 1788154330719,
-    "lastAlertedAt": 1788154330719,
-    "issueNumber": 588
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 593
+  },
+  "WAQI|208": {
+    "region": "El Paso Chamizal, El Paso, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 594
+  },
+  "WAQI|-470485": {
+    "region": "Cle Elum, WA",
+    "tier": "alert",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 595
+  },
+  "WAQI|-492277": {
+    "region": "Entiat, WA",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 596
+  },
+  "WAQI|-503581": {
+    "region": "Detroit Lake Forest Service, US",
+    "tier": "alert",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 597
+  },
+  "WAQI|-504940": {
+    "region": "Houston North Wayside, TX",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 598
+  },
+  "FORECAST|US|WA|Cascade of east King-Pierce counties": {
+    "region": "Cascade of east King-Pierce counties, WA",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 599
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 600
+  },
+  "US-TX-Galveston": {
+    "region": "Galveston, TX",
+    "tier": "watch",
+    "firstSeen": 1788183991239,
+    "lastAlertedAt": 1788183991239,
+    "issueNumber": 601
   }
 }
