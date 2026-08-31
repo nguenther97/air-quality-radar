@@ -27,53 +27,88 @@
     "lastAlertedAt": 1788123832600,
     "issueNumber": 559
   },
-  "WAQI|-531076": {
-    "region": "US 54, TX",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
     "tier": "watch",
-    "firstSeen": 1788107988610,
-    "lastAlertedAt": 1788107988610,
-    "issueNumber": 567
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 577
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "alert",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 578
+  },
+  "US|AZ|Salt River Pima-Maricopa Indian Community": {
+    "region": "Salt River Pima-Maricopa Indian Community, AZ",
     "tier": "watch",
-    "firstSeen": 1788123832600,
-    "lastAlertedAt": 1788123832600,
-    "issueNumber": 571
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 579
   },
-  "US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
+    "tier": "alert",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 580
+  },
+  "WAQI|-419824": {
+    "region": "NW Fairway Heights Dr, OR",
     "tier": "watch",
-    "firstSeen": 1788123832600,
-    "lastAlertedAt": 1788123832600,
-    "issueNumber": 572
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 581
   },
-  "WAQI|219": {
-    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
-    "tier": "alert",
-    "firstSeen": 1788123832600,
-    "lastAlertedAt": 1788123832600,
-    "issueNumber": 573
+  "WAQI|-1666027": {
+    "region": "I-10 W, TX",
+    "tier": "watch",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 582
   },
-  "WAQI|-489994": {
-    "region": "63 Springside St, AB",
-    "tier": "alert",
-    "firstSeen": 1788123832600,
-    "lastAlertedAt": 1788123832600,
-    "issueNumber": 574
+  "WAQI|7409": {
+    "region": "Cannons Lane, Kentucky, USA, KY",
+    "tier": "watch",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 583
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
+  "WAQI|-524674": {
+    "region": "Boul Johnny-parent, QC",
     "tier": "alert",
-    "firstSeen": 1788123832600,
-    "lastAlertedAt": 1788123832600,
-    "issueNumber": 575
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 584
   },
-  "WAQI|-881458": {
-    "region": "Lower West Side 5, IL",
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
     "tier": "alert",
-    "firstSeen": 1788123832600,
-    "lastAlertedAt": 1788123832600,
-    "issueNumber": 576
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 585
+  },
+  "WAQI|5856": {
+    "region": "Woodin Ave, Chelan, Washington, USA, US",
+    "tier": "watch",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 586
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, US",
+    "tier": "watch",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 587
+  },
+  "WAQI|5950": {
+    "region": "Tempe, Maricopa, USA, AZ",
+    "tier": "alert",
+    "firstSeen": 1788154330719,
+    "lastAlertedAt": 1788154330719,
+    "issueNumber": 588
   }
 }
