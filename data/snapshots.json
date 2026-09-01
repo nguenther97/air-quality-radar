@@ -1,131 +1,5 @@
 [
   {
-    "region_key": "US|MS|Hernando",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 187,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|WA|Kennewick",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|TN|Memphis",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|OK|Oklahoma City",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|ID|Sandpoint",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|CA|Sequoia and Kings Canyon National Parks",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|CA|W San Gabriel Vly",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "US|OK|Woodward",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|-398104",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|5319",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|148",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|203",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|-2223370",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|-501559",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|7623",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788045102711
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 183,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788045102711
-  },
-  {
     "region_key": "US|TX|Houston-Galveston-Brazoria",
     "value": 136,
     "unit": "AQI",
@@ -796,5 +670,152 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788210076050
+  },
+  {
+    "region_key": "US|OR|Clackamas",
+    "value": 210,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|OR|Eugene and Springfield",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 212,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|OR|Lyons",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|OR|North Santiam Canyon",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|OR|Salem",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|OR|Sweet Home",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "US|AZ|Yuma",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-494083",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 194,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-498073",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-503599",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-1475275",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|83",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-1447489",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-503608",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-1381432",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|8306",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-524674",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|8301",
+    "value": 207,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
+  },
+  {
+    "region_key": "WAQI|-500848",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788222664097
   }
 ]
