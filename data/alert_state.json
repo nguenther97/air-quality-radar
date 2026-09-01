@@ -20,20 +20,6 @@
     "lastAlertedAt": 1788216561762,
     "issueNumber": 621
   },
-  "FORECAST|US|CA|King City": {
-    "region": "King City, CA",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 622
-  },
-  "US|OR|Klamath Falls": {
-    "region": "Klamath Falls, OR",
-    "tier": "watch",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
-    "issueNumber": 648
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
     "tier": "alert",
@@ -41,18 +27,11 @@
     "lastAlertedAt": 1788262681368,
     "issueNumber": 649
   },
-  "WAQI|-571123": {
-    "region": "Klamath Falls, OR",
-    "tier": "watch",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
-    "issueNumber": 650
-  },
   "WAQI|-398764": {
     "region": "Big Sur Ranger Station, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
+    "lastAlertedAt": 1788280702324,
     "issueNumber": 651
   },
   "WAQI|-401731": {
@@ -62,32 +41,95 @@
     "lastAlertedAt": 1788262681368,
     "issueNumber": 652
   },
-  "WAQI|-1438279": {
-    "region": "Rue Paul-dutil, QC",
+  "US|VT|Burlington": {
+    "region": "Burlington, VT",
     "tier": "watch",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
-    "issueNumber": 653
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 657
   },
-  "WAQI|-497224": {
-    "region": "Klamath Falls - Peterson School Collocation 2, OR",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
-    "issueNumber": 654
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 658
   },
-  "US-CA-San Francisco Bay Area": {
-    "region": "San Francisco Bay Area, CA",
+  "US|OR|Madras": {
+    "region": "Madras, OR",
     "tier": "watch",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
-    "issueNumber": 655
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 659
   },
-  "US-WA-Seattle": {
-    "region": "Seattle-Tacoma metro (King, Kitsap, Pierce, Snohomish, Thurston counties), WA",
+  "WAQI|-470485": {
+    "region": "Cle Elum, WA",
+    "tier": "alert",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 660
+  },
+  "WAQI|-472219": {
+    "region": "George, WA",
     "tier": "watch",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
-    "issueNumber": 656
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 661
+  },
+  "WAQI|162": {
+    "region": "4th Ave, Yakima, Washington, USA, WA",
+    "tier": "watch",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 662
+  },
+  "WAQI|-562891": {
+    "region": "Cashmere, WA",
+    "tier": "alert",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 663
+  },
+  "WAQI|10948": {
+    "region": "Universidad, Monterrey, Nuevo León, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 664
+  },
+  "WAQI|-398086": {
+    "region": "Lockwood - San Antonio Elementary School, CA",
+    "tier": "alert",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 665
+  },
+  "WAQI|7355": {
+    "region": "Liberty, Missouri, USA, MO",
+    "tier": "watch",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 666
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "watch",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 667
+  },
+  "WAQI|95": {
+    "region": "Madras, Oregon, USA, OR",
+    "tier": "watch",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 668
+  },
+  "WAQI|-494083": {
+    "region": "Windrose Dr, Port Ludlow, WA",
+    "tier": "alert",
+    "firstSeen": 1788280702324,
+    "lastAlertedAt": 1788280702324,
+    "issueNumber": 669
   }
 }
