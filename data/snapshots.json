@@ -1,55 +1,6 @@
 [
   {
     "region_key": "US|OR|Prineville",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "WAQI|5362",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "WAQI|87",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "WAQI|-398764",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "WAQI|-494083",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "WAQI|-503554",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788095517611
-  },
-  {
-    "region_key": "US|OR|Prineville",
     "value": 112,
     "unit": "AQI",
     "tier": "watch",
@@ -873,5 +824,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788258130108
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|-490186",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|-419824",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|95",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|-400060",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|-398764",
+    "value": 177,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|5319",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 202,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788275215074
+  },
+  {
+    "region_key": "WAQI|207",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788275215074
   }
 ]
