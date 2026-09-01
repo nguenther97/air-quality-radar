@@ -6,13 +6,6 @@
     "lastAlertedAt": 1788154330719,
     "issueNumber": 584
   },
-  "US|CA|Morro Bay": {
-    "region": "Morro Bay, CA",
-    "tier": "watch",
-    "firstSeen": 1788183991239,
-    "lastAlertedAt": 1788183991239,
-    "issueNumber": 590
-  },
   "WAQI|208": {
     "region": "El Paso Chamizal, El Paso, Texas, TX",
     "tier": "alert",
@@ -22,7 +15,7 @@
   },
   "WAQI|-503581": {
     "region": "Detroit Lake Forest Service, US",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1788183991239,
     "lastAlertedAt": 1788183991239,
     "issueNumber": 597
@@ -34,40 +27,12 @@
     "lastAlertedAt": 1788183991239,
     "issueNumber": 599
   },
-  "CA-QC-Montreal": {
-    "region": "Montreal, QC",
-    "tier": "alert",
-    "firstSeen": 1788183991239,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 600
-  },
   "US|OR|Clackamas": {
     "region": "Clackamas, OR",
     "tier": "alert",
     "firstSeen": 1788216561762,
     "lastAlertedAt": 1788216561762,
     "issueNumber": 602
-  },
-  "US|AZ|Douglas": {
-    "region": "Douglas, AZ",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 603
-  },
-  "US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 604
-  },
-  "US|OR|Eugene and Springfield": {
-    "region": "Eugene and Springfield, OR",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 605
   },
   "US|TX|Houston-Galveston-Brazoria": {
     "region": "Houston-Galveston-Brazoria, TX",
@@ -78,94 +43,17 @@
   },
   "US|OR|Lyons": {
     "region": "Lyons, OR",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1788216561762,
     "lastAlertedAt": 1788216561762,
     "issueNumber": 607
   },
   "US|OR|North Santiam Canyon": {
     "region": "North Santiam Canyon, OR",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1788216561762,
     "lastAlertedAt": 1788216561762,
     "issueNumber": 608
-  },
-  "US|CA|Saddleback Vly": {
-    "region": "Saddleback Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 609
-  },
-  "US|OR|Salem": {
-    "region": "Salem, OR",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 610
-  },
-  "US|OR|Sweet Home": {
-    "region": "Sweet Home, OR",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 611
-  },
-  "WAQI|-405484": {
-    "region": "Halton Hills Air Sensor, ON",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 612
-  },
-  "WAQI|8390": {
-    "region": "Douglas Red Cross, Arizona, USA, US",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 613
-  },
-  "WAQI|91": {
-    "region": "Silverton, Oregon, USA, OR",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 614
-  },
-  "WAQI|7358": {
-    "region": "Branch Street, Missouri, USA, MO",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 615
-  },
-  "WAQI|8305": {
-    "region": "Eugene - Amazon Park, Oregon, USA, OR",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 616
-  },
-  "WAQI|83": {
-    "region": "Lyons, Oregon, USA, OR",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 617
-  },
-  "WAQI|-494083": {
-    "region": "Windrose Dr, Port Ludlow, WA",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 618
-  },
-  "WAQI|8301": {
-    "region": "Carus - Spangler Rd., Oregon, USA, OR",
-    "tier": "alert",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 619
   },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
@@ -188,25 +76,158 @@
     "lastAlertedAt": 1788216561762,
     "issueNumber": 622
   },
-  "US-WA-Seattle": {
-    "region": "Seattle-Tacoma, WA",
-    "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 623
+  "US|OR|Beaverton": {
+    "region": "Beaverton, OR",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 626
   },
-  "US-CA-San Francisco Bay Area": {
-    "region": "San Francisco Bay Area, CA",
+  "US|NM|Dona Ana County": {
+    "region": "Dona Ana County, NM",
     "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 624
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 627
   },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 628
+  },
+  "US|OR|Estacada": {
+    "region": "Estacada, OR",
     "tier": "watch",
-    "firstSeen": 1788216561762,
-    "lastAlertedAt": 1788216561762,
-    "issueNumber": 625
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 629
+  },
+  "US|OK|Miami": {
+    "region": "Miami, OK",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 630
+  },
+  "US|OR|Portland": {
+    "region": "Portland, OR",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 631
+  },
+  "US|WA|Vancouver": {
+    "region": "Vancouver, WA",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 632
+  },
+  "WAQI|9178": {
+    "region": "Finanzas, Saltillo, Coahuila, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 633
+  },
+  "WAQI|80": {
+    "region": "Klamath Falls, Oregon, USA, OR",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 634
+  },
+  "WAQI|-494332": {
+    "region": "Oakridge 1, US",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 635
+  },
+  "WAQI|70": {
+    "region": "Beaverton, Oregon, USA, OR",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 636
+  },
+  "WAQI|6274": {
+    "region": "Holman Rd, New Mexico, USA, NM",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 637
+  },
+  "WAQI|-398104": {
+    "region": "Sagrado, AZ",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 638
+  },
+  "WAQI|13068": {
+    "region": "Westmorland, Imperial, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 639
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 640
+  },
+  "WAQI|-503584": {
+    "region": "Mill City, OR",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 641
+  },
+  "WAQI|-498667": {
+    "region": "Misión San Juan, US",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 642
+  },
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, TX",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 643
+  },
+  "WAQI|-503617": {
+    "region": "Gresham Centennial High School, OR",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 644
+  },
+  "WAQI|5860": {
+    "region": "Pocatello, Idaho, USA, ID",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 645
+  },
+  "WAQI|-494020": {
+    "region": "Main Street, OR",
+    "tier": "watch",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 646
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "alert",
+    "firstSeen": 1788239157940,
+    "lastAlertedAt": 1788239157940,
+    "issueNumber": 647
   }
 }
