@@ -1160,5 +1160,68 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788305428422
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 202,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "US|WI|Kenosha-Racine Lakeside",
+    "value": 172,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "US|IL|Lake County",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "US|OR|Madras",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "WAQI|5856",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "WAQI|-2471269",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "WAQI|5926",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "WAQI|-494083",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788311829762
+  },
+  {
+    "region_key": "WAQI|-398086",
+    "value": 186,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788311829762
   }
 ]
