@@ -1125,5 +1125,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788366330475
+  },
+  {
+    "region_key": "US|GA|Atlanta",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "US|TN|Nashville",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "US|IL|North and West Suburbs (Chicago)",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "US|WA|Wenatchee",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "WAQI|-494083",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "WAQI|219",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "WAQI|-398086",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788377270191
+  },
+  {
+    "region_key": "WAQI|158",
+    "value": 145,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788377270191
   }
 ]
