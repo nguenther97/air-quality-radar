@@ -1,103 +1,5 @@
 [
   {
-    "region_key": "US|TX|El Paso",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "US|AZ|Miami",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "US|AZ|Phoenix",
-    "value": 477,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|5954",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 176,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-1882399",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-400060",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-524674",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-503617",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|5856",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-503581",
-    "value": 183,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|208",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-419824",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788161404014
-  },
-  {
-    "region_key": "WAQI|-503551",
-    "value": 143,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788161404014
-  },
-  {
     "region_key": "US|OR|La Pine",
     "value": 122,
     "unit": "AQI",
@@ -1251,5 +1153,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788330012254
+  },
+  {
+    "region_key": "US|ID|Idaho City",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788349116706
+  },
+  {
+    "region_key": "WAQI|219",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788349116706
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788349116706
+  },
+  {
+    "region_key": "WAQI|5305",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788349116706
+  },
+  {
+    "region_key": "WAQI|-524551",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788349116706
   }
 ]
