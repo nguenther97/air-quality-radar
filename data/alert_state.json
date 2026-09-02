@@ -3,7 +3,7 @@
     "region": "SHADY PASS ROAD , US",
     "tier": "alert",
     "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788262681368,
+    "lastAlertedAt": 1788366815883,
     "issueNumber": 649
   },
   "FORECAST|US|MO|Kansas City": {
@@ -13,60 +13,46 @@
     "lastAlertedAt": 1788323493863,
     "issueNumber": 691
   },
-  "WAQI|5305": {
-    "region": "Idaho City, Idaho, USA, ID",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
     "tier": "watch",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 692
+    "firstSeen": 1788366815883,
+    "lastAlertedAt": 1788366815883,
+    "issueNumber": 700
   },
-  "WAQI|14115": {
-    "region": "Fort Hills, Alberta, Canada, AB",
+  "US|ID|Idaho City": {
+    "region": "Idaho City, ID",
     "tier": "watch",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 693
+    "firstSeen": 1788366815883,
+    "lastAlertedAt": 1788366815883,
+    "issueNumber": 701
   },
-  "WAQI|-494083": {
-    "region": "Windrose Dr, Port Ludlow, WA",
+  "US|NY|Upper Hudson Valley Region": {
+    "region": "Upper Hudson Valley Region, NY",
+    "tier": "watch",
+    "firstSeen": 1788366815883,
+    "lastAlertedAt": 1788366815883,
+    "issueNumber": 702
+  },
+  "WAQI|9160": {
+    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 694
+    "firstSeen": 1788366815883,
+    "lastAlertedAt": 1788366815883,
+    "issueNumber": 703
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "watch",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 695
-  },
-  "WAQI|-524551": {
-    "region": "Avenue Principale, QC",
-    "tier": "watch",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 696
-  },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
+  "WAQI|-398764": {
+    "region": "Big Sur Ranger Station, CA",
     "tier": "alert",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 697
+    "firstSeen": 1788366815883,
+    "lastAlertedAt": 1788366815883,
+    "issueNumber": 704
   },
-  "US-WA-Bellingham": {
-    "region": "Bellingham, WA",
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, TX",
     "tier": "watch",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 698
-  },
-  "CA-QC-Montreal": {
-    "region": "Montreal, QC",
-    "tier": "alert",
-    "firstSeen": 1788347790043,
-    "lastAlertedAt": 1788347790043,
-    "issueNumber": 699
+    "firstSeen": 1788366815883,
+    "lastAlertedAt": 1788366815883,
+    "issueNumber": 705
   }
 }
