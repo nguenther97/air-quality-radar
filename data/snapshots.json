@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|-494671",
-    "value": 148,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788139921394
-  },
-  {
-    "region_key": "WAQI|-568825",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788139921394
-  },
-  {
     "region_key": "US|TX|El Paso",
     "value": 111,
     "unit": "AQI",
@@ -1223,5 +1209,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788311829762
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 174,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788330012254
+  },
+  {
+    "region_key": "WAQI|-543496",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788330012254
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788330012254
+  },
+  {
+    "region_key": "WAQI|-398086",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788330012254
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788330012254
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 194,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788330012254
   }
 ]
