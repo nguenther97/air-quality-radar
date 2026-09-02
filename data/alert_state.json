@@ -1,58 +1,72 @@
 {
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
+    "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
+    "tier": "watch",
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 706
+  },
+  "US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 707
+  },
+  "US|TN|Nashville": {
+    "region": "Nashville, TN",
+    "tier": "watch",
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 708
+  },
+  "US|MI|Southwest": {
+    "region": "Southwest, MI",
+    "tier": "watch",
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 709
+  },
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
+    "tier": "watch",
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 710
+  },
+  "WAQI|-398086": {
+    "region": "Lockwood - San Antonio Elementary School, CA",
     "tier": "alert",
-    "firstSeen": 1788262681368,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 649
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 711
   },
-  "FORECAST|US|MO|Kansas City": {
-    "region": "Kansas City, MO",
+  "WAQI|13980": {
+    "region": "Torquay, Saskatchewan, Canada, US",
     "tier": "watch",
-    "firstSeen": 1788323493863,
-    "lastAlertedAt": 1788323493863,
-    "issueNumber": 691
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 712
   },
-  "US|TX|El Paso": {
-    "region": "El Paso, TX",
-    "tier": "watch",
-    "firstSeen": 1788366815883,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 700
-  },
-  "US|ID|Idaho City": {
-    "region": "Idaho City, ID",
-    "tier": "watch",
-    "firstSeen": 1788366815883,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 701
-  },
-  "US|NY|Upper Hudson Valley Region": {
-    "region": "Upper Hudson Valley Region, NY",
-    "tier": "watch",
-    "firstSeen": 1788366815883,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 702
-  },
-  "WAQI|9160": {
-    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1788366815883,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 703
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 713
   },
-  "WAQI|-398764": {
-    "region": "Big Sur Ranger Station, CA",
-    "tier": "alert",
-    "firstSeen": 1788366815883,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 704
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
+  "US-NY-New York City": {
+    "region": "New York City Metro / Lower Hudson Valley, NY",
     "tier": "watch",
-    "firstSeen": 1788366815883,
-    "lastAlertedAt": 1788366815883,
-    "issueNumber": 705
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 714
+  },
+  "US-CO-Denver": {
+    "region": "Denver-Boulder / Front Range Urban Corridor, CO",
+    "tier": "watch",
+    "firstSeen": 1788382929193,
+    "lastAlertedAt": 1788382929193,
+    "issueNumber": 715
   }
 }
