@@ -1,39 +1,4 @@
 {
-  "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
-    "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 706
-  },
-  "US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 707
-  },
-  "US|TN|Nashville": {
-    "region": "Nashville, TN",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 708
-  },
-  "US|MI|Southwest": {
-    "region": "Southwest, MI",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 709
-  },
-  "US|WA|Wenatchee": {
-    "region": "Wenatchee, WA",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 710
-  },
   "WAQI|-398086": {
     "region": "Lockwood - San Antonio Elementary School, CA",
     "tier": "alert",
@@ -41,32 +6,46 @@
     "lastAlertedAt": 1788382929193,
     "issueNumber": 711
   },
-  "WAQI|13980": {
-    "region": "Torquay, Saskatchewan, Canada, US",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 712
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
     "tier": "alert",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 713
+    "firstSeen": 1788409296847,
+    "lastAlertedAt": 1788409296847,
+    "issueNumber": 716
   },
-  "US-NY-New York City": {
-    "region": "New York City Metro / Lower Hudson Valley, NY",
-    "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 714
+  "WAQI|-494083": {
+    "region": "Windrose Dr, Port Ludlow, WA",
+    "tier": "alert",
+    "firstSeen": 1788409296847,
+    "lastAlertedAt": 1788409296847,
+    "issueNumber": 717
   },
-  "US-CO-Denver": {
-    "region": "Denver-Boulder / Front Range Urban Corridor, CO",
+  "WAQI|148": {
+    "region": "E Broadway Ave, Spokane, Washington, USA, WA",
     "tier": "watch",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 715
+    "firstSeen": 1788409296847,
+    "lastAlertedAt": 1788409296847,
+    "issueNumber": 718
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, US",
+    "tier": "alert",
+    "firstSeen": 1788409296847,
+    "lastAlertedAt": 1788409296847,
+    "issueNumber": 719
+  },
+  "FORECAST|US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1788409296847,
+    "lastAlertedAt": 1788409296847,
+    "issueNumber": 720
+  },
+  "FORECAST|US|TN|Nashville": {
+    "region": "Nashville, TN",
+    "tier": "watch",
+    "firstSeen": 1788409296847,
+    "lastAlertedAt": 1788409296847,
+    "issueNumber": 721
   }
 }
