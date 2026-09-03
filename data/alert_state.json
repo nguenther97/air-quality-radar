@@ -1,39 +1,4 @@
 {
-  "WAQI|-398086": {
-    "region": "Lockwood - San Antonio Elementary School, CA",
-    "tier": "alert",
-    "firstSeen": 1788382929193,
-    "lastAlertedAt": 1788382929193,
-    "issueNumber": 711
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1788409296847,
-    "lastAlertedAt": 1788409296847,
-    "issueNumber": 716
-  },
-  "WAQI|-494083": {
-    "region": "Windrose Dr, Port Ludlow, WA",
-    "tier": "alert",
-    "firstSeen": 1788409296847,
-    "lastAlertedAt": 1788409296847,
-    "issueNumber": 717
-  },
-  "WAQI|148": {
-    "region": "E Broadway Ave, Spokane, Washington, USA, WA",
-    "tier": "watch",
-    "firstSeen": 1788409296847,
-    "lastAlertedAt": 1788409296847,
-    "issueNumber": 718
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, US",
-    "tier": "alert",
-    "firstSeen": 1788409296847,
-    "lastAlertedAt": 1788409296847,
-    "issueNumber": 719
-  },
   "FORECAST|US|TN|Memphis": {
     "region": "Memphis, TN",
     "tier": "watch",
@@ -47,5 +12,40 @@
     "firstSeen": 1788409296847,
     "lastAlertedAt": 1788409296847,
     "issueNumber": 721
+  },
+  "US|NM|Dona Ana County": {
+    "region": "Dona Ana County, NM",
+    "tier": "watch",
+    "firstSeen": 1788433964765,
+    "lastAlertedAt": 1788433964765,
+    "issueNumber": 722
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1788433964765,
+    "lastAlertedAt": 1788433964765,
+    "issueNumber": 723
+  },
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, TX",
+    "tier": "alert",
+    "firstSeen": 1788433964765,
+    "lastAlertedAt": 1788433964765,
+    "issueNumber": 724
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "watch",
+    "firstSeen": 1788433964765,
+    "lastAlertedAt": 1788433964765,
+    "issueNumber": 725
+  },
+  "WAQI|6277": {
+    "region": "Santa Teresa, New Mexico, USA, TX",
+    "tier": "watch",
+    "firstSeen": 1788433964765,
+    "lastAlertedAt": 1788433964765,
+    "issueNumber": 726
   }
 }
