@@ -13,13 +13,6 @@
     "lastAlertedAt": 1788409296847,
     "issueNumber": 721
   },
-  "US|NM|Dona Ana County": {
-    "region": "Dona Ana County, NM",
-    "tier": "watch",
-    "firstSeen": 1788433964765,
-    "lastAlertedAt": 1788433964765,
-    "issueNumber": 722
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
     "tier": "watch",
@@ -27,25 +20,81 @@
     "lastAlertedAt": 1788433964765,
     "issueNumber": 723
   },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
+  "US|CA|Border Area": {
+    "region": "Border Area, CA",
     "tier": "alert",
-    "firstSeen": 1788433964765,
-    "lastAlertedAt": 1788433964765,
-    "issueNumber": 724
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 727
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
     "tier": "watch",
-    "firstSeen": 1788433964765,
-    "lastAlertedAt": 1788433964765,
-    "issueNumber": 725
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 728
   },
-  "WAQI|6277": {
-    "region": "Santa Teresa, New Mexico, USA, TX",
+  "US|AZ|Salt River Pima-Maricopa Indian Community": {
+    "region": "Salt River Pima-Maricopa Indian Community, AZ",
     "tier": "watch",
-    "firstSeen": 1788433964765,
-    "lastAlertedAt": 1788433964765,
-    "issueNumber": 726
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 729
+  },
+  "US|MN|Southwestern Minnesota": {
+    "region": "Southwestern Minnesota, MN",
+    "tier": "watch",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 730
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+    "tier": "alert",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 731
+  },
+  "WAQI|7340": {
+    "region": "Marshall, Minnesota, USA, US",
+    "tier": "alert",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 732
+  },
+  "WAQI|-494083": {
+    "region": "Windrose Dr, Port Ludlow, WA",
+    "tier": "alert",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 733
+  },
+  "WAQI|208": {
+    "region": "El Paso Chamizal, El Paso, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 734
+  },
+  "WAQI|291": {
+    "region": "Calexico-Ethel Street, Imperial, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 735
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "watch",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 736
+  },
+  "US-WA-Seattle": {
+    "region": "Seattle / King County, WA",
+    "tier": "watch",
+    "firstSeen": 1788452665056,
+    "lastAlertedAt": 1788452665056,
+    "issueNumber": 737
   }
 }
