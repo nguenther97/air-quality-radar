@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|-490186",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|-419824",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|95",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 163,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|-400060",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|-398764",
-    "value": 177,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|5319",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 202,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788275215074
-  },
-  {
-    "region_key": "WAQI|207",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788275215074
-  },
-  {
     "region_key": "US|OR|Bend and Redmond",
     "value": 102,
     "unit": "AQI",
@@ -929,5 +859,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788442156404
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788455270992
+  },
+  {
+    "region_key": "US|MN|Southwestern Minnesota",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788455270992
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788455270992
+  },
+  {
+    "region_key": "WAQI|8592",
+    "value": 210,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788455270992
+  },
+  {
+    "region_key": "WAQI|7340",
+    "value": 194,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788455270992
+  },
+  {
+    "region_key": "WAQI|201",
+    "value": 184,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788455270992
   }
 ]
