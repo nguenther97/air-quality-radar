@@ -1,100 +1,79 @@
 {
-  "FORECAST|US|TN|Memphis": {
+  "US|GA|Atlanta": {
+    "region": "Atlanta, GA",
+    "tier": "watch",
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 738
+  },
+  "US|WV|Huntington": {
+    "region": "Huntington, WV",
+    "tier": "watch",
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 739
+  },
+  "US|NV|Las Vegas": {
+    "region": "Las Vegas, NV",
+    "tier": "watch",
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 740
+  },
+  "US|TN|Memphis": {
     "region": "Memphis, TN",
     "tier": "watch",
-    "firstSeen": 1788409296847,
-    "lastAlertedAt": 1788409296847,
-    "issueNumber": 720
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 741
   },
-  "FORECAST|US|TN|Nashville": {
+  "US|TN|Nashville": {
     "region": "Nashville, TN",
     "tier": "watch",
-    "firstSeen": 1788409296847,
-    "lastAlertedAt": 1788409296847,
-    "issueNumber": 721
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 742
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "WAQI|-559732": {
+    "region": "Oakland Tech HS, CA",
     "tier": "watch",
-    "firstSeen": 1788433964765,
-    "lastAlertedAt": 1788433964765,
-    "issueNumber": 723
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 743
   },
-  "US|CA|Border Area": {
-    "region": "Border Area, CA",
+  "WAQI|6495": {
+    "region": "García, Nuevo Leon, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 744
+  },
+  "WAQI|7533": {
+    "region": "Candor FRO, North Carolina, USA, US",
     "tier": "alert",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 727
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 745
   },
-  "US|TX|El Paso": {
-    "region": "El Paso, TX",
+  "WAQI|8282": {
+    "region": "S. Pedro, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 728
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 746
   },
-  "US|AZ|Salt River Pima-Maricopa Indian Community": {
-    "region": "Salt River Pima-Maricopa Indian Community, AZ",
+  "WAQI|6497": {
+    "region": "Apodaca, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 729
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 747
   },
-  "US|MN|Southwestern Minnesota": {
-    "region": "Southwestern Minnesota, MN",
+  "FORECAST|US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
+    "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
     "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 730
-  },
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
-    "tier": "alert",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 731
-  },
-  "WAQI|7340": {
-    "region": "Marshall, Minnesota, USA, US",
-    "tier": "alert",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 732
-  },
-  "WAQI|-494083": {
-    "region": "Windrose Dr, Port Ludlow, WA",
-    "tier": "alert",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 733
-  },
-  "WAQI|208": {
-    "region": "El Paso Chamizal, El Paso, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 734
-  },
-  "WAQI|291": {
-    "region": "Calexico-Ethel Street, Imperial, California, CA",
-    "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 735
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 736
-  },
-  "US-WA-Seattle": {
-    "region": "Seattle / King County, WA",
-    "tier": "watch",
-    "firstSeen": 1788452665056,
-    "lastAlertedAt": 1788452665056,
-    "issueNumber": 737
+    "firstSeen": 1788469266752,
+    "lastAlertedAt": 1788469266752,
+    "issueNumber": 748
   }
 }
