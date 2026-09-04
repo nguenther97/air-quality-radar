@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|TX|El Paso",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788366330475
-  },
-  {
-    "region_key": "US|ID|Idaho City",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788366330475
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788366330475
-  },
-  {
-    "region_key": "WAQI|-398764",
-    "value": 163,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788366330475
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788366330475
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 510,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788366330475
-  },
-  {
     "region_key": "US|GA|Atlanta",
     "value": 115,
     "unit": "AQI",
@@ -579,5 +537,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788529356258
+  },
+  {
+    "region_key": "US|MT|Lewistown",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788543135043
+  },
+  {
+    "region_key": "WAQI|6490",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788543135043
+  },
+  {
+    "region_key": "WAQI|5437",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788543135043
+  },
+  {
+    "region_key": "WAQI|-470485",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788543135043
+  },
+  {
+    "region_key": "WAQI|7526",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788543135043
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788543135043
   }
 ]
