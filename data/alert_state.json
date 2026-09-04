@@ -13,53 +13,46 @@
     "lastAlertedAt": 1788496660483,
     "issueNumber": 753
   },
-  "US-CO-Denver": {
-    "region": "Denver-Boulder Front Range Urban Corridor, CO",
+  "WAQI|7526": {
+    "region": "Lewistown, Montana, USA, US",
     "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 755
+    "firstSeen": 1788538818647,
+    "lastAlertedAt": 1788538818647,
+    "issueNumber": 763
   },
-  "US|AK|Juneau": {
-    "region": "Juneau, AK",
-    "tier": "watch",
-    "firstSeen": 1788520630318,
-    "lastAlertedAt": 1788520630318,
-    "issueNumber": 757
-  },
-  "WAQI|5860": {
-    "region": "Pocatello, Idaho, USA, ID",
-    "tier": "watch",
-    "firstSeen": 1788520630318,
-    "lastAlertedAt": 1788520630318,
-    "issueNumber": 758
-  },
-  "WAQI|14687": {
-    "region": "Silverton James and Western, Oregon, USA, OR",
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1788520630318,
-    "lastAlertedAt": 1788520630318,
-    "issueNumber": 759
+    "firstSeen": 1788538818647,
+    "lastAlertedAt": 1788538818647,
+    "issueNumber": 764
   },
-  "US-NY-New York City": {
-    "region": "New York City, NY",
-    "tier": "watch",
-    "firstSeen": 1788520630318,
-    "lastAlertedAt": 1788520630318,
-    "issueNumber": 760
+  "WAQI|-494083": {
+    "region": "Windrose Dr, Port Ludlow, WA",
+    "tier": "alert",
+    "firstSeen": 1788538818647,
+    "lastAlertedAt": 1788538818647,
+    "issueNumber": 765
   },
-  "US-NV-Las Vegas": {
-    "region": "Clark County / Las Vegas Valley, NV",
+  "WAQI|5437": {
+    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
     "tier": "watch",
-    "firstSeen": 1788520630318,
-    "lastAlertedAt": 1788520630318,
-    "issueNumber": 761
+    "firstSeen": 1788538818647,
+    "lastAlertedAt": 1788538818647,
+    "issueNumber": 766
   },
-  "US-TX-El Paso": {
-    "region": "El Paso, TX",
+  "WAQI|6490": {
+    "region": "Metrorrey, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788520630318,
-    "lastAlertedAt": 1788520630318,
-    "issueNumber": 762
+    "firstSeen": 1788538818647,
+    "lastAlertedAt": 1788538818647,
+    "issueNumber": 767
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1788538818647,
+    "lastAlertedAt": 1788538818647,
+    "issueNumber": 768
   }
 }
