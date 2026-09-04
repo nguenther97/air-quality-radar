@@ -1,79 +1,65 @@
 {
-  "US|GA|Atlanta": {
-    "region": "Atlanta, GA",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 738
-  },
-  "US|WV|Huntington": {
-    "region": "Huntington, WV",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 739
-  },
-  "US|NV|Las Vegas": {
-    "region": "Las Vegas, NV",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 740
-  },
-  "US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 741
-  },
-  "US|TN|Nashville": {
-    "region": "Nashville, TN",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 742
-  },
-  "WAQI|-559732": {
-    "region": "Oakland Tech HS, CA",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 743
-  },
-  "WAQI|6495": {
-    "region": "García, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 744
-  },
-  "WAQI|7533": {
-    "region": "Candor FRO, North Carolina, USA, US",
-    "tier": "alert",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 745
-  },
-  "WAQI|8282": {
-    "region": "S. Pedro, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 746
-  },
-  "WAQI|6497": {
-    "region": "Apodaca, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 747
-  },
   "FORECAST|US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
     "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
     "tier": "watch",
     "firstSeen": 1788469266752,
     "lastAlertedAt": 1788469266752,
     "issueNumber": 748
+  },
+  "US|AZ|Gila River Indian Community": {
+    "region": "Gila River Indian Community, AZ",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 749
+  },
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 750
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 751
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 752
+  },
+  "FORECAST|US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 753
+  },
+  "FORECAST|US|TN|Nashville": {
+    "region": "Nashville, TN",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 754
+  },
+  "US-CO-Denver": {
+    "region": "Denver-Boulder / Front Range Urban Corridor, CO",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 755
+  },
+  "US-NY-New York City Metro": {
+    "region": "New York City Metro, Lower Hudson Valley, and Long Island, NY",
+    "tier": "watch",
+    "firstSeen": 1788496660483,
+    "lastAlertedAt": 1788496660483,
+    "issueNumber": 756
   }
 }
