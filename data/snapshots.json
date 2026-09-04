@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 174,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788330012254
-  },
-  {
-    "region_key": "WAQI|-543496",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788330012254
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788330012254
-  },
-  {
-    "region_key": "WAQI|-398086",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788330012254
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788330012254
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 194,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788330012254
-  },
-  {
     "region_key": "US|ID|Idaho City",
     "value": 121,
     "unit": "AQI",
@@ -614,5 +572,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788498043611
+  },
+  {
+    "region_key": "US|TX|El Paso",
+    "value": 379,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788514270811
+  },
+  {
+    "region_key": "US|AK|Juneau",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788514270811
+  },
+  {
+    "region_key": "WAQI|193",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788514270811
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788514270811
   }
 ]
