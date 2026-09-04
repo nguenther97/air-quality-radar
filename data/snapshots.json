@@ -1,61 +1,5 @@
 [
   {
-    "region_key": "US|GA|Atlanta",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "US|TN|Nashville",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "US|IL|North and West Suburbs (Chicago)",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "US|WA|Wenatchee",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "WAQI|-494083",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "WAQI|219",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "WAQI|-398086",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788377270191
-  },
-  {
-    "region_key": "WAQI|158",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788377270191
-  },
-  {
     "region_key": "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point",
     "value": 129,
     "unit": "AQI",
@@ -579,5 +523,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788543135043
+  },
+  {
+    "region_key": "US|TN|Nashville",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788551325530
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788551325530
+  },
+  {
+    "region_key": "WAQI|8282",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788551325530
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788551325530
+  },
+  {
+    "region_key": "WAQI|9528",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788551325530
+  },
+  {
+    "region_key": "WAQI|10949",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788551325530
+  },
+  {
+    "region_key": "WAQI|5437",
+    "value": 212,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788551325530
   }
 ]
