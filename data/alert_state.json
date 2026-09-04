@@ -1,39 +1,4 @@
 {
-  "FORECAST|US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
-    "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
-    "tier": "watch",
-    "firstSeen": 1788469266752,
-    "lastAlertedAt": 1788469266752,
-    "issueNumber": 748
-  },
-  "FORECAST|US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 753
-  },
-  "WAQI|7526": {
-    "region": "Lewistown, Montana, USA, US",
-    "tier": "watch",
-    "firstSeen": 1788538818647,
-    "lastAlertedAt": 1788538818647,
-    "issueNumber": 763
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788538818647,
-    "lastAlertedAt": 1788538818647,
-    "issueNumber": 764
-  },
-  "WAQI|-494083": {
-    "region": "Windrose Dr, Port Ludlow, WA",
-    "tier": "alert",
-    "firstSeen": 1788538818647,
-    "lastAlertedAt": 1788538818647,
-    "issueNumber": 765
-  },
   "WAQI|5437": {
     "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
     "tier": "watch",
@@ -41,18 +6,53 @@
     "lastAlertedAt": 1788538818647,
     "issueNumber": 766
   },
-  "WAQI|6490": {
-    "region": "Metrorrey, Nuevo Leon, Mexico, US",
+  "US|TN|Nashville": {
+    "region": "Nashville, TN",
     "tier": "watch",
-    "firstSeen": 1788538818647,
-    "lastAlertedAt": 1788538818647,
-    "issueNumber": 767
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 769
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "WAQI|10949": {
+    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788538818647,
-    "lastAlertedAt": 1788538818647,
-    "issueNumber": 768
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 770
+  },
+  "WAQI|8282": {
+    "region": "S. Pedro, Nuevo Leon, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 771
+  },
+  "WAQI|219": {
+    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
+    "tier": "alert",
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 772
+  },
+  "WAQI|9528": {
+    "region": "Spruce Pine, North Carolina, USA, NC",
+    "tier": "watch",
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 773
+  },
+  "US-MN-Minneapolis": {
+    "region": "Minneapolis, MN",
+    "tier": "watch",
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 774
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "watch",
+    "firstSeen": 1788554666825,
+    "lastAlertedAt": 1788554666825,
+    "issueNumber": 775
   }
 }
