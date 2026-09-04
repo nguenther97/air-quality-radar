@@ -6,34 +6,6 @@
     "lastAlertedAt": 1788469266752,
     "issueNumber": 748
   },
-  "US|AZ|Gila River Indian Community": {
-    "region": "Gila River Indian Community, AZ",
-    "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 749
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 750
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 751
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 752
-  },
   "FORECAST|US|TN|Memphis": {
     "region": "Memphis, TN",
     "tier": "watch",
@@ -41,25 +13,53 @@
     "lastAlertedAt": 1788496660483,
     "issueNumber": 753
   },
-  "FORECAST|US|TN|Nashville": {
-    "region": "Nashville, TN",
-    "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 754
-  },
   "US-CO-Denver": {
-    "region": "Denver-Boulder / Front Range Urban Corridor, CO",
+    "region": "Denver-Boulder Front Range Urban Corridor, CO",
     "tier": "watch",
     "firstSeen": 1788496660483,
     "lastAlertedAt": 1788496660483,
     "issueNumber": 755
   },
-  "US-NY-New York City Metro": {
-    "region": "New York City Metro, Lower Hudson Valley, and Long Island, NY",
+  "US|AK|Juneau": {
+    "region": "Juneau, AK",
     "tier": "watch",
-    "firstSeen": 1788496660483,
-    "lastAlertedAt": 1788496660483,
-    "issueNumber": 756
+    "firstSeen": 1788520630318,
+    "lastAlertedAt": 1788520630318,
+    "issueNumber": 757
+  },
+  "WAQI|5860": {
+    "region": "Pocatello, Idaho, USA, ID",
+    "tier": "watch",
+    "firstSeen": 1788520630318,
+    "lastAlertedAt": 1788520630318,
+    "issueNumber": 758
+  },
+  "WAQI|14687": {
+    "region": "Silverton James and Western, Oregon, USA, OR",
+    "tier": "alert",
+    "firstSeen": 1788520630318,
+    "lastAlertedAt": 1788520630318,
+    "issueNumber": 759
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "watch",
+    "firstSeen": 1788520630318,
+    "lastAlertedAt": 1788520630318,
+    "issueNumber": 760
+  },
+  "US-NV-Las Vegas": {
+    "region": "Clark County / Las Vegas Valley, NV",
+    "tier": "watch",
+    "firstSeen": 1788520630318,
+    "lastAlertedAt": 1788520630318,
+    "issueNumber": 761
+  },
+  "US-TX-El Paso": {
+    "region": "El Paso, TX",
+    "tier": "watch",
+    "firstSeen": 1788520630318,
+    "lastAlertedAt": 1788520630318,
+    "issueNumber": 762
   }
 }
