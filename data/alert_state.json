@@ -1,65 +1,30 @@
 {
-  "US|CA|Brawley": {
-    "region": "Brawley, CA",
-    "tier": "watch",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 776
-  },
-  "US|CA|Calexico": {
-    "region": "Calexico, CA",
-    "tier": "watch",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 777
-  },
-  "US|TX|El Paso": {
-    "region": "El Paso, TX",
-    "tier": "watch",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 778
-  },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "watch",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 779
-  },
-  "US|CA|Westmorland": {
-    "region": "Westmorland, CA",
-    "tier": "watch",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 780
-  },
   "WAQI|8592": {
     "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
+    "lastAlertedAt": 1788621143466,
     "issueNumber": 781
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 782
-  },
-  "WAQI|291": {
-    "region": "Calexico-Ethel Street, Imperial, California, CA",
+  "US|CA|Border Area": {
+    "region": "Border Area, CA",
     "tier": "watch",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 783
+    "firstSeen": 1788621143466,
+    "lastAlertedAt": 1788621143466,
+    "issueNumber": 785
   },
-  "CA-SK-La Ronge": {
-    "region": "La Ronge, SK",
+  "WAQI|219": {
+    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
     "tier": "alert",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788604410022,
-    "issueNumber": 784
+    "firstSeen": 1788621143466,
+    "lastAlertedAt": 1788621143466,
+    "issueNumber": 786
+  },
+  "US-NY-New York City": {
+    "region": "New York City Metro, NY",
+    "tier": "watch",
+    "firstSeen": 1788621143466,
+    "lastAlertedAt": 1788621143466,
+    "issueNumber": 787
   }
 }
