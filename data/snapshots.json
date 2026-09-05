@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|CA|Antelope Vly",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "US|MI|Grand Rapids",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "US|TN|Nashville",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "US|MN|Northern Twin Cities Metro",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "WAQI|-1435885",
-    "value": 186,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "WAQI|-398086",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "WAQI|113",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "WAQI|-524632",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788393525328
-  },
-  {
-    "region_key": "WAQI|13071",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788393525328
-  },
-  {
     "region_key": "US|MI|Grand Rapids",
     "value": 122,
     "unit": "AQI",
@@ -572,5 +502,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788560229480
+  },
+  {
+    "region_key": "US|IL|Chicago",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "US|IN|Hammond-Gary",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "US|IL|Joliet and Will County",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "US|IL|North and West Suburbs (Chicago)",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "US|IL|South and West Suburbs (Chicago)",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "WAQI|5437",
+    "value": 204,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "WAQI|10948",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "WAQI|14687",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "WAQI|10950",
+    "value": 354,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788567508825
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788567508825
   }
 ]
