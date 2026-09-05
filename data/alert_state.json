@@ -1,58 +1,65 @@
 {
-  "WAQI|5437": {
-    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
+  "US|CA|Brawley": {
+    "region": "Brawley, CA",
     "tier": "watch",
-    "firstSeen": 1788538818647,
-    "lastAlertedAt": 1788538818647,
-    "issueNumber": 766
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 776
   },
-  "US|TN|Nashville": {
-    "region": "Nashville, TN",
+  "US|CA|Calexico": {
+    "region": "Calexico, CA",
     "tier": "watch",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 769
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 777
   },
-  "WAQI|10949": {
-    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
     "tier": "watch",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 770
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 778
   },
-  "WAQI|8282": {
-    "region": "S. Pedro, Nuevo Leon, Mexico, US",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
     "tier": "watch",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 771
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 779
   },
-  "WAQI|219": {
-    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
+  "US|CA|Westmorland": {
+    "region": "Westmorland, CA",
+    "tier": "watch",
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 780
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 781
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 772
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 782
   },
-  "WAQI|9528": {
-    "region": "Spruce Pine, North Carolina, USA, NC",
+  "WAQI|291": {
+    "region": "Calexico-Ethel Street, Imperial, California, CA",
     "tier": "watch",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 773
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 783
   },
-  "US-MN-Minneapolis": {
-    "region": "Minneapolis, MN",
-    "tier": "watch",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 774
-  },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
-    "tier": "watch",
-    "firstSeen": 1788554666825,
-    "lastAlertedAt": 1788554666825,
-    "issueNumber": 775
+  "CA-SK-La Ronge": {
+    "region": "La Ronge, SK",
+    "tier": "alert",
+    "firstSeen": 1788604410022,
+    "lastAlertedAt": 1788604410022,
+    "issueNumber": 784
   }
 }
