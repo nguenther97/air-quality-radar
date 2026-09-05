@@ -1,61 +1,5 @@
 [
   {
-    "region_key": "US|OR|Bend and Redmond",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "US|NV|Las Vegas",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "US|TN|Memphis",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "WAQI|-494083",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "WAQI|71",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "WAQI|7533",
-    "value": 179,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788465876981
-  },
-  {
-    "region_key": "WAQI|-505018",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788465876981
-  },
-  {
     "region_key": "US|GA|Atlanta",
     "value": 143,
     "unit": "AQI",
@@ -712,5 +656,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788636047628
+  },
+  {
+    "region_key": "US|MO|Kansas City",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788644184962
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788644184962
+  },
+  {
+    "region_key": "WAQI|5437",
+    "value": 226,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788644184962
   }
 ]
