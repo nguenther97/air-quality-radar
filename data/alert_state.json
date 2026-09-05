@@ -1,30 +1,72 @@
 {
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
-    "tier": "alert",
-    "firstSeen": 1788604410022,
-    "lastAlertedAt": 1788621143466,
-    "issueNumber": 781
-  },
-  "US|CA|Border Area": {
-    "region": "Border Area, CA",
+  "WAQI|10949": {
+    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788621143466,
-    "lastAlertedAt": 1788621143466,
-    "issueNumber": 785
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 788
   },
-  "WAQI|219": {
-    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
-    "tier": "alert",
-    "firstSeen": 1788621143466,
-    "lastAlertedAt": 1788621143466,
-    "issueNumber": 786
-  },
-  "US-NY-New York City": {
-    "region": "New York City Metro, NY",
+  "WAQI|8825": {
+    "region": "Ardrossan, Alberta, Canada, AB",
     "tier": "watch",
-    "firstSeen": 1788621143466,
-    "lastAlertedAt": 1788621143466,
-    "issueNumber": 787
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 789
+  },
+  "WAQI|-524572": {
+    "region": "Rue Kirouac, QC",
+    "tier": "alert",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 790
+  },
+  "WAQI|8282": {
+    "region": "S. Pedro, Nuevo Leon, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 791
+  },
+  "WAQI|6490": {
+    "region": "Metrorrey, Nuevo Leon, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 792
+  },
+  "WAQI|-562891": {
+    "region": "Cashmere, WA",
+    "tier": "watch",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 793
+  },
+  "WAQI|-1645444": {
+    "region": "lenox woods, TX",
+    "tier": "alert",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 794
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, Washington, WA",
+    "tier": "watch",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 795
+  },
+  "US-CO-Denver": {
+    "region": "Denver-Boulder Front Range, Colorado, CO",
+    "tier": "watch",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 796
+  },
+  "CA-BC-Vancouver": {
+    "region": "Metro Vancouver & Fraser Valley, British Columbia, BC",
+    "tier": "alert",
+    "firstSeen": 1788639534288,
+    "lastAlertedAt": 1788639534288,
+    "issueNumber": 797
   }
 }
