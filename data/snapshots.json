@@ -663,5 +663,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788629450458
+  },
+  {
+    "region_key": "US|AZ|Yuma",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788636047628
+  },
+  {
+    "region_key": "WAQI|-492277",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788636047628
+  },
+  {
+    "region_key": "WAQI|5437",
+    "value": 191,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788636047628
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788636047628
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788636047628
+  },
+  {
+    "region_key": "WAQI|-562891",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788636047628
+  },
+  {
+    "region_key": "WAQI|6490",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788636047628
   }
 ]
