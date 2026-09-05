@@ -663,5 +663,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788598490300
+  },
+  {
+    "region_key": "US|AZ|Yuma",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788611578886
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788611578886
+  },
+  {
+    "region_key": "WAQI|8395",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788611578886
   }
 ]
