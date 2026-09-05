@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|MI|Grand Rapids",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788408231420
-  },
-  {
-    "region_key": "US|CA|Victorville",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788408231420
-  },
-  {
-    "region_key": "WAQI|-2216566",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788408231420
-  },
-  {
-    "region_key": "WAQI|148",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788408231420
-  },
-  {
-    "region_key": "WAQI|219",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788408231420
-  },
-  {
-    "region_key": "WAQI|-398086",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788408231420
-  },
-  {
     "region_key": "WAQI|208",
     "value": 278,
     "unit": "AQI",
@@ -572,5 +530,89 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788567508825
+  },
+  {
+    "region_key": "US|OH|Canton and Massillon",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "US|SC|Greenville-Spartanburg",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 393,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "US|OK|Miami",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 393,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|-541255",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|9281",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|13068",
+    "value": 774,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|7482",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788583912480
+  },
+  {
+    "region_key": "WAQI|14687",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788583912480
   }
 ]
