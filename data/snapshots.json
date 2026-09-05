@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|TX|El Paso",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788442156404
-  },
-  {
-    "region_key": "WAQI|6280",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788442156404
-  },
-  {
-    "region_key": "WAQI|12",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788442156404
-  },
-  {
-    "region_key": "WAQI|7596",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788442156404
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788442156404
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788442156404
-  },
-  {
-    "region_key": "WAQI|14115",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788442156404
-  },
-  {
     "region_key": "US|CA|Border Area",
     "value": 160,
     "unit": "AQI",
@@ -684,5 +635,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788611578886
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 138,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788622137127
+  },
+  {
+    "region_key": "WAQI|219",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788622137127
+  },
+  {
+    "region_key": "WAQI|8592",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788622137127
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788622137127
   }
 ]
