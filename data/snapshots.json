@@ -1,26 +1,5 @@
 [
   {
-    "region_key": "WAQI|208",
-    "value": 278,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788425511328
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788425511328
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788425511328
-  },
-  {
     "region_key": "US|TX|El Paso",
     "value": 112,
     "unit": "AQI",
@@ -614,5 +593,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788583912480
+  },
+  {
+    "region_key": "US|CA|Brawley",
+    "value": 331,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "US|CA|Calexico",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "US|TX|El Paso",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 488,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 488,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "WAQI|14687",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "WAQI|291",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "WAQI|193",
+    "value": 173,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "WAQI|13068",
+    "value": 353,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
+  },
+  {
+    "region_key": "WAQI|208",
+    "value": 311,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788598490300
   }
 ]
