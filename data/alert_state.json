@@ -1,72 +1,44 @@
 {
-  "WAQI|10949": {
-    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 788
-  },
-  "WAQI|8825": {
-    "region": "Ardrossan, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 789
-  },
-  "WAQI|-524572": {
-    "region": "Rue Kirouac, QC",
-    "tier": "alert",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 790
-  },
-  "WAQI|8282": {
-    "region": "S. Pedro, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 791
-  },
-  "WAQI|6490": {
-    "region": "Metrorrey, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 792
-  },
-  "WAQI|-562891": {
-    "region": "Cashmere, WA",
-    "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 793
-  },
-  "WAQI|-1645444": {
-    "region": "lenox woods, TX",
-    "tier": "alert",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 794
-  },
-  "US-WA-Spokane": {
-    "region": "Spokane, Washington, WA",
-    "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 795
-  },
   "US-CO-Denver": {
-    "region": "Denver-Boulder Front Range, Colorado, CO",
+    "region": "Denver/Front Range Urban Corridor, CO",
     "tier": "watch",
     "firstSeen": 1788639534288,
     "lastAlertedAt": 1788639534288,
     "issueNumber": 796
   },
-  "CA-BC-Vancouver": {
-    "region": "Metro Vancouver & Fraser Valley, British Columbia, BC",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
     "tier": "alert",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 797
+    "firstSeen": 1788669399996,
+    "lastAlertedAt": 1788669399996,
+    "issueNumber": 798
+  },
+  "US|CA|Niland": {
+    "region": "Niland, CA",
+    "tier": "alert",
+    "firstSeen": 1788669399996,
+    "lastAlertedAt": 1788669399996,
+    "issueNumber": 799
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1788669399996,
+    "lastAlertedAt": 1788669399996,
+    "issueNumber": 800
+  },
+  "WAQI|8863": {
+    "region": "Niland-English Road, Imperial, California, CA",
+    "tier": "alert",
+    "firstSeen": 1788669399996,
+    "lastAlertedAt": 1788669399996,
+    "issueNumber": 801
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "alert",
+    "firstSeen": 1788669399996,
+    "lastAlertedAt": 1788669399996,
+    "issueNumber": 802
   }
 }
