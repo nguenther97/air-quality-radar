@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|TN|Nashville",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788551325530
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 185,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788551325530
-  },
-  {
-    "region_key": "WAQI|8282",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788551325530
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788551325530
-  },
-  {
-    "region_key": "WAQI|9528",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788551325530
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788551325530
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 212,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788551325530
-  },
-  {
     "region_key": "US|IL|Chicago",
     "value": 101,
     "unit": "AQI",
@@ -642,5 +593,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788722790529
+  },
+  {
+    "region_key": "US|CA|Brawley",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788730568507
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 190,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788730568507
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 190,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788730568507
+  },
+  {
+    "region_key": "WAQI|13068",
+    "value": 440,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788730568507
+  },
+  {
+    "region_key": "WAQI|14687",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788730568507
+  },
+  {
+    "region_key": "WAQI|10950",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788730568507
   }
 ]
