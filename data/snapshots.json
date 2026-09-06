@@ -1,33 +1,5 @@
 [
   {
-    "region_key": "US|TX|El Paso",
-    "value": 379,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788514270811
-  },
-  {
-    "region_key": "US|AK|Juneau",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788514270811
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788514270811
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 185,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788514270811
-  },
-  {
     "region_key": "WAQI|-494671",
     "value": 145,
     "unit": "AQI",
@@ -642,5 +614,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788675988633
+  },
+  {
+    "region_key": "US|CA|Yosemite National Park",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788693395829
+  },
+  {
+    "region_key": "WAQI|-1438279",
+    "value": 257,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788693395829
+  },
+  {
+    "region_key": "WAQI|5362",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788693395829
   }
 ]
