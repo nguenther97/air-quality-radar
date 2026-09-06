@@ -1,16 +1,37 @@
 {
-  "WAQI|9528": {
-    "region": "Spruce Pine, North Carolina, USA, NC",
-    "tier": "watch",
-    "firstSeen": 1788708425314,
-    "lastAlertedAt": 1788708425314,
-    "issueNumber": 807
+  "WAQI|14687": {
+    "region": "Silverton James and Western, Oregon, USA, OR",
+    "tier": "alert",
+    "firstSeen": 1788726171667,
+    "lastAlertedAt": 1788726171667,
+    "issueNumber": 809
   },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
+  "WAQI|219": {
+    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
+    "tier": "alert",
+    "firstSeen": 1788726171667,
+    "lastAlertedAt": 1788726171667,
+    "issueNumber": 810
+  },
+  "WAQI|10950": {
+    "region": "Cadereyta, Monterrey, Nuevo León, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788708425314,
-    "lastAlertedAt": 1788708425314,
-    "issueNumber": 808
+    "firstSeen": 1788726171667,
+    "lastAlertedAt": 1788726171667,
+    "issueNumber": 811
+  },
+  "WAQI|-470485": {
+    "region": "Cle Elum, WA",
+    "tier": "watch",
+    "firstSeen": 1788726171667,
+    "lastAlertedAt": 1788726171667,
+    "issueNumber": 812
+  },
+  "WAQI|7533": {
+    "region": "Candor FRO, North Carolina, USA, US",
+    "tier": "watch",
+    "firstSeen": 1788726171667,
+    "lastAlertedAt": 1788726171667,
+    "issueNumber": 813
   }
 }
