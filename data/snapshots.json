@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|-494671",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788529356258
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 189,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788529356258
-  },
-  {
     "region_key": "US|MT|Lewistown",
     "value": 101,
     "unit": "AQI",
