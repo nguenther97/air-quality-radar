@@ -1,44 +1,16 @@
 {
-  "US-CO-Denver": {
-    "region": "Denver / Front Range Urban Corridor, CO",
+  "WAQI|9528": {
+    "region": "Spruce Pine, North Carolina, USA, NC",
     "tier": "watch",
-    "firstSeen": 1788639534288,
-    "lastAlertedAt": 1788639534288,
-    "issueNumber": 796
+    "firstSeen": 1788708425314,
+    "lastAlertedAt": 1788708425314,
+    "issueNumber": 807
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788669399996,
-    "lastAlertedAt": 1788669399996,
-    "issueNumber": 800
-  },
-  "US|CA|Yosemite National Park": {
-    "region": "Yosemite National Park, CA",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
     "tier": "watch",
-    "firstSeen": 1788692092800,
-    "lastAlertedAt": 1788692092800,
-    "issueNumber": 803
-  },
-  "WAQI|-1438279": {
-    "region": "Rue Paul-dutil, QC",
-    "tier": "alert",
-    "firstSeen": 1788692092800,
-    "lastAlertedAt": 1788692092800,
-    "issueNumber": 804
-  },
-  "WAQI|5362": {
-    "region": "Lincoln-1445 1st Street, Placer, California, CA",
-    "tier": "watch",
-    "firstSeen": 1788692092800,
-    "lastAlertedAt": 1788692092800,
-    "issueNumber": 805
-  },
-  "US-NY-New York City": {
-    "region": "New York City Metro / Lower Hudson Valley, NY",
-    "tier": "watch",
-    "firstSeen": 1788692092800,
-    "lastAlertedAt": 1788692092800,
-    "issueNumber": 806
+    "firstSeen": 1788708425314,
+    "lastAlertedAt": 1788708425314,
+    "issueNumber": 808
   }
 }
