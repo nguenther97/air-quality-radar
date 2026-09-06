@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|GA|Atlanta",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788481319137
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 182,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788481319137
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788481319137
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788481319137
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788481319137
-  },
-  {
     "region_key": "US|AZ|Gila River Indian Community",
     "value": 124,
     "unit": "AQI",
@@ -642,5 +607,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788650016772
+  },
+  {
+    "region_key": "US|MO|Kansas City",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788657402937
+  },
+  {
+    "region_key": "WAQI|6491",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788657402937
+  },
+  {
+    "region_key": "WAQI|-561598",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788657402937
+  },
+  {
+    "region_key": "WAQI|7380",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788657402937
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788657402937
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788657402937
   }
 ]
