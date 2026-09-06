@@ -1,24 +1,10 @@
 {
   "US-CO-Denver": {
-    "region": "Denver/Front Range Urban Corridor, CO",
+    "region": "Denver / Front Range Urban Corridor, CO",
     "tier": "watch",
     "firstSeen": 1788639534288,
     "lastAlertedAt": 1788639534288,
     "issueNumber": 796
-  },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "alert",
-    "firstSeen": 1788669399996,
-    "lastAlertedAt": 1788669399996,
-    "issueNumber": 798
-  },
-  "US|CA|Niland": {
-    "region": "Niland, CA",
-    "tier": "alert",
-    "firstSeen": 1788669399996,
-    "lastAlertedAt": 1788669399996,
-    "issueNumber": 799
   },
   "WAQI|9279": {
     "region": "Wauchope, Saskatchewan, Canada, CA",
@@ -27,18 +13,32 @@
     "lastAlertedAt": 1788669399996,
     "issueNumber": 800
   },
-  "WAQI|8863": {
-    "region": "Niland-English Road, Imperial, California, CA",
-    "tier": "alert",
-    "firstSeen": 1788669399996,
-    "lastAlertedAt": 1788669399996,
-    "issueNumber": 801
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
+    "tier": "watch",
+    "firstSeen": 1788692092800,
+    "lastAlertedAt": 1788692092800,
+    "issueNumber": 803
   },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
+  "WAQI|-1438279": {
+    "region": "Rue Paul-dutil, QC",
     "tier": "alert",
-    "firstSeen": 1788669399996,
-    "lastAlertedAt": 1788669399996,
-    "issueNumber": 802
+    "firstSeen": 1788692092800,
+    "lastAlertedAt": 1788692092800,
+    "issueNumber": 804
+  },
+  "WAQI|5362": {
+    "region": "Lincoln-1445 1st Street, Placer, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788692092800,
+    "lastAlertedAt": 1788692092800,
+    "issueNumber": 805
+  },
+  "US-NY-New York City": {
+    "region": "New York City Metro / Lower Hudson Valley, NY",
+    "tier": "watch",
+    "firstSeen": 1788692092800,
+    "lastAlertedAt": 1788692092800,
+    "issueNumber": 806
   }
 }
