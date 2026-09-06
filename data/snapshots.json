@@ -621,5 +621,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788693395829
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788715063654
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788715063654
+  },
+  {
+    "region_key": "WAQI|3897",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788715063654
+  },
+  {
+    "region_key": "WAQI|6496",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788715063654
   }
 ]
