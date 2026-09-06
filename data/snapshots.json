@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|MT|Lewistown",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788543135043
-  },
-  {
-    "region_key": "WAQI|6490",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788543135043
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 169,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788543135043
-  },
-  {
-    "region_key": "WAQI|-470485",
-    "value": 131,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788543135043
-  },
-  {
-    "region_key": "WAQI|7526",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788543135043
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788543135043
-  },
-  {
     "region_key": "US|TN|Nashville",
     "value": 101,
     "unit": "AQI",
@@ -649,5 +607,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788715063654
+  },
+  {
+    "region_key": "WAQI|-470485",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788722790529
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788722790529
+  },
+  {
+    "region_key": "WAQI|7533",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788722790529
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 173,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788722790529
+  },
+  {
+    "region_key": "WAQI|14687",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788722790529
   }
 ]
