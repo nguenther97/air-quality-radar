@@ -1,30 +1,23 @@
 {
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, US",
+  "WAQI|8282": {
+    "region": "S. Pedro, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 816
+    "firstSeen": 1788816601683,
+    "lastAlertedAt": 1788816601683,
+    "issueNumber": 824
   },
-  "WAQI|269": {
-    "region": "Camp Pendleton, San Diego, California, CA",
+  "WAQI|-1438231": {
+    "region": "Rue Jacques-bureau, QC",
     "tier": "alert",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788784198683,
-    "issueNumber": 821
+    "firstSeen": 1788816601683,
+    "lastAlertedAt": 1788816601683,
+    "issueNumber": 825
   },
-  "US|CA|San Diego Coast": {
-    "region": "San Diego Coast, CA",
-    "tier": "alert",
-    "firstSeen": 1788784198683,
-    "lastAlertedAt": 1788784198683,
-    "issueNumber": 822
-  },
-  "WAQI|219": {
-    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
-    "tier": "alert",
-    "firstSeen": 1788784198683,
-    "lastAlertedAt": 1788784198683,
-    "issueNumber": 823
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "watch",
+    "firstSeen": 1788816601683,
+    "lastAlertedAt": 1788816601683,
+    "issueNumber": 826
   }
 }
