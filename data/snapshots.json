@@ -1,97 +1,6 @@
 [
   {
     "region_key": "US|AZ|Yuma",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788611578886
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 181,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788611578886
-  },
-  {
-    "region_key": "WAQI|8395",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788611578886
-  },
-  {
-    "region_key": "US|CA|Border Area",
-    "value": 138,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788622137127
-  },
-  {
-    "region_key": "WAQI|219",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788622137127
-  },
-  {
-    "region_key": "WAQI|8592",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788622137127
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 131,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788622137127
-  },
-  {
-    "region_key": "US|AZ|Yuma",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788629450458
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788629450458
-  },
-  {
-    "region_key": "WAQI|8395",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788629450458
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788629450458
-  },
-  {
-    "region_key": "WAQI|5362",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788629450458
-  },
-  {
-    "region_key": "WAQI|-492277",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788629450458
-  },
-  {
-    "region_key": "US|AZ|Yuma",
     "value": 101,
     "unit": "AQI",
     "tier": "watch",
@@ -621,5 +530,19 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788783172250
+  },
+  {
+    "region_key": "US|CA|San Diego Coast",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788803527928
+  },
+  {
+    "region_key": "WAQI|269",
+    "value": 135,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788803527928
   }
 ]
