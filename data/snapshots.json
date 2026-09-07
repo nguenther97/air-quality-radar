@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|MO|Kansas City",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788644184962
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788644184962
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 226,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788644184962
-  },
-  {
-    "region_key": "US|MO|Kansas City",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788650016772
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788650016772
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 375,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788650016772
-  },
-  {
-    "region_key": "US|MO|Kansas City",
     "value": 108,
     "unit": "AQI",
     "tier": "watch",
@@ -509,5 +467,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788816265495
+  },
+  {
+    "region_key": "WAQI|6496",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788824535967
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788824535967
   }
 ]
