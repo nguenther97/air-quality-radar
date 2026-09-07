@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|IL|Chicago",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "US|IN|Hammond-Gary",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "US|IL|Joliet and Will County",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "US|IL|North and West Suburbs (Chicago)",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "US|IL|South and West Suburbs (Chicago)",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 204,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "WAQI|10948",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "WAQI|14687",
-    "value": 128,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "WAQI|10950",
-    "value": 354,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788567508825
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788567508825
-  },
-  {
     "region_key": "US|OH|Canton and Massillon",
     "value": 104,
     "unit": "AQI",
@@ -649,5 +579,110 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788735935060
+  },
+  {
+    "region_key": "US|CA|Calexico",
+    "value": 261,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "US|CA|El Centro",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 261,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "US|AZ|Yuma",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|8395",
+    "value": 402,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|13288",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|291",
+    "value": 443,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|7380",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|14687",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|8282",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|6494",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|6490",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
+  },
+  {
+    "region_key": "WAQI|-566521",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788742431444
   }
 ]
