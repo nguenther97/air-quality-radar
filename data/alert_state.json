@@ -1,37 +1,58 @@
 {
-  "WAQI|14687": {
-    "region": "Silverton James and Western, Oregon, USA, OR",
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
     "tier": "alert",
-    "firstSeen": 1788726171667,
-    "lastAlertedAt": 1788726171667,
-    "issueNumber": 809
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 814
   },
-  "WAQI|219": {
-    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
+  "WAQI|7363": {
+    "region": "Ncore, Nebraska, USA, NE",
     "tier": "alert",
-    "firstSeen": 1788726171667,
-    "lastAlertedAt": 1788726171667,
-    "issueNumber": 810
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 815
   },
-  "WAQI|10950": {
-    "region": "Cadereyta, Monterrey, Nuevo León, Mexico, US",
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, US",
     "tier": "watch",
-    "firstSeen": 1788726171667,
-    "lastAlertedAt": 1788726171667,
-    "issueNumber": 811
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 816
   },
-  "WAQI|-470485": {
-    "region": "Cle Elum, WA",
+  "WAQI|6496": {
+    "region": "Escobedo, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788726171667,
-    "lastAlertedAt": 1788726171667,
-    "issueNumber": 812
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 817
   },
-  "WAQI|7533": {
-    "region": "Candor FRO, North Carolina, USA, US",
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 818
+  },
+  "WAQI|-524593": {
+    "region": "9e Rue, QC",
     "tier": "watch",
-    "firstSeen": 1788726171667,
-    "lastAlertedAt": 1788726171667,
-    "issueNumber": 813
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 819
+  },
+  "WAQI|6493": {
+    "region": "San Nicolás, Nuevo Leon, Mexico, US",
+    "tier": "alert",
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 820
+  },
+  "WAQI|269": {
+    "region": "Camp Pendleton, San Diego, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788755933876,
+    "lastAlertedAt": 1788755933876,
+    "issueNumber": 821
   }
 }
