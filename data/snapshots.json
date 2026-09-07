@@ -1,89 +1,5 @@
 [
   {
-    "region_key": "US|OH|Canton and Massillon",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "US|SC|Greenville-Spartanburg",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 393,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "US|OK|Miami",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "US|CA|Westmorland",
-    "value": 393,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 180,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|-541255",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|9281",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|13068",
-    "value": 774,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|7482",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788583912480
-  },
-  {
-    "region_key": "WAQI|14687",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788583912480
-  },
-  {
     "region_key": "US|CA|Brawley",
     "value": 331,
     "unit": "AQI",
@@ -684,5 +600,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788742431444
+  },
+  {
+    "region_key": "US|ID|St. Maries",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "WAQI|6496",
+    "value": 384,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "WAQI|6423",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "WAQI|5501",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "WAQI|-493474",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788760480022
+  },
+  {
+    "region_key": "WAQI|5318",
+    "value": 181,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788760480022
   }
 ]
