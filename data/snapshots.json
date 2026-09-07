@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|CA|Brawley",
-    "value": 331,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "US|CA|Calexico",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "US|TX|El Paso",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 488,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "US|CA|Westmorland",
-    "value": 488,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "WAQI|14687",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "WAQI|291",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 173,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "WAQI|13068",
-    "value": 353,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
-    "region_key": "WAQI|208",
-    "value": 311,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788598490300
-  },
-  {
     "region_key": "US|AZ|Yuma",
     "value": 107,
     "unit": "AQI",
@@ -656,5 +586,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788760480022
+  },
+  {
+    "region_key": "US|CA|San Diego Coast",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788783172250
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788783172250
+  },
+  {
+    "region_key": "WAQI|-2216566",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788783172250
+  },
+  {
+    "region_key": "WAQI|219",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788783172250
+  },
+  {
+    "region_key": "WAQI|269",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788783172250
   }
 ]
