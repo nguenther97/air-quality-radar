@@ -1,18 +1,4 @@
 {
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 814
-  },
-  "WAQI|7363": {
-    "region": "Ncore, Nebraska, USA, NE",
-    "tier": "alert",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 815
-  },
   "WAQI|-2216566": {
     "region": "Calle Inglaterra, US",
     "tier": "watch",
@@ -20,39 +6,25 @@
     "lastAlertedAt": 1788755933876,
     "issueNumber": 816
   },
-  "WAQI|6496": {
-    "region": "Escobedo, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 817
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 818
-  },
-  "WAQI|-524593": {
-    "region": "9e Rue, QC",
-    "tier": "watch",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 819
-  },
-  "WAQI|6493": {
-    "region": "San Nicolás, Nuevo Leon, Mexico, US",
-    "tier": "alert",
-    "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
-    "issueNumber": 820
-  },
   "WAQI|269": {
     "region": "Camp Pendleton, San Diego, California, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1788755933876,
-    "lastAlertedAt": 1788755933876,
+    "lastAlertedAt": 1788784198683,
     "issueNumber": 821
+  },
+  "US|CA|San Diego Coast": {
+    "region": "San Diego Coast, CA",
+    "tier": "alert",
+    "firstSeen": 1788784198683,
+    "lastAlertedAt": 1788784198683,
+    "issueNumber": 822
+  },
+  "WAQI|219": {
+    "region": "Port Arthur Memorial School, Beaumont, Texas, TX",
+    "tier": "alert",
+    "firstSeen": 1788784198683,
+    "lastAlertedAt": 1788784198683,
+    "issueNumber": 823
   }
 }
