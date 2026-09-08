@@ -1,65 +1,79 @@
 {
-  "US|CA|San Diego Coast": {
-    "region": "San Diego Coast, CA",
+  "US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 849
+  },
+  "US|MO|Saint Louis": {
+    "region": "Saint Louis, MO",
+    "tier": "watch",
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 850
+  },
+  "WAQI|-503623": {
+    "region": "Portland Roosevelt High School, OR",
     "tier": "alert",
-    "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 837
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 851
   },
-  "WAQI|269": {
-    "region": "Camp Pendleton, San Diego, California, CA",
-    "tier": "alert",
-    "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788866211554,
-    "issueNumber": 840
-  },
-  "US|NJ|Northeast Urban": {
-    "region": "Northeast Urban, NJ",
+  "WAQI|10949": {
+    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 842
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 852
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 843
-  },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 844
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 853
   },
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+  "FORECAST|US|CA|Concord": {
+    "region": "Concord, CA",
     "tier": "watch",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 845
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 854
   },
-  "WAQI|-470485": {
-    "region": "Cle Elum, WA",
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 846
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 855
   },
-  "WAQI|275": {
-    "region": "Fresno - Drummond Street, Fresno, California, CA",
+  "FORECAST|US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
     "tier": "watch",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 847
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 856
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "alert",
-    "firstSeen": 1788885414714,
-    "lastAlertedAt": 1788885414714,
-    "issueNumber": 848
+  "FORECAST|US|CA|Fairfield": {
+    "region": "Fairfield, CA",
+    "tier": "watch",
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 857
+  },
+  "FORECAST|US|CA|Livermore": {
+    "region": "Livermore, CA",
+    "tier": "watch",
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 858
+  },
+  "FORECAST|US|CA|San Jose": {
+    "region": "San Jose, CA",
+    "tier": "watch",
+    "firstSeen": 1788901691300,
+    "lastAlertedAt": 1788901691300,
+    "issueNumber": 859
   }
 }
