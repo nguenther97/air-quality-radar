@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|CA|Brawley",
-    "value": 159,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788730568507
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 190,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788730568507
-  },
-  {
-    "region_key": "US|CA|Westmorland",
-    "value": 190,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788730568507
-  },
-  {
-    "region_key": "WAQI|13068",
-    "value": 440,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788730568507
-  },
-  {
-    "region_key": "WAQI|14687",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788730568507
-  },
-  {
-    "region_key": "WAQI|10950",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788730568507
-  },
-  {
-    "region_key": "US|CA|Brawley",
     "value": 277,
     "unit": "AQI",
     "tier": "alert",
@@ -565,5 +523,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788898199029
+  },
+  {
+    "region_key": "US|IA|Davenport",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 182,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "WAQI|6921",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "WAQI|-524659",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "WAQI|-503623",
+    "value": 437,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "WAQI|6913",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788908128814
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788908128814
   }
 ]
