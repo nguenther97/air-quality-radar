@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "WAQI|-470485",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788722790529
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788722790529
-  },
-  {
-    "region_key": "WAQI|7533",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788722790529
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 173,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788722790529
-  },
-  {
-    "region_key": "WAQI|14687",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788722790529
-  },
-  {
     "region_key": "US|CA|Brawley",
     "value": 159,
     "unit": "AQI",
@@ -558,5 +523,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788888185085
+  },
+  {
+    "region_key": "US|SD|Brookings",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788898199029
+  },
+  {
+    "region_key": "US|TN|Memphis",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788898199029
+  },
+  {
+    "region_key": "WAQI|-503623",
+    "value": 437,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788898199029
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788898199029
+  },
+  {
+    "region_key": "WAQI|6921",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788898199029
+  },
+  {
+    "region_key": "WAQI|6913",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788898199029
   }
 ]
