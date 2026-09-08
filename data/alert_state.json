@@ -1,65 +1,44 @@
 {
-  "US|PA|Susquehanna Valley": {
-    "region": "Susquehanna Valley, PA",
+  "US|AZ|Rillito": {
+    "region": "Rillito, AZ",
+    "tier": "watch",
+    "firstSeen": 1788866211554,
+    "lastAlertedAt": 1788866211554,
+    "issueNumber": 836
+  },
+  "US|CA|San Diego Coast": {
+    "region": "San Diego Coast, CA",
+    "tier": "watch",
+    "firstSeen": 1788866211554,
+    "lastAlertedAt": 1788866211554,
+    "issueNumber": 837
+  },
+  "CA|IAKID|Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1788866211554,
+    "lastAlertedAt": 1788866211554,
+    "issueNumber": 838
+  },
+  "WAQI|-498667": {
+    "region": "Misión San Juan, US",
+    "tier": "watch",
+    "firstSeen": 1788866211554,
+    "lastAlertedAt": 1788866211554,
+    "issueNumber": 839
+  },
+  "WAQI|269": {
+    "region": "Camp Pendleton, San Diego, California, CA",
     "tier": "alert",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 827
+    "firstSeen": 1788866211554,
+    "lastAlertedAt": 1788866211554,
+    "issueNumber": 840
   },
-  "WAQI|6423": {
-    "region": "Harrisburg, Pennsylvania, USA, PA",
+  "WAQI|8827": {
+    "region": "Calgary Southeast, Alberta, Canada, AB",
     "tier": "alert",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 828
-  },
-  "WAQI|6496": {
-    "region": "Escobedo, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 829
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 830
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 831
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "watch",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 832
-  },
-  "US-PA-Philadelphia": {
-    "region": "Philadelphia metro (Philadelphia, Bucks, Montgomery, Delaware, Chester counties), PA",
-    "tier": "watch",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 833
-  },
-  "US-PA-Pittsburgh": {
-    "region": "Pittsburgh / Allegheny County (Mon Valley: Clairton, McKeesport, Liberty, Glassport, Braddock), PA",
-    "tier": "alert",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 834
-  },
-  "CA-SK-Saskatoon": {
-    "region": "Saskatoon and central/east-central Saskatchewan (including Prince Albert, Melfort, Humboldt corridor), SK",
-    "tier": "watch",
-    "firstSeen": 1788842002686,
-    "lastAlertedAt": 1788842002686,
-    "issueNumber": 835
+    "firstSeen": 1788866211554,
+    "lastAlertedAt": 1788866211554,
+    "issueNumber": 841
   }
 }
