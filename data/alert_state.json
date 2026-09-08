@@ -1,31 +1,10 @@
 {
-  "US|AZ|Rillito": {
-    "region": "Rillito, AZ",
-    "tier": "watch",
-    "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788866211554,
-    "issueNumber": 836
-  },
   "US|CA|San Diego Coast": {
     "region": "San Diego Coast, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788866211554,
+    "lastAlertedAt": 1788885414714,
     "issueNumber": 837
-  },
-  "CA|IAKID|Calgary": {
-    "region": "Calgary, AB",
-    "tier": "watch",
-    "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788866211554,
-    "issueNumber": 838
-  },
-  "WAQI|-498667": {
-    "region": "Misión San Juan, US",
-    "tier": "watch",
-    "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788866211554,
-    "issueNumber": 839
   },
   "WAQI|269": {
     "region": "Camp Pendleton, San Diego, California, CA",
@@ -34,11 +13,53 @@
     "lastAlertedAt": 1788866211554,
     "issueNumber": 840
   },
-  "WAQI|8827": {
-    "region": "Calgary Southeast, Alberta, Canada, AB",
+  "US|NJ|Northeast Urban": {
+    "region": "Northeast Urban, NJ",
+    "tier": "watch",
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 842
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1788866211554,
-    "lastAlertedAt": 1788866211554,
-    "issueNumber": 841
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 843
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 844
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 845
+  },
+  "WAQI|-470485": {
+    "region": "Cle Elum, WA",
+    "tier": "watch",
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 846
+  },
+  "WAQI|275": {
+    "region": "Fresno - Drummond Street, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 847
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "alert",
+    "firstSeen": 1788885414714,
+    "lastAlertedAt": 1788885414714,
+    "issueNumber": 848
   }
 }
