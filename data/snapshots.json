@@ -1,33 +1,5 @@
 [
   {
-    "region_key": "WAQI|11964",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788715063654
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788715063654
-  },
-  {
-    "region_key": "WAQI|3897",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788715063654
-  },
-  {
-    "region_key": "WAQI|6496",
-    "value": 128,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788715063654
-  },
-  {
     "region_key": "WAQI|-470485",
     "value": 127,
     "unit": "AQI",
@@ -516,5 +488,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1788874102105
+  },
+  {
+    "region_key": "US|NJ|Northeast Urban",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "US|CA|San Diego Coast",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|269",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|-470440",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|-470485",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|8841",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|275",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
+  },
+  {
+    "region_key": "WAQI|8592",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788888185085
   }
 ]
