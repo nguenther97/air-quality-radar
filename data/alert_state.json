@@ -1,23 +1,65 @@
 {
-  "WAQI|8282": {
-    "region": "S. Pedro, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788816601683,
-    "lastAlertedAt": 1788816601683,
-    "issueNumber": 824
-  },
-  "WAQI|-1438231": {
-    "region": "Rue Jacques-bureau, QC",
+  "US|PA|Susquehanna Valley": {
+    "region": "Susquehanna Valley, PA",
     "tier": "alert",
-    "firstSeen": 1788816601683,
-    "lastAlertedAt": 1788816601683,
-    "issueNumber": 825
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 827
   },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
+  "WAQI|6423": {
+    "region": "Harrisburg, Pennsylvania, USA, PA",
+    "tier": "alert",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 828
+  },
+  "WAQI|6496": {
+    "region": "Escobedo, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1788816601683,
-    "lastAlertedAt": 1788816601683,
-    "issueNumber": 826
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 829
+  },
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 830
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 831
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "watch",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 832
+  },
+  "US-PA-Philadelphia": {
+    "region": "Philadelphia metro (Philadelphia, Bucks, Montgomery, Delaware, Chester counties), PA",
+    "tier": "watch",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 833
+  },
+  "US-PA-Pittsburgh": {
+    "region": "Pittsburgh / Allegheny County (Mon Valley: Clairton, McKeesport, Liberty, Glassport, Braddock), PA",
+    "tier": "alert",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 834
+  },
+  "CA-SK-Saskatoon": {
+    "region": "Saskatoon and central/east-central Saskatchewan (including Prince Albert, Melfort, Humboldt corridor), SK",
+    "tier": "watch",
+    "firstSeen": 1788842002686,
+    "lastAlertedAt": 1788842002686,
+    "issueNumber": 835
   }
 }
