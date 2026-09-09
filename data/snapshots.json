@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|8282",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788816265495
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788816265495
-  },
-  {
     "region_key": "WAQI|6496",
     "value": 160,
     "unit": "AQI",
@@ -530,5 +516,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788981873613
+  },
+  {
+    "region_key": "US|CA|E San Fernando Vly",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
+  },
+  {
+    "region_key": "US|CA|El Centro",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
+  },
+  {
+    "region_key": "US|CA|Nipomo Mesa2",
+    "value": 142,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
+  },
+  {
+    "region_key": "WAQI|275",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788990792371
   }
 ]
