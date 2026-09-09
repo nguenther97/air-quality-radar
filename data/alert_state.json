@@ -1,31 +1,10 @@
 {
-  "US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 849
-  },
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 850
-  },
   "WAQI|-503623": {
     "region": "Portland Roosevelt High School, OR",
     "tier": "alert",
     "firstSeen": 1788901691300,
     "lastAlertedAt": 1788901691300,
     "issueNumber": 851
-  },
-  "WAQI|10949": {
-    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 852
   },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
@@ -75,5 +54,61 @@
     "firstSeen": 1788901691300,
     "lastAlertedAt": 1788901691300,
     "issueNumber": 859
+  },
+  "US|CA|San Diego Coast": {
+    "region": "San Diego Coast, CA",
+    "tier": "watch",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 860
+  },
+  "WAQI|269": {
+    "region": "Camp Pendleton, San Diego, California, CA",
+    "tier": "alert",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 861
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "watch",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 862
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 863
+  },
+  "FORECAST|US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 864
+  },
+  "CA-SK-La Ronge": {
+    "region": "La Ronge, SK",
+    "tier": "alert",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 865
+  },
+  "US-AR-West Memphis": {
+    "region": "West Memphis, AR",
+    "tier": "watch",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 866
+  },
+  "US-MS-Southaven": {
+    "region": "Southaven, MS",
+    "tier": "watch",
+    "firstSeen": 1788928787553,
+    "lastAlertedAt": 1788928787553,
+    "issueNumber": 867
   }
 }
