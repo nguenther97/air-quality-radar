@@ -467,5 +467,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788935617188
+  },
+  {
+    "region_key": "US|CA|San Diego Coast",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788954388353
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788954388353
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788954388353
+  },
+  {
+    "region_key": "WAQI|-1438282",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788954388353
+  },
+  {
+    "region_key": "WAQI|269",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788954388353
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788954388353
   }
 ]
