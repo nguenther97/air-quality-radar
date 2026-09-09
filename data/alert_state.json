@@ -6,13 +6,6 @@
     "lastAlertedAt": 1788901691300,
     "issueNumber": 853
   },
-  "FORECAST|US|CA|Concord": {
-    "region": "Concord, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 854
-  },
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
     "tier": "watch",
@@ -27,81 +20,39 @@
     "lastAlertedAt": 1788901691300,
     "issueNumber": 856
   },
-  "FORECAST|US|CA|Fairfield": {
-    "region": "Fairfield, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 857
-  },
-  "FORECAST|US|CA|Livermore": {
-    "region": "Livermore, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 858
-  },
-  "FORECAST|US|CA|San Jose": {
-    "region": "San Jose, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 859
-  },
-  "US|CA|San Diego Coast": {
-    "region": "San Diego Coast, CA",
-    "tier": "watch",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 860
-  },
-  "WAQI|269": {
-    "region": "Camp Pendleton, San Diego, California, CA",
-    "tier": "alert",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788971821334,
-    "issueNumber": 861
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 863
-  },
-  "FORECAST|US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 864
-  },
-  "US-NY-New York City": {
-    "region": "New York City / Lower Hudson Valley, NY",
-    "tier": "watch",
-    "firstSeen": 1788952859497,
-    "lastAlertedAt": 1788952859497,
-    "issueNumber": 869
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1788971821334,
     "lastAlertedAt": 1788971821334,
     "issueNumber": 872
   },
-  "US-NV-Las Vegas": {
-    "region": "Las Vegas / Clark County, NV",
+  "US|CA|El Centro": {
+    "region": "El Centro, CA",
     "tier": "watch",
-    "firstSeen": 1788971821334,
-    "lastAlertedAt": 1788971821334,
-    "issueNumber": 873
+    "firstSeen": 1788987286583,
+    "lastAlertedAt": 1788987286583,
+    "issueNumber": 875
   },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix / Maricopa County, AZ",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1788987286583,
+    "lastAlertedAt": 1788987286583,
+    "issueNumber": 876
+  },
+  "WAQI|275": {
+    "region": "Fresno - Drummond Street, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1788987286583,
+    "lastAlertedAt": 1788987286583,
+    "issueNumber": 877
+  },
+  "WAQI|8827": {
+    "region": "Calgary Southeast, Alberta, Canada, AB",
     "tier": "alert",
-    "firstSeen": 1788971821334,
-    "lastAlertedAt": 1788971821334,
-    "issueNumber": 874
+    "firstSeen": 1788987286583,
+    "lastAlertedAt": 1788987286583,
+    "issueNumber": 878
   }
 }
