@@ -57,9 +57,9 @@
   },
   "WAQI|269": {
     "region": "Camp Pendleton, San Diego, California, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
+    "lastAlertedAt": 1788971821334,
     "issueNumber": 861
   },
   "WAQI|9279": {
@@ -76,32 +76,32 @@
     "lastAlertedAt": 1788928787553,
     "issueNumber": 864
   },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1788952859497,
-    "lastAlertedAt": 1788952859497,
-    "issueNumber": 868
-  },
   "US-NY-New York City": {
-    "region": "New York City Metro, NY",
+    "region": "New York City / Lower Hudson Valley, NY",
     "tier": "watch",
     "firstSeen": 1788952859497,
     "lastAlertedAt": 1788952859497,
     "issueNumber": 869
   },
-  "CA-SK-Regina": {
-    "region": "Regina, SK",
-    "tier": "watch",
-    "firstSeen": 1788952859497,
-    "lastAlertedAt": 1788952859497,
-    "issueNumber": 870
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "alert",
+    "firstSeen": 1788971821334,
+    "lastAlertedAt": 1788971821334,
+    "issueNumber": 872
   },
-  "US-CA-Riverside": {
-    "region": "Riverside, CA",
+  "US-NV-Las Vegas": {
+    "region": "Las Vegas / Clark County, NV",
     "tier": "watch",
-    "firstSeen": 1788952859497,
-    "lastAlertedAt": 1788952859497,
-    "issueNumber": 871
+    "firstSeen": 1788971821334,
+    "lastAlertedAt": 1788971821334,
+    "issueNumber": 873
+  },
+  "US-AZ-Phoenix": {
+    "region": "Phoenix / Maricopa County, AZ",
+    "tier": "alert",
+    "firstSeen": 1788971821334,
+    "lastAlertedAt": 1788971821334,
+    "issueNumber": 874
   }
 }
