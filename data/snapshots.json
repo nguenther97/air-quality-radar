@@ -1,61 +1,5 @@
 [
   {
-    "region_key": "US|ID|St. Maries",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "WAQI|6496",
-    "value": 384,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "WAQI|6423",
-    "value": 185,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "WAQI|5501",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "WAQI|-493474",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788760480022
-  },
-  {
-    "region_key": "WAQI|5318",
-    "value": 181,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788760480022
-  },
-  {
     "region_key": "US|CA|San Diego Coast",
     "value": 162,
     "unit": "AQI",
@@ -481,5 +425,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788916135321
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788935617188
+  },
+  {
+    "region_key": "WAQI|-470440",
+    "value": 300,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788935617188
+  },
+  {
+    "region_key": "WAQI|-503623",
+    "value": 381,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788935617188
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 145,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788935617188
+  },
+  {
+    "region_key": "WAQI|4211",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788935617188
+  },
+  {
+    "region_key": "WAQI|-534238",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788935617188
   }
 ]
