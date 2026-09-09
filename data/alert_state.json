@@ -1,11 +1,4 @@
 {
-  "WAQI|-503623": {
-    "region": "Portland Roosevelt High School, OR",
-    "tier": "alert",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 851
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -64,17 +57,10 @@
   },
   "WAQI|269": {
     "region": "Camp Pendleton, San Diego, California, CA",
-    "tier": "alert",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 861
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
     "tier": "watch",
     "firstSeen": 1788928787553,
     "lastAlertedAt": 1788928787553,
-    "issueNumber": 862
+    "issueNumber": 861
   },
   "WAQI|9279": {
     "region": "Wauchope, Saskatchewan, Canada, CA",
@@ -90,25 +76,32 @@
     "lastAlertedAt": 1788928787553,
     "issueNumber": 864
   },
-  "CA-SK-La Ronge": {
-    "region": "La Ronge, SK",
-    "tier": "alert",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 865
-  },
-  "US-AR-West Memphis": {
-    "region": "West Memphis, AR",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
     "tier": "watch",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 866
+    "firstSeen": 1788952859497,
+    "lastAlertedAt": 1788952859497,
+    "issueNumber": 868
   },
-  "US-MS-Southaven": {
-    "region": "Southaven, MS",
+  "US-NY-New York City": {
+    "region": "New York City Metro, NY",
     "tier": "watch",
-    "firstSeen": 1788928787553,
-    "lastAlertedAt": 1788928787553,
-    "issueNumber": 867
+    "firstSeen": 1788952859497,
+    "lastAlertedAt": 1788952859497,
+    "issueNumber": 869
+  },
+  "CA-SK-Regina": {
+    "region": "Regina, SK",
+    "tier": "watch",
+    "firstSeen": 1788952859497,
+    "lastAlertedAt": 1788952859497,
+    "issueNumber": 870
+  },
+  "US-CA-Riverside": {
+    "region": "Riverside, CA",
+    "tier": "watch",
+    "firstSeen": 1788952859497,
+    "lastAlertedAt": 1788952859497,
+    "issueNumber": 871
   }
 }
