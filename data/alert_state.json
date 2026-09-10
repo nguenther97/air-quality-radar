@@ -1,53 +1,4 @@
 {
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 853
-  },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 855
-  },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1788901691300,
-    "lastAlertedAt": 1788901691300,
-    "issueNumber": 856
-  },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1788971821334,
-    "lastAlertedAt": 1788971821334,
-    "issueNumber": 872
-  },
-  "US|NC|New Hanover County": {
-    "region": "New Hanover County, NC",
-    "tier": "alert",
-    "firstSeen": 1789015238366,
-    "lastAlertedAt": 1789015238366,
-    "issueNumber": 879
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "watch",
-    "firstSeen": 1789015238366,
-    "lastAlertedAt": 1789015238366,
-    "issueNumber": 880
-  },
-  "WAQI|7544": {
-    "region": "Castle H, North Carolina, USA, NC",
-    "tier": "alert",
-    "firstSeen": 1789015238366,
-    "lastAlertedAt": 1789015238366,
-    "issueNumber": 881
-  },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
@@ -68,5 +19,19 @@
     "firstSeen": 1789015238366,
     "lastAlertedAt": 1789015238366,
     "issueNumber": 884
+  },
+  "WAQI|5950": {
+    "region": "Tempe, Maricopa, USA, AZ",
+    "tier": "watch",
+    "firstSeen": 1789039047068,
+    "lastAlertedAt": 1789039047068,
+    "issueNumber": 885
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "alert",
+    "firstSeen": 1789039047068,
+    "lastAlertedAt": 1789039047068,
+    "issueNumber": 886
   }
 }
