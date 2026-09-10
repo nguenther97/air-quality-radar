@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|NJ|Northeast Urban",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "US|CA|San Diego Coast",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|269",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|-470440",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|-470485",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|8841",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|275",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
-    "region_key": "WAQI|8592",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788888185085
-  },
-  {
     "region_key": "US|SD|Brookings",
     "value": 136,
     "unit": "AQI",
@@ -642,5 +572,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789060026198
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "US|WY|Gillette",
+    "value": 205,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "US|AZ|McDowell",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "US|CT|Waterbury",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "WAQI|276",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "WAQI|7390",
+    "value": 215,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789068926271
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 199,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789068926271
   }
 ]
