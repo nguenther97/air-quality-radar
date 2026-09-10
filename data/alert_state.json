@@ -20,18 +20,123 @@
     "lastAlertedAt": 1789015238366,
     "issueNumber": 884
   },
-  "WAQI|5950": {
-    "region": "Tempe, Maricopa, USA, AZ",
-    "tier": "watch",
-    "firstSeen": 1789039047068,
-    "lastAlertedAt": 1789039047068,
-    "issueNumber": 885
-  },
   "WAQI|-524644": {
     "region": "Rue Saint-jean, QC",
     "tier": "alert",
     "firstSeen": 1789039047068,
     "lastAlertedAt": 1789039047068,
     "issueNumber": 886
+  },
+  "US|CA|Border Area": {
+    "region": "Border Area, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 887
+  },
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 888
+  },
+  "US|CA|Stockton": {
+    "region": "Stockton, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 889
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 890
+  },
+  "WAQI|-489994": {
+    "region": "63 Springside St, AB",
+    "tier": "alert",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 891
+  },
+  "WAQI|274": {
+    "region": "Clovis-N Villa Avenue, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 892
+  },
+  "WAQI|8883": {
+    "region": "Mendnhal, North Carolina, USA, NC",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 893
+  },
+  "WAQI|286": {
+    "region": "Tracy - Airport, San Joaquin, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 894
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "alert",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 895
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 896
+  },
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
+    "tier": "alert",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 897
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 898
+  },
+  "US-CA-Sacramento": {
+    "region": "Sacramento, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 899
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 900
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "alert",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 901
+  },
+  "CA-ON-Ottawa": {
+    "region": "Ottawa, ON",
+    "tier": "watch",
+    "firstSeen": 1789057369175,
+    "lastAlertedAt": 1789057369175,
+    "issueNumber": 902
   }
 }
