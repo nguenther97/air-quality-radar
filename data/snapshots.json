@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|6496",
-    "value": 160,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788824535967
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788824535967
-  },
-  {
     "region_key": "US|PA|Susquehanna Valley",
     "value": 161,
     "unit": "AQI",
@@ -565,5 +551,82 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1788990792371
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|E San Fernando Vly",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|El Centro",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 141,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|CA|North Orange CO",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "US|WA|Spokane",
+    "value": 174,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "WAQI|-1435885",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788998460422
+  },
+  {
+    "region_key": "WAQI|146",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1788998460422
   }
 ]
