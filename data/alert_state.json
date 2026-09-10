@@ -27,32 +27,46 @@
     "lastAlertedAt": 1788971821334,
     "issueNumber": 872
   },
-  "US|CA|El Centro": {
-    "region": "El Centro, CA",
-    "tier": "watch",
-    "firstSeen": 1788987286583,
-    "lastAlertedAt": 1788987286583,
-    "issueNumber": 875
-  },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "watch",
-    "firstSeen": 1788987286583,
-    "lastAlertedAt": 1788987286583,
-    "issueNumber": 876
-  },
-  "WAQI|275": {
-    "region": "Fresno - Drummond Street, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1788987286583,
-    "lastAlertedAt": 1788987286583,
-    "issueNumber": 877
-  },
-  "WAQI|8827": {
-    "region": "Calgary Southeast, Alberta, Canada, AB",
+  "US|NC|New Hanover County": {
+    "region": "New Hanover County, NC",
     "tier": "alert",
-    "firstSeen": 1788987286583,
-    "lastAlertedAt": 1788987286583,
-    "issueNumber": 878
+    "firstSeen": 1789015238366,
+    "lastAlertedAt": 1789015238366,
+    "issueNumber": 879
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "watch",
+    "firstSeen": 1789015238366,
+    "lastAlertedAt": 1789015238366,
+    "issueNumber": 880
+  },
+  "WAQI|7544": {
+    "region": "Castle H, North Carolina, USA, NC",
+    "tier": "alert",
+    "firstSeen": 1789015238366,
+    "lastAlertedAt": 1789015238366,
+    "issueNumber": 881
+  },
+  "FORECAST|US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1789015238366,
+    "lastAlertedAt": 1789015238366,
+    "issueNumber": 882
+  },
+  "FORECAST|US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1789015238366,
+    "lastAlertedAt": 1789015238366,
+    "issueNumber": 883
+  },
+  "FORECAST|US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "watch",
+    "firstSeen": 1789015238366,
+    "lastAlertedAt": 1789015238366,
+    "issueNumber": 884
   }
 }
