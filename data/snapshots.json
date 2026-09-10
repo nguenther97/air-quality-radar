@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|SD|Brookings",
-    "value": 136,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788898199029
-  },
-  {
-    "region_key": "US|TN|Memphis",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788898199029
-  },
-  {
-    "region_key": "WAQI|-503623",
-    "value": 437,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788898199029
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788898199029
-  },
-  {
-    "region_key": "WAQI|6921",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788898199029
-  },
-  {
-    "region_key": "WAQI|6913",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788898199029
-  },
-  {
     "region_key": "US|IA|Davenport",
     "value": 101,
     "unit": "AQI",
@@ -628,5 +586,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789068926271
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "US|CA|E San Fernando Vly",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "US|CA|Simi Valley",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "US|CA|W San Fernando Vly",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "WAQI|239",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "WAQI|8282",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "WAQI|10712",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "WAQI|10949",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
+  },
+  {
+    "region_key": "WAQI|5443",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789076932435
   }
 ]
