@@ -1,33 +1,5 @@
 [
   {
-    "region_key": "US|AZ|Rillito",
-    "value": 627,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788858039319
-  },
-  {
-    "region_key": "WAQI|269",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788858039319
-  },
-  {
-    "region_key": "WAQI|8841",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788858039319
-  },
-  {
-    "region_key": "WAQI|5362",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788858039319
-  },
-  {
     "region_key": "US|AZ|Phoenix",
     "value": 101,
     "unit": "AQI",
@@ -642,5 +614,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789013776352
+  },
+  {
+    "region_key": "US|CA|Mojave",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789031123362
+  },
+  {
+    "region_key": "US|NC|New Hanover County",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789031123362
+  },
+  {
+    "region_key": "US|AZ|Rillito",
+    "value": 370,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789031123362
+  },
+  {
+    "region_key": "US|AZ|West Pinal",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789031123362
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 175,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789031123362
   }
 ]
