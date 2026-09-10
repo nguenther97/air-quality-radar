@@ -607,5 +607,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789047042486
+  },
+  {
+    "region_key": "US|CA|Border Area",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789060026198
+  },
+  {
+    "region_key": "US|CA|Stockton",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789060026198
+  },
+  {
+    "region_key": "WAQI|8592",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789060026198
+  },
+  {
+    "region_key": "WAQI|286",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789060026198
+  },
+  {
+    "region_key": "WAQI|5456",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789060026198
   }
 ]
