@@ -1,61 +1,5 @@
 [
   {
-    "region_key": "US|AZ|Phoenix",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "US|MO|Saint Louis",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "US|CA|San Diego Coast",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "WAQI|269",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "WAQI|7358",
-    "value": 159,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "WAQI|8841",
-    "value": 334,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788874102105
-  },
-  {
-    "region_key": "WAQI|34",
-    "value": 170,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788874102105
-  },
-  {
     "region_key": "US|NJ|Northeast Urban",
     "value": 125,
     "unit": "AQI",
@@ -649,5 +593,19 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789031123362
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789047042486
+  },
+  {
+    "region_key": "WAQI|8827",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789047042486
   }
 ]
