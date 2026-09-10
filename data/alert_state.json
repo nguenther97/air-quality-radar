@@ -1,11 +1,4 @@
 {
-  "FORECAST|US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1789015238366,
-    "lastAlertedAt": 1789015238366,
-    "issueNumber": 882
-  },
   "FORECAST|US|CA|Fresno": {
     "region": "Fresno, CA",
     "tier": "watch",
@@ -20,68 +13,12 @@
     "lastAlertedAt": 1789015238366,
     "issueNumber": 884
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "alert",
-    "firstSeen": 1789039047068,
-    "lastAlertedAt": 1789039047068,
-    "issueNumber": 886
-  },
-  "US|CA|Border Area": {
-    "region": "Border Area, CA",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 887
-  },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 888
-  },
-  "US|CA|Stockton": {
-    "region": "Stockton, CA",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 889
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 890
-  },
   "WAQI|-489994": {
     "region": "63 Springside St, AB",
     "tier": "alert",
     "firstSeen": 1789057369175,
     "lastAlertedAt": 1789057369175,
     "issueNumber": 891
-  },
-  "WAQI|274": {
-    "region": "Clovis-N Villa Avenue, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 892
-  },
-  "WAQI|8883": {
-    "region": "Mendnhal, North Carolina, USA, NC",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 893
-  },
-  "WAQI|286": {
-    "region": "Tracy - Airport, San Joaquin, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 894
   },
   "WAQI|-662017": {
     "region": "Richmond Street West, ON",
@@ -90,53 +27,88 @@
     "lastAlertedAt": 1789057369175,
     "issueNumber": 895
   },
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+  "US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
     "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 896
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 903
   },
-  "CA-AB-Edmonton": {
-    "region": "Edmonton, AB",
-    "tier": "alert",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 897
-  },
-  "CA-AB-Calgary": {
-    "region": "Calgary, AB",
+  "WAQI|9528": {
+    "region": "Spruce Pine, North Carolina, USA, NC",
     "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 898
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 904
   },
-  "US-CA-Sacramento": {
-    "region": "Sacramento, CA",
+  "WAQI|8282": {
+    "region": "S. Pedro, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 899
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 905
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
+  "WAQI|10712": {
+    "region": "Janvier, Alberta, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 900
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 906
   },
-  "CA-QC-Montreal": {
-    "region": "Montreal, QC",
-    "tier": "alert",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 901
-  },
-  "CA-ON-Ottawa": {
-    "region": "Ottawa, ON",
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 902
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 907
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 908
+  },
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 909
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 910
+  },
+  "US-CO-Denver": {
+    "region": "Denver Metro Area, CO",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 911
+  },
+  "US-AZ-Tucson": {
+    "region": "Tucson Metropolitan Area, AZ",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 912
+  },
+  "US-TX-Austin": {
+    "region": "Austin Metropolitan Area, TX",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 913
+  },
+  "US-TX-SanAntonio": {
+    "region": "San Antonio Metropolitan Area, TX",
+    "tier": "watch",
+    "firstSeen": 1789073467843,
+    "lastAlertedAt": 1789073467843,
+    "issueNumber": 914
   }
 }
