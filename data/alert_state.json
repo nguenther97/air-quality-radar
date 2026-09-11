@@ -41,47 +41,12 @@
     "lastAlertedAt": 1789073467843,
     "issueNumber": 910
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
-    "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789125531782,
-    "issueNumber": 918
-  },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
     "firstSeen": 1789101492993,
     "lastAlertedAt": 1789101492993,
     "issueNumber": 921
-  },
-  "US|CO|Denver-Boulder": {
-    "region": "Denver-Boulder, CO",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 925
-  },
-  "US|GA|Rome": {
-    "region": "Rome, GA",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 926
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 927
-  },
-  "WAQI|5456": {
-    "region": "Sorel-Tracy - secteur de Saint-Joseph-de-Sorel, Quebec, Canada, QC",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 928
   },
   "WAQI|7488": {
     "region": "Credit Union, South Dakota, USA, SD",
@@ -90,53 +55,39 @@
     "lastAlertedAt": 1789144018787,
     "issueNumber": 929
   },
-  "WAQI|-498067": {
-    "region": "Adams Birch Street, CO",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 930
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 931
-  },
-  "WAQI|-492277": {
-    "region": "Entiat, WA",
-    "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 932
-  },
-  "WAQI|6316": {
-    "region": "Colorado College, Colorado, USA, CO",
+  "US|SD|Rapid City": {
+    "region": "Rapid City, SD",
     "tier": "alert",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 933
+    "firstSeen": 1789160211802,
+    "lastAlertedAt": 1789160211802,
+    "issueNumber": 937
   },
-  "US-WA-Seattle": {
-    "region": "Seattle-Tacoma, WA",
+  "WAQI|8282": {
+    "region": "S. Pedro, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 934
+    "firstSeen": 1789160211802,
+    "lastAlertedAt": 1789160211802,
+    "issueNumber": 938
   },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
+  "WAQI|6490": {
+    "region": "Metrorrey, Nuevo Leon, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 935
+    "firstSeen": 1789160211802,
+    "lastAlertedAt": 1789160211802,
+    "issueNumber": 939
   },
-  "US-MT-Missoula": {
-    "region": "Missoula, MT",
-    "tier": "alert",
-    "firstSeen": 1789144018787,
-    "lastAlertedAt": 1789144018787,
-    "issueNumber": 936
+  "US-NY-New York City": {
+    "region": "New York City Metro, NY",
+    "tier": "watch",
+    "firstSeen": 1789160211802,
+    "lastAlertedAt": 1789160211802,
+    "issueNumber": 940
+  },
+  "US-MI-Detroit": {
+    "region": "Metro Detroit, MI",
+    "tier": "watch",
+    "firstSeen": 1789160211802,
+    "lastAlertedAt": 1789160211802,
+    "issueNumber": 941
   }
 }
