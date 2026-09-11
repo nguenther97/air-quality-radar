@@ -13,48 +13,6 @@
     "lastAlertedAt": 1789015238366,
     "issueNumber": 884
   },
-  "WAQI|-489994": {
-    "region": "63 Springside St, AB",
-    "tier": "alert",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 891
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "alert",
-    "firstSeen": 1789057369175,
-    "lastAlertedAt": 1789057369175,
-    "issueNumber": 895
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 903
-  },
-  "WAQI|9528": {
-    "region": "Spruce Pine, North Carolina, USA, NC",
-    "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 904
-  },
-  "WAQI|8282": {
-    "region": "S. Pedro, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 905
-  },
-  "WAQI|10712": {
-    "region": "Janvier, Alberta, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 906
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -84,31 +42,59 @@
     "issueNumber": 910
   },
   "US-CO-Denver": {
-    "region": "Denver Metro Area, CO",
+    "region": "Denver Metro / North Front Range, CO",
     "tier": "watch",
     "firstSeen": 1789073467843,
     "lastAlertedAt": 1789073467843,
     "issueNumber": 911
   },
-  "US-AZ-Tucson": {
-    "region": "Tucson Metropolitan Area, AZ",
+  "US|AZ|Rillito": {
+    "region": "Rillito, AZ",
     "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 912
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 915
   },
-  "US-TX-Austin": {
-    "region": "Austin Metropolitan Area, TX",
+  "US|NE|Scottsbluff": {
+    "region": "Scottsbluff, NE",
     "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 913
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 916
   },
-  "US-TX-SanAntonio": {
-    "region": "San Antonio Metropolitan Area, TX",
+  "WAQI|9178": {
+    "region": "Finanzas, Saltillo, Coahuila, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 914
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 917
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 918
+  },
+  "WAQI|8827": {
+    "region": "Calgary Southeast, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 919
+  },
+  "WAQI|13068": {
+    "region": "Westmorland, Imperial, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 920
+  },
+  "FORECAST|US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1789101492993,
+    "lastAlertedAt": 1789101492993,
+    "issueNumber": 921
   }
 }
