@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|CA|El Centro",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
-    "region_key": "US|CA|Hanford",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
-    "region_key": "WAQI|8827",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
-    "region_key": "WAQI|281",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
-    "region_key": "WAQI|7369",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788981873613
-  },
-  {
     "region_key": "US|CA|E San Fernando Vly",
     "value": 122,
     "unit": "AQI",
@@ -712,5 +663,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789146431817
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 433,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789156694861
+  },
+  {
+    "region_key": "US|MN|Twin Cities",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789156694861
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 580,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789156694861
+  },
+  {
+    "region_key": "WAQI|6490",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789156694861
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 175,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789156694861
   }
 ]
