@@ -1,26 +1,5 @@
 [
   {
-    "region_key": "US|CA|San Diego Coast",
-    "value": 146,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788971111772
-  },
-  {
-    "region_key": "WAQI|269",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788971111772
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 159,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788971111772
-  },
-  {
     "region_key": "US|CA|El Centro",
     "value": 125,
     "unit": "AQI",
@@ -670,5 +649,68 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789133315748
+  },
+  {
+    "region_key": "US|CO|Denver-Boulder",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "US|GA|Rome",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "WAQI|5456",
+    "value": 148,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "WAQI|193",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "WAQI|-492277",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 187,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 195,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789146431817
+  },
+  {
+    "region_key": "WAQI|-498067",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789146431817
   }
 ]
