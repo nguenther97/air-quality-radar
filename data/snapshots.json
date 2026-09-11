@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|CA|San Diego Coast",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788954388353
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788954388353
-  },
-  {
-    "region_key": "WAQI|9279",
-    "value": 159,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788954388353
-  },
-  {
-    "region_key": "WAQI|-1438282",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788954388353
-  },
-  {
-    "region_key": "WAQI|269",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788954388353
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788954388353
-  },
-  {
-    "region_key": "US|CA|San Diego Coast",
     "value": 146,
     "unit": "AQI",
     "tier": "watch",
@@ -677,5 +635,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789117428648
+  },
+  {
+    "region_key": "CA|IAKID|Calgary",
+    "value": 11,
+    "unit": "AQHI",
+    "tier": "alert",
+    "captured_at": 1789133315748
+  },
+  {
+    "region_key": "WAQI|8827",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789133315748
+  },
+  {
+    "region_key": "WAQI|-504940",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789133315748
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789133315748
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789133315748
   }
 ]
