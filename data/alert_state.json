@@ -41,54 +41,12 @@
     "lastAlertedAt": 1789073467843,
     "issueNumber": 910
   },
-  "US-CO-Denver": {
-    "region": "Denver Metro / North Front Range, CO",
-    "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 911
-  },
-  "US|AZ|Rillito": {
-    "region": "Rillito, AZ",
-    "tier": "watch",
-    "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789101492993,
-    "issueNumber": 915
-  },
-  "US|NE|Scottsbluff": {
-    "region": "Scottsbluff, NE",
-    "tier": "watch",
-    "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789101492993,
-    "issueNumber": 916
-  },
-  "WAQI|9178": {
-    "region": "Finanzas, Saltillo, Coahuila, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789101492993,
-    "issueNumber": 917
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789101492993,
+    "lastAlertedAt": 1789125531782,
     "issueNumber": 918
-  },
-  "WAQI|8827": {
-    "region": "Calgary Southeast, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789101492993,
-    "issueNumber": 919
-  },
-  "WAQI|13068": {
-    "region": "Westmorland, Imperial, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789101492993,
-    "lastAlertedAt": 1789101492993,
-    "issueNumber": 920
   },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
@@ -96,5 +54,26 @@
     "firstSeen": 1789101492993,
     "lastAlertedAt": 1789101492993,
     "issueNumber": 921
+  },
+  "US-CA-Stockton": {
+    "region": "Stockton, CA",
+    "tier": "watch",
+    "firstSeen": 1789125531782,
+    "lastAlertedAt": 1789125531782,
+    "issueNumber": 922
+  },
+  "US-CA-Modesto": {
+    "region": "Modesto, CA",
+    "tier": "watch",
+    "firstSeen": 1789125531782,
+    "lastAlertedAt": 1789125531782,
+    "issueNumber": 923
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1789125531782,
+    "lastAlertedAt": 1789125531782,
+    "issueNumber": 924
   }
 }
