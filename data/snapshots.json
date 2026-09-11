@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|SD|Rapid City",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788935617188
-  },
-  {
-    "region_key": "WAQI|-470440",
-    "value": 300,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788935617188
-  },
-  {
-    "region_key": "WAQI|-503623",
-    "value": 381,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788935617188
-  },
-  {
-    "region_key": "WAQI|7488",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788935617188
-  },
-  {
-    "region_key": "WAQI|4211",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788935617188
-  },
-  {
-    "region_key": "WAQI|-534238",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788935617188
-  },
-  {
     "region_key": "US|CA|San Diego Coast",
     "value": 117,
     "unit": "AQI",
@@ -705,5 +663,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789100153392
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 153,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789117428648
+  },
+  {
+    "region_key": "WAQI|8827",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789117428648
   }
 ]
