@@ -1,30 +1,37 @@
 {
-  "US|NM|Albuquerque": {
-    "region": "Albuquerque, NM",
+  "WAQI|10949": {
+    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
     "tier": "watch",
-    "firstSeen": 1789227045992,
-    "lastAlertedAt": 1789227045992,
-    "issueNumber": 954
+    "firstSeen": 1789245133125,
+    "lastAlertedAt": 1789245133125,
+    "issueNumber": 958
   },
-  "US|PR|Catano": {
-    "region": "Catano, PR",
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
     "tier": "watch",
-    "firstSeen": 1789227045992,
-    "lastAlertedAt": 1789227045992,
-    "issueNumber": 955
+    "firstSeen": 1789245133125,
+    "lastAlertedAt": 1789245133125,
+    "issueNumber": 959
   },
-  "US|SD|Rapid City": {
-    "region": "Rapid City, SD",
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
     "tier": "watch",
-    "firstSeen": 1789227045992,
-    "lastAlertedAt": 1789227045992,
-    "issueNumber": 956
+    "firstSeen": 1789245133125,
+    "lastAlertedAt": 1789245133125,
+    "issueNumber": 960
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
-    "firstSeen": 1789227045992,
-    "lastAlertedAt": 1789227045992,
-    "issueNumber": 957
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1789245133125,
+    "lastAlertedAt": 1789245133125,
+    "issueNumber": 961
+  },
+  "US-NY-New York City Metro": {
+    "region": "New York City Metro Region, NY",
+    "tier": "watch",
+    "firstSeen": 1789245133125,
+    "lastAlertedAt": 1789245133125,
+    "issueNumber": 962
   }
 }
