@@ -1,82 +1,5 @@
 [
   {
-    "region_key": "US|CA|Bakersfield",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|Border Area",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|E San Fernando Vly",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|E San Gabriel Vly",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|El Centro",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|Fresno",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|CA|North Orange CO",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "US|WA|Spokane",
-    "value": 174,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "WAQI|-1435885",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788998460422
-  },
-  {
-    "region_key": "WAQI|146",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1788998460422
-  },
-  {
     "region_key": "US|NC|New Hanover County",
     "value": 162,
     "unit": "AQI",
@@ -754,5 +677,124 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789165477495
+  },
+  {
+    "region_key": "US|CA|Brawley",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 182,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|Hesperia",
+    "value": 136,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 1058,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|Victorville",
+    "value": 143,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "WAQI|291",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "WAQI|13068",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "WAQI|-563827",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "WAQI|254",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "WAQI|5954",
+    "value": 999,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789173104956
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 196,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789173104956
   }
 ]
