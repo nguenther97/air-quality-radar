@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|CA|Border Area",
-    "value": 136,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789060026198
-  },
-  {
-    "region_key": "US|CA|Stockton",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789060026198
-  },
-  {
-    "region_key": "WAQI|8592",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789060026198
-  },
-  {
-    "region_key": "WAQI|286",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789060026198
-  },
-  {
-    "region_key": "WAQI|5456",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789060026198
-  },
-  {
     "region_key": "US|CA|Bakersfield",
     "value": 105,
     "unit": "AQI",
@@ -838,5 +803,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789229455937
+  },
+  {
+    "region_key": "US|PR|Catano",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789238300569
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 170,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789238300569
+  },
+  {
+    "region_key": "WAQI|6497",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789238300569
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789238300569
   }
 ]
