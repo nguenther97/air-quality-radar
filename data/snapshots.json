@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|CA|Mojave",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789031123362
-  },
-  {
-    "region_key": "US|NC|New Hanover County",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789031123362
-  },
-  {
-    "region_key": "US|AZ|Rillito",
-    "value": 370,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789031123362
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789031123362
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 175,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789031123362
-  },
-  {
     "region_key": "WAQI|-524644",
     "value": 134,
     "unit": "AQI",
@@ -796,5 +761,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789188890191
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789204182907
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789204182907
+  },
+  {
+    "region_key": "WAQI|4249",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789204182907
+  },
+  {
+    "region_key": "WAQI|-527545",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789204182907
+  },
+  {
+    "region_key": "WAQI|9605",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789204182907
   }
 ]
