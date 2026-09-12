@@ -796,5 +796,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789204182907
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789218181609
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 156,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789218181609
+  },
+  {
+    "region_key": "WAQI|-1438237",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789218181609
   }
 ]
