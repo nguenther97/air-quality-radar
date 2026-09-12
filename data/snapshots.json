@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|-524644",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789047042486
-  },
-  {
-    "region_key": "WAQI|8827",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789047042486
-  },
-  {
     "region_key": "US|CA|Border Area",
     "value": 136,
     "unit": "AQI",
@@ -817,5 +803,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789218181609
+  },
+  {
+    "region_key": "US|NM|Albuquerque",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789229455937
+  },
+  {
+    "region_key": "US|PR|Catano",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789229455937
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789229455937
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789229455937
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789229455937
   }
 ]
