@@ -1,62 +1,6 @@
 [
   {
     "region_key": "US|CA|Bakersfield",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "US|CA|Fresno",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "US|WY|Gillette",
-    "value": 205,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "US|AZ|McDowell",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "US|CT|Waterbury",
-    "value": 137,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "WAQI|276",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "WAQI|7390",
-    "value": 215,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 199,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789068926271
-  },
-  {
-    "region_key": "US|CA|Bakersfield",
     "value": 112,
     "unit": "AQI",
     "tier": "watch",
@@ -831,5 +775,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789238300569
+  },
+  {
+    "region_key": "WAQI|8282",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789248065670
+  },
+  {
+    "region_key": "WAQI|-1438282",
+    "value": 158,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789248065670
+  },
+  {
+    "region_key": "WAQI|10949",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789248065670
   }
 ]
