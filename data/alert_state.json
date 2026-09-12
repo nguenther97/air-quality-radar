@@ -1,86 +1,30 @@
 {
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
+  "WAQI|7360": {
+    "region": "Rg_south, Missouri, USA, MO",
     "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 907
+    "firstSeen": 1789209858591,
+    "lastAlertedAt": 1789209858591,
+    "issueNumber": 950
   },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
+  "US-IL-Chicago": {
+    "region": "Chicago metro, IL",
     "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 908
+    "firstSeen": 1789209858591,
+    "lastAlertedAt": 1789209858591,
+    "issueNumber": 951
   },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
+  "US-OH-Columbus": {
+    "region": "Columbus metro (Franklin County), OH",
     "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 909
+    "firstSeen": 1789209858591,
+    "lastAlertedAt": 1789209858591,
+    "issueNumber": 952
   },
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1789073467843,
-    "lastAlertedAt": 1789073467843,
-    "issueNumber": 910
-  },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 942
-  },
-  "US|CA|Victorville": {
-    "region": "Victorville, CA",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 943
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 944
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 945
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
+  "US-AZ-Phoenix": {
+    "region": "Phoenix metro, AZ",
     "tier": "alert",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 946
-  },
-  "WAQI|-398104": {
-    "region": "Sagrado, AZ",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 947
-  },
-  "US-CO-Denver": {
-    "region": "Denver / Front Range Urban Corridor, CO",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 948
-  },
-  "US-MN-Minneapolis": {
-    "region": "Minneapolis-St. Paul / Twin Cities metro, MN",
-    "tier": "watch",
-    "firstSeen": 1789187554978,
-    "lastAlertedAt": 1789187554978,
-    "issueNumber": 949
+    "firstSeen": 1789209858591,
+    "lastAlertedAt": 1789209858591,
+    "issueNumber": 953
   }
 }
