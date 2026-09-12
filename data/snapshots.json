@@ -1,76 +1,6 @@
 [
   {
     "region_key": "US|CA|Bakersfield",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "US|CA|E San Fernando Vly",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "US|CA|Fresno",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "US|CA|Simi Valley",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "US|CA|W San Fernando Vly",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "WAQI|239",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "WAQI|8282",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "WAQI|10712",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "WAQI|5443",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789076932435
-  },
-  {
-    "region_key": "US|CA|Bakersfield",
     "value": 108,
     "unit": "AQI",
     "tier": "watch",
@@ -796,5 +726,61 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789248065670
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "US|PR|Catano",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "WAQI|3897",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "WAQI|6495",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "WAQI|8282",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
+  },
+  {
+    "region_key": "WAQI|10949",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789254790394
   }
 ]
