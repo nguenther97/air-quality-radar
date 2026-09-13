@@ -13,95 +13,18 @@
     "lastAlertedAt": 1789245133125,
     "issueNumber": 961
   },
-  "US|CA|C San Bernardino M": {
+  "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 963
+    "firstSeen": 1789300190619,
+    "lastAlertedAt": 1789300190619,
+    "issueNumber": 976
   },
-  "US|PR|Catano": {
-    "region": "Catano, PR",
+  "US-AZ-Phoenix": {
+    "region": "Phoenix / Maricopa County, AZ",
     "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 964
-  },
-  "US|WA|Kennewick": {
-    "region": "Kennewick, WA",
-    "tier": "alert",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 965
-  },
-  "US|CA|Stockton": {
-    "region": "Stockton, CA",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 966
-  },
-  "WAQI|13133": {
-    "region": "Aberdeen, South Dakota, USA, SD",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 967
-  },
-  "WAQI|-1438231": {
-    "region": "Rue Jacques-bureau, QC",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 968
-  },
-  "WAQI|275": {
-    "region": "Fresno - Drummond Street, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 969
-  },
-  "WAQI|113": {
-    "region": "Metaline, Kennewick, Washington, USA, WA",
-    "tier": "alert",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 970
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
-    "tier": "alert",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 971
-  },
-  "WAQI|-524593": {
-    "region": "9e Rue, QC",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 972
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 973
-  },
-  "WAQI|276": {
-    "region": "Fresno - Garland, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 974
-  },
-  "WAQI|-2606233": {
-    "region": "Black Urban Farmers Association-BUFA, CA",
-    "tier": "watch",
-    "firstSeen": 1789274722313,
-    "lastAlertedAt": 1789274722313,
-    "issueNumber": 975
+    "firstSeen": 1789300190619,
+    "lastAlertedAt": 1789300190619,
+    "issueNumber": 977
   }
 }
