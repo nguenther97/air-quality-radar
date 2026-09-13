@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|NE|Scottsbluff",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789100153392
-  },
-  {
-    "region_key": "WAQI|246",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789100153392
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789100153392
-  },
-  {
-    "region_key": "WAQI|5443",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789100153392
-  },
-  {
-    "region_key": "WAQI|10712",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789100153392
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789100153392
-  },
-  {
     "region_key": "WAQI|-494671",
     "value": 153,
     "unit": "AQI",
@@ -705,5 +663,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789262475339
+  },
+  {
+    "region_key": "US|PR|Catano",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "US|CA|Madera",
+    "value": 132,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "WAQI|274",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "WAQI|276",
+    "value": 169,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "WAQI|-414148",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "WAQI|275",
+    "value": 279,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "WAQI|9605",
+    "value": 135,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789281710482
   }
 ]
