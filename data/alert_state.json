@@ -20,25 +20,39 @@
     "lastAlertedAt": 1789300190619,
     "issueNumber": 976
   },
-  "US|NV|Elko": {
-    "region": "Elko, NV",
+  "US|CA|Nipomo CDF": {
+    "region": "Nipomo CDF, CA",
     "tier": "watch",
-    "firstSeen": 1789316122214,
-    "lastAlertedAt": 1789316122214,
-    "issueNumber": 978
+    "firstSeen": 1789332509881,
+    "lastAlertedAt": 1789332509881,
+    "issueNumber": 981
   },
-  "US-OR-Portland": {
-    "region": "Portland Metro, OR",
-    "tier": "alert",
-    "firstSeen": 1789316122214,
-    "lastAlertedAt": 1789316122214,
-    "issueNumber": 979
-  },
-  "US-CA-San Francisco Bay Area": {
-    "region": "San Francisco Bay Area, CA",
+  "US|CA|Nipomo Mesa2": {
+    "region": "Nipomo Mesa2, CA",
     "tier": "watch",
-    "firstSeen": 1789316122214,
-    "lastAlertedAt": 1789316122214,
-    "issueNumber": 980
+    "firstSeen": 1789332509881,
+    "lastAlertedAt": 1789332509881,
+    "issueNumber": 982
+  },
+  "US|CA|Santa Maria": {
+    "region": "Santa Maria, CA",
+    "tier": "watch",
+    "firstSeen": 1789332509881,
+    "lastAlertedAt": 1789332509881,
+    "issueNumber": 983
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "watch",
+    "firstSeen": 1789332509881,
+    "lastAlertedAt": 1789332509881,
+    "issueNumber": 984
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1789332509881,
+    "lastAlertedAt": 1789332509881,
+    "issueNumber": 985
   }
 }
