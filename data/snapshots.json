@@ -1,111 +1,6 @@
 [
   {
     "region_key": "US|CA|Brawley",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "US|CA|C San Bernardino",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "US|CA|C San Bernardino M",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "US|CA|E San Gabriel Vly",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "US|CA|Metro Riverside CO",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|8592",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|89",
-    "value": 217,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|7488",
-    "value": 170,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|-566023",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|291",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|6495",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|13068",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "WAQI|8282",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789165477495
-  },
-  {
-    "region_key": "US|CA|Brawley",
     "value": 117,
     "unit": "AQI",
     "tier": "watch",
@@ -656,5 +551,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789335359220
+  },
+  {
+    "region_key": "US|CA|Nipomo CDF",
+    "value": 247,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789341992716
+  },
+  {
+    "region_key": "US|CA|Nipomo Mesa2",
+    "value": 297,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789341992716
+  },
+  {
+    "region_key": "US|CA|Santa Maria",
+    "value": 245,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789341992716
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789341992716
+  },
+  {
+    "region_key": "WAQI|-966082",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789341992716
   }
 ]
