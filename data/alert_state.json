@@ -20,11 +20,25 @@
     "lastAlertedAt": 1789300190619,
     "issueNumber": 976
   },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix / Maricopa County, AZ",
+  "US|NV|Elko": {
+    "region": "Elko, NV",
     "tier": "watch",
-    "firstSeen": 1789300190619,
-    "lastAlertedAt": 1789300190619,
-    "issueNumber": 977
+    "firstSeen": 1789316122214,
+    "lastAlertedAt": 1789316122214,
+    "issueNumber": 978
+  },
+  "US-OR-Portland": {
+    "region": "Portland Metro, OR",
+    "tier": "alert",
+    "firstSeen": 1789316122214,
+    "lastAlertedAt": 1789316122214,
+    "issueNumber": 979
+  },
+  "US-CA-San Francisco Bay Area": {
+    "region": "San Francisco Bay Area, CA",
+    "tier": "watch",
+    "firstSeen": 1789316122214,
+    "lastAlertedAt": 1789316122214,
+    "issueNumber": 980
   }
 }
