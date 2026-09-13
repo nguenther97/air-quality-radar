@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "CA|IAKID|Calgary",
-    "value": 11,
-    "unit": "AQHI",
-    "tier": "alert",
-    "captured_at": 1789133315748
-  },
-  {
-    "region_key": "WAQI|8827",
-    "value": 178,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789133315748
-  },
-  {
-    "region_key": "WAQI|-504940",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789133315748
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789133315748
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789133315748
-  },
-  {
     "region_key": "US|CO|Denver-Boulder",
     "value": 115,
     "unit": "AQI",
@@ -719,5 +684,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789281710482
+  },
+  {
+    "region_key": "US|NV|Elko",
+    "value": 124,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789318533555
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789318533555
   }
 ]
