@@ -1,68 +1,5 @@
 [
   {
-    "region_key": "US|CO|Denver-Boulder",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "US|SD|Rapid City",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "US|GA|Rome",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "WAQI|5456",
-    "value": 148,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "WAQI|-492277",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "WAQI|7488",
-    "value": 187,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 195,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789146431817
-  },
-  {
-    "region_key": "WAQI|-498067",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789146431817
-  },
-  {
     "region_key": "US|SD|Rapid City",
     "value": 433,
     "unit": "AQI",
@@ -698,5 +635,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789318533555
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789327034873
+  },
+  {
+    "region_key": "WAQI|-1438282",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789327034873
+  },
+  {
+    "region_key": "WAQI|-570064",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789327034873
+  },
+  {
+    "region_key": "WAQI|7353",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789327034873
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789327034873
   }
 ]
