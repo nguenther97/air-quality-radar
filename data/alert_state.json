@@ -5,5 +5,40 @@
     "firstSeen": 1789300190619,
     "lastAlertedAt": 1789300190619,
     "issueNumber": 976
+  },
+  "US|CA|Nipomo CDF": {
+    "region": "Nipomo CDF, CA",
+    "tier": "watch",
+    "firstSeen": 1789422505247,
+    "lastAlertedAt": 1789422505247,
+    "issueNumber": 991
+  },
+  "WAQI|212": {
+    "region": "Hamshire, Beaumont, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1789422505247,
+    "lastAlertedAt": 1789422505247,
+    "issueNumber": 992
+  },
+  "US-NV-Las Vegas": {
+    "region": "Las Vegas Valley, NV",
+    "tier": "watch",
+    "firstSeen": 1789422505247,
+    "lastAlertedAt": 1789422505247,
+    "issueNumber": 993
+  },
+  "US-AZ-Phoenix": {
+    "region": "Phoenix metro, AZ",
+    "tier": "watch",
+    "firstSeen": 1789422505247,
+    "lastAlertedAt": 1789422505247,
+    "issueNumber": 994
+  },
+  "US-TX-Houston": {
+    "region": "Houston-Galveston metro, TX",
+    "tier": "watch",
+    "firstSeen": 1789422505247,
+    "lastAlertedAt": 1789422505247,
+    "issueNumber": 995
   }
 }
