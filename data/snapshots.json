@@ -1,26 +1,5 @@
 [
   {
-    "region_key": "WAQI|8282",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789248065670
-  },
-  {
-    "region_key": "WAQI|-1438282",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789248065670
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789248065670
-  },
-  {
     "region_key": "US|CA|C San Bernardino M",
     "value": 101,
     "unit": "AQI",
@@ -362,5 +341,19 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789413127148
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789425685987
+  },
+  {
+    "region_key": "US|CA|Nipomo CDF",
+    "value": 139,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789425685987
   }
 ]
