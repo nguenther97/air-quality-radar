@@ -1,65 +1,9 @@
 {
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1789245133125,
-    "lastAlertedAt": 1789245133125,
-    "issueNumber": 959
-  },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1789245133125,
-    "lastAlertedAt": 1789245133125,
-    "issueNumber": 961
-  },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
     "firstSeen": 1789300190619,
     "lastAlertedAt": 1789300190619,
     "issueNumber": 976
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "watch",
-    "firstSeen": 1789332509881,
-    "lastAlertedAt": 1789332509881,
-    "issueNumber": 984
-  },
-  "WAQI|-498067": {
-    "region": "Adams Birch Street, CO",
-    "tier": "watch",
-    "firstSeen": 1789361639453,
-    "lastAlertedAt": 1789361639453,
-    "issueNumber": 986
-  },
-  "WAQI|208": {
-    "region": "El Paso Chamizal, El Paso, Texas, TX",
-    "tier": "alert",
-    "firstSeen": 1789361639453,
-    "lastAlertedAt": 1789361639453,
-    "issueNumber": 987
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
-    "tier": "alert",
-    "firstSeen": 1789361639453,
-    "lastAlertedAt": 1789361639453,
-    "issueNumber": 988
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, US",
-    "tier": "watch",
-    "firstSeen": 1789361639453,
-    "lastAlertedAt": 1789361639453,
-    "issueNumber": 989
-  },
-  "US-PR-San Juan": {
-    "region": "San Juan, PR",
-    "tier": "watch",
-    "firstSeen": 1789361639453,
-    "lastAlertedAt": 1789361639453,
-    "issueNumber": 990
   }
 }
