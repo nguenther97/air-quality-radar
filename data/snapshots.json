@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|CA|Hanford",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789188890191
-  },
-  {
-    "region_key": "US|CA|Victorville",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789188890191
-  },
-  {
-    "region_key": "WAQI|9605",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789188890191
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789188890191
-  },
-  {
-    "region_key": "WAQI|-398104",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789188890191
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 175,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789188890191
-  },
-  {
-    "region_key": "US|CA|Hanford",
     "value": 113,
     "unit": "AQI",
     "tier": "watch",
@@ -488,5 +446,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789349368945
+  },
+  {
+    "region_key": "WAQI|6272",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789368821741
+  },
+  {
+    "region_key": "WAQI|5361",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789368821741
   }
 ]
