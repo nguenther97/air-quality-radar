@@ -1,68 +1,5 @@
 [
   {
-    "region_key": "US|NM|Albuquerque",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789229455937
-  },
-  {
-    "region_key": "US|PR|Catano",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789229455937
-  },
-  {
-    "region_key": "US|SD|Rapid City",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789229455937
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 178,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789229455937
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789229455937
-  },
-  {
-    "region_key": "US|PR|Catano",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789238300569
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 170,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789238300569
-  },
-  {
-    "region_key": "WAQI|6497",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789238300569
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789238300569
-  },
-  {
     "region_key": "WAQI|8282",
     "value": 110,
     "unit": "AQI",
@@ -418,5 +355,12 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789393800976
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 189,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789413127148
   }
 ]
