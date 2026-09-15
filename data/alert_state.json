@@ -1,79 +1,65 @@
 {
-  "US|TX|Brownsville-McAllen": {
-    "region": "Brownsville-McAllen, TX",
+  "US|NV|Las Vegas": {
+    "region": "Las Vegas, NV",
     "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1006
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1017
   },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1007
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1018
   },
-  "WAQI|10138": {
-    "region": "St-Dominique, Montreal, Canada, QC",
+  "WAQI|-524518": {
+    "region": "Av De Villebon, QC",
     "tier": "alert",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1008
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1019
   },
-  "WAQI|220": {
-    "region": "Isla Blanca Park, Harlingen, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1009
+  "WAQI|5953": {
+    "region": "West Phoenix, Maricopa, USA, AZ",
+    "tier": "alert",
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1020
   },
-  "WAQI|6497": {
-    "region": "Apodaca, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1010
+  "WAQI|3556": {
+    "region": "Brigantine, NewJersey, USA, NJ",
+    "tier": "alert",
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1021
   },
-  "WAQI|6517": {
-    "region": "Monroe Airport site, Louisiana, USA, LA",
+  "WAQI|-505087": {
+    "region": "Corpus Christi Huisache, TX",
     "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1011
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1022
   },
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1012
+  "WAQI|5476": {
+    "region": "Bruderheim, Alberta, Canada, AB",
+    "tier": "alert",
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1023
   },
-  "WAQI|-505099": {
-    "region": "Brownsville East 6th Street, TX",
-    "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1013
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "alert",
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1024
   },
-  "WAQI|10949": {
-    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
+  "US-MN-Minneapolis": {
+    "region": "Minneapolis-St. Paul, MN",
     "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1014
-  },
-  "WAQI|274": {
-    "region": "Clovis-N Villa Avenue, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1015
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789491473811,
-    "lastAlertedAt": 1789491473811,
-    "issueNumber": 1016
+    "firstSeen": 1789507161157,
+    "lastAlertedAt": 1789507161157,
+    "issueNumber": 1025
   }
 }
