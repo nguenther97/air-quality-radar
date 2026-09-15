@@ -1,27 +1,6 @@
 [
   {
     "region_key": "US|CA|Nipomo CDF",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789335359220
-  },
-  {
-    "region_key": "US|CA|Nipomo Mesa2",
-    "value": 128,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789335359220
-  },
-  {
-    "region_key": "US|CA|Santa Maria",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789335359220
-  },
-  {
-    "region_key": "US|CA|Nipomo CDF",
     "value": 247,
     "unit": "AQI",
     "tier": "alert",
@@ -425,5 +404,54 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789502782857
+  },
+  {
+    "region_key": "US|TX|Corpus Christi",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789512688278
+  },
+  {
+    "region_key": "US|NV|Las Vegas",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789512688278
+  },
+  {
+    "region_key": "WAQI|-505099",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789512688278
+  },
+  {
+    "region_key": "WAQI|-2216005",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789512688278
+  },
+  {
+    "region_key": "WAQI|199",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789512688278
+  },
+  {
+    "region_key": "WAQI|-505087",
+    "value": 117,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789512688278
+  },
+  {
+    "region_key": "WAQI|220",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789512688278
   }
 ]
