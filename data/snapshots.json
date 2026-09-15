@@ -306,5 +306,82 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789473760043
+  },
+  {
+    "region_key": "US|TX|Brownsville-McAllen",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|6517",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|274",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|-505099",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|8592",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|10138",
+    "value": 422,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|10949",
+    "value": 134,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|281",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|220",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
+  },
+  {
+    "region_key": "WAQI|6497",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789490946034
   }
 ]
