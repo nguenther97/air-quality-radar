@@ -1,58 +1,16 @@
 {
-  "US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
+  "US|TX|Corpus Christi": {
+    "region": "Corpus Christi, TX",
     "tier": "watch",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 996
+    "firstSeen": 1789472552092,
+    "lastAlertedAt": 1789472552092,
+    "issueNumber": 1004
   },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "alert",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 997
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 998
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "alert",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 999
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
+  "WAQI|-505087": {
+    "region": "Corpus Christi Huisache, TX",
     "tier": "watch",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 1000
-  },
-  "WAQI|5956": {
-    "region": "Mesa, Maricopa, USA, AZ",
-    "tier": "watch",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 1001
-  },
-  "US-NY-New York City": {
-    "region": "New York City Metro (including Long Island and Lower Hudson Valley), NY",
-    "tier": "watch",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 1002
-  },
-  "US-IL-Chicago": {
-    "region": "Chicago metro, IL",
-    "tier": "alert",
-    "firstSeen": 1789447956648,
-    "lastAlertedAt": 1789447956648,
-    "issueNumber": 1003
+    "firstSeen": 1789472552092,
+    "lastAlertedAt": 1789472552092,
+    "issueNumber": 1005
   }
 }
