@@ -1,16 +1,79 @@
 {
-  "US|TX|Corpus Christi": {
-    "region": "Corpus Christi, TX",
+  "US|TX|Brownsville-McAllen": {
+    "region": "Brownsville-McAllen, TX",
     "tier": "watch",
-    "firstSeen": 1789472552092,
-    "lastAlertedAt": 1789472552092,
-    "issueNumber": 1004
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1006
   },
-  "WAQI|-505087": {
-    "region": "Corpus Christi Huisache, TX",
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
     "tier": "watch",
-    "firstSeen": 1789472552092,
-    "lastAlertedAt": 1789472552092,
-    "issueNumber": 1005
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1007
+  },
+  "WAQI|10138": {
+    "region": "St-Dominique, Montreal, Canada, QC",
+    "tier": "alert",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1008
+  },
+  "WAQI|220": {
+    "region": "Isla Blanca Park, Harlingen, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1009
+  },
+  "WAQI|6497": {
+    "region": "Apodaca, Nuevo Leon, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1010
+  },
+  "WAQI|6517": {
+    "region": "Monroe Airport site, Louisiana, USA, LA",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1011
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1012
+  },
+  "WAQI|-505099": {
+    "region": "Brownsville East 6th Street, TX",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1013
+  },
+  "WAQI|10949": {
+    "region": "Pueblo Serena, Monterrey, Nuevo León, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1014
+  },
+  "WAQI|274": {
+    "region": "Clovis-N Villa Avenue, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1015
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789491473811,
+    "lastAlertedAt": 1789491473811,
+    "issueNumber": 1016
   }
 }
