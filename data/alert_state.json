@@ -1,44 +1,58 @@
 {
-  "FORECAST|US|CA|C San Bernardino M": {
+  "US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
-    "firstSeen": 1789300190619,
-    "lastAlertedAt": 1789300190619,
-    "issueNumber": 976
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 996
   },
-  "US|CA|Nipomo CDF": {
-    "region": "Nipomo CDF, CA",
-    "tier": "watch",
-    "firstSeen": 1789422505247,
-    "lastAlertedAt": 1789422505247,
-    "issueNumber": 991
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "alert",
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 997
   },
-  "WAQI|212": {
-    "region": "Hamshire, Beaumont, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789422505247,
-    "lastAlertedAt": 1789422505247,
-    "issueNumber": 992
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
+    "tier": "alert",
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 998
   },
-  "US-NV-Las Vegas": {
-    "region": "Las Vegas Valley, NV",
-    "tier": "watch",
-    "firstSeen": 1789422505247,
-    "lastAlertedAt": 1789422505247,
-    "issueNumber": 993
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "alert",
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 999
   },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix metro, AZ",
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
     "tier": "watch",
-    "firstSeen": 1789422505247,
-    "lastAlertedAt": 1789422505247,
-    "issueNumber": 994
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 1000
   },
-  "US-TX-Houston": {
-    "region": "Houston-Galveston metro, TX",
+  "WAQI|5956": {
+    "region": "Mesa, Maricopa, USA, AZ",
     "tier": "watch",
-    "firstSeen": 1789422505247,
-    "lastAlertedAt": 1789422505247,
-    "issueNumber": 995
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 1001
+  },
+  "US-NY-New York City": {
+    "region": "New York City Metro (including Long Island and Lower Hudson Valley), NY",
+    "tier": "watch",
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 1002
+  },
+  "US-IL-Chicago": {
+    "region": "Chicago metro, IL",
+    "tier": "alert",
+    "firstSeen": 1789447956648,
+    "lastAlertedAt": 1789447956648,
+    "issueNumber": 1003
   }
 }
