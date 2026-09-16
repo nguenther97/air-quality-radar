@@ -1,53 +1,4 @@
 {
-  "WAQI|-505087": {
-    "region": "Corpus Christi Huisache, TX",
-    "tier": "watch",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1022
-  },
-  "US|TX|Brownsville-McAllen": {
-    "region": "Brownsville-McAllen, TX",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1026
-  },
-  "US|TX|Corpus Christi": {
-    "region": "Corpus Christi, TX",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1027
-  },
-  "WAQI|8356": {
-    "region": "Red Bluff - Walnut St, Tehama, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1028
-  },
-  "WAQI|210": {
-    "region": "Mission, Harlingen, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1029
-  },
-  "WAQI|-515155": {
-    "region": "Jackson-Mahon 03, TX",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1030
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, US",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1031
-  },
   "WAQI|188": {
     "region": "Heritage Middle School, San Antonio, Texas, TX",
     "tier": "watch",
@@ -55,18 +6,88 @@
     "lastAlertedAt": 1789534048383,
     "issueNumber": 1032
   },
-  "WAQI|-498667": {
-    "region": "Misión San Juan, US",
+  "US|TX|Austin": {
+    "region": "Austin, TX",
     "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1033
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1035
   },
-  "US-MN-Minneapolis-St. Paul": {
-    "region": "Twin Cities Metro Area, MN",
+  "US|TX|Laredo": {
+    "region": "Laredo, TX",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1036
+  },
+  "US|TX|San Antonio": {
+    "region": "San Antonio, TX",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1037
+  },
+  "CA|IAKID|Calgary": {
+    "region": "Calgary, AB",
     "tier": "alert",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1034
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1038
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1039
+  },
+  "WAQI|6497": {
+    "region": "Apodaca, Nuevo Leon, Mexico, US",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1040
+  },
+  "WAQI|218": {
+    "region": "Austin Northwest, Austin, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1041
+  },
+  "WAQI|199": {
+    "region": "World Trade Bridge, Laredo, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1042
+  },
+  "WAQI|6274": {
+    "region": "Holman Rd, New Mexico, USA, NM",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1043
+  },
+  "WAQI|-1964059": {
+    "region": "Enviro Urban (outdoor-aq), CA",
+    "tier": "alert",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1044
+  },
+  "WAQI|8827": {
+    "region": "Calgary Southeast, Alberta, Canada, AB",
+    "tier": "alert",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1045
+  },
+  "WAQI|-505069": {
+    "region": "Von Ormy Highway 16, TX",
+    "tier": "watch",
+    "firstSeen": 1789558214102,
+    "lastAlertedAt": 1789558214102,
+    "issueNumber": 1046
   }
 }
