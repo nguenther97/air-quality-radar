@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|-504940",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789393800976
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789393800976
-  },
-  {
     "region_key": "WAQI|-662017",
     "value": 189,
     "unit": "AQI",
@@ -544,5 +530,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789559915820
+  },
+  {
+    "region_key": "US|TX|Austin",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "US|NV|Las Vegas",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "US|TX|San Antonio",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "US|WA|Taholah",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "WAQI|218",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "WAQI|-505018",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "WAQI|-505099",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "WAQI|-505060",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789576737972
+  },
+  {
+    "region_key": "WAQI|8417",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789576737972
   }
 ]
