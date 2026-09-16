@@ -1,24 +1,10 @@
 {
-  "WAQI|188": {
-    "region": "Heritage Middle School, San Antonio, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789534048383,
-    "lastAlertedAt": 1789534048383,
-    "issueNumber": 1032
-  },
   "US|TX|Austin": {
     "region": "Austin, TX",
     "tier": "watch",
     "firstSeen": 1789558214102,
     "lastAlertedAt": 1789558214102,
     "issueNumber": 1035
-  },
-  "US|TX|Laredo": {
-    "region": "Laredo, TX",
-    "tier": "watch",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1036
   },
   "US|TX|San Antonio": {
     "region": "San Antonio, TX",
@@ -27,26 +13,12 @@
     "lastAlertedAt": 1789558214102,
     "issueNumber": 1037
   },
-  "CA|IAKID|Calgary": {
-    "region": "Calgary, AB",
-    "tier": "alert",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1038
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
+    "lastAlertedAt": 1789577599053,
     "issueNumber": 1039
-  },
-  "WAQI|6497": {
-    "region": "Apodaca, Nuevo Leon, Mexico, US",
-    "tier": "watch",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1040
   },
   "WAQI|218": {
     "region": "Austin Northwest, Austin, Texas, TX",
@@ -55,39 +27,60 @@
     "lastAlertedAt": 1789558214102,
     "issueNumber": 1041
   },
-  "WAQI|199": {
-    "region": "World Trade Bridge, Laredo, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1042
-  },
-  "WAQI|6274": {
-    "region": "Holman Rd, New Mexico, USA, NM",
-    "tier": "watch",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1043
-  },
-  "WAQI|-1964059": {
-    "region": "Enviro Urban (outdoor-aq), CA",
+  "US|NV|Las Vegas": {
+    "region": "Las Vegas, NV",
     "tier": "alert",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1044
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1047
   },
-  "WAQI|8827": {
-    "region": "Calgary Southeast, Alberta, Canada, AB",
+  "US|WA|Taholah": {
+    "region": "Taholah, WA",
     "tier": "alert",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1045
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1048
   },
-  "WAQI|-505069": {
-    "region": "Von Ormy Highway 16, TX",
+  "WAQI|8417": {
+    "region": "Quinault Tribe, Taholah, Washington, USA, US",
+    "tier": "alert",
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1049
+  },
+  "WAQI|-505099": {
+    "region": "Brownsville East 6th Street, TX",
     "tier": "watch",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789558214102,
-    "issueNumber": 1046
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1050
+  },
+  "WAQI|-505018": {
+    "region": "Austin North Interstate 35, TX",
+    "tier": "watch",
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1051
+  },
+  "WAQI|-505060": {
+    "region": "San Antonio Interstate 35, TX",
+    "tier": "watch",
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1052
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "watch",
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1053
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "watch",
+    "firstSeen": 1789577599053,
+    "lastAlertedAt": 1789577599053,
+    "issueNumber": 1054
   }
 }
