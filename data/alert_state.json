@@ -1,39 +1,4 @@
 {
-  "US|NV|Las Vegas": {
-    "region": "Las Vegas, NV",
-    "tier": "watch",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1017
-  },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "watch",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1018
-  },
-  "WAQI|-524518": {
-    "region": "Av De Villebon, QC",
-    "tier": "alert",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1019
-  },
-  "WAQI|5953": {
-    "region": "West Phoenix, Maricopa, USA, AZ",
-    "tier": "alert",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1020
-  },
-  "WAQI|3556": {
-    "region": "Brigantine, NewJersey, USA, NJ",
-    "tier": "alert",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1021
-  },
   "WAQI|-505087": {
     "region": "Corpus Christi Huisache, TX",
     "tier": "watch",
@@ -41,25 +6,67 @@
     "lastAlertedAt": 1789507161157,
     "issueNumber": 1022
   },
-  "WAQI|5476": {
-    "region": "Bruderheim, Alberta, Canada, AB",
-    "tier": "alert",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1023
-  },
-  "CA-QC-Montreal": {
-    "region": "Montreal, QC",
-    "tier": "alert",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1024
-  },
-  "US-MN-Minneapolis": {
-    "region": "Minneapolis-St. Paul, MN",
+  "US|TX|Brownsville-McAllen": {
+    "region": "Brownsville-McAllen, TX",
     "tier": "watch",
-    "firstSeen": 1789507161157,
-    "lastAlertedAt": 1789507161157,
-    "issueNumber": 1025
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1026
+  },
+  "US|TX|Corpus Christi": {
+    "region": "Corpus Christi, TX",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1027
+  },
+  "WAQI|8356": {
+    "region": "Red Bluff - Walnut St, Tehama, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1028
+  },
+  "WAQI|210": {
+    "region": "Mission, Harlingen, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1029
+  },
+  "WAQI|-515155": {
+    "region": "Jackson-Mahon 03, TX",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1030
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, US",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1031
+  },
+  "WAQI|188": {
+    "region": "Heritage Middle School, San Antonio, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1032
+  },
+  "WAQI|-498667": {
+    "region": "Misión San Juan, US",
+    "tier": "watch",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1033
+  },
+  "US-MN-Minneapolis-St. Paul": {
+    "region": "Twin Cities Metro Area, MN",
+    "tier": "alert",
+    "firstSeen": 1789534048383,
+    "lastAlertedAt": 1789534048383,
+    "issueNumber": 1034
   }
 }
