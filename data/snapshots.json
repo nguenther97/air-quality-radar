@@ -1,82 +1,5 @@
 [
   {
-    "region_key": "US|AZ|Gila River Indian Community",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "US|CA|Hanford",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "US|AZ|Phoenix",
-    "value": 594,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "US|AZ|Salt River Pima-Maricopa Indian Community",
-    "value": 192,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "US|AZ|West Pinal",
-    "value": 645,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "WAQI|4249",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "WAQI|193",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "WAQI|220",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "WAQI|-408889",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "WAQI|9605",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789454148298
-  },
-  {
-    "region_key": "WAQI|5956",
-    "value": 338,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789454148298
-  },
-  {
     "region_key": "US|TX|Corpus Christi",
     "value": 103,
     "unit": "AQI",
@@ -607,5 +530,12 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789626848631
+  },
+  {
+    "region_key": "WAQI|-492376",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789646398508
   }
 ]
