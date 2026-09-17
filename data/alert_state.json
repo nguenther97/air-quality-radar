@@ -20,60 +20,18 @@
     "lastAlertedAt": 1789593401716,
     "issueNumber": 1057
   },
-  "WAQI|4613": {
-    "region": "Madera City, Madera, California, CA",
+  "WAQI|-492373": {
+    "region": "Reno4 NCore Node C, NV",
     "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1059
+    "firstSeen": 1789645174892,
+    "lastAlertedAt": 1789645174892,
+    "issueNumber": 1067
   },
-  "WAQI|-515155": {
-    "region": "Jackson-Mahon 03, TX",
-    "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1060
-  },
-  "WAQI|8863": {
-    "region": "Niland-English Road, Imperial, California, CA",
-    "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1061
-  },
-  "WAQI|5476": {
-    "region": "Bruderheim, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1062
-  },
-  "WAQI|5501": {
-    "region": "Smoky Heights, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1063
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
+  "WAQI|8827": {
+    "region": "Calgary Southeast, Alberta, Canada, AB",
     "tier": "alert",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1064
-  },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles Basin, CA",
-    "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1065
-  },
-  "US-UT-Salt Lake City": {
-    "region": "Salt Lake Valley, UT",
-    "tier": "watch",
-    "firstSeen": 1789620649857,
-    "lastAlertedAt": 1789620649857,
-    "issueNumber": 1066
+    "firstSeen": 1789645174892,
+    "lastAlertedAt": 1789645174892,
+    "issueNumber": 1068
   }
 }
