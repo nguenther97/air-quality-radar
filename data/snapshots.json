@@ -1,55 +1,6 @@
 [
   {
     "region_key": "US|TX|Corpus Christi",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "US|NV|Las Vegas",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "WAQI|-505099",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "WAQI|-2216005",
-    "value": 152,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "WAQI|199",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "WAQI|-505087",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "WAQI|220",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789512688278
-  },
-  {
-    "region_key": "US|TX|Corpus Christi",
     "value": 103,
     "unit": "AQI",
     "tier": "watch",
@@ -425,5 +376,89 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789675703211
+  },
+  {
+    "region_key": "US|GA|Atlanta",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|SC|Greenville-Spartanburg",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|NV|Las Vegas",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|NC|Mecklenburg County",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|IL|St. Louis (Metro-east)",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|NC|Union County",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "WAQI|5303",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "WAQI|269",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789686003151
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789686003151
   }
 ]
