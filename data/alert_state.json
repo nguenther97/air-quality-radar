@@ -1,18 +1,4 @@
 {
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1789558214102,
-    "lastAlertedAt": 1789577599053,
-    "issueNumber": 1039
-  },
-  "US-NY-New York City": {
-    "region": "New York City / Lower Hudson Valley, NY",
-    "tier": "watch",
-    "firstSeen": 1789577599053,
-    "lastAlertedAt": 1789577599053,
-    "issueNumber": 1054
-  },
   "FORECAST|US|GA|Atlanta": {
     "region": "Atlanta, GA",
     "tier": "watch",
@@ -34,11 +20,60 @@
     "lastAlertedAt": 1789593401716,
     "issueNumber": 1057
   },
-  "US-NV-Las Vegas": {
-    "region": "Las Vegas / Clark County, NV",
+  "WAQI|4613": {
+    "region": "Madera City, Madera, California, CA",
     "tier": "watch",
-    "firstSeen": 1789593401716,
-    "lastAlertedAt": 1789593401716,
-    "issueNumber": 1058
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1059
+  },
+  "WAQI|-515155": {
+    "region": "Jackson-Mahon 03, TX",
+    "tier": "watch",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1060
+  },
+  "WAQI|8863": {
+    "region": "Niland-English Road, Imperial, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1061
+  },
+  "WAQI|5476": {
+    "region": "Bruderheim, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1062
+  },
+  "WAQI|5501": {
+    "region": "Smoky Heights, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1063
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "alert",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1064
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles Basin, CA",
+    "tier": "watch",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1065
+  },
+  "US-UT-Salt Lake City": {
+    "region": "Salt Lake Valley, UT",
+    "tier": "watch",
+    "firstSeen": 1789620649857,
+    "lastAlertedAt": 1789620649857,
+    "issueNumber": 1066
   }
 }
