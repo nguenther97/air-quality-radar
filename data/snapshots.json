@@ -614,5 +614,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789598961570
+  },
+  {
+    "region_key": "US|NV|Reno-Sparks",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789607723355
+  },
+  {
+    "region_key": "WAQI|7358",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789607723355
+  },
+  {
+    "region_key": "WAQI|-524443",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789607723355
   }
 ]
