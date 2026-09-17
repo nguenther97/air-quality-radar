@@ -1,173 +1,5 @@
 [
   {
-    "region_key": "US|TX|Brownsville-McAllen",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "US|CA|Hanford",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|6517",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|274",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|-505099",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|8592",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|10138",
-    "value": 422,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|10949",
-    "value": 134,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|281",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|220",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "WAQI|6497",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789490946034
-  },
-  {
-    "region_key": "US|TX|Austin",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "US|OH|Cleveland-Akron-Lorain",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "US|TX|Corpus Christi",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "CA|IACGW|Lamont County",
-    "value": 7,
-    "unit": "AQHI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|-505087",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|187",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|10138",
-    "value": 236,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|-505018",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|218",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|5476",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 182,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|5953",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
-    "region_key": "WAQI|219",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789502782857
-  },
-  {
     "region_key": "US|TX|Corpus Christi",
     "value": 110,
     "unit": "AQI",
@@ -558,5 +390,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789663547531
+  },
+  {
+    "region_key": "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789675703211
+  },
+  {
+    "region_key": "US|SC|Greenville-Spartanburg",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789675703211
+  },
+  {
+    "region_key": "US|NC|Mecklenburg County",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789675703211
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789675703211
+  },
+  {
+    "region_key": "WAQI|-548659",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789675703211
   }
 ]
