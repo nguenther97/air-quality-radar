@@ -1,11 +1,4 @@
 {
-  "FORECAST|US|GA|Atlanta": {
-    "region": "Atlanta, GA",
-    "tier": "watch",
-    "firstSeen": 1789593401716,
-    "lastAlertedAt": 1789593401716,
-    "issueNumber": 1055
-  },
   "FORECAST|US|TN|Memphis": {
     "region": "Memphis, TN",
     "tier": "watch",
@@ -13,32 +6,67 @@
     "lastAlertedAt": 1789593401716,
     "issueNumber": 1057
   },
-  "WAQI|8827": {
-    "region": "Calgary Southeast, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1789645174892,
-    "lastAlertedAt": 1789645174892,
-    "issueNumber": 1068
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1789664332260,
     "lastAlertedAt": 1789664332260,
     "issueNumber": 1069
   },
-  "WAQI|-562951": {
-    "region": "Seattle-5th Ave S, WA",
+  "US|GA|Atlanta": {
+    "region": "Atlanta, GA",
     "tier": "watch",
-    "firstSeen": 1789664332260,
-    "lastAlertedAt": 1789664332260,
-    "issueNumber": 1070
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1072
   },
-  "WAQI|8193": {
-    "region": "Ft Lee Near Road, NewJersey, USA, NJ",
+  "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
+    "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
     "tier": "watch",
-    "firstSeen": 1789664332260,
-    "lastAlertedAt": 1789664332260,
-    "issueNumber": 1071
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1073
+  },
+  "US|SC|Greenville-Spartanburg": {
+    "region": "Greenville-Spartanburg, SC",
+    "tier": "watch",
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1074
+  },
+  "US|NC|Mecklenburg County": {
+    "region": "Mecklenburg County, NC",
+    "tier": "watch",
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1075
+  },
+  "US|NC|Union County": {
+    "region": "Union County, NC",
+    "tier": "watch",
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1076
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "watch",
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1077
+  },
+  "US-NC-Gaston County": {
+    "region": "Gaston County, NC",
+    "tier": "watch",
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1078
+  },
+  "US-SC-Rock Hill": {
+    "region": "York-Chester Counties (Rock Hill area), SC",
+    "tier": "watch",
+    "firstSeen": 1789680047547,
+    "lastAlertedAt": 1789680047547,
+    "issueNumber": 1079
   }
 }
