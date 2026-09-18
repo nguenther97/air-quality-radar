@@ -6,67 +6,39 @@
     "lastAlertedAt": 1789593401716,
     "issueNumber": 1057
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "US|CA|Willows": {
+    "region": "Willows, CA",
     "tier": "watch",
-    "firstSeen": 1789664332260,
-    "lastAlertedAt": 1789664332260,
-    "issueNumber": 1069
+    "firstSeen": 1789706478829,
+    "lastAlertedAt": 1789706478829,
+    "issueNumber": 1080
   },
-  "US|GA|Atlanta": {
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1789706478829,
+    "lastAlertedAt": 1789706478829,
+    "issueNumber": 1081
+  },
+  "WAQI|299": {
+    "region": "Willows-Colusa, Glenn, California, CA",
+    "tier": "alert",
+    "firstSeen": 1789706478829,
+    "lastAlertedAt": 1789706478829,
+    "issueNumber": 1082
+  },
+  "FORECAST|US|GA|Atlanta": {
     "region": "Atlanta, GA",
     "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1072
+    "firstSeen": 1789706478829,
+    "lastAlertedAt": 1789706478829,
+    "issueNumber": 1083
   },
-  "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point": {
-    "region": "Forsyth County-Winston-Salem-Greensboro-High Point, NC",
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1073
-  },
-  "US|SC|Greenville-Spartanburg": {
-    "region": "Greenville-Spartanburg, SC",
-    "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1074
-  },
-  "US|NC|Mecklenburg County": {
-    "region": "Mecklenburg County, NC",
-    "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1075
-  },
-  "US|NC|Union County": {
-    "region": "Union County, NC",
-    "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1076
-  },
-  "US-NY-New York City": {
-    "region": "New York City, NY",
-    "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1077
-  },
-  "US-NC-Gaston County": {
-    "region": "Gaston County, NC",
-    "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1078
-  },
-  "US-SC-Rock Hill": {
-    "region": "York-Chester Counties (Rock Hill area), SC",
-    "tier": "watch",
-    "firstSeen": 1789680047547,
-    "lastAlertedAt": 1789680047547,
-    "issueNumber": 1079
+    "firstSeen": 1789706478829,
+    "lastAlertedAt": 1789706478829,
+    "issueNumber": 1084
   }
 }
