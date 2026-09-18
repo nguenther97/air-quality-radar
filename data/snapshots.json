@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|TX|Corpus Christi",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789540509098
-  },
-  {
-    "region_key": "WAQI|188",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789540509098
-  },
-  {
-    "region_key": "WAQI|220",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789540509098
-  },
-  {
-    "region_key": "WAQI|9178",
-    "value": 255,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789540509098
-  },
-  {
-    "region_key": "WAQI|-498667",
-    "value": 117,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789540509098
-  },
-  {
-    "region_key": "WAQI|-882496",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789540509098
-  },
-  {
-    "region_key": "WAQI|10948",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789540509098
-  },
-  {
     "region_key": "US|TX|Austin",
     "value": 110,
     "unit": "AQI",
@@ -474,5 +425,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789712970288
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789731660236
+  },
+  {
+    "region_key": "WAQI|8827",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789731660236
   }
 ]
