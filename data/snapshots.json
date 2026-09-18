@@ -460,5 +460,26 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789686003151
+  },
+  {
+    "region_key": "US|NC|Mecklenburg County",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789693847093
+  },
+  {
+    "region_key": "WAQI|8409",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789693847093
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789693847093
   }
 ]
