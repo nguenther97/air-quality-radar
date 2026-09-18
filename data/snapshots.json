@@ -1,48 +1,6 @@
 [
   {
     "region_key": "US|TX|Corpus Christi",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789521322207
-  },
-  {
-    "region_key": "WAQI|-505099",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789521322207
-  },
-  {
-    "region_key": "WAQI|220",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789521322207
-  },
-  {
-    "region_key": "WAQI|188",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789521322207
-  },
-  {
-    "region_key": "WAQI|-505087",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789521322207
-  },
-  {
-    "region_key": "WAQI|-498667",
-    "value": 111,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789521322207
-  },
-  {
-    "region_key": "US|TX|Corpus Christi",
     "value": 111,
     "unit": "AQI",
     "tier": "watch",
@@ -481,5 +439,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789693847093
+  },
+  {
+    "region_key": "US|CA|Willows",
+    "value": 131,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789712970288
+  },
+  {
+    "region_key": "WAQI|13979",
+    "value": 148,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789712970288
+  },
+  {
+    "region_key": "WAQI|299",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789712970288
+  },
+  {
+    "region_key": "WAQI|4249",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789712970288
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789712970288
   }
 ]
