@@ -13,32 +13,46 @@
     "lastAlertedAt": 1789706478829,
     "issueNumber": 1083
   },
-  "CA|IAKID|Calgary": {
-    "region": "Calgary, AB",
-    "tier": "alert",
-    "firstSeen": 1789729923838,
-    "lastAlertedAt": 1789729923838,
-    "issueNumber": 1085
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1789729923838,
-    "lastAlertedAt": 1789729923838,
-    "issueNumber": 1086
-  },
-  "WAQI|13979": {
-    "region": "Edmonton McCauley, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1789729923838,
-    "lastAlertedAt": 1789729923838,
-    "issueNumber": 1087
-  },
-  "WAQI|8827": {
-    "region": "Calgary Southeast, Alberta, Canada, AB",
     "tier": "alert",
     "firstSeen": 1789729923838,
-    "lastAlertedAt": 1789729923838,
-    "issueNumber": 1088
+    "lastAlertedAt": 1789748565062,
+    "issueNumber": 1086
+  },
+  "US|CO|Denver-Boulder": {
+    "region": "Denver-Boulder, CO",
+    "tier": "watch",
+    "firstSeen": 1789748565062,
+    "lastAlertedAt": 1789748565062,
+    "issueNumber": 1089
+  },
+  "US|NV|Elko": {
+    "region": "Elko, NV",
+    "tier": "watch",
+    "firstSeen": 1789748565062,
+    "lastAlertedAt": 1789748565062,
+    "issueNumber": 1090
+  },
+  "WAQI|-498067": {
+    "region": "Adams Birch Street, CO",
+    "tier": "watch",
+    "firstSeen": 1789748565062,
+    "lastAlertedAt": 1789748565062,
+    "issueNumber": 1091
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "watch",
+    "firstSeen": 1789748565062,
+    "lastAlertedAt": 1789748565062,
+    "issueNumber": 1092
+  },
+  "WAQI|7515": {
+    "region": "Gport Yc, Mississippi, USA, MS",
+    "tier": "watch",
+    "firstSeen": 1789748565062,
+    "lastAlertedAt": 1789748565062,
+    "issueNumber": 1093
   }
 }
