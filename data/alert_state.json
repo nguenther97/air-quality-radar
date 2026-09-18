@@ -1,58 +1,86 @@
 {
-  "FORECAST|US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1789593401716,
-    "lastAlertedAt": 1789593401716,
-    "issueNumber": 1057
-  },
-  "FORECAST|US|GA|Atlanta": {
+  "US|GA|Atlanta": {
     "region": "Atlanta, GA",
     "tier": "watch",
-    "firstSeen": 1789706478829,
-    "lastAlertedAt": 1789706478829,
-    "issueNumber": 1083
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1094
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
-    "firstSeen": 1789729923838,
-    "lastAlertedAt": 1789748565062,
-    "issueNumber": 1086
-  },
-  "US|CO|Denver-Boulder": {
-    "region": "Denver-Boulder, CO",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1789748565062,
-    "lastAlertedAt": 1789748565062,
-    "issueNumber": 1089
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1095
   },
-  "US|NV|Elko": {
-    "region": "Elko, NV",
+  "US|MO|Kansas City": {
+    "region": "Kansas City, MO",
     "tier": "watch",
-    "firstSeen": 1789748565062,
-    "lastAlertedAt": 1789748565062,
-    "issueNumber": 1090
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1096
   },
-  "WAQI|-498067": {
-    "region": "Adams Birch Street, CO",
+  "US|KY|Louisville": {
+    "region": "Louisville, KY",
     "tier": "watch",
-    "firstSeen": 1789748565062,
-    "lastAlertedAt": 1789748565062,
-    "issueNumber": 1091
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1097
   },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
+  "US|TN|Memphis": {
+    "region": "Memphis, TN",
     "tier": "watch",
-    "firstSeen": 1789748565062,
-    "lastAlertedAt": 1789748565062,
-    "issueNumber": 1092
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1098
   },
-  "WAQI|7515": {
-    "region": "Gport Yc, Mississippi, USA, MS",
+  "US|MO|Saint Louis": {
+    "region": "Saint Louis, MO",
     "tier": "watch",
-    "firstSeen": 1789748565062,
-    "lastAlertedAt": 1789748565062,
-    "issueNumber": 1093
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1099
+  },
+  "WAQI|-547816": {
+    "region": "CAPCOG Pflugerville, TX",
+    "tier": "watch",
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1100
+  },
+  "WAQI|7350": {
+    "region": "Blair Street, Missouri, USA, MO",
+    "tier": "watch",
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1101
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1102
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1103
+  },
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1104
+  },
+  "FORECAST|US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1789764797492,
+    "lastAlertedAt": 1789764797492,
+    "issueNumber": 1105
   }
 }
