@@ -6,27 +6,6 @@
     "lastAlertedAt": 1789593401716,
     "issueNumber": 1057
   },
-  "US|CA|Willows": {
-    "region": "Willows, CA",
-    "tier": "watch",
-    "firstSeen": 1789706478829,
-    "lastAlertedAt": 1789706478829,
-    "issueNumber": 1080
-  },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1789706478829,
-    "lastAlertedAt": 1789706478829,
-    "issueNumber": 1081
-  },
-  "WAQI|299": {
-    "region": "Willows-Colusa, Glenn, California, CA",
-    "tier": "alert",
-    "firstSeen": 1789706478829,
-    "lastAlertedAt": 1789706478829,
-    "issueNumber": 1082
-  },
   "FORECAST|US|GA|Atlanta": {
     "region": "Atlanta, GA",
     "tier": "watch",
@@ -34,11 +13,32 @@
     "lastAlertedAt": 1789706478829,
     "issueNumber": 1083
   },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "CA|IAKID|Calgary": {
+    "region": "Calgary, AB",
+    "tier": "alert",
+    "firstSeen": 1789729923838,
+    "lastAlertedAt": 1789729923838,
+    "issueNumber": 1085
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
     "tier": "watch",
-    "firstSeen": 1789706478829,
-    "lastAlertedAt": 1789706478829,
-    "issueNumber": 1084
+    "firstSeen": 1789729923838,
+    "lastAlertedAt": 1789729923838,
+    "issueNumber": 1086
+  },
+  "WAQI|13979": {
+    "region": "Edmonton McCauley, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1789729923838,
+    "lastAlertedAt": 1789729923838,
+    "issueNumber": 1087
+  },
+  "WAQI|8827": {
+    "region": "Calgary Southeast, Alberta, Canada, AB",
+    "tier": "alert",
+    "firstSeen": 1789729923838,
+    "lastAlertedAt": 1789729923838,
+    "issueNumber": 1088
   }
 }
