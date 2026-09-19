@@ -27,13 +27,6 @@
     "lastAlertedAt": 1789764797492,
     "issueNumber": 1105
   },
-  "FORECAST|US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1112
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
     "tier": "watch",
@@ -41,53 +34,53 @@
     "lastAlertedAt": 1789815409424,
     "issueNumber": 1114
   },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1116
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1123
   },
-  "WAQI|-235702": {
-    "region": "Creston Hillside, US",
+  "US|ID|Kamiah - Nez Perce Reservation": {
+    "region": "Kamiah - Nez Perce Reservation, ID",
     "tier": "watch",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1117
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1124
   },
-  "WAQI|-1645444": {
-    "region": "lenox woods, TX",
+  "US|TN|Memphis": {
+    "region": "Memphis, TN",
     "tier": "watch",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1118
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1125
   },
-  "WAQI|-1666030": {
-    "region": "Tiwa Blvd, TX",
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
     "tier": "watch",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1119
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1126
   },
-  "US-CA-Santa Clarita Valley": {
-    "region": "Santa Clarita Valley, CA",
+  "WAQI|9160": {
+    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1120
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1127
   },
-  "US-CA-San Fernando Valley": {
-    "region": "San Fernando Valley, CA",
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
     "tier": "watch",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1121
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1128
   },
-  "US-CA-Pasadena": {
-    "region": "Pasadena, CA",
+  "US-CA-Riverside": {
+    "region": "Riverside, CA",
     "tier": "watch",
-    "firstSeen": 1789833139392,
-    "lastAlertedAt": 1789833139392,
-    "issueNumber": 1122
+    "firstSeen": 1789850306375,
+    "lastAlertedAt": 1789850306375,
+    "issueNumber": 1129
   }
 }
