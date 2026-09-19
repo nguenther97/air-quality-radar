@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "WAQI|-494671",
-    "value": 189,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789663547531
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789663547531
-  },
-  {
-    "region_key": "WAQI|-562951",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789663547531
-  },
-  {
-    "region_key": "WAQI|8193",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789663547531
-  },
-  {
-    "region_key": "WAQI|8827",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789663547531
-  },
-  {
     "region_key": "US|NC|Forsyth County-Winston-Salem-Greensboro-High Point",
     "value": 119,
     "unit": "AQI",
@@ -544,5 +509,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789834852445
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789843587526
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789843587526
   }
 ]
