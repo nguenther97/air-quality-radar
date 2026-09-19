@@ -1,60 +1,4 @@
 {
-  "US|GA|Atlanta": {
-    "region": "Atlanta, GA",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1094
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1095
-  },
-  "US|MO|Kansas City": {
-    "region": "Kansas City, MO",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1096
-  },
-  "US|KY|Louisville": {
-    "region": "Louisville, KY",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1097
-  },
-  "US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1098
-  },
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1099
-  },
-  "WAQI|-547816": {
-    "region": "CAPCOG Pflugerville, TX",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1100
-  },
-  "WAQI|7350": {
-    "region": "Blair Street, Missouri, USA, MO",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1101
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -82,5 +26,61 @@
     "firstSeen": 1789764797492,
     "lastAlertedAt": 1789764797492,
     "issueNumber": 1105
+  },
+  "US|MO|Alba": {
+    "region": "Alba, MO",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1106
+  },
+  "US|LA|Baton Rouge Area": {
+    "region": "Baton Rouge Area, LA",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1107
+  },
+  "WAQI|5501": {
+    "region": "Smoky Heights, Alberta, Canada, AB",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1108
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1109
+  },
+  "WAQI|12846": {
+    "region": "French Settlement site, Louisiana, USA, LA",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1110
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1111
+  },
+  "FORECAST|US|TN|Memphis": {
+    "region": "Memphis, TN",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1112
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "watch",
+    "firstSeen": 1789792553779,
+    "lastAlertedAt": 1789792553779,
+    "issueNumber": 1113
   }
 }
