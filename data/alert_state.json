@@ -27,48 +27,6 @@
     "lastAlertedAt": 1789764797492,
     "issueNumber": 1105
   },
-  "US|MO|Alba": {
-    "region": "Alba, MO",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1106
-  },
-  "US|LA|Baton Rouge Area": {
-    "region": "Baton Rouge Area, LA",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1107
-  },
-  "WAQI|5501": {
-    "region": "Smoky Heights, Alberta, Canada, AB",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1108
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1109
-  },
-  "WAQI|12846": {
-    "region": "French Settlement site, Louisiana, USA, LA",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1110
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
-    "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1111
-  },
   "FORECAST|US|TN|Memphis": {
     "region": "Memphis, TN",
     "tier": "watch",
@@ -76,11 +34,18 @@
     "lastAlertedAt": 1789792553779,
     "issueNumber": 1112
   },
-  "US-NY-New York City": {
-    "region": "New York City, NY",
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
     "tier": "watch",
-    "firstSeen": 1789792553779,
-    "lastAlertedAt": 1789792553779,
-    "issueNumber": 1113
+    "firstSeen": 1789815409424,
+    "lastAlertedAt": 1789815409424,
+    "issueNumber": 1114
+  },
+  "US-CA-Riverside": {
+    "region": "Riverside, CA",
+    "tier": "watch",
+    "firstSeen": 1789815409424,
+    "lastAlertedAt": 1789815409424,
+    "issueNumber": 1115
   }
 }
