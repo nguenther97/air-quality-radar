@@ -523,5 +523,26 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789822883328
+  },
+  {
+    "region_key": "US|AZ|Phoenix",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789834852445
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 168,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789834852445
+  },
+  {
+    "region_key": "WAQI|-1666030",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789834852445
   }
 ]
