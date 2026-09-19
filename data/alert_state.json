@@ -41,11 +41,53 @@
     "lastAlertedAt": 1789815409424,
     "issueNumber": 1114
   },
-  "US-CA-Riverside": {
-    "region": "Riverside, CA",
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1789815409424,
-    "lastAlertedAt": 1789815409424,
-    "issueNumber": 1115
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1116
+  },
+  "WAQI|-235702": {
+    "region": "Creston Hillside, US",
+    "tier": "watch",
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1117
+  },
+  "WAQI|-1645444": {
+    "region": "lenox woods, TX",
+    "tier": "watch",
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1118
+  },
+  "WAQI|-1666030": {
+    "region": "Tiwa Blvd, TX",
+    "tier": "watch",
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1119
+  },
+  "US-CA-Santa Clarita Valley": {
+    "region": "Santa Clarita Valley, CA",
+    "tier": "alert",
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1120
+  },
+  "US-CA-San Fernando Valley": {
+    "region": "San Fernando Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1121
+  },
+  "US-CA-Pasadena": {
+    "region": "Pasadena, CA",
+    "tier": "watch",
+    "firstSeen": 1789833139392,
+    "lastAlertedAt": 1789833139392,
+    "issueNumber": 1122
   }
 }
