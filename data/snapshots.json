@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|CA|Willows",
-    "value": 131,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789712970288
-  },
-  {
-    "region_key": "WAQI|13979",
-    "value": 148,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789712970288
-  },
-  {
-    "region_key": "WAQI|299",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789712970288
-  },
-  {
-    "region_key": "WAQI|4249",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789712970288
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789712970288
-  },
-  {
     "region_key": "WAQI|-494671",
     "value": 129,
     "unit": "AQI",
@@ -600,5 +565,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789867806286
+  },
+  {
+    "region_key": "WAQI|8530",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789887043593
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789887043593
+  },
+  {
+    "region_key": "WAQI|-470440",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789887043593
+  },
+  {
+    "region_key": "WAQI|4249",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789887043593
+  },
+  {
+    "region_key": "WAQI|230",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789887043593
   }
 ]
