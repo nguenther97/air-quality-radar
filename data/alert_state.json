@@ -17,7 +17,7 @@
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
     "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
+    "lastAlertedAt": 1789937249665,
     "issueNumber": 1127
   },
   "US|CA|Yosemite National Park": {
@@ -36,17 +36,10 @@
   },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1789903263524,
     "lastAlertedAt": 1789920235960,
     "issueNumber": 1139
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "alert",
-    "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789903263524,
-    "issueNumber": 1141
   },
   "US|CA|Calexico": {
     "region": "Calexico, CA",
@@ -62,25 +55,25 @@
     "lastAlertedAt": 1789920235960,
     "issueNumber": 1144
   },
-  "WAQI|291": {
-    "region": "Calexico-Ethel Street, Imperial, California, CA",
+  "US|LA|Baton Rouge Area": {
+    "region": "Baton Rouge Area, LA",
     "tier": "watch",
-    "firstSeen": 1789920235960,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1145
+    "firstSeen": 1789937249665,
+    "lastAlertedAt": 1789937249665,
+    "issueNumber": 1148
   },
-  "US-NC-Raleigh": {
-    "region": "Raleigh-Durham (Wake County and surrounding areas including Cary, Apex, Wake Forest, Knightdale), NC",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1789920235960,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1146
+    "firstSeen": 1789937249665,
+    "lastAlertedAt": 1789937249665,
+    "issueNumber": 1149
   },
-  "US-CA-Napa": {
-    "region": "Napa, Sonoma, and Solano Counties (North Bay / Wine Country), CA",
+  "WAQI|4223": {
+    "region": "Hope Airport, British Comlumbia, Canada, BC",
     "tier": "watch",
-    "firstSeen": 1789920235960,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1147
+    "firstSeen": 1789937249665,
+    "lastAlertedAt": 1789937249665,
+    "issueNumber": 1150
   }
 }
