@@ -27,41 +27,6 @@
     "lastAlertedAt": 1789764797492,
     "issueNumber": 1105
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1789815409424,
-    "lastAlertedAt": 1789815409424,
-    "issueNumber": 1114
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
-    "issueNumber": 1123
-  },
-  "US|ID|Kamiah - Nez Perce Reservation": {
-    "region": "Kamiah - Nez Perce Reservation, ID",
-    "tier": "watch",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
-    "issueNumber": 1124
-  },
-  "US|TN|Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
-    "issueNumber": 1125
-  },
-  "US|CA|Yosemite National Park": {
-    "region": "Yosemite National Park, CA",
-    "tier": "watch",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
-    "issueNumber": 1126
-  },
   "WAQI|9160": {
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
@@ -69,18 +34,53 @@
     "lastAlertedAt": 1789850306375,
     "issueNumber": 1127
   },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
+  "US|CA|Coachella Vly": {
+    "region": "Coachella Vly, CA",
     "tier": "watch",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
-    "issueNumber": 1128
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1130
   },
-  "US-CA-Riverside": {
-    "region": "Riverside, CA",
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
     "tier": "watch",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789850306375,
-    "issueNumber": 1129
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1131
+  },
+  "WAQI|-573970": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1132
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, TX",
+    "tier": "watch",
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1133
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
+    "tier": "watch",
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1134
+  },
+  "WAQI|5501": {
+    "region": "Smoky Heights, Alberta, Canada, AB",
+    "tier": "alert",
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1135
+  },
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
+    "tier": "watch",
+    "firstSeen": 1789879940278,
+    "lastAlertedAt": 1789879940278,
+    "issueNumber": 1136
   }
 }
