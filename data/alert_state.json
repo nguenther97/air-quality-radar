@@ -13,20 +13,6 @@
     "lastAlertedAt": 1789764797492,
     "issueNumber": 1103
   },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1104
-  },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1105
-  },
   "WAQI|9160": {
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
@@ -34,53 +20,46 @@
     "lastAlertedAt": 1789850306375,
     "issueNumber": 1127
   },
-  "US|CA|Coachella Vly": {
-    "region": "Coachella Vly, CA",
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
     "tier": "watch",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1130
+    "firstSeen": 1789903263524,
+    "lastAlertedAt": 1789903263524,
+    "issueNumber": 1137
   },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
     "tier": "watch",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1131
+    "firstSeen": 1789903263524,
+    "lastAlertedAt": 1789903263524,
+    "issueNumber": 1138
   },
-  "WAQI|-573970": {
-    "region": "Spokane, WA",
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
     "tier": "watch",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1132
+    "firstSeen": 1789903263524,
+    "lastAlertedAt": 1789903263524,
+    "issueNumber": 1139
   },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, TX",
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1133
+    "firstSeen": 1789903263524,
+    "lastAlertedAt": 1789903263524,
+    "issueNumber": 1140
   },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1134
-  },
-  "WAQI|5501": {
-    "region": "Smoky Heights, Alberta, Canada, AB",
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
     "tier": "alert",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1135
+    "firstSeen": 1789903263524,
+    "lastAlertedAt": 1789903263524,
+    "issueNumber": 1141
   },
-  "CA-AB-Edmonton": {
-    "region": "Edmonton, AB",
-    "tier": "watch",
-    "firstSeen": 1789879940278,
-    "lastAlertedAt": 1789879940278,
-    "issueNumber": 1136
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "alert",
+    "firstSeen": 1789903263524,
+    "lastAlertedAt": 1789903263524,
+    "issueNumber": 1142
   }
 }
