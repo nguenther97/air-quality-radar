@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|AL|Birmingham",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "US|CO|Greeley",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "US|TN|Jackson",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|6322",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|-547816",
-    "value": 208,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|8312",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|8407",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|7497",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789758459943
-  },
-  {
-    "region_key": "WAQI|4204",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789758459943
-  },
-  {
     "region_key": "US|GA|Atlanta",
     "value": 112,
     "unit": "AQI",
@@ -670,5 +600,75 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789930771017
+  },
+  {
+    "region_key": "US|CA|Calexico",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "US|CA|Yosemite National Park",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "CA|JCVCC|Eastern Fraser Valley",
+    "value": 7,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "WAQI|4223",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "WAQI|230",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "WAQI|-372163",
+    "value": 429,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789939412714
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 114,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789939412714
   }
 ]
