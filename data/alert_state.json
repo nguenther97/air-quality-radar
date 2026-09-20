@@ -22,31 +22,24 @@
   },
   "US|CA|Yosemite National Park": {
     "region": "Yosemite National Park, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789903263524,
+    "lastAlertedAt": 1789920235960,
     "issueNumber": 1137
   },
   "WAQI|230": {
     "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789903263524,
+    "lastAlertedAt": 1789920235960,
     "issueNumber": 1138
   },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789903263524,
+    "lastAlertedAt": 1789920235960,
     "issueNumber": 1139
-  },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789903263524,
-    "issueNumber": 1140
   },
   "WAQI|-662017": {
     "region": "Richmond Street West, ON",
@@ -55,11 +48,39 @@
     "lastAlertedAt": 1789903263524,
     "issueNumber": 1141
   },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
-    "tier": "alert",
-    "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789903263524,
-    "issueNumber": 1142
+  "US|CA|Calexico": {
+    "region": "Calexico, CA",
+    "tier": "watch",
+    "firstSeen": 1789920235960,
+    "lastAlertedAt": 1789920235960,
+    "issueNumber": 1143
+  },
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1789920235960,
+    "lastAlertedAt": 1789920235960,
+    "issueNumber": 1144
+  },
+  "WAQI|291": {
+    "region": "Calexico-Ethel Street, Imperial, California, CA",
+    "tier": "watch",
+    "firstSeen": 1789920235960,
+    "lastAlertedAt": 1789920235960,
+    "issueNumber": 1145
+  },
+  "US-NC-Raleigh": {
+    "region": "Raleigh-Durham (Wake County and surrounding areas including Cary, Apex, Wake Forest, Knightdale), NC",
+    "tier": "watch",
+    "firstSeen": 1789920235960,
+    "lastAlertedAt": 1789920235960,
+    "issueNumber": 1146
+  },
+  "US-CA-Napa": {
+    "region": "Napa, Sonoma, and Solano Counties (North Bay / Wine Country), CA",
+    "tier": "watch",
+    "firstSeen": 1789920235960,
+    "lastAlertedAt": 1789920235960,
+    "issueNumber": 1147
   }
 }
