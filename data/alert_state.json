@@ -1,18 +1,4 @@
 {
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1102
-  },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1789764797492,
-    "lastAlertedAt": 1789764797492,
-    "issueNumber": 1103
-  },
   "WAQI|9160": {
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
@@ -20,32 +6,60 @@
     "lastAlertedAt": 1789937249665,
     "issueNumber": 1127
   },
-  "WAQI|9628": {
-    "region": "Kooker Park, Jacksonville, Duval, Florida, USA, FL",
+  "WAQI|-504940": {
+    "region": "Houston North Wayside, TX",
     "tier": "watch",
-    "firstSeen": 1789966402000,
-    "lastAlertedAt": 1789966402000,
-    "issueNumber": 1151
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1155
   },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "watch",
-    "firstSeen": 1789966402000,
-    "lastAlertedAt": 1789966402000,
-    "issueNumber": 1152
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
+  "WAQI|5437": {
+    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
     "tier": "alert",
-    "firstSeen": 1789966402000,
-    "lastAlertedAt": 1789966402000,
-    "issueNumber": 1153
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1156
   },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, TX",
+  "WAQI|7635": {
+    "region": "Shreveport Downtown Airport site, Louisiana, USA, LA",
+    "tier": "alert",
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1157
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, TX",
     "tier": "watch",
-    "firstSeen": 1789966402000,
-    "lastAlertedAt": 1789966402000,
-    "issueNumber": 1154
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1158
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "watch",
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1159
+  },
+  "US-CO-Denver": {
+    "region": "Front Range Urban Corridor (Denver metro), CO",
+    "tier": "watch",
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1160
+  },
+  "US-MN-Minneapolis-Saint Paul": {
+    "region": "Minneapolis-St. Paul metro, MN",
+    "tier": "watch",
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1161
+  },
+  "US-ID-Coeur d'Alene": {
+    "region": "Coeur d'Alene, ID",
+    "tier": "watch",
+    "firstSeen": 1789994742466,
+    "lastAlertedAt": 1789994742466,
+    "issueNumber": 1162
   }
 }
