@@ -20,60 +20,32 @@
     "lastAlertedAt": 1789937249665,
     "issueNumber": 1127
   },
-  "US|CA|Yosemite National Park": {
-    "region": "Yosemite National Park, CA",
+  "WAQI|9628": {
+    "region": "Kooker Park, Jacksonville, Duval, Florida, USA, FL",
+    "tier": "watch",
+    "firstSeen": 1789966402000,
+    "lastAlertedAt": 1789966402000,
+    "issueNumber": 1151
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "watch",
+    "firstSeen": 1789966402000,
+    "lastAlertedAt": 1789966402000,
+    "issueNumber": 1152
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
     "tier": "alert",
-    "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1137
+    "firstSeen": 1789966402000,
+    "lastAlertedAt": 1789966402000,
+    "issueNumber": 1153
   },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
-    "tier": "alert",
-    "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1138
-  },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, TX",
     "tier": "watch",
-    "firstSeen": 1789903263524,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1139
-  },
-  "US|CA|Calexico": {
-    "region": "Calexico, CA",
-    "tier": "watch",
-    "firstSeen": 1789920235960,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1143
-  },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "watch",
-    "firstSeen": 1789920235960,
-    "lastAlertedAt": 1789920235960,
-    "issueNumber": 1144
-  },
-  "US|LA|Baton Rouge Area": {
-    "region": "Baton Rouge Area, LA",
-    "tier": "watch",
-    "firstSeen": 1789937249665,
-    "lastAlertedAt": 1789937249665,
-    "issueNumber": 1148
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1789937249665,
-    "lastAlertedAt": 1789937249665,
-    "issueNumber": 1149
-  },
-  "WAQI|4223": {
-    "region": "Hope Airport, British Comlumbia, Canada, BC",
-    "tier": "watch",
-    "firstSeen": 1789937249665,
-    "lastAlertedAt": 1789937249665,
-    "issueNumber": 1150
+    "firstSeen": 1789966402000,
+    "lastAlertedAt": 1789966402000,
+    "issueNumber": 1154
   }
 }
