@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|AZ|Phoenix",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789834852445
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789834852445
-  },
-  {
-    "region_key": "WAQI|-1666030",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789834852445
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789843587526
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789843587526
-  },
-  {
     "region_key": "US|ID|Kamiah - Nez Perce Reservation",
     "value": 104,
     "unit": "AQI",
@@ -656,5 +621,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1789998702099
+  },
+  {
+    "region_key": "US|RI|Providence",
+    "value": 190,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790018051051
+  },
+  {
+    "region_key": "CA|IAJWU|Hinton",
+    "value": 11,
+    "unit": "AQHI",
+    "tier": "alert",
+    "captured_at": 1790018051051
+  },
+  {
+    "region_key": "WAQI|4227",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790018051051
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790018051051
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 202,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790018051051
+  },
+  {
+    "region_key": "WAQI|7635",
+    "value": 224,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790018051051
   }
 ]
