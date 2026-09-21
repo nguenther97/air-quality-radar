@@ -1,82 +1,5 @@
 [
   {
-    "region_key": "US|ID|Grangeville",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "US|TN|Memphis",
-    "value": 143,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "US|CA|Nipomo CDF",
-    "value": 139,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "US|CA|Nipomo Mesa2",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "US|MO|Saint Louis",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "US|IL|St. Louis (Metro-east)",
-    "value": 136,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "WAQI|8310",
-    "value": 136,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "WAQI|-556870",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 260,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789776346293
-  },
-  {
-    "region_key": "WAQI|5303",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789776346293
-  },
-  {
     "region_key": "US|MO|Alba",
     "value": 126,
     "unit": "AQI",
@@ -691,5 +614,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1789946697242
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789954142732
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1789954142732
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 182,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789954142732
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 177,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789954142732
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1789954142732
   }
 ]
