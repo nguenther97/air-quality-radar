@@ -3,63 +3,112 @@
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
     "firstSeen": 1789850306375,
-    "lastAlertedAt": 1789937249665,
+    "lastAlertedAt": 1790027859930,
     "issueNumber": 1127
-  },
-  "WAQI|-504940": {
-    "region": "Houston North Wayside, TX",
-    "tier": "watch",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1155
   },
   "WAQI|5437": {
     "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1789994742466,
     "lastAlertedAt": 1789994742466,
     "issueNumber": 1156
   },
-  "WAQI|7635": {
-    "region": "Shreveport Downtown Airport site, Louisiana, USA, LA",
-    "tier": "alert",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1157
-  },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, TX",
-    "tier": "watch",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1158
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
+    "lastAlertedAt": 1790027859930,
     "issueNumber": 1159
   },
-  "US-CO-Denver": {
-    "region": "Front Range Urban Corridor (Denver metro), CO",
+  "US|GA|Atlanta": {
+    "region": "Atlanta, GA",
     "tier": "watch",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1160
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1163
   },
-  "US-MN-Minneapolis-Saint Paul": {
-    "region": "Minneapolis-St. Paul metro, MN",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1161
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1164
   },
-  "US-ID-Coeur d'Alene": {
-    "region": "Coeur d'Alene, ID",
+  "US|MS|Hernando": {
+    "region": "Hernando, MS",
     "tier": "watch",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1162
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1165
+  },
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1166
+  },
+  "CA|IAJWU|Hinton": {
+    "region": "Hinton, CA",
+    "tier": "watch",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1167
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1168
+  },
+  "WAQI|10950": {
+    "region": "Cadereyta, Monterrey, Nuevo León, Mexico, US",
+    "tier": "alert",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1169
+  },
+  "WAQI|5856": {
+    "region": "Woodin Ave, Chelan, Washington, USA, US",
+    "tier": "alert",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1170
+  },
+  "WAQI|-524557": {
+    "region": "Rue De La De La Meduse, QC",
+    "tier": "alert",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1171
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "alert",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1172
+  },
+  "US-CA-San Francisco Bay Area": {
+    "region": "San Francisco Bay Area, CA",
+    "tier": "watch",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1173
+  },
+  "CA-SK-Regina": {
+    "region": "Regina, SK",
+    "tier": "watch",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1174
+  },
+  "US-MS-Jackson": {
+    "region": "Jackson, MS",
+    "tier": "watch",
+    "firstSeen": 1790027859930,
+    "lastAlertedAt": 1790027859930,
+    "issueNumber": 1175
   }
 }
