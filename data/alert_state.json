@@ -6,53 +6,39 @@
     "lastAlertedAt": 1790027859930,
     "issueNumber": 1127
   },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
+  "WAQI|-2463805": {
+    "region": "Big White, BC",
     "tier": "watch",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1176
+    "firstSeen": 1790076959264,
+    "lastAlertedAt": 1790076959264,
+    "issueNumber": 1183
   },
-  "US|CA|Westmorland": {
-    "region": "Westmorland, CA",
+  "WAQI|-1683877": {
+    "region": "71 Avenue NW, AB",
     "tier": "watch",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1177
+    "firstSeen": 1790076959264,
+    "lastAlertedAt": 1790076959264,
+    "issueNumber": 1184
   },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
-    "tier": "alert",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1178
-  },
-  "WAQI|13062": {
-    "region": "Redding - Health Department, Shasta, California, CA",
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
     "tier": "watch",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1179
+    "firstSeen": 1790076959264,
+    "lastAlertedAt": 1790076959264,
+    "issueNumber": 1185
   },
-  "WAQI|13068": {
-    "region": "Westmorland, Imperial, California, CA",
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1180
+    "firstSeen": 1790076959264,
+    "lastAlertedAt": 1790076959264,
+    "issueNumber": 1186
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "alert",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1181
-  },
-  "US-CA-Salton City": {
-    "region": "Salton City / Imperial Valley basin, CA",
+  "US-TX-Houston": {
+    "region": "Houston, TX",
     "tier": "watch",
-    "firstSeen": 1790052806567,
-    "lastAlertedAt": 1790052806567,
-    "issueNumber": 1182
+    "firstSeen": 1790076959264,
+    "lastAlertedAt": 1790076959264,
+    "issueNumber": 1187
   }
 }
