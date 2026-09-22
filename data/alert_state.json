@@ -6,41 +6,6 @@
     "lastAlertedAt": 1790027859930,
     "issueNumber": 1127
   },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "watch",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1188
-  },
-  "US|CA|Yosemite National Park": {
-    "region": "Yosemite National Park, CA",
-    "tier": "alert",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1189
-  },
-  "WAQI|-494020": {
-    "region": "Main Street, OR",
-    "tier": "alert",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1190
-  },
-  "WAQI|-398251": {
-    "region": "Gladys Valley Bldg, US",
-    "tier": "watch",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1191
-  },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
-    "tier": "alert",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1192
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
     "tier": "watch",
@@ -48,18 +13,60 @@
     "lastAlertedAt": 1790096185044,
     "issueNumber": 1193
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1194
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1196
   },
-  "WAQI|5860": {
-    "region": "Pocatello, Idaho, USA, ID",
+  "US|RI|Providence": {
+    "region": "Providence, RI",
     "tier": "alert",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1195
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1197
+  },
+  "CA|JCAAC|Castlegar": {
+    "region": "Castlegar, CA",
+    "tier": "alert",
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1198
+  },
+  "WAQI|4212": {
+    "region": "Castlegar Zinio Park, British Comlumbia, Canada, US",
+    "tier": "alert",
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1199
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "alert",
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1200
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1201
+  },
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1202
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790111818647,
+    "lastAlertedAt": 1790111818647,
+    "issueNumber": 1203
   }
 }
