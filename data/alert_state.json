@@ -6,109 +6,53 @@
     "lastAlertedAt": 1790027859930,
     "issueNumber": 1127
   },
-  "WAQI|5437": {
-    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
     "tier": "watch",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1789994742466,
-    "issueNumber": 1156
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1176
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
+  "US|CA|Westmorland": {
+    "region": "Westmorland, CA",
+    "tier": "watch",
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1177
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
     "tier": "alert",
-    "firstSeen": 1789994742466,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1159
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1178
   },
-  "US|GA|Atlanta": {
-    "region": "Atlanta, GA",
+  "WAQI|13062": {
+    "region": "Redding - Health Department, Shasta, California, CA",
     "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1163
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1179
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "WAQI|13068": {
+    "region": "Westmorland, Imperial, California, CA",
     "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1164
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1180
   },
-  "US|MS|Hernando": {
-    "region": "Hernando, MS",
-    "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1165
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1166
-  },
-  "CA|IAJWU|Hinton": {
-    "region": "Hinton, CA",
-    "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1167
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1168
-  },
-  "WAQI|10950": {
-    "region": "Cadereyta, Monterrey, Nuevo León, Mexico, US",
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
     "tier": "alert",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1169
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1181
   },
-  "WAQI|5856": {
-    "region": "Woodin Ave, Chelan, Washington, USA, US",
-    "tier": "alert",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1170
-  },
-  "WAQI|-524557": {
-    "region": "Rue De La De La Meduse, QC",
-    "tier": "alert",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1171
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "alert",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1172
-  },
-  "US-CA-San Francisco Bay Area": {
-    "region": "San Francisco Bay Area, CA",
+  "US-CA-Salton City": {
+    "region": "Salton City / Imperial Valley basin, CA",
     "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1173
-  },
-  "CA-SK-Regina": {
-    "region": "Regina, SK",
-    "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1174
-  },
-  "US-MS-Jackson": {
-    "region": "Jackson, MS",
-    "tier": "watch",
-    "firstSeen": 1790027859930,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1175
+    "firstSeen": 1790052806567,
+    "lastAlertedAt": 1790052806567,
+    "issueNumber": 1182
   }
 }
