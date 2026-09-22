@@ -6,39 +6,60 @@
     "lastAlertedAt": 1790027859930,
     "issueNumber": 1127
   },
-  "WAQI|-2463805": {
-    "region": "Big White, BC",
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1790076959264,
-    "lastAlertedAt": 1790076959264,
-    "issueNumber": 1183
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1188
   },
-  "WAQI|-1683877": {
-    "region": "71 Avenue NW, AB",
-    "tier": "watch",
-    "firstSeen": 1790076959264,
-    "lastAlertedAt": 1790076959264,
-    "issueNumber": 1184
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
+    "tier": "alert",
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1189
   },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "watch",
-    "firstSeen": 1790076959264,
-    "lastAlertedAt": 1790076959264,
-    "issueNumber": 1185
+  "WAQI|-494020": {
+    "region": "Main Street, OR",
+    "tier": "alert",
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1190
   },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "WAQI|-398251": {
+    "region": "Gladys Valley Bldg, US",
     "tier": "watch",
-    "firstSeen": 1790076959264,
-    "lastAlertedAt": 1790076959264,
-    "issueNumber": 1186
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1191
   },
-  "US-TX-Houston": {
-    "region": "Houston, TX",
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
+    "tier": "alert",
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1192
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
     "tier": "watch",
-    "firstSeen": 1790076959264,
-    "lastAlertedAt": 1790076959264,
-    "issueNumber": 1187
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1193
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1194
+  },
+  "WAQI|5860": {
+    "region": "Pocatello, Idaho, USA, ID",
+    "tier": "alert",
+    "firstSeen": 1790096185044,
+    "lastAlertedAt": 1790096185044,
+    "issueNumber": 1195
   }
 }
