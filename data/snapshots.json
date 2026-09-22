@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|CA|Yosemite National Park",
-    "value": 177,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789930771017
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789930771017
-  },
-  {
-    "region_key": "WAQI|10950",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789930771017
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789930771017
-  },
-  {
-    "region_key": "WAQI|230",
-    "value": 171,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789930771017
-  },
-  {
     "region_key": "US|CA|Calexico",
     "value": 101,
     "unit": "AQI",
@@ -544,5 +509,61 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790097115281
+  },
+  {
+    "region_key": "US|CA|Yosemite National Park",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "CA|JCAAC|Castlegar",
+    "value": 11,
+    "unit": "AQHI",
+    "tier": "alert",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "WAQI|306",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "WAQI|193",
+    "value": 109,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "WAQI|-562864",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "WAQI|4212",
+    "value": 179,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790108773536
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790108773536
   }
 ]
