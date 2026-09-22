@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "WAQI|8530",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789887043593
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789887043593
-  },
-  {
-    "region_key": "WAQI|-470440",
-    "value": 171,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789887043593
-  },
-  {
-    "region_key": "WAQI|4249",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789887043593
-  },
-  {
-    "region_key": "WAQI|230",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789887043593
-  },
-  {
-    "region_key": "US|CA|Yosemite National Park",
-    "value": 107,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789906296106
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 127,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789906296106
-  },
-  {
-    "region_key": "WAQI|230",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1789906296106
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 161,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789906296106
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1789906296106
-  },
-  {
     "region_key": "US|CA|Calexico",
     "value": 106,
     "unit": "AQI",
@@ -593,5 +523,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790059406250
+  },
+  {
+    "region_key": "US|CA|Yosemite National Park",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790080261045
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790080261045
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790080261045
+  },
+  {
+    "region_key": "WAQI|-2463805",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790080261045
   }
 ]
