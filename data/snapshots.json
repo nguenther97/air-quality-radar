@@ -516,5 +516,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790149106154
+  },
+  {
+    "region_key": "WAQI|-524650",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790170373468
+  },
+  {
+    "region_key": "WAQI|-524551",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790170373468
+  },
+  {
+    "region_key": "WAQI|9279",
+    "value": 163,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790170373468
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790170373468
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790170373468
+  },
+  {
+    "region_key": "WAQI|-504940",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790170373468
   }
 ]
