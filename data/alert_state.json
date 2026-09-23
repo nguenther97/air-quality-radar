@@ -1,53 +1,4 @@
 {
-  "WAQI|9160": {
-    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
-    "tier": "alert",
-    "firstSeen": 1789850306375,
-    "lastAlertedAt": 1790027859930,
-    "issueNumber": 1127
-  },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1790096185044,
-    "lastAlertedAt": 1790096185044,
-    "issueNumber": 1193
-  },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1196
-  },
-  "US|RI|Providence": {
-    "region": "Providence, RI",
-    "tier": "alert",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1197
-  },
-  "CA|JCAAC|Castlegar": {
-    "region": "Castlegar, CA",
-    "tier": "alert",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1198
-  },
-  "WAQI|4212": {
-    "region": "Castlegar Zinio Park, British Comlumbia, Canada, US",
-    "tier": "alert",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1199
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "alert",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1200
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -68,5 +19,68 @@
     "firstSeen": 1790111818647,
     "lastAlertedAt": 1790111818647,
     "issueNumber": 1203
+  },
+  "US|CA|Banning": {
+    "region": "Banning, CA",
+    "tier": "watch",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1204
+  },
+  "WAQI|-2463805": {
+    "region": "Big White, BC",
+    "tier": "watch",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1205
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1206
+  },
+  "US-CA-Santa Clarita Valley": {
+    "region": "Santa Clarita Valley, CA",
+    "tier": "alert",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1207
+  },
+  "US-CA-San Gabriel Valley": {
+    "region": "San Gabriel Valley, CA",
+    "tier": "alert",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1208
+  },
+  "US-CA-San Fernando Valley": {
+    "region": "San Fernando Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1209
+  },
+  "US-CA-Pasadena": {
+    "region": "Pasadena, CA",
+    "tier": "watch",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1210
+  },
+  "US-CA-Redlands": {
+    "region": "Redlands, CA",
+    "tier": "watch",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1211
+  },
+  "US-CA-Crestline": {
+    "region": "Crestline, CA",
+    "tier": "watch",
+    "firstSeen": 1790138603241,
+    "lastAlertedAt": 1790138603241,
+    "issueNumber": 1212
   }
 }
