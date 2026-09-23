@@ -13,40 +13,12 @@
     "lastAlertedAt": 1790111818647,
     "issueNumber": 1202
   },
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1203
-  },
   "WAQI|9160": {
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
     "firstSeen": 1790163216909,
     "lastAlertedAt": 1790163216909,
     "issueNumber": 1213
-  },
-  "WAQI|-494020": {
-    "region": "Main Street, OR",
-    "tier": "alert",
-    "firstSeen": 1790163216909,
-    "lastAlertedAt": 1790163216909,
-    "issueNumber": 1216
-  },
-  "US|NV|Elko": {
-    "region": "Elko, NV",
-    "tier": "watch",
-    "firstSeen": 1790182582424,
-    "lastAlertedAt": 1790182582424,
-    "issueNumber": 1217
-  },
-  "WAQI|8833": {
-    "region": "Kitimat Haul Road, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1790182582424,
-    "lastAlertedAt": 1790182582424,
-    "issueNumber": 1218
   },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , US",
@@ -55,18 +27,60 @@
     "lastAlertedAt": 1790182582424,
     "issueNumber": 1219
   },
-  "US-NY-New York City": {
-    "region": "New York City, NY",
-    "tier": "alert",
-    "firstSeen": 1790182582424,
-    "lastAlertedAt": 1790182582424,
-    "issueNumber": 1220
+  "US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1222
   },
-  "US-PA-Philadelphia": {
-    "region": "Philadelphia, PA",
-    "tier": "alert",
-    "firstSeen": 1790182582424,
-    "lastAlertedAt": 1790182582424,
-    "issueNumber": 1221
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1223
+  },
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1224
+  },
+  "US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1225
+  },
+  "US|ID|Pocatello": {
+    "region": "Pocatello, ID",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1226
+  },
+  "US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1227
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1228
+  },
+  "FORECAST|US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790198942899,
+    "lastAlertedAt": 1790198942899,
+    "issueNumber": 1229
   }
 }
