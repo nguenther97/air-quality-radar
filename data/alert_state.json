@@ -27,25 +27,46 @@
     "lastAlertedAt": 1790163216909,
     "issueNumber": 1213
   },
-  "WAQI|-504940": {
-    "region": "Houston North Wayside, TX",
-    "tier": "watch",
-    "firstSeen": 1790163216909,
-    "lastAlertedAt": 1790163216909,
-    "issueNumber": 1214
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, US",
-    "tier": "watch",
-    "firstSeen": 1790163216909,
-    "lastAlertedAt": 1790163216909,
-    "issueNumber": 1215
-  },
   "WAQI|-494020": {
     "region": "Main Street, OR",
     "tier": "alert",
     "firstSeen": 1790163216909,
     "lastAlertedAt": 1790163216909,
     "issueNumber": 1216
+  },
+  "US|NV|Elko": {
+    "region": "Elko, NV",
+    "tier": "watch",
+    "firstSeen": 1790182582424,
+    "lastAlertedAt": 1790182582424,
+    "issueNumber": 1217
+  },
+  "WAQI|8833": {
+    "region": "Kitimat Haul Road, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1790182582424,
+    "lastAlertedAt": 1790182582424,
+    "issueNumber": 1218
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
+    "tier": "alert",
+    "firstSeen": 1790182582424,
+    "lastAlertedAt": 1790182582424,
+    "issueNumber": 1219
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "alert",
+    "firstSeen": 1790182582424,
+    "lastAlertedAt": 1790182582424,
+    "issueNumber": 1220
+  },
+  "US-PA-Philadelphia": {
+    "region": "Philadelphia, PA",
+    "tier": "alert",
+    "firstSeen": 1790182582424,
+    "lastAlertedAt": 1790182582424,
+    "issueNumber": 1221
   }
 }
