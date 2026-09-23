@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|RI|Providence",
-    "value": 190,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790018051051
-  },
-  {
-    "region_key": "CA|IAJWU|Hinton",
-    "value": 11,
-    "unit": "AQHI",
-    "tier": "alert",
-    "captured_at": 1790018051051
-  },
-  {
-    "region_key": "WAQI|4227",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790018051051
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790018051051
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 202,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790018051051
-  },
-  {
-    "region_key": "WAQI|7635",
-    "value": 224,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790018051051
-  },
-  {
     "region_key": "US|TX|Dallas-Fort Worth",
     "value": 136,
     "unit": "AQI",
@@ -551,5 +509,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790186171466
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790198617500
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 126,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790198617500
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790198617500
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790198617500
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 152,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790198617500
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790198617500
   }
 ]
