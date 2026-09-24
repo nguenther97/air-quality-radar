@@ -1,33 +1,5 @@
 [
   {
-    "region_key": "WAQI|-470440",
-    "value": 179,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790059406250
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 181,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790059406250
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790059406250
-  },
-  {
-    "region_key": "WAQI|-1882396",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790059406250
-  },
-  {
     "region_key": "US|CA|Yosemite National Park",
     "value": 128,
     "unit": "AQI",
@@ -579,5 +551,33 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790223800296
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790242044023
+  },
+  {
+    "region_key": "WAQI|-1044247",
+    "value": 178,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790242044023
+  },
+  {
+    "region_key": "WAQI|-504940",
+    "value": 172,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790242044023
+  },
+  {
+    "region_key": "WAQI|-503557",
+    "value": 484,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790242044023
   }
 ]
