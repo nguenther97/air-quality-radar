@@ -20,55 +20,6 @@
     "lastAlertedAt": 1790163216909,
     "issueNumber": 1213
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "alert",
-    "firstSeen": 1790182582424,
-    "lastAlertedAt": 1790182582424,
-    "issueNumber": 1219
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1222
-  },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1223
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1224
-  },
-  "US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1225
-  },
-  "US|ID|Pocatello": {
-    "region": "Pocatello, ID",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1226
-  },
-  "US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1227
-  },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
@@ -82,5 +33,89 @@
     "firstSeen": 1790198942899,
     "lastAlertedAt": 1790198942899,
     "issueNumber": 1229
+  },
+  "US|CA|Stockton": {
+    "region": "Stockton, CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1230
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1231
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
+    "tier": "alert",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1232
+  },
+  "WAQI|-503557": {
+    "region": "Bend NE 8th & Emerson Sensors, OR",
+    "tier": "alert",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1233
+  },
+  "WAQI|284": {
+    "region": "Manteca AMS, San Joaquin, California, CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1234
+  },
+  "WAQI|9275": {
+    "region": "Weyburn, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1235
+  },
+  "WAQI|8833": {
+    "region": "Kitimat Haul Road, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1236
+  },
+  "WAQI|-1435885": {
+    "region": "Rue Morin, QC",
+    "tier": "alert",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1237
+  },
+  "FORECAST|US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1238
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1239
+  },
+  "FORECAST|US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1240
+  },
+  "US-CA-Palm Springs": {
+    "region": "Coachella Valley (Palm Springs), CA",
+    "tier": "watch",
+    "firstSeen": 1790225282455,
+    "lastAlertedAt": 1790225282455,
+    "issueNumber": 1241
   }
 }
