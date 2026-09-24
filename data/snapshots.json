@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|AZ|Phoenix",
-    "value": 121,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790097115281
-  },
-  {
-    "region_key": "US|CA|Yosemite National Park",
-    "value": 168,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790097115281
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 283,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790097115281
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790097115281
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790097115281
-  },
-  {
-    "region_key": "WAQI|-398251",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790097115281
-  },
-  {
-    "region_key": "WAQI|230",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790097115281
-  },
-  {
     "region_key": "US|CA|Yosemite National Park",
     "value": 125,
     "unit": "AQI",
@@ -621,5 +572,124 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790259676522
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "US|CA|Imperial Valley",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "US|CA|Modesto",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "US|CA|Westmorland",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "CA|JBLVS|Prince George",
+    "value": 7,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|9605",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|7443",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|-494671",
+    "value": 160,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|4204",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 884,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|4613",
+    "value": 106,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|275",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|13068",
+    "value": 180,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|230",
+    "value": 107,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790275021924
+  },
+  {
+    "region_key": "WAQI|310",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790275021924
   }
 ]
