@@ -17,7 +17,7 @@
     "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
     "tier": "alert",
     "firstSeen": 1790163216909,
-    "lastAlertedAt": 1790163216909,
+    "lastAlertedAt": 1790250216458,
     "issueNumber": 1213
   },
   "FORECAST|US|CA|C San Bernardino M": {
@@ -34,61 +34,12 @@
     "lastAlertedAt": 1790198942899,
     "issueNumber": 1229
   },
-  "US|CA|Stockton": {
-    "region": "Stockton, CA",
-    "tier": "watch",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1230
-  },
   "WAQI|9279": {
     "region": "Wauchope, Saskatchewan, Canada, CA",
     "tier": "alert",
     "firstSeen": 1790225282455,
     "lastAlertedAt": 1790225282455,
     "issueNumber": 1231
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "alert",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1232
-  },
-  "WAQI|-503557": {
-    "region": "Bend NE 8th & Emerson Sensors, OR",
-    "tier": "alert",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1233
-  },
-  "WAQI|284": {
-    "region": "Manteca AMS, San Joaquin, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1234
-  },
-  "WAQI|9275": {
-    "region": "Weyburn, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1235
-  },
-  "WAQI|8833": {
-    "region": "Kitimat Haul Road, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1236
-  },
-  "WAQI|-1435885": {
-    "region": "Rue Morin, QC",
-    "tier": "alert",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1237
   },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
@@ -111,11 +62,25 @@
     "lastAlertedAt": 1790225282455,
     "issueNumber": 1240
   },
-  "US-CA-Palm Springs": {
-    "region": "Coachella Valley (Palm Springs), CA",
+  "WAQI|-503548": {
+    "region": "Chiloquin Duke Drive, OR",
     "tier": "watch",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1241
+    "firstSeen": 1790250216458,
+    "lastAlertedAt": 1790250216458,
+    "issueNumber": 1242
+  },
+  "WAQI|-494020": {
+    "region": "Main Street, OR",
+    "tier": "alert",
+    "firstSeen": 1790250216458,
+    "lastAlertedAt": 1790250216458,
+    "issueNumber": 1243
+  },
+  "US-OR-Portland": {
+    "region": "Portland Metro Area, OR",
+    "tier": "watch",
+    "firstSeen": 1790250216458,
+    "lastAlertedAt": 1790250216458,
+    "issueNumber": 1244
   }
 }
