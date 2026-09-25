@@ -41,30 +41,9 @@
     "lastAlertedAt": 1790312135875,
     "issueNumber": 1279
   },
-  "WAQI|-494020": {
-    "region": "Main Street, OR",
-    "tier": "alert",
-    "firstSeen": 1790336944367,
-    "lastAlertedAt": 1790336944367,
-    "issueNumber": 1281
-  },
-  "WAQI|-566230": {
-    "region": "Av Plante, QC",
-    "tier": "watch",
-    "firstSeen": 1790336944367,
-    "lastAlertedAt": 1790336944367,
-    "issueNumber": 1282
-  },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
-    "tier": "watch",
-    "firstSeen": 1790336944367,
-    "lastAlertedAt": 1790336944367,
-    "issueNumber": 1283
-  },
   "WAQI|9279": {
     "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1790336944367,
     "lastAlertedAt": 1790336944367,
     "issueNumber": 1284
@@ -76,11 +55,18 @@
     "lastAlertedAt": 1790336944367,
     "issueNumber": 1285
   },
-  "US-WA-Vancouver": {
-    "region": "Vancouver / Southwest Washington, WA",
-    "tier": "alert",
-    "firstSeen": 1790336944367,
-    "lastAlertedAt": 1790336944367,
-    "issueNumber": 1286
+  "WAQI|4212": {
+    "region": "Castlegar Zinio Park, British Comlumbia, Canada, US",
+    "tier": "watch",
+    "firstSeen": 1790356169186,
+    "lastAlertedAt": 1790356169186,
+    "issueNumber": 1287
+  },
+  "US-TX-Houston": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1790356169186,
+    "lastAlertedAt": 1790356169186,
+    "issueNumber": 1288
   }
 }
