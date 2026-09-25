@@ -27,62 +27,6 @@
     "lastAlertedAt": 1790285380345,
     "issueNumber": 1239
   },
-  "FORECAST|US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790225282455,
-    "issueNumber": 1240
-  },
-  "US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1271
-  },
-  "US|NV|Elko": {
-    "region": "Elko, NV",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1272
-  },
-  "US|CA|Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1273
-  },
-  "WAQI|275": {
-    "region": "Fresno - Drummond Street, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1274
-  },
-  "WAQI|-524617": {
-    "region": "Rue 21e, QC",
-    "tier": "alert",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1275
-  },
-  "WAQI|177": {
-    "region": "Baytown, Houston, Texas, TX",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1276
-  },
-  "WAQI|5472": {
-    "region": "Regina, Saskatchewan, Canada, SK",
-    "tier": "alert",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1277
-  },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
@@ -97,11 +41,46 @@
     "lastAlertedAt": 1790312135875,
     "issueNumber": 1279
   },
-  "US-NY-New York City": {
-    "region": "New York City, NY",
+  "WAQI|-494020": {
+    "region": "Main Street, OR",
+    "tier": "alert",
+    "firstSeen": 1790336944367,
+    "lastAlertedAt": 1790336944367,
+    "issueNumber": 1281
+  },
+  "WAQI|-566230": {
+    "region": "Av Plante, QC",
     "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1280
+    "firstSeen": 1790336944367,
+    "lastAlertedAt": 1790336944367,
+    "issueNumber": 1282
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "watch",
+    "firstSeen": 1790336944367,
+    "lastAlertedAt": 1790336944367,
+    "issueNumber": 1283
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1790336944367,
+    "lastAlertedAt": 1790336944367,
+    "issueNumber": 1284
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1790336944367,
+    "lastAlertedAt": 1790336944367,
+    "issueNumber": 1285
+  },
+  "US-WA-Vancouver": {
+    "region": "Vancouver / Southwest Washington, WA",
+    "tier": "alert",
+    "firstSeen": 1790336944367,
+    "lastAlertedAt": 1790336944367,
+    "issueNumber": 1286
   }
 }
