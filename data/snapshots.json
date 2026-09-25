@@ -1,19 +1,5 @@
 [
   {
-    "region_key": "WAQI|230",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790149106154
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790149106154
-  },
-  {
     "region_key": "WAQI|-524650",
     "value": 150,
     "unit": "AQI",
@@ -733,5 +719,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790313357681
+  },
+  {
+    "region_key": "US|GA|Rome",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790332093916
+  },
+  {
+    "region_key": "WAQI|3911",
+    "value": 127,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790332093916
   }
 ]
