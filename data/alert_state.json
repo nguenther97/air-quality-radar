@@ -13,13 +13,6 @@
     "lastAlertedAt": 1790111818647,
     "issueNumber": 1202
   },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1228
-  },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "watch",
@@ -41,130 +34,74 @@
     "lastAlertedAt": 1790225282455,
     "issueNumber": 1240
   },
-  "US|CA|Bakersfield": {
+  "US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1271
+  },
+  "US|NV|Elko": {
+    "region": "Elko, NV",
+    "tier": "watch",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1272
+  },
+  "US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1273
+  },
+  "WAQI|275": {
+    "region": "Fresno - Drummond Street, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1274
+  },
+  "WAQI|-524617": {
+    "region": "Rue 21e, QC",
+    "tier": "alert",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1275
+  },
+  "WAQI|177": {
+    "region": "Baytown, Houston, Texas, TX",
+    "tier": "watch",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1276
+  },
+  "WAQI|5472": {
+    "region": "Regina, Saskatchewan, Canada, SK",
+    "tier": "alert",
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1277
+  },
+  "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
-    "firstSeen": 1790269752062,
-    "lastAlertedAt": 1790269752062,
-    "issueNumber": 1245
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1278
   },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1790269752062,
-    "lastAlertedAt": 1790269752062,
-    "issueNumber": 1249
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790269752062,
-    "lastAlertedAt": 1790269752062,
-    "issueNumber": 1250
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1790269752062,
-    "lastAlertedAt": 1790269752062,
-    "issueNumber": 1253
-  },
-  "US|CA|Calexico": {
-    "region": "Calexico, CA",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1257
-  },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1258
-  },
-  "US|CA|El Centro": {
-    "region": "El Centro, CA",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1259
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1260
-  },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1261
-  },
-  "US|CA|Visalia": {
+  "FORECAST|US|CA|Visalia": {
     "region": "Visalia, CA",
     "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1262
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1279
   },
-  "US|CA|Westmorland": {
-    "region": "Westmorland, CA",
+  "US-NY-New York City": {
+    "region": "New York City, NY",
     "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1263
-  },
-  "WAQI|13068": {
-    "region": "Westmorland, Imperial, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1264
-  },
-  "WAQI|7443": {
-    "region": "Hannover, North Dakota, USA, US",
-    "tier": "alert",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1265
-  },
-  "WAQI|291": {
-    "region": "Calexico-Ethel Street, Imperial, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1266
-  },
-  "WAQI|4206": {
-    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, BC",
-    "tier": "alert",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1267
-  },
-  "CA-SK-La Ronge": {
-    "region": "La Ronge, SK",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1268
-  },
-  "CA-BC-Vancouver": {
-    "region": "Metro Vancouver, BC",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1269
-  },
-  "US-MN-Minneapolis": {
-    "region": "Minneapolis-Saint Paul, MN",
-    "tier": "watch",
-    "firstSeen": 1790285380345,
-    "lastAlertedAt": 1790285380345,
-    "issueNumber": 1270
+    "firstSeen": 1790312135875,
+    "lastAlertedAt": 1790312135875,
+    "issueNumber": 1280
   }
 }
