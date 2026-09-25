@@ -1,30 +1,9 @@
 {
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1201
-  },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790111818647,
-    "lastAlertedAt": 1790111818647,
-    "issueNumber": 1202
-  },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790198942899,
-    "lastAlertedAt": 1790198942899,
-    "issueNumber": 1229
-  },
   "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
     "tier": "alert",
     "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790285380345,
+    "lastAlertedAt": 1790372016275,
     "issueNumber": 1239
   },
   "FORECAST|US|CA|Bakersfield": {
@@ -41,13 +20,6 @@
     "lastAlertedAt": 1790312135875,
     "issueNumber": 1279
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1790336944367,
-    "lastAlertedAt": 1790336944367,
-    "issueNumber": 1284
-  },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
@@ -55,18 +27,81 @@
     "lastAlertedAt": 1790336944367,
     "issueNumber": 1285
   },
-  "WAQI|4212": {
-    "region": "Castlegar Zinio Park, British Comlumbia, Canada, US",
-    "tier": "watch",
-    "firstSeen": 1790356169186,
-    "lastAlertedAt": 1790356169186,
-    "issueNumber": 1287
+  "US|ID|Boise": {
+    "region": "Boise, ID",
+    "tier": "alert",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1289
   },
-  "US-TX-Houston": {
+  "US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1290
+  },
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "alert",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1291
+  },
+  "US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1292
+  },
+  "US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1293
+  },
+  "US|TX|Houston-Galveston-Brazoria": {
     "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1790356169186,
-    "lastAlertedAt": 1790356169186,
-    "issueNumber": 1288
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1294
+  },
+  "US|WA|Kennewick": {
+    "region": "Kennewick, WA",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1295
+  },
+  "US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1296
+  },
+  "WAQI|5471": {
+    "region": "Swift Current, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1297
+  },
+  "WAQI|113": {
+    "region": "Metaline, Kennewick, Washington, USA, WA",
+    "tier": "alert",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1298
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "watch",
+    "firstSeen": 1790372016275,
+    "lastAlertedAt": 1790372016275,
+    "issueNumber": 1299
   }
 }
