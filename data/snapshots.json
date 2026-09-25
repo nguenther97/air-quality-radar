@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "US|OK|Miami",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790186171466
-  },
-  {
-    "region_key": "WAQI|10714",
-    "value": 123,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790186171466
-  },
-  {
-    "region_key": "WAQI|-494671",
-    "value": 170,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790186171466
-  },
-  {
-    "region_key": "WAQI|-494020",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790186171466
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790186171466
-  },
-  {
     "region_key": "US|TX|Dallas-Fort Worth",
     "value": 126,
     "unit": "AQI",
@@ -705,5 +670,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790350081614
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790364477129
+  },
+  {
+    "region_key": "WAQI|4212",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790364477129
   }
 ]
