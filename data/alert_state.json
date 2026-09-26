@@ -1,18 +1,4 @@
 {
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1307
-  },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1313
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -20,18 +6,67 @@
     "lastAlertedAt": 1790398576919,
     "issueNumber": 1315
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1790421779226,
-    "lastAlertedAt": 1790421779226,
-    "issueNumber": 1318
-  },
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
     "tier": "watch",
     "firstSeen": 1790421779226,
     "lastAlertedAt": 1790421779226,
     "issueNumber": 1319
+  },
+  "WAQI|-505072": {
+    "region": "San Antonio Red Hill Lane, TX",
+    "tier": "watch",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1320
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
+    "tier": "watch",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1321
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+    "tier": "watch",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1322
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, TX",
+    "tier": "alert",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1323
+  },
+  "US-NY-New York City": {
+    "region": "New York City Metro, NY",
+    "tier": "alert",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1324
+  },
+  "US-IL-Chicago": {
+    "region": "Chicago Metro / Great Lakes, IL",
+    "tier": "alert",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1325
+  },
+  "US-DC-Washington": {
+    "region": "Washington, DC",
+    "tier": "alert",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1326
+  },
+  "US-NC-Raleigh-Durham": {
+    "region": "Raleigh-Durham-Wake County (Research Triangle), NC",
+    "tier": "watch",
+    "firstSeen": 1790439744511,
+    "lastAlertedAt": 1790439744511,
+    "issueNumber": 1327
   }
 }
