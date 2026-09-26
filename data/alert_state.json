@@ -6,47 +6,12 @@
     "lastAlertedAt": 1790372016275,
     "issueNumber": 1239
   },
-  "FORECAST|US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1278
-  },
-  "FORECAST|US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "watch",
-    "firstSeen": 1790312135875,
-    "lastAlertedAt": 1790312135875,
-    "issueNumber": 1279
-  },
   "FORECAST|US|CA|C San Bernardino M": {
     "region": "C San Bernardino M, CA",
     "tier": "watch",
     "firstSeen": 1790336944367,
     "lastAlertedAt": 1790336944367,
     "issueNumber": 1285
-  },
-  "US|ID|Boise": {
-    "region": "Boise, ID",
-    "tier": "alert",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1289
-  },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1290
-  },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "alert",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1291
   },
   "US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
@@ -55,53 +20,130 @@
     "lastAlertedAt": 1790372016275,
     "issueNumber": 1292
   },
-  "US|CA|E San Gabriel Vly": {
+  "US|CA|Banning": {
+    "region": "Banning, CA",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1300
+  },
+  "US|FL|Hamilton County": {
+    "region": "Hamilton County, FL",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1301
+  },
+  "US|ID|Pinehurst": {
+    "region": "Pinehurst, ID",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1302
+  },
+  "US|ID|Pocatello": {
+    "region": "Pocatello, ID",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1303
+  },
+  "US|GA|Rome": {
+    "region": "Rome, GA",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1304
+  },
+  "US|WA|Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1305
+  },
+  "WAQI|5323": {
+    "region": "Bay City, Michigan, USA, MI",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1306
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1307
+  },
+  "WAQI|146": {
+    "region": "Augusta Ave, Spokane, Washington, USA, WA",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1308
+  },
+  "WAQI|7623": {
+    "region": "Pine, Idaho, USA, ID",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1309
+  },
+  "WAQI|-494020": {
+    "region": "Main Street, OR",
+    "tier": "alert",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1310
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1311
+  },
+  "WAQI|-515155": {
+    "region": "Jackson-Mahon 03, TX",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1312
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1313
+  },
+  "WAQI|5860": {
+    "region": "Pocatello, Idaho, USA, ID",
+    "tier": "alert",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1314
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1315
+  },
+  "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1293
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1316
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1294
-  },
-  "US|WA|Kennewick": {
-    "region": "Kennewick, WA",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1295
-  },
-  "US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1296
-  },
-  "WAQI|5471": {
-    "region": "Swift Current, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1297
-  },
-  "WAQI|113": {
-    "region": "Metaline, Kennewick, Washington, USA, WA",
+  "US-CA-Redlands": {
+    "region": "Redlands, CA",
     "tier": "alert",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1298
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1299
+    "firstSeen": 1790398576919,
+    "lastAlertedAt": 1790398576919,
+    "issueNumber": 1317
   }
 }
