@@ -4,111 +4,6 @@
     "value": 129,
     "unit": "AQI",
     "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|Calexico",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|TX|Dallas-Fort Worth",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|El Centro",
-    "value": 132,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|Hanford",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|Imperial Valley",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|Visalia",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|Westmorland",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "WAQI|239",
-    "value": 109,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "WAQI|7443",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "WAQI|4206",
-    "value": 543,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 147,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "WAQI|281",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "WAQI|291",
-    "value": 119,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790286298583
-  },
-  {
-    "region_key": "US|CA|Bakersfield",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
     "captured_at": 1790295873920
   },
   {
@@ -593,5 +488,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790450357771
+  },
+  {
+    "region_key": "US|CA|Central LA CO",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790460508021
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790460508021
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790460508021
+  },
+  {
+    "region_key": "US|SD|Rapid City",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790460508021
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 128,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790460508021
+  },
+  {
+    "region_key": "WAQI|9160",
+    "value": 495,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790460508021
+  },
+  {
+    "region_key": "WAQI|5437",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790460508021
   }
 ]
