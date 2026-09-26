@@ -13,60 +13,53 @@
     "lastAlertedAt": 1790421779226,
     "issueNumber": 1319
   },
-  "WAQI|-505072": {
-    "region": "San Antonio Red Hill Lane, TX",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1320
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1328
   },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1321
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1329
   },
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, CA",
+  "US|SD|Rapid City": {
+    "region": "Rapid City, SD",
     "tier": "watch",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1322
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1330
   },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, TX",
-    "tier": "alert",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1323
-  },
-  "US-NY-New York City": {
-    "region": "New York City Metro, NY",
-    "tier": "alert",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1324
-  },
-  "US-IL-Chicago": {
-    "region": "Chicago Metro / Great Lakes, IL",
-    "tier": "alert",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1325
-  },
-  "US-DC-Washington": {
-    "region": "Washington, DC",
-    "tier": "alert",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1326
-  },
-  "US-NC-Raleigh-Durham": {
-    "region": "Raleigh-Durham-Wake County (Research Triangle), NC",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
     "tier": "watch",
-    "firstSeen": 1790439744511,
-    "lastAlertedAt": 1790439744511,
-    "issueNumber": 1327
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1331
+  },
+  "WAQI|7488": {
+    "region": "Credit Union, South Dakota, USA, SD",
+    "tier": "watch",
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1332
+  },
+  "WAQI|9160": {
+    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
+    "tier": "alert",
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1333
+  },
+  "WAQI|5437": {
+    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
+    "tier": "alert",
+    "firstSeen": 1790456914234,
+    "lastAlertedAt": 1790456914234,
+    "issueNumber": 1334
   }
 }
