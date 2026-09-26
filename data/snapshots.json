@@ -1,96 +1,5 @@
 [
   {
-    "region_key": "US|CA|Bakersfield",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "US|CA|C San Bernardino",
-    "value": 150,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "US|TX|Dallas-Fort Worth",
-    "value": 140,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "US|CA|E San Gabriel Vly",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "US|CA|Metro Riverside CO",
-    "value": 172,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "US|CA|Oakland",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "US|CA|Saddleback Vly",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "WAQI|-570061",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "WAQI|3897",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 884,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "WAQI|-570064",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
-    "region_key": "WAQI|252",
-    "value": 110,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790207664904
-  },
-  {
     "region_key": "WAQI|-503557",
     "value": 348,
     "unit": "AQI",
@@ -733,5 +642,96 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790376158614
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|TX|Dallas-Fort Worth",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|FL|Hamilton County",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|WA|Kennewick",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 159,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "WAQI|252",
+    "value": 103,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "WAQI|3",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "WAQI|-524551",
+    "value": 118,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790385834125
+  },
+  {
+    "region_key": "WAQI|113",
+    "value": 407,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790385834125
   }
 ]
