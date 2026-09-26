@@ -1,115 +1,10 @@
 {
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "alert",
-    "firstSeen": 1790225282455,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1239
-  },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1790336944367,
-    "lastAlertedAt": 1790336944367,
-    "issueNumber": 1285
-  },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790372016275,
-    "lastAlertedAt": 1790372016275,
-    "issueNumber": 1292
-  },
-  "US|CA|Banning": {
-    "region": "Banning, CA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1300
-  },
-  "US|FL|Hamilton County": {
-    "region": "Hamilton County, FL",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1301
-  },
-  "US|ID|Pinehurst": {
-    "region": "Pinehurst, ID",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1302
-  },
-  "US|ID|Pocatello": {
-    "region": "Pocatello, ID",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1303
-  },
-  "US|GA|Rome": {
-    "region": "Rome, GA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1304
-  },
-  "US|WA|Spokane": {
-    "region": "Spokane, WA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1305
-  },
-  "WAQI|5323": {
-    "region": "Bay City, Michigan, USA, MI",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1306
-  },
   "WAQI|-470440": {
     "region": "Clínica de Nutrición, TX",
     "tier": "watch",
     "firstSeen": 1790398576919,
     "lastAlertedAt": 1790398576919,
     "issueNumber": 1307
-  },
-  "WAQI|146": {
-    "region": "Augusta Ave, Spokane, Washington, USA, WA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1308
-  },
-  "WAQI|7623": {
-    "region": "Pine, Idaho, USA, ID",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1309
-  },
-  "WAQI|-494020": {
-    "region": "Main Street, OR",
-    "tier": "alert",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1310
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1311
-  },
-  "WAQI|-515155": {
-    "region": "Jackson-Mahon 03, TX",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1312
   },
   "WAQI|3911": {
     "region": "Rome, Georgia, USA, GA",
@@ -118,13 +13,6 @@
     "lastAlertedAt": 1790398576919,
     "issueNumber": 1313
   },
-  "WAQI|5860": {
-    "region": "Pocatello, Idaho, USA, ID",
-    "tier": "alert",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1314
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -132,18 +20,18 @@
     "lastAlertedAt": 1790398576919,
     "issueNumber": 1315
   },
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1316
-  },
-  "US-CA-Redlands": {
-    "region": "Redlands, CA",
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1317
+    "firstSeen": 1790421779226,
+    "lastAlertedAt": 1790421779226,
+    "issueNumber": 1318
+  },
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790421779226,
+    "lastAlertedAt": 1790421779226,
+    "issueNumber": 1319
   }
 }
