@@ -1,79 +1,51 @@
 {
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790398576919,
-    "lastAlertedAt": 1790398576919,
-    "issueNumber": 1315
-  },
-  "FORECAST|US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790421779226,
-    "lastAlertedAt": 1790421779226,
-    "issueNumber": 1319
-  },
-  "US|FL|Columbia and Suwannee Counties": {
-    "region": "Columbia and Suwannee Counties, FL",
-    "tier": "watch",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1335
-  },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
+  "US|GA|Douglas": {
+    "region": "Douglas, GA",
     "tier": "alert",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1336
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1344
   },
-  "US|GA|Rome": {
-    "region": "Rome, GA",
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
     "tier": "watch",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1337
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1345
   },
-  "WAQI|5472": {
-    "region": "Regina, Saskatchewan, Canada, SK",
+  "WAQI|0": {
+    "region": "Barrie, Ontario, Canada, ON",
+    "tier": "watch",
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1346
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, TX",
     "tier": "alert",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1338
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1347
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
-    "tier": "alert",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1339
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "alert",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1340
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, QC",
     "tier": "watch",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1341
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1348
   },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
     "tier": "watch",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1342
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1349
   },
-  "WAQI|6286": {
-    "region": "Lake City - Veterans Domicile, Columbia, Florida, USA, US",
+  "WAQI|-470149": {
+    "region": "Springfield Collocation - Breathe Easy Berkshires, MA",
     "tier": "watch",
-    "firstSeen": 1790486195934,
-    "lastAlertedAt": 1790486195934,
-    "issueNumber": 1343
+    "firstSeen": 1790510392603,
+    "lastAlertedAt": 1790510392603,
+    "issueNumber": 1350
   }
 }
