@@ -1,37 +1,44 @@
 {
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, QC",
-    "tier": "watch",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1348
-  },
   "US|NY|New York City Region": {
     "region": "New York City Region, NY",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1790528218364,
     "lastAlertedAt": 1790528218364,
     "issueNumber": 1351
   },
-  "WAQI|5882": {
-    "region": "Port Richmond, New York, USA, NJ",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1790543971961,
+    "lastAlertedAt": 1790543971961,
+    "issueNumber": 1355
+  },
+  "US|OK|Oklahoma City": {
+    "region": "Oklahoma City, OK",
+    "tier": "watch",
+    "firstSeen": 1790543971961,
+    "lastAlertedAt": 1790543971961,
+    "issueNumber": 1356
+  },
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
+    "tier": "watch",
+    "firstSeen": 1790543971961,
+    "lastAlertedAt": 1790543971961,
+    "issueNumber": 1357
+  },
+  "US-MN-Minneapolis-Saint Paul": {
+    "region": "Twin Cities Metro, MN",
+    "tier": "watch",
+    "firstSeen": 1790543971961,
+    "lastAlertedAt": 1790543971961,
+    "issueNumber": 1358
+  },
+  "US-AZ-Phoenix": {
+    "region": "Phoenix Metro, AZ",
     "tier": "alert",
-    "firstSeen": 1790528218364,
-    "lastAlertedAt": 1790528218364,
-    "issueNumber": 1352
-  },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , US",
-    "tier": "watch",
-    "firstSeen": 1790528218364,
-    "lastAlertedAt": 1790528218364,
-    "issueNumber": 1353
-  },
-  "US-NJ-Newark": {
-    "region": "Newark/Northern New Jersey, NJ",
-    "tier": "watch",
-    "firstSeen": 1790528218364,
-    "lastAlertedAt": 1790528218364,
-    "issueNumber": 1354
+    "firstSeen": 1790543971961,
+    "lastAlertedAt": 1790543971961,
+    "issueNumber": 1359
   }
 }
