@@ -1,96 +1,5 @@
 [
   {
-    "region_key": "US|ID|Boise",
-    "value": 120,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|CA|C San Bernardino",
-    "value": 126,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|TX|Dallas-Fort Worth",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|CA|E San Bernardino",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|CA|E San Gabriel Vly",
-    "value": 143,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|WA|Kennewick",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|CA|Metro Riverside CO",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|CA|Santa Clarita Vly",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "US|CA|W San Gabriel Vly",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "WAQI|-1438282",
-    "value": 113,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "WAQI|205",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
-    "region_key": "WAQI|113",
-    "value": 149,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790376158614
-  },
-  {
     "region_key": "US|CA|C San Bernardino",
     "value": 164,
     "unit": "AQI",
@@ -530,5 +439,40 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790540439863
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 182,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790551186101
+  },
+  {
+    "region_key": "US|OK|Oklahoma City",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790551186101
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 161,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790551186101
+  },
+  {
+    "region_key": "WAQI|-524551",
+    "value": 157,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790551186101
+  },
+  {
+    "region_key": "WAQI|-548911",
+    "value": 111,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790551186101
   }
 ]
