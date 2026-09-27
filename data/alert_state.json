@@ -13,53 +13,67 @@
     "lastAlertedAt": 1790421779226,
     "issueNumber": 1319
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "US|FL|Columbia and Suwannee Counties": {
+    "region": "Columbia and Suwannee Counties, FL",
     "tier": "watch",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1328
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1335
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1329
-  },
-  "US|SD|Rapid City": {
-    "region": "Rapid City, SD",
-    "tier": "watch",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1330
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1331
-  },
-  "WAQI|7488": {
-    "region": "Credit Union, South Dakota, USA, SD",
-    "tier": "watch",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1332
-  },
-  "WAQI|9160": {
-    "region": "Centro de Rehabilitación DIF, Piedras Negras, Coahuila, Mexico, TX",
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
     "tier": "alert",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1333
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1336
   },
-  "WAQI|5437": {
-    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, QC",
+  "US|GA|Rome": {
+    "region": "Rome, GA",
+    "tier": "watch",
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1337
+  },
+  "WAQI|5472": {
+    "region": "Regina, Saskatchewan, Canada, SK",
     "tier": "alert",
-    "firstSeen": 1790456914234,
-    "lastAlertedAt": 1790456914234,
-    "issueNumber": 1334
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1338
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "alert",
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1339
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "alert",
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1340
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
+    "tier": "watch",
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1341
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "watch",
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1342
+  },
+  "WAQI|6286": {
+    "region": "Lake City - Veterans Domicile, Columbia, Florida, USA, US",
+    "tier": "watch",
+    "firstSeen": 1790486195934,
+    "lastAlertedAt": 1790486195934,
+    "issueNumber": 1343
   }
 }
