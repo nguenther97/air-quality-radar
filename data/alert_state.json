@@ -1,32 +1,4 @@
 {
-  "US|GA|Douglas": {
-    "region": "Douglas, GA",
-    "tier": "alert",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1344
-  },
-  "US|CA|Yosemite National Park": {
-    "region": "Yosemite National Park, CA",
-    "tier": "watch",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1345
-  },
-  "WAQI|0": {
-    "region": "Barrie, Ontario, Canada, ON",
-    "tier": "watch",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1346
-  },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, TX",
-    "tier": "alert",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1347
-  },
   "WAQI|-524644": {
     "region": "Rue Saint-jean, QC",
     "tier": "watch",
@@ -34,18 +6,32 @@
     "lastAlertedAt": 1790510392603,
     "issueNumber": 1348
   },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
-    "tier": "watch",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1349
+  "US|NY|New York City Region": {
+    "region": "New York City Region, NY",
+    "tier": "alert",
+    "firstSeen": 1790528218364,
+    "lastAlertedAt": 1790528218364,
+    "issueNumber": 1351
   },
-  "WAQI|-470149": {
-    "region": "Springfield Collocation - Breathe Easy Berkshires, MA",
+  "WAQI|5882": {
+    "region": "Port Richmond, New York, USA, NJ",
+    "tier": "alert",
+    "firstSeen": 1790528218364,
+    "lastAlertedAt": 1790528218364,
+    "issueNumber": 1352
+  },
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , US",
     "tier": "watch",
-    "firstSeen": 1790510392603,
-    "lastAlertedAt": 1790510392603,
-    "issueNumber": 1350
+    "firstSeen": 1790528218364,
+    "lastAlertedAt": 1790528218364,
+    "issueNumber": 1353
+  },
+  "US-NJ-Newark": {
+    "region": "Newark/Northern New Jersey, NJ",
+    "tier": "watch",
+    "firstSeen": 1790528218364,
+    "lastAlertedAt": 1790528218364,
+    "issueNumber": 1354
   }
 }
