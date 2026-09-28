@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|GA|Rome",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790404383997
-  },
-  {
-    "region_key": "WAQI|7623",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790404383997
-  },
-  {
-    "region_key": "WAQI|3911",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790404383997
-  },
-  {
-    "region_key": "WAQI|-515155",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790404383997
-  },
-  {
-    "region_key": "WAQI|-568828",
-    "value": 129,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790404383997
-  },
-  {
-    "region_key": "WAQI|-494020",
-    "value": 500,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790404383997
-  },
-  {
     "region_key": "WAQI|3911",
     "value": 145,
     "unit": "AQI",
@@ -404,5 +362,33 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790560541674
+  },
+  {
+    "region_key": "US|GA|Rome",
+    "value": 167,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790584406196
+  },
+  {
+    "region_key": "WAQI|-493840",
+    "value": 144,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790584406196
+  },
+  {
+    "region_key": "WAQI|3911",
+    "value": 166,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790584406196
+  },
+  {
+    "region_key": "WAQI|11964",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790584406196
   }
 ]
