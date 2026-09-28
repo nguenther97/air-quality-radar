@@ -1,44 +1,58 @@
 {
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, TX",
+  "US|LA|Baton Rouge Area": {
+    "region": "Baton Rouge Area, LA",
     "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1370
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1376
   },
-  "US|OR|The Dalles": {
-    "region": "The Dalles, OR",
-    "tier": "alert",
-    "firstSeen": 1790603492832,
-    "lastAlertedAt": 1790603492832,
-    "issueNumber": 1371
-  },
-  "WAQI|9625": {
-    "region": "Coast Guard Station - Davis Island, Hillsborough, Florida, USA, FL",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1790603492832,
-    "lastAlertedAt": 1790603492832,
-    "issueNumber": 1372
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1377
   },
-  "WAQI|-504940": {
-    "region": "Houston North Wayside, TX",
+  "US|CA|Nipomo CDF": {
+    "region": "Nipomo CDF, CA",
     "tier": "watch",
-    "firstSeen": 1790603492832,
-    "lastAlertedAt": 1790603492832,
-    "issueNumber": 1373
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1378
   },
-  "WAQI|94": {
-    "region": "The Dalles, Oregon, USA, US",
-    "tier": "alert",
-    "firstSeen": 1790603492832,
-    "lastAlertedAt": 1790603492832,
-    "issueNumber": 1374
+  "WAQI|310": {
+    "region": "Turlock-S Minaret Street, Stanislaus, California, CA",
+    "tier": "watch",
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1379
   },
-  "US-MT-Missoula": {
-    "region": "Missoula, MT",
+  "WAQI|6913": {
+    "region": "Jefferson School, Davenport, Iowa, USA, IA",
+    "tier": "watch",
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1380
+  },
+  "US-NY-New York City": {
+    "region": "New York City Metro (incl. Rockland and Westchester counties), NY",
+    "tier": "watch",
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1381
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1382
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
     "tier": "alert",
-    "firstSeen": 1790603492832,
-    "lastAlertedAt": 1790603492832,
-    "issueNumber": 1375
+    "firstSeen": 1790637316383,
+    "lastAlertedAt": 1790637316383,
+    "issueNumber": 1383
   }
 }
