@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|SD|Rapid City",
-    "value": 124,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790450357771
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790450357771
-  },
-  {
-    "region_key": "WAQI|7488",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790450357771
-  },
-  {
-    "region_key": "US|CA|Central LA CO",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790460508021
-  },
-  {
-    "region_key": "US|TX|Dallas-Fort Worth",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790460508021
-  },
-  {
-    "region_key": "US|CA|E San Gabriel Vly",
-    "value": 115,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790460508021
-  },
-  {
-    "region_key": "US|SD|Rapid City",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790460508021
-  },
-  {
-    "region_key": "WAQI|7488",
-    "value": 128,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790460508021
-  },
-  {
-    "region_key": "WAQI|9160",
-    "value": 495,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790460508021
-  },
-  {
-    "region_key": "WAQI|5437",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790460508021
-  },
-  {
     "region_key": "US|TX|Dallas-Fort Worth",
     "value": 122,
     "unit": "AQI",
@@ -362,5 +292,47 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790614685793
+  },
+  {
+    "region_key": "US|LA|Baton Rouge Area",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790634542970
+  },
+  {
+    "region_key": "US|TX|Houston-Galveston-Brazoria",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790634542970
+  },
+  {
+    "region_key": "WAQI|-470440",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790634542970
+  },
+  {
+    "region_key": "WAQI|6921",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790634542970
+  },
+  {
+    "region_key": "WAQI|6915",
+    "value": 130,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790634542970
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790634542970
   }
 ]
