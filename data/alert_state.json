@@ -1,44 +1,79 @@
 {
-  "US|NY|New York City Region": {
-    "region": "New York City Region, NY",
+  "US|GA|Columbus-Phenix City - GA and AL": {
+    "region": "Columbus-Phenix City - GA and AL, GA",
     "tier": "watch",
-    "firstSeen": 1790528218364,
-    "lastAlertedAt": 1790528218364,
-    "issueNumber": 1351
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1360
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "US|GA|Rome": {
+    "region": "Rome, GA",
     "tier": "watch",
-    "firstSeen": 1790543971961,
-    "lastAlertedAt": 1790543971961,
-    "issueNumber": 1355
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1361
   },
-  "US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
-    "tier": "watch",
-    "firstSeen": 1790543971961,
-    "lastAlertedAt": 1790543971961,
-    "issueNumber": 1356
-  },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
-    "tier": "watch",
-    "firstSeen": 1790543971961,
-    "lastAlertedAt": 1790543971961,
-    "issueNumber": 1357
-  },
-  "US-MN-Minneapolis-Saint Paul": {
-    "region": "Twin Cities Metro, MN",
-    "tier": "watch",
-    "firstSeen": 1790543971961,
-    "lastAlertedAt": 1790543971961,
-    "issueNumber": 1358
-  },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix Metro, AZ",
+  "US|AZ|West Pinal": {
+    "region": "West Pinal, AZ",
     "tier": "alert",
-    "firstSeen": 1790543971961,
-    "lastAlertedAt": 1790543971961,
-    "issueNumber": 1359
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1362
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, SK",
+    "tier": "alert",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1363
+  },
+  "WAQI|-524551": {
+    "region": "Avenue Principale, QC",
+    "tier": "watch",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1364
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "alert",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1365
+  },
+  "WAQI|7444": {
+    "region": "Lostwood NWR, North Dakota, USA, US",
+    "tier": "watch",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1366
+  },
+  "WAQI|5472": {
+    "region": "Regina, Saskatchewan, Canada, SK",
+    "tier": "watch",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1367
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, TX",
+    "tier": "watch",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1368
+  },
+  "WAQI|7506": {
+    "region": "Terre Haute-Lafayette Ave, Indiana, USA, IN",
+    "tier": "watch",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1369
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, TX",
+    "tier": "alert",
+    "firstSeen": 1790572897930,
+    "lastAlertedAt": 1790572897930,
+    "issueNumber": 1370
   }
 }
