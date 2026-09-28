@@ -1,79 +1,44 @@
 {
-  "US|GA|Columbus-Phenix City - GA and AL": {
-    "region": "Columbus-Phenix City - GA and AL, GA",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1360
-  },
-  "US|GA|Rome": {
-    "region": "Rome, GA",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1361
-  },
-  "US|AZ|West Pinal": {
-    "region": "West Pinal, AZ",
-    "tier": "alert",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1362
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, SK",
-    "tier": "alert",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1363
-  },
-  "WAQI|-524551": {
-    "region": "Avenue Principale, QC",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1364
-  },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
-    "tier": "alert",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1365
-  },
-  "WAQI|7444": {
-    "region": "Lostwood NWR, North Dakota, USA, US",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1366
-  },
-  "WAQI|5472": {
-    "region": "Regina, Saskatchewan, Canada, SK",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1367
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, TX",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1368
-  },
-  "WAQI|7506": {
-    "region": "Terre Haute-Lafayette Ave, Indiana, USA, IN",
-    "tier": "watch",
-    "firstSeen": 1790572897930,
-    "lastAlertedAt": 1790572897930,
-    "issueNumber": 1369
-  },
   "WAQI|-470440": {
     "region": "Clínica de Nutrición, TX",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1790572897930,
     "lastAlertedAt": 1790572897930,
     "issueNumber": 1370
+  },
+  "US|OR|The Dalles": {
+    "region": "The Dalles, OR",
+    "tier": "alert",
+    "firstSeen": 1790603492832,
+    "lastAlertedAt": 1790603492832,
+    "issueNumber": 1371
+  },
+  "WAQI|9625": {
+    "region": "Coast Guard Station - Davis Island, Hillsborough, Florida, USA, FL",
+    "tier": "watch",
+    "firstSeen": 1790603492832,
+    "lastAlertedAt": 1790603492832,
+    "issueNumber": 1372
+  },
+  "WAQI|-504940": {
+    "region": "Houston North Wayside, TX",
+    "tier": "watch",
+    "firstSeen": 1790603492832,
+    "lastAlertedAt": 1790603492832,
+    "issueNumber": 1373
+  },
+  "WAQI|94": {
+    "region": "The Dalles, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1790603492832,
+    "lastAlertedAt": 1790603492832,
+    "issueNumber": 1374
+  },
+  "US-MT-Missoula": {
+    "region": "Missoula, MT",
+    "tier": "alert",
+    "firstSeen": 1790603492832,
+    "lastAlertedAt": 1790603492832,
+    "issueNumber": 1375
   }
 }
