@@ -1,58 +1,30 @@
 {
-  "US|LA|Baton Rouge Area": {
-    "region": "Baton Rouge Area, LA",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1376
-  },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1377
-  },
-  "US|CA|Nipomo CDF": {
-    "region": "Nipomo CDF, CA",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1378
-  },
-  "WAQI|310": {
-    "region": "Turlock-S Minaret Street, Stanislaus, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1379
-  },
-  "WAQI|6913": {
-    "region": "Jefferson School, Davenport, Iowa, USA, IA",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1380
-  },
-  "US-NY-New York City": {
-    "region": "New York City Metro (incl. Rockland and Westchester counties), NY",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1381
-  },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1382
-  },
-  "CA-AB-Calgary": {
-    "region": "Calgary, AB",
+  "WAQI|-494020": {
+    "region": "Main Street, OR",
     "tier": "alert",
-    "firstSeen": 1790637316383,
-    "lastAlertedAt": 1790637316383,
-    "issueNumber": 1383
+    "firstSeen": 1790660529375,
+    "lastAlertedAt": 1790660529375,
+    "issueNumber": 1384
+  },
+  "WAQI|7439": {
+    "region": "Bded, North Carolina, USA, NC",
+    "tier": "watch",
+    "firstSeen": 1790660529375,
+    "lastAlertedAt": 1790660529375,
+    "issueNumber": 1385
+  },
+  "WAQI|6285": {
+    "region": "Laurel Oak Elementary, Collier, Florida, USA, FL",
+    "tier": "alert",
+    "firstSeen": 1790660529375,
+    "lastAlertedAt": 1790660529375,
+    "issueNumber": 1386
+  },
+  "US-CO-Denver": {
+    "region": "Front Range Urban Corridor (Denver-Boulder metro, Douglas to Larimer/Weld counties), CO",
+    "tier": "watch",
+    "firstSeen": 1790660529375,
+    "lastAlertedAt": 1790660529375,
+    "issueNumber": 1387
   }
 }
