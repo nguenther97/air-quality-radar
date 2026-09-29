@@ -1,40 +1,5 @@
 [
   {
-    "region_key": "WAQI|-494671",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790529141457
-  },
-  {
-    "region_key": "WAQI|5882",
-    "value": 235,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790529141457
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 105,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790540439863
-  },
-  {
-    "region_key": "US|NY|New York City Region",
-    "value": 165,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790540439863
-  },
-  {
-    "region_key": "WAQI|5882",
-    "value": 158,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790540439863
-  },
-  {
     "region_key": "US|TX|Houston-Galveston-Brazoria",
     "value": 182,
     "unit": "AQI",
@@ -299,5 +264,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790696262453
+  },
+  {
+    "region_key": "US|LA|Baton Rouge Area",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790714295158
+  },
+  {
+    "region_key": "WAQI|6285",
+    "value": 148,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790714295158
+  },
+  {
+    "region_key": "WAQI|-1438237",
+    "value": 171,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790714295158
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 116,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790714295158
+  },
+  {
+    "region_key": "WAQI|4206",
+    "value": 271,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790714295158
+  },
+  {
+    "region_key": "WAQI|-2725612",
+    "value": 125,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790714295158
   }
 ]
