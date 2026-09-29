@@ -1,44 +1,86 @@
 {
-  "WAQI|6285": {
-    "region": "Laurel Oak Elementary, Collier, Florida, USA, FL",
-    "tier": "alert",
-    "firstSeen": 1790660529375,
-    "lastAlertedAt": 1790660529375,
-    "issueNumber": 1386
-  },
-  "US|FL|Naples": {
-    "region": "Naples, FL",
-    "tier": "alert",
-    "firstSeen": 1790686219908,
-    "lastAlertedAt": 1790686219908,
-    "issueNumber": 1388
-  },
-  "WAQI|-504940": {
-    "region": "Houston North Wayside, TX",
-    "tier": "alert",
-    "firstSeen": 1790686219908,
-    "lastAlertedAt": 1790686219908,
-    "issueNumber": 1389
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
+  "US|GA|Atlanta": {
+    "region": "Atlanta, GA",
     "tier": "watch",
-    "firstSeen": 1790686219908,
-    "lastAlertedAt": 1790686219908,
-    "issueNumber": 1390
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1393
   },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "US|LA|Baton Rouge Area": {
+    "region": "Baton Rouge Area, LA",
     "tier": "watch",
-    "firstSeen": 1790686219908,
-    "lastAlertedAt": 1790686219908,
-    "issueNumber": 1391
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1394
   },
-  "US-CA-Irvine": {
-    "region": "Irvine/Orange County (Irvine, Orange, Fullerton, Mission Viejo), CA",
+  "US|AL|Birmingham": {
+    "region": "Birmingham, AL",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1395
+  },
+  "US|WA|Kennewick": {
+    "region": "Kennewick, WA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1396
+  },
+  "US|LA|New Orleans": {
+    "region": "New Orleans, LA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1397
+  },
+  "WAQI|4206": {
+    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, BC",
     "tier": "alert",
-    "firstSeen": 1790686219908,
-    "lastAlertedAt": 1790686219908,
-    "issueNumber": 1392
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1398
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1399
+  },
+  "FORECAST|US|CA|C San Bernardino M": {
+    "region": "C San Bernardino M, CA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1400
+  },
+  "FORECAST|US|CA|E San Bernardino": {
+    "region": "E San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1401
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1402
+  },
+  "FORECAST|US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1403
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1790720016865,
+    "lastAlertedAt": 1790720016865,
+    "issueNumber": 1404
   }
 }
