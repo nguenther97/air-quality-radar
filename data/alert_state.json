@@ -1,18 +1,4 @@
 {
-  "WAQI|-494020": {
-    "region": "Main Street, OR",
-    "tier": "alert",
-    "firstSeen": 1790660529375,
-    "lastAlertedAt": 1790660529375,
-    "issueNumber": 1384
-  },
-  "WAQI|7439": {
-    "region": "Bded, North Carolina, USA, NC",
-    "tier": "watch",
-    "firstSeen": 1790660529375,
-    "lastAlertedAt": 1790660529375,
-    "issueNumber": 1385
-  },
   "WAQI|6285": {
     "region": "Laurel Oak Elementary, Collier, Florida, USA, FL",
     "tier": "alert",
@@ -20,11 +6,39 @@
     "lastAlertedAt": 1790660529375,
     "issueNumber": 1386
   },
-  "US-CO-Denver": {
-    "region": "Front Range Urban Corridor (Denver-Boulder metro, Douglas to Larimer/Weld counties), CO",
+  "US|FL|Naples": {
+    "region": "Naples, FL",
+    "tier": "alert",
+    "firstSeen": 1790686219908,
+    "lastAlertedAt": 1790686219908,
+    "issueNumber": 1388
+  },
+  "WAQI|-504940": {
+    "region": "Houston North Wayside, TX",
+    "tier": "alert",
+    "firstSeen": 1790686219908,
+    "lastAlertedAt": 1790686219908,
+    "issueNumber": 1389
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
     "tier": "watch",
-    "firstSeen": 1790660529375,
-    "lastAlertedAt": 1790660529375,
-    "issueNumber": 1387
+    "firstSeen": 1790686219908,
+    "lastAlertedAt": 1790686219908,
+    "issueNumber": 1390
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1790686219908,
+    "lastAlertedAt": 1790686219908,
+    "issueNumber": 1391
+  },
+  "US-CA-Irvine": {
+    "region": "Irvine/Orange County (Irvine, Orange, Fullerton, Mission Viejo), CA",
+    "tier": "alert",
+    "firstSeen": 1790686219908,
+    "lastAlertedAt": 1790686219908,
+    "issueNumber": 1392
   }
 }
