@@ -1,75 +1,5 @@
 [
   {
-    "region_key": "US|MI|Grand Rapids",
-    "value": 106,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "US|CA|Hanford",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "US|GA|Rome",
-    "value": 162,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "US|CA|Yosemite National Park",
-    "value": 128,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "WAQI|-512512",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "WAQI|3911",
-    "value": 157,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "WAQI|5472",
-    "value": 155,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "WAQI|6286",
-    "value": 114,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "WAQI|-470440",
-    "value": 365,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790490486210
-  },
-  {
-    "region_key": "WAQI|230",
-    "value": 112,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790490486210
-  },
-  {
     "region_key": "US|GA|Douglas",
     "value": 206,
     "unit": "AQI",
@@ -348,5 +278,19 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790648004449
+  },
+  {
+    "region_key": "WAQI|-1547227",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790672227326
+  },
+  {
+    "region_key": "WAQI|6285",
+    "value": 297,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790672227326
   }
 ]
