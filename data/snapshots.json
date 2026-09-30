@@ -1,33 +1,5 @@
 [
   {
-    "region_key": "US|GA|Rome",
-    "value": 167,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790584406196
-  },
-  {
-    "region_key": "WAQI|-493840",
-    "value": 144,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790584406196
-  },
-  {
-    "region_key": "WAQI|3911",
-    "value": 166,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790584406196
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 102,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790584406196
-  },
-  {
     "region_key": "US|NC|New Hanover County",
     "value": 103,
     "unit": "AQI",
@@ -348,5 +320,19 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790747538995
+  },
+  {
+    "region_key": "WAQI|6429",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790770869328
+  },
+  {
+    "region_key": "WAQI|-1438231",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790770869328
   }
 ]
