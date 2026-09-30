@@ -334,5 +334,40 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790791547832
+  },
+  {
+    "region_key": "US|OH|Cleveland-Akron-Lorain",
+    "value": 162,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790806206363
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790806206363
+  },
+  {
+    "region_key": "US|TN|Nashville",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790806206363
+  },
+  {
+    "region_key": "WAQI|-1438282",
+    "value": 104,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790806206363
+  },
+  {
+    "region_key": "WAQI|-2216005",
+    "value": 272,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790806206363
   }
 ]
