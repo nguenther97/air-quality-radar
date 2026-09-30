@@ -34,39 +34,60 @@
     "lastAlertedAt": 1790720016865,
     "issueNumber": 1403
   },
-  "CA|IAJWU|Hinton": {
-    "region": "Hinton, CA",
+  "WAQI|-1438231": {
+    "region": "Rue Jacques-bureau, QC",
     "tier": "watch",
-    "firstSeen": 1790746232167,
-    "lastAlertedAt": 1790746232167,
-    "issueNumber": 1405
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1410
   },
-  "WAQI|7383": {
-    "region": "Parr, Arkansas, USA, AR",
-    "tier": "watch",
-    "firstSeen": 1790746232167,
-    "lastAlertedAt": 1790746232167,
-    "issueNumber": 1406
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, ON",
-    "tier": "watch",
-    "firstSeen": 1790746232167,
-    "lastAlertedAt": 1790746232167,
-    "issueNumber": 1407
-  },
-  "WAQI|-524443": {
-    "region": "Jasper, Alberta, CA",
+  "US-CA-Redlands": {
+    "region": "Redlands, CA",
     "tier": "alert",
-    "firstSeen": 1790746232167,
-    "lastAlertedAt": 1790746232167,
-    "issueNumber": 1408
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1411
   },
-  "US-CO-Denver": {
-    "region": "Denver-Boulder Front Range Urban Corridor, CO",
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
     "tier": "watch",
-    "firstSeen": 1790746232167,
-    "lastAlertedAt": 1790746232167,
-    "issueNumber": 1409
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1412
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "alert",
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1413
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "alert",
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1414
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "alert",
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1415
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "alert",
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1416
+  },
+  "US-PA-Philadelphia": {
+    "region": "Philadelphia, PA",
+    "tier": "alert",
+    "firstSeen": 1790771544634,
+    "lastAlertedAt": 1790771544634,
+    "issueNumber": 1417
   }
 }
