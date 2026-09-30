@@ -1,46 +1,4 @@
 {
-  "US|GA|Atlanta": {
-    "region": "Atlanta, GA",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1393
-  },
-  "US|LA|Baton Rouge Area": {
-    "region": "Baton Rouge Area, LA",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1394
-  },
-  "US|AL|Birmingham": {
-    "region": "Birmingham, AL",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1395
-  },
-  "US|WA|Kennewick": {
-    "region": "Kennewick, WA",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1396
-  },
-  "US|LA|New Orleans": {
-    "region": "New Orleans, LA",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1397
-  },
-  "WAQI|4206": {
-    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, BC",
-    "tier": "alert",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1398
-  },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
     "tier": "watch",
@@ -76,11 +34,39 @@
     "lastAlertedAt": 1790720016865,
     "issueNumber": 1403
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
+  "CA|IAJWU|Hinton": {
+    "region": "Hinton, CA",
     "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1404
+    "firstSeen": 1790746232167,
+    "lastAlertedAt": 1790746232167,
+    "issueNumber": 1405
+  },
+  "WAQI|7383": {
+    "region": "Parr, Arkansas, USA, AR",
+    "tier": "watch",
+    "firstSeen": 1790746232167,
+    "lastAlertedAt": 1790746232167,
+    "issueNumber": 1406
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, ON",
+    "tier": "watch",
+    "firstSeen": 1790746232167,
+    "lastAlertedAt": 1790746232167,
+    "issueNumber": 1407
+  },
+  "WAQI|-524443": {
+    "region": "Jasper, Alberta, CA",
+    "tier": "alert",
+    "firstSeen": 1790746232167,
+    "lastAlertedAt": 1790746232167,
+    "issueNumber": 1408
+  },
+  "US-CO-Denver": {
+    "region": "Denver-Boulder Front Range Urban Corridor, CO",
+    "tier": "watch",
+    "firstSeen": 1790746232167,
+    "lastAlertedAt": 1790746232167,
+    "issueNumber": 1409
   }
 }
