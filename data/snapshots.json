@@ -1,26 +1,5 @@
 [
   {
-    "region_key": "US|GA|Columbus-Phenix City - GA and AL",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790560541674
-  },
-  {
-    "region_key": "WAQI|-524551",
-    "value": 159,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790560541674
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 153,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790560541674
-  },
-  {
     "region_key": "US|GA|Rome",
     "value": 167,
     "unit": "AQI",
@@ -327,5 +306,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790727392423
+  },
+  {
+    "region_key": "CA|IAJWU|Hinton",
+    "value": 7,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1790747538995
+  },
+  {
+    "region_key": "CA|FDQBX|Toronto North",
+    "value": 9,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1790747538995
+  },
+  {
+    "region_key": "CA|FEUZB|Toronto",
+    "value": 9,
+    "unit": "AQHI",
+    "tier": "watch",
+    "captured_at": 1790747538995
+  },
+  {
+    "region_key": "WAQI|-524443",
+    "value": 155,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790747538995
+  },
+  {
+    "region_key": "WAQI|36",
+    "value": 165,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790747538995
+  },
+  {
+    "region_key": "WAQI|7383",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790747538995
   }
 ]
