@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|NC|New Hanover County",
-    "value": 103,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790614685793
-  },
-  {
-    "region_key": "US|OR|The Dalles",
-    "value": 156,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790614685793
-  },
-  {
-    "region_key": "WAQI|7533",
-    "value": 164,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790614685793
-  },
-  {
-    "region_key": "WAQI|-470440",
-    "value": 336,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790614685793
-  },
-  {
-    "region_key": "WAQI|7544",
-    "value": 145,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790614685793
-  },
-  {
-    "region_key": "WAQI|94",
-    "value": 151,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790614685793
-  },
-  {
     "region_key": "US|LA|Baton Rouge Area",
     "value": 122,
     "unit": "AQI",
@@ -334,5 +292,47 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790770869328
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790791547832
+  },
+  {
+    "region_key": "US|NC|Pitt County",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790791547832
+  },
+  {
+    "region_key": "WAQI|310",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790791547832
+  },
+  {
+    "region_key": "WAQI|281",
+    "value": 137,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790791547832
+  },
+  {
+    "region_key": "WAQI|284",
+    "value": 102,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790791547832
+  },
+  {
+    "region_key": "WAQI|-1438231",
+    "value": 149,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790791547832
   }
 ]
