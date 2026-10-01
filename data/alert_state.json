@@ -6,26 +6,12 @@
     "lastAlertedAt": 1790720016865,
     "issueNumber": 1399
   },
-  "FORECAST|US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1400
-  },
   "FORECAST|US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
     "tier": "watch",
     "firstSeen": 1790720016865,
     "lastAlertedAt": 1790720016865,
     "issueNumber": 1401
-  },
-  "FORECAST|US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790720016865,
-    "lastAlertedAt": 1790720016865,
-    "issueNumber": 1403
   },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
@@ -43,16 +29,65 @@
   },
   "US|CA|Visalia": {
     "region": "Visalia, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1790833793457,
     "lastAlertedAt": 1790833793457,
     "issueNumber": 1424
   },
-  "US-SC-Rock Hill": {
-    "region": "York-Chester / Midlands (Rock Hill, Chester, Catawba, Blackstock, Great Falls), SC",
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1426
+  },
+  "WAQI|-1438282": {
+    "region": "Rue De L' De L'alliance, QC",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1427
+  },
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, US",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1428
+  },
+  "FORECAST|US|CA|E San Fernando Vly": {
+    "region": "E San Fernando Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1429
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1430
+  },
+  "US-CA-Santa Clarita Valley": {
+    "region": "Santa Clarita Valley, CA",
     "tier": "alert",
-    "firstSeen": 1790833793457,
-    "lastAlertedAt": 1790833793457,
-    "issueNumber": 1425
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1431
+  },
+  "US-CA-Coachella Valley": {
+    "region": "Coachella Valley (Palm Springs, Indio, La Quinta, Palm Desert), CA",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1432
+  },
+  "US-CA-Orange County Inland": {
+    "region": "Inland Orange County (Santa Ana, Anaheim, Irvine, Orange, Fullerton, Mission Viejo), CA",
+    "tier": "watch",
+    "firstSeen": 1790860257407,
+    "lastAlertedAt": 1790860257407,
+    "issueNumber": 1433
   }
 }
