@@ -27,34 +27,6 @@
     "lastAlertedAt": 1790720016865,
     "issueNumber": 1403
   },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1790806436966,
-    "lastAlertedAt": 1790806436966,
-    "issueNumber": 1418
-  },
-  "US|TN|Nashville": {
-    "region": "Nashville, TN",
-    "tier": "watch",
-    "firstSeen": 1790806436966,
-    "lastAlertedAt": 1790806436966,
-    "issueNumber": 1419
-  },
-  "WAQI|-2216005": {
-    "region": "North Federal Boulevard, CO",
-    "tier": "alert",
-    "firstSeen": 1790806436966,
-    "lastAlertedAt": 1790806436966,
-    "issueNumber": 1420
-  },
-  "WAQI|-1438282": {
-    "region": "Rue De L' De L'alliance, QC",
-    "tier": "watch",
-    "firstSeen": 1790806436966,
-    "lastAlertedAt": 1790806436966,
-    "issueNumber": 1421
-  },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "watch",
@@ -68,5 +40,19 @@
     "firstSeen": 1790806436966,
     "lastAlertedAt": 1790806436966,
     "issueNumber": 1423
+  },
+  "US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "alert",
+    "firstSeen": 1790833793457,
+    "lastAlertedAt": 1790833793457,
+    "issueNumber": 1424
+  },
+  "US-SC-Rock Hill": {
+    "region": "York-Chester / Midlands (Rock Hill, Chester, Catawba, Blackstock, Great Falls), SC",
+    "tier": "alert",
+    "firstSeen": 1790833793457,
+    "lastAlertedAt": 1790833793457,
+    "issueNumber": 1425
   }
 }
