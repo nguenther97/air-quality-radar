@@ -1,54 +1,5 @@
 [
   {
-    "region_key": "US|FL|Naples",
-    "value": 211,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790648004449
-  },
-  {
-    "region_key": "US|SD|Rapid City",
-    "value": 118,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790648004449
-  },
-  {
-    "region_key": "WAQI|11964",
-    "value": 154,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790648004449
-  },
-  {
-    "region_key": "WAQI|6921",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790648004449
-  },
-  {
-    "region_key": "WAQI|7488",
-    "value": 141,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790648004449
-  },
-  {
-    "region_key": "WAQI|6913",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790648004449
-  },
-  {
-    "region_key": "WAQI|6285",
-    "value": 187,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790648004449
-  },
-  {
     "region_key": "WAQI|-1547227",
     "value": 108,
     "unit": "AQI",
@@ -376,5 +327,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790818022275
+  },
+  {
+    "region_key": "US|CA|Visalia",
+    "value": 186,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790840383486
+  },
+  {
+    "region_key": "US|CA|Yosemite National Park",
+    "value": 120,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790840383486
+  },
+  {
+    "region_key": "WAQI|-494020",
+    "value": 500,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790840383486
+  },
+  {
+    "region_key": "WAQI|7488",
+    "value": 119,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790840383486
+  },
+  {
+    "region_key": "WAQI|230",
+    "value": 147,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790840383486
+  },
+  {
+    "region_key": "WAQI|7546",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790840383486
+  },
+  {
+    "region_key": "WAQI|-566230",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790840383486
   }
 ]
