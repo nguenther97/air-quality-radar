@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|LA|Baton Rouge Area",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790634542970
-  },
-  {
-    "region_key": "US|TX|Houston-Galveston-Brazoria",
-    "value": 133,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790634542970
-  },
-  {
-    "region_key": "WAQI|-470440",
-    "value": 101,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790634542970
-  },
-  {
-    "region_key": "WAQI|6921",
-    "value": 104,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790634542970
-  },
-  {
-    "region_key": "WAQI|6915",
-    "value": 130,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790634542970
-  },
-  {
-    "region_key": "WAQI|-524644",
-    "value": 122,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790634542970
-  },
-  {
     "region_key": "US|FL|Naples",
     "value": 211,
     "unit": "AQI",
@@ -369,5 +327,54 @@
     "unit": "AQI",
     "tier": "alert",
     "captured_at": 1790806206363
+  },
+  {
+    "region_key": "US|CA|Banning",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790818022275
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 112,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790818022275
+  },
+  {
+    "region_key": "WAQI|-2725612",
+    "value": 110,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790818022275
+  },
+  {
+    "region_key": "WAQI|-2216566",
+    "value": 121,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790818022275
+  },
+  {
+    "region_key": "WAQI|-1435885",
+    "value": 164,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790818022275
+  },
+  {
+    "region_key": "WAQI|-398056",
+    "value": 154,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790818022275
+  },
+  {
+    "region_key": "WAQI|-419824",
+    "value": 151,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790818022275
   }
 ]
