@@ -4,8 +4,9 @@ export function parseCanadaAQHI(geojson) {
     const p = feature.properties ?? {};
     if (p.latest === false) continue;
 
+    if (p.aqhi == null || String(p.aqhi).trim() === '') continue;
     const aqhi = Number(p.aqhi);
-    if (!Number.isFinite(aqhi)) continue;
+    if (!Number.isFinite(aqhi) || aqhi < 0) continue;
 
     const name = (p.location_name_en ?? '').trim();
     const locationId = (p.location_id ?? '').trim();
@@ -16,7 +17,7 @@ export function parseCanadaAQHI(geojson) {
     out.push({
       id: `CA|${locationId}|${name}`,
       country: 'CA',
-      state: null, // Environment Canada's feed has no province field; filled in from the nearest-city population match.
+      state: null, // Backfilled only when the place name and coordinates support a match.
       name,
       lat: Array.isArray(coords) ? Number(coords[1]) : null,
       lon: Array.isArray(coords) ? Number(coords[0]) : null,
@@ -25,6 +26,7 @@ export function parseCanadaAQHI(geojson) {
       category: aqhiRiskLabel(aqhi),
       source: 'EC AQHI',
       observedAt: p.observation_datetime ?? null,
+      sourceUrl: 'https://weather.gc.ca/airquality/pages/index_e.html',
     });
   }
   return out;
@@ -33,7 +35,7 @@ export function parseCanadaAQHI(geojson) {
 function aqhiRiskLabel(value) {
   if (value < 4) return 'Low Risk';
   if (value < 7) return 'Moderate Risk';
-  if (value < 10) return 'High Risk';
+  if (value <= 10) return 'High Risk';
   return 'Very High Risk';
 }
 
@@ -45,11 +47,12 @@ export function parseCanadaAQHIForecast(geojson, nowMs) {
 
   for (const feature of geojson.features ?? []) {
     const p = feature.properties ?? {};
+    if (p.aqhi == null || String(p.aqhi).trim() === '') continue;
     const aqhi = Number(p.aqhi);
     const locationId = (p.location_id ?? '').trim();
     const name = (p.location_name_en ?? '').trim();
     const forecastAt = p.forecast_datetime ? Date.parse(p.forecast_datetime) : NaN;
-    if (!Number.isFinite(aqhi) || !locationId || !name || !Number.isFinite(forecastAt)) continue;
+    if (!Number.isFinite(aqhi) || aqhi < 0 || !locationId || !name || !Number.isFinite(forecastAt)) continue;
 
     const age = forecastAt - nowMs;
     if (age < FORECAST_WINDOW_MIN_MS || age > FORECAST_WINDOW_MAX_MS) continue;
@@ -57,7 +60,7 @@ export function parseCanadaAQHIForecast(geojson, nowMs) {
     const id = `CA|${locationId}|${name}`;
     const existing = byLocation.get(id);
     if (existing && existing.value >= aqhi) continue;
-    byLocation.set(id, { id, dayOffset: 1, unit: 'AQHI', value: aqhi, category: aqhiRiskLabel(aqhi) });
+    byLocation.set(id, { id, dayOffset: 1, validAt: new Date(forecastAt).toISOString(), unit: 'AQHI', value: aqhi, category: aqhiRiskLabel(aqhi) });
   }
 
   return [...byLocation.values()];

@@ -1,3 +1,4 @@
+import { airNowTimestamp } from './freshness.mjs';
 export const US_STATES = new Set([
   'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA','KS','KY','LA',
   'ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH','OK',
@@ -16,8 +17,8 @@ export function parseAirNow(rawText) {
     if (cols.length < 17) continue;
 
     const [
-      , , observationTime, timeZone, , typeFlag, latestFlag, reportingArea, stateAbbrev,
-      latitude, longitude, , aqiRaw, category,
+      , observationDate, observationTime, timeZone, , typeFlag, latestFlag, reportingArea, stateAbbrev,
+      latitude, longitude, pollutant, aqiRaw, category,
     ] = cols;
 
     if (typeFlag !== 'O' || latestFlag !== 'Y') continue;
@@ -29,7 +30,7 @@ export function parseAirNow(rawText) {
     const aqiTrimmed = aqiRaw.trim();
     if (!aqiTrimmed) continue;
     const aqi = Number(aqiTrimmed);
-    if (!Number.isFinite(aqi)) continue;
+    if (!Number.isFinite(aqi) || aqi < 0) continue;
 
     const key = `${country}|${state}|${reportingArea.trim()}`;
     const existing = groups.get(key);
@@ -46,7 +47,9 @@ export function parseAirNow(rawText) {
       value: aqi,
       category: category.trim(),
       source: 'AirNow',
-      observedAt: observationTime.trim(),
+      observedAt: airNowTimestamp(observationDate, observationTime, timeZone),
+      pollutant: pollutant.trim(),
+      sourceUrl: 'https://www.airnow.gov/',
       timeZone: timeZone.trim(),
     });
   }
@@ -63,7 +66,7 @@ export function parseAirNowForecast(rawText) {
     const cols = row.split('|');
     if (cols.length < 17) continue;
 
-    const [, , , , dayOffsetRaw, typeFlag, latestFlag, reportingArea, stateAbbrev, , , , aqiRaw, category] = cols;
+    const [issueDate, validDate, , , dayOffsetRaw, typeFlag, latestFlag, reportingArea, stateAbbrev, , , , aqiRaw, category] = cols;
 
     if (typeFlag !== 'F' || latestFlag !== 'Y') continue;
     const state = stateAbbrev.trim().toUpperCase();
@@ -82,7 +85,7 @@ export function parseAirNowForecast(rawText) {
     const existing = groups.get(key);
     if (existing && existing.value >= aqi) continue;
 
-    groups.set(key, { id, dayOffset, unit: 'AQI', value: aqi, category: category.trim() });
+    groups.set(key, { id, dayOffset, issueDate, validDate, unit: 'AQI', value: aqi, category: category.trim() });
   }
 
   return [...groups.values()];

@@ -1,7 +1,8 @@
-function detectCountry(lat, lon) {
-  if (lat > 49.5) return 'CA';
-  if (lat > 48.5 && lon < -120) return 'CA';
-  return 'US';
+function detectCountry(name) {
+  if (/\bCanada\b/i.test(name)) return 'CA';
+  if (/\b(USA|United States)\b/i.test(name)) return 'US';
+  if (/\b(Mexico|México)\b/i.test(name)) return 'MX';
+  return null;
 }
 
 function aqiCategory(aqi) {
@@ -13,10 +14,18 @@ function aqiCategory(aqi) {
   return 'Hazardous';
 }
 
-export function parseWaqi(rawText) {
+export function parseWaqi(rawText, { strict = false } = {}) {
   let json;
-  try { json = JSON.parse(rawText); } catch { return []; }
-  if (json.status !== 'ok' || !Array.isArray(json.data)) return [];
+  try { json = JSON.parse(rawText); } catch {
+    if (strict) throw new Error('WAQI returned invalid JSON');
+    return [];
+  }
+  // Propagate failures so fetchSource preserves its cache and shows an outage.
+  // Do not echo provider responses: they may contain credential details.
+  if (json?.status !== 'ok' || !Array.isArray(json.data)) {
+    if (strict) throw new Error('WAQI returned an unsuccessful or malformed response');
+    return [];
+  }
 
   const out = [];
   for (const station of json.data) {
@@ -25,16 +34,18 @@ export function parseWaqi(rawText) {
     if (!Number.isFinite(lat) || !Number.isFinite(lon)) continue;
 
     const aqiRaw = station.aqi;
-    if (aqiRaw === '-' || aqiRaw == null) continue;
+    if (aqiRaw === '-' || aqiRaw == null || String(aqiRaw).trim() === '') continue;
     const aqi = Number(aqiRaw);
     if (!Number.isFinite(aqi) || aqi < 0) continue;
 
-    const country = detectCountry(lat, lon);
     const name = station.station?.name ?? `WAQI-${station.uid}`;
+    const country = detectCountry(name);
+    if (country === 'MX') continue;
 
     out.push({
       id: `WAQI|${station.uid}`,
       country,
+      countryVerified: country != null,
       state: null,
       name,
       lat,
@@ -43,6 +54,8 @@ export function parseWaqi(rawText) {
       value: aqi,
       category: aqiCategory(aqi),
       source: 'WAQI',
+      observedAt: station.time?.iso ?? station.station?.time?.iso ?? null,
+      sourceUrl: 'https://waqi.info/',
     });
   }
   return out;

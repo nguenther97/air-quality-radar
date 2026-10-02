@@ -1,32 +1,31 @@
 # Air Quality Radar
 
-Internal tool for Alen Air — times geo-targeted marketing pushes to moments when
-air quality across North America is bad enough to drive real purchase intent.
+[Open the live radar](https://nguenther97.github.io/air-quality-radar/)
 
-## What runs here
+An Alen planning prototype for exploring air quality across US and Canadian markets. It identifies recent elevated observations that may warrant investigation. It does not establish purchase intent or predict sales.
 
-- **`scripts/fetch_and_build.mjs`** — runs every 30 minutes via GitHub Actions.
-  Fetches AirNow (US) and Environment Canada AQHI (Canada) conditions, joins
-  population data, classifies severity, tracks trend history, and regenerates
-  the dashboard published at **docs/** via GitHub Pages.
-- **`scripts/alert_check.mjs`** — runs every 3 hours via GitHub Actions. Uses
-  Claude with web search to catch official advisories an API poll would miss,
-  dedupes per-location, and opens/updates a GitHub Issue for anything that
-  newly qualifies as Watch or Alert tier.
+## Explore the radar
 
-## Data
+Search locations, filter sources and conditions, and select a map marker or market to inspect observations, available forecasts, and developing history. Verified place-name matches group related readings while preserving each source. AQI and AQHI remain separate indices.
 
-- `data/cities_us_ca.json` — bundled US/Canada city population dataset, top 3,000
-  cities by population, from the [SimpleMaps Basic World Cities Database](https://simplemaps.com/data/world-cities)
-  (Creative Commons Attribution 4.0 — attribution required, hence this link).
-- `data/snapshots.json` — rolling 48h trend history, rewritten each refresh run.
-- `data/alert_state.json` — per-location dedupe state for the alert check.
+Recent observations must have a verified timestamp within three hours. Saved, older, and undated readings remain visible but are excluded from current priorities. A successful fetch does not by itself make an observation current.
 
-## Known limitations
+Priorities use internal severity tiers and observed direction. AQI Watch is 101–150 and Alert is above 150; AQHI Watch is 7–<10 and Alert is 10+. These planning tiers are distinct from official Canadian health categories, where AQHI 7–10 is High Risk and above 10 is Very High Risk. Population is reference context only, not a verified exposure count or a scoring factor.
 
-- Mexico is not covered — no free real-time air-quality feed was available.
-- Canada's AQHI 7/9-10 watch/alert cutoffs are a judgment-call mapping to the
-  AQI thresholds, not a validated study.
-- This repo is public, per a deliberate tradeoff: GitHub Pages requires a
-  public repo on the Free plan. The underlying data is aggregate public
-  AQI/AQHI readings and population figures — not customer data or secrets.
+## Run and publish
+
+Use Node.js 24. `npm test` runs the regression suite; `npm run build` fetches feeds and generates `docs/`. The optional existing `WAQI_TOKEN` environment variable enables WAQI. `node scripts/preview.mjs` serves the generated site locally.
+
+GitHub Actions rebuilds at :07 and :37 each hour and after source changes to main. GitHub Pages serves `docs/`. Scheduled runs can be delayed; the dashboard displays its build time and marks overdue refreshes after 90 minutes.
+
+The separate advisory and weekly-digest workflows remain in place. They are not triggered by the dashboard build.
+
+## Sources and limitations
+
+- Observations: [AirNow](https://www.airnow.gov/), [Environment Canada](https://weather.gc.ca/airquality/pages/index_e.html), and [WAQI](https://waqi.info/). Reporting locations do not provide continuous geographic coverage. Blank map areas do not establish clean air.
+- Population: bundled [SimpleMaps Basic World Cities Database](https://simplemaps.com/data/world-cities), under Creative Commons Attribution 4.0. Name, jurisdiction, and distance checks are required; regional areas are not assigned the population of the nearest suburb.
+- History: `data/snapshots.json` retains 48 hours of dated AirNow/EC observations. Repeated timestamps are deduplicated, recovery breaks an elevated span, and gaps over 90 minutes are not bridged. Undated legacy history is excluded. WAQI observations are not added to this history archive.
+- Forecasts are shown only when supplied by the selected source, with their valid date. They are forecasts, not observations.
+- Mexico coverage, fire/smoke/wind layers, consistent business-market boundaries, and validated demand forecasting remain future work. Historical sales and a permitted environmental archive are needed to test the forecasting hypothesis.
+
+See [release notes](RELEASE-NOTES.md) for the October 2026 changes. This public prototype contains aggregate public environmental data; do not add customer data or secrets. Follow official local advisories for health and safety decisions.

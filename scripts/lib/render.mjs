@@ -1,208 +1,32 @@
-import { MAX_POP } from './metrics.mjs';
-
-const TREND_LABEL = { worsening: 'Worsening', improving: 'Improving', steady: 'Steady', new: 'New' };
-const TREND_ICON = { worsening: '↑', improving: '↓', steady: '→', new: '∗' };
-
 export function renderDashboard(data) {
-  const payload = JSON.stringify(data).replace(/</g, '\\u003c');
-
+  const payload=JSON.stringify(data).replace(/</g,'\\u003c');
   return `<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Air Quality Radar — Alen Air</title>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Air Quality Radar — Alen</title><meta name="description" content="Explore air quality across US and Canadian markets with dated observations, trends, and forecasts.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-<style>${CSS}</style>
-</head>
-<body>
-<div class="wrap">
-  <header>
-    <div class="title-row">
-      <h1>Air Quality Radar</h1>
-      <button id="themeToggle" class="theme-btn" aria-label="Toggle dark mode">◑</button>
-    </div>
-    <p class="sub">Timing geo-targeted marketing to bad-air-quality moments across the US &amp; Canada. Refreshed automatically every 30 minutes.</p>
-    <p class="disclosure">Mexico is not covered — no free real-time air-quality feed was available when this tool was built.</p>
-    <div id="statusBanner" class="status-banner hidden"></div>
-  </header>
-
-  <div class="tabs">
-    <button class="tab on" data-panel="opps">Top Opportunities</button>
-    <button class="tab" data-panel="list">List</button>
-    <button class="tab" data-panel="map">Map</button>
-  </div>
-
-  <section id="panel-opps" class="panel on"></section>
-  <section id="panel-list" class="panel"></section>
-  <section id="panel-map" class="panel"><div id="mapEl"></div></section>
-
-  <footer class="foot">Last updated <span id="asOf"></span> · Sources: AirNow (US), Environment Canada AQHI (Canada) · Population data from <a href="https://simplemaps.com/data/world-cities">SimpleMaps</a> (CC BY 4.0)</footer>
-</div>
-
+<link rel="stylesheet" href="./styles.css?v=20261001">
+</head><body>
+<a class="skip" href="#workspace">Skip to air quality map</a>
+<header class="header"><div class="brand"><span class="brand-mark">a</span><div><div class="eyebrow">ALEN · MARKET INTELLIGENCE</div><h1>Air Quality Radar</h1></div></div><div class="header-right"><span id="updated"></span><button id="refreshBtn" class="quiet">Refresh</button><button id="themeToggle" class="quiet" aria-label="Toggle dark mode">Light / dark</button></div></header>
+<main>
+<section class="overview" aria-label="Monitoring summary"><div class="overview-intro"><h2>A clearer view of your markets.</h2><p>Observed air quality across the US &amp; Canada.</p></div><div class="stat"><strong id="marketCount">—</strong><span>locations &amp; markets</span></div><div class="stat"><strong id="freshCount">—</strong><span>with recent observations</span></div><div class="stat"><strong id="priorityCount">—</strong><span>current elevated markets</span></div></section>
+<div id="statusBanner" class="status" role="status"></div>
+<section class="toolbar" aria-label="Map filters">
+<label class="search-label"><span>Find a location</span><input type="search" id="search" placeholder="City, state, or station name" autocomplete="off"></label>
+<label><span>Country</span><select id="country"><option value="">All coverage</option value="US">United States</option><option value="CA">Canada</option><option value="unknown">Unverified location</option></select></label>
+<label><span>Source</span><select id="source"><option value="">All sources</option><option>AirNow</option><option>EC AQHI</option><option>WAQI</option></select></label>
+<label><span>Conditions</span><select id="tier"><option value="">All conditions</option><option value="elevated">Watch &amp; alert</option><option value="alert">Alert</option><option value="watch">Watch</option><option value="ignore">Below watch</option></select></label>
+<label class="check"><input id="freshOnly" type="checkbox"><span>Recent only</span></label><button id="clearFilters" class="quiet">Clear filters</button>
+</section>
+<section class="workspace" id="workspace" aria-label="Air quality explorer">
+<aside class="market-panel"><div class="panel-heading"><h2>Markets</h2><span id="resultCount"></span></div><div class="list-tabs" role="group" aria-label="Market view"><button id="allView" aria-pressed="true">All locations</button><button id="priorityView" aria-pressed="false">Priorities</button></div><p class="list-note" id="listNote">Select a location to explore its readings.</p><div id="marketList"></div><button id="showMore" class="quiet full" hidden>Show more locations</button></aside>
+<div class="map-panel"><div class="map-heading"><span>Air quality observations</span><button id="resetMap" class="quiet">Reset map</button></div><div id="map" aria-label="Interactive air quality map"></div><div class="map-footer"><div class="legend" aria-label="US AQI legend"><b>US AQI</b><span><i style="--c:#4daa69"></i>0–50</span><span><i style="--c:#e4bd43"></i>51–100</span><span><i style="--c:#e88b3e"></i>101–150</span><span><i style="--c:#d95656"></i>151–200</span><span><i style="--c:#9d68ad"></i>201–300</span><span><i style="--c:#873853"></i>301+</span></div><div class="legend"><b>AQHI</b><span>1–3 low</span><span>4–6 moderate</span><span>7–10 high</span><span>10+ very high</span><span><i style="--c:#87939e"></i>Stale / time unknown</span></div><p>Markers show reporting locations, not continuous coverage. Blank areas do not mean clean air.</p></div></div>
+<aside class="detail-panel" id="detail" aria-label="Selected location"><p>Select a location on the map or in the list.</p></aside>
+</section>
+<details class="method"><summary>Sources, coverage &amp; how priorities work</summary><div class="method-grid"><section><h3>Observation freshness</h3><p>Recent means a dated observation within 3 hours. Cached fallback readings, older measurements, and readings without a verified time remain visible but are excluded from current priorities. Status updates while this page is open.</p><div id="sourceStatus"></div></section><section><h3>Market priorities</h3><p>Priorities use current severity and observed direction. Population is reference context only, not an exposed audience or a sales forecast. Confirmed place-name matches are grouped; uncertain locations stay separate.</p><p>Watch / Alert are internal planning tiers: US AQI 101–150 / 151+, Canadian AQHI 7–&lt;10 / 10+. AQI and AQHI are different scales, not interchangeable values.</p></section><section><h3>Coverage &amp; provenance</h3><p>AirNow reporting areas, Environment Canada AQHI locations, and available WAQI stations. Mexico is not systematically monitored. Missing sources and observation times are disclosed.</p><p><a href="https://www.airnow.gov/">AirNow</a> · <a href="https://weather.gc.ca/airquality/pages/index_e.html">Environment Canada</a> · <a href="https://waqi.info/">World Air Quality Index</a> · <a href="https://simplemaps.com/data/world-cities">SimpleMaps population reference (CC BY 4.0)</a></p><p>Use official local advisories for health and emergency decisions. Elevated AQI alone does not identify wildfire smoke.</p></section></div></details>
+</main><footer class="site-footer"><span>Alen Air Quality Radar</span><span>Public observations · Planning context · Release 2026.10.01</span><a href="https://github.com/nguenther97/air-quality-radar">Project &amp; methodology</a></footer>
 <script type="application/json" id="aqr-data">${payload}</script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script>${CLIENT_JS}</script>
-</body>
-</html>
-`;
+<script src="./app.js?v=20261001" defer></script>
+</body></html>`;
 }
-
-const CSS = `
-:root{color-scheme:light dark;--bg:#fff;--fg:#1A1A1A;--muted:#555;--border:#ddd;--card:#fafafa;
- --red:#B5271F;--red-bg:#fbeceb;--amber:#9A6A00;--amber-bg:#fbf3e2;--green:#1E7A3D;--green-bg:#e9f5ee;--blue:#1C5FA8;--blue-bg:#eaf1fa;}
-:root[data-theme="dark"]{--bg:#14161a;--fg:#e8e8e8;--muted:#a7a7a7;--border:#33363c;--card:#1c1f24;
- --red:#ff6b60;--red-bg:#3a1c1a;--amber:#e0a83c;--amber-bg:#3a2f14;--green:#5fd08a;--green-bg:#153a24;--blue:#6fa8dc;--blue-bg:#152840;}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#14161a;--fg:#e8e8e8;--muted:#a7a7a7;--border:#33363c;--card:#1c1f24;
- --red:#ff6b60;--red-bg:#3a1c1a;--amber:#e0a83c;--amber-bg:#3a2f14;--green:#5fd08a;--green-bg:#153a24;--blue:#6fa8dc;--blue-bg:#152840;}}
-*{box-sizing:border-box;}
-body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-.wrap{max-width:1080px;margin:0 auto;padding:24px 18px 60px;}
-.title-row{display:flex;align-items:center;justify-content:space-between;}
-h1{font-size:26px;margin:0;}
-.theme-btn{background:none;border:1px solid var(--border);border-radius:8px;font-size:16px;padding:4px 10px;cursor:pointer;color:var(--fg);}
-.sub{color:var(--muted);font-size:14px;margin:6px 0 4px;}
-.disclosure{color:var(--muted);font-size:13px;margin:0 0 10px;font-style:italic;}
-.status-banner{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber);border-radius:8px;padding:8px 12px;font-size:13px;margin:8px 0;}
-.status-banner.hidden{display:none;}
-.tabs{display:flex;gap:6px;border-bottom:2px solid var(--border);margin:18px 0 16px;}
-.tab{padding:9px 16px;border:1px solid var(--border);border-bottom:none;border-radius:8px 8px 0 0;background:var(--card);cursor:pointer;font-size:14px;font-weight:600;color:var(--fg);}
-.tab.on{background:var(--bg);border-bottom:2px solid var(--bg);margin-bottom:-2px;}
-.panel{display:none;}
-.panel.on{display:block;}
-h2{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:6px;margin:22px 0 12px;}
-.opp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;}
-.opp-card{border:1px solid var(--border);border-top:4px solid var(--red);border-radius:10px;padding:14px 16px;background:var(--card);}
-.opp-card .rank{font-size:11px;color:var(--muted);text-transform:uppercase;font-weight:700;}
-.opp-card .name{font-size:18px;font-weight:700;margin:2px 0 6px;}
-.opp-card .meta{font-size:13px;color:var(--muted);}
-.opp-card .angle{margin-top:10px;font-size:13px;background:var(--blue-bg);color:var(--blue);border-radius:6px;padding:8px 10px;}
-.reading{border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin-bottom:8px;background:var(--card);display:flex;flex-wrap:wrap;align-items:center;gap:10px;}
-.reading .name{font-weight:700;flex:1 1 200px;}
-.reading .val{font-size:15px;font-weight:700;}
-.badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:5px;border:1px solid;}
-.b-alert{color:var(--red);border-color:var(--red);background:var(--red-bg);}
-.b-watch{color:var(--amber);border-color:var(--amber);background:var(--amber-bg);}
-.b-worsening{color:var(--red);border-color:var(--red);background:var(--red-bg);}
-.b-improving{color:var(--green);border-color:var(--green);background:var(--green-bg);}
-.b-steady,.b-new{color:var(--blue);border-color:var(--blue);background:var(--blue-bg);}
-.reading .sub2{width:100%;font-size:12.5px;color:var(--muted);}
-.empty{color:var(--muted);font-size:14px;padding:10px 0;}
-#mapEl{height:600px;border-radius:10px;overflow:hidden;border:1px solid var(--border);}
-.foot{margin-top:30px;color:var(--muted);font-size:12px;text-align:center;}
-`;
-
-const CLIENT_JS = `
-const DATA = JSON.parse(document.getElementById('aqr-data').textContent);
-const MAX_POP = ${MAX_POP};
-const TREND_LABEL = ${JSON.stringify(TREND_LABEL)};
-const TREND_ICON = ${JSON.stringify(TREND_ICON)};
-
-(function initTheme(){
-  const saved = localStorage.getItem('aqr-theme');
-  if (saved) document.documentElement.setAttribute('data-theme', saved);
-  document.getElementById('themeToggle').addEventListener('click', () => {
-    const cur = document.documentElement.getAttribute('data-theme') ||
-      (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-    const next = cur === 'dark' ? 'light' : 'dark';
-    document.documentElement.setAttribute('data-theme', next);
-    localStorage.setItem('aqr-theme', next);
-  });
-})();
-
-document.getElementById('asOf').textContent = new Date(DATA.generatedAt).toLocaleString();
-
-const failed = (DATA.sourceStatus || []).filter(s => !s.ok);
-if (failed.length) {
-  const banner = document.getElementById('statusBanner');
-  banner.classList.remove('hidden');
-  banner.textContent = 'Data source issue: ' + failed.map(s => s.source + ' (' + s.error + ')').join(', ') + ' — showing last known good data for that source.';
-}
-
-function badgeTier(tier) { return '<span class="badge b-' + tier + '">' + tier.toUpperCase() + '</span>'; }
-function badgeTrend(trend) { return '<span class="badge b-' + trend + '">' + TREND_ICON[trend] + ' ' + TREND_LABEL[trend] + '</span>'; }
-function fmtPop(p) { return p == null ? 'population unknown' : Math.round(p).toLocaleString() + ' pop.'; }
-function elevatedText(h) { return h == null ? '' : ' · elevated for ' + (h < 1 ? '<1' : Math.round(h)) + 'h'; }
-function forecastBadge(r) {
-  const f = r.forecastNextDay;
-  if (!f) return '';
-  const cls = f.tier === 'ignore' ? 'improving' : (f.value > r.value ? 'worsening' : (f.value < r.value ? 'improving' : 'steady'));
-  return '<span class="badge b-' + cls + '">Tomorrow: ' + f.value + ' ' + f.unit + ' · ' + f.category + '</span>';
-}
-
-function renderOpportunities() {
-  const el = document.getElementById('panel-opps');
-  if (!DATA.topOpportunities.length) {
-    el.innerHTML = '<div class="empty">No scored opportunities right now — nothing at Watch/Alert tier with a population match.</div>';
-    return;
-  }
-  el.innerHTML = '<h2>Top Opportunities Right Now</h2><div class="opp-grid">' +
-    DATA.topOpportunities.map((r, i) => \`
-      <div class="opp-card">
-        <div class="rank">#\${i + 1}</div>
-        <div class="name">\${r.name}, \${r.state || ''}</div>
-        <div class="meta">\${r.value} \${r.unit} · \${r.category} \${badgeTier(r.tier)}</div>
-        <div class="meta">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} \${badgeTrend(r.trend)} \${forecastBadge(r)}</div>
-      </div>\`).join('') + '</div>';
-}
-
-function renderList() {
-  const el = document.getElementById('panel-list');
-  const alerts = DATA.readings.filter(r => r.tier === 'alert');
-  const watches = DATA.readings.filter(r => r.tier === 'watch');
-  function section(title, items) {
-    if (!items.length) return '<h2>' + title + '</h2><div class="empty">None right now.</div>';
-    return '<h2>' + title + ' (' + items.length + ')</h2>' + items.map(r => \`
-      <div class="reading">
-        <span class="name">\${r.name}, \${r.state || ''}</span>
-        <span class="val">\${r.value} \${r.unit}</span>
-        <span>\${r.category}</span>
-        \${badgeTrend(r.trend)} \${forecastBadge(r)}
-        <span class="sub2">\${fmtPop(r.population)}\${elevatedText(r.elevatedHours)} · \${r.source} · observed \${r.observedAt || 'n/a'}</span>
-      </div>\`).join('');
-  }
-  el.innerHTML = section('Alert', alerts) + section('Watch', watches);
-}
-
-let map, markerLayer;
-function initMap() {
-  map = L.map('mapEl', { worldCopyJump: false }).setView([45, -95], 4);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors',
-    maxZoom: 12,
-  }).addTo(map);
-  markerLayer = L.layerGroup().addTo(map);
-
-  for (const r of DATA.readings) {
-    if (r.tier === 'ignore' || r.lat == null || r.lon == null) continue;
-    const color = r.tier === 'alert' ? '#B5271F' : '#9A6A00';
-    const pop = r.population || 0;
-    const radius = 6 + 24 * Math.sqrt(pop) / Math.sqrt(MAX_POP);
-    L.circleMarker([r.lat, r.lon], {
-      radius, color, fillColor: color, fillOpacity: 0.45, weight: 1.5,
-    }).bindPopup(
-      '<b>' + r.name + ', ' + (r.state || '') + '</b><br>' +
-      r.value + ' ' + r.unit + ' · ' + r.category + '<br>' +
-      fmtPop(r.population) + elevatedText(r.elevatedHours) + '<br>' +
-      TREND_LABEL[r.trend]
-    ).addTo(markerLayer);
-  }
-}
-
-renderOpportunities();
-renderList();
-initMap();
-
-const tabs = document.querySelectorAll('.tab');
-tabs.forEach(tab => tab.addEventListener('click', () => {
-  tabs.forEach(t => t.classList.remove('on'));
-  tab.classList.add('on');
-  document.querySelectorAll('.panel').forEach(p => p.classList.remove('on'));
-  const panel = document.getElementById('panel-' + tab.dataset.panel);
-  panel.classList.add('on');
-  if (tab.dataset.panel === 'map' && map) {
-    map.invalidateSize();
-    map.setView([45, -95], 4);
-  }
-}));
-`;
