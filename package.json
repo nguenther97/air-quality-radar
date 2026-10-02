@@ -2,6 +2,10 @@
   "name": "air-quality-radar",
   "private": true,
   "type": "module",
+  "scripts": {
+    "build": "node scripts/fetch_and_build.mjs",
+    "test": "node --test --test-isolation=none tests/*.test.mjs"
+  },
   "engines": { "node": ">=20" },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.68.0"
