@@ -1,47 +1,37 @@
-const EARTH_RADIUS_KM = 6371;
-const NEAREST_MAX_KM = 50;
+import { US_STATES, CA_PROVINCES } from './airnow.mjs';
 
-function haversineKm(lat1, lon1, lat2, lon2) {
-  const dLat = ((lat2 - lat1) * Math.PI) / 180;
-  const dLon = ((lon2 - lon1) * Math.PI) / 180;
-  const rLat1 = (lat1 * Math.PI) / 180;
-  const rLat2 = (lat2 * Math.PI) / 180;
-  const a =
-    Math.sin(dLat / 2) ** 2 + Math.cos(rLat1) * Math.cos(rLat2) * Math.sin(dLon / 2) ** 2;
-  return 2 * EARTH_RADIUS_KM * Math.asin(Math.sqrt(a));
+const empty = () => ({ population: null, matchType: null, matchedCity: null, matchedState: null, marketKey: null });
+export function normalizePlace(name = '') {
+  return name.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+    .replace(/\bsaint\b/g, 'st').replace(/[^a-z0-9]+/g, ' ').trim();
 }
-
-export function buildPopulationIndex(cities) {
-  const byNameState = new Map();
-  for (const city of cities) {
-    byNameState.set(`${city.state}|${city.city.toLowerCase()}`, city);
-  }
-  return { cities, byNameState };
+export function haversineKm(lat1, lon1, lat2, lon2) {
+  const rad = Math.PI / 180;
+  const a = Math.sin((lat2-lat1)*rad/2)**2 + Math.cos(lat1*rad)*Math.cos(lat2*rad)*Math.sin((lon2-lon1)*rad/2)**2;
+  return 12742 * Math.asin(Math.sqrt(Math.min(1,a)));
 }
-
+function countryOf(city) { return CA_PROVINCES.has(city.state) ? 'CA' : US_STATES.has(city.state) ? 'US' : null; }
+export function buildPopulationIndex(cities) { return { cities }; }
 export function matchPopulation(reading, index) {
-  if (reading.state) {
-    const exact = index.byNameState.get(`${reading.state}|${reading.name.toLowerCase()}`);
-    if (exact) return { population: exact.population, matchType: 'exact', matchedCity: exact.city, matchedState: exact.state };
+  // A nearest suburb is not the population of a regional reporting area.
+  const name = normalizePlace(reading.name);
+  const named = index.cities.filter(c => (!reading.state || c.state === reading.state)
+    && (!reading.country || countryOf(c) === reading.country) && normalizePlace(c.city) === name);
+  const located = Number.isFinite(reading.lat) && Number.isFinite(reading.lon);
+  const nearby = candidates => located ? candidates.filter(c => haversineKm(reading.lat,reading.lon,c.lat,c.lon) <= 50) : candidates;
+  let candidates = nearby(named);
+  let matchType = 'name';
+  if (!candidates.length && reading.source === 'WAQI' && located) {
+    const stationCity = normalizePlace((reading.name || '').split(/[,-]/)[0]);
+    candidates = index.cities.filter(c => normalizePlace(c.city) === stationCity
+      && (!reading.state || c.state === reading.state) && (!reading.country || countryOf(c) === reading.country)
+      && haversineKm(reading.lat,reading.lon,c.lat,c.lon) <= 15);
+    matchType = 'station-name';
   }
-
-  if (reading.lat == null || reading.lon == null) {
-    return { population: null, matchType: null, matchedCity: null, matchedState: null };
-  }
-
-  let best = null;
-  let bestDist = Infinity;
-  for (const city of index.cities) {
-    const d = haversineKm(reading.lat, reading.lon, city.lat, city.lon);
-    if (d < bestDist) {
-      bestDist = d;
-      best = city;
-    }
-  }
-
-  if (best && bestDist <= NEAREST_MAX_KM) {
-    return { population: best.population, matchType: 'nearest', matchedCity: best.city, matchedState: best.state };
-  }
-
-  return { population: null, matchType: null, matchedCity: null, matchedState: null };
+  if (candidates.length !== 1) return empty();
+  const city = candidates[0];
+  if (!reading.state && !located) return empty();
+  return { population: Number.isFinite(city.population) ? city.population : null, matchType,
+    matchedCity: city.city, matchedState: city.state, matchedCountry: countryOf(city),
+    marketKey: `${countryOf(city)}|${city.state}|${normalizePlace(city.city)}` };
 }
