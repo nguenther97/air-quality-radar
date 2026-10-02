@@ -1,47 +1,5 @@
 [
   {
-    "region_key": "US|LA|Baton Rouge Area",
-    "value": 108,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790714295158
-  },
-  {
-    "region_key": "WAQI|6285",
-    "value": 148,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790714295158
-  },
-  {
-    "region_key": "WAQI|-1438237",
-    "value": 171,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790714295158
-  },
-  {
-    "region_key": "WAQI|-662017",
-    "value": 116,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790714295158
-  },
-  {
-    "region_key": "WAQI|4206",
-    "value": 271,
-    "unit": "AQI",
-    "tier": "alert",
-    "captured_at": 1790714295158
-  },
-  {
-    "region_key": "WAQI|-2725612",
-    "value": 125,
-    "unit": "AQI",
-    "tier": "watch",
-    "captured_at": 1790714295158
-  },
-  {
     "region_key": "US|GA|Atlanta",
     "value": 143,
     "unit": "AQI",
@@ -467,5 +425,201 @@
     "unit": "AQI",
     "tier": "watch",
     "captured_at": 1790886404482
+  },
+  {
+    "region_key": "US|CA|Arden Arcade-Del Paso Manor",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Bakersfield",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|C San Bernardino",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|C San Bernardino M",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Coachella Vly",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Davis",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|E San Bernardino",
+    "value": 143,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|E San Gabriel Vly",
+    "value": 150,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Fresno",
+    "value": 129,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Hanford",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Lake Elsinore",
+    "value": 140,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Madera",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Metro Riverside CO",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Modesto",
+    "value": 122,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Natomas",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|North Highlands",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|North Orange CO",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Sacramento",
+    "value": 108,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Saddleback Vly",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Santa Clarita Vly",
+    "value": 133,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|Visalia",
+    "value": 185,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "US|CA|W San Fernando Vly",
+    "value": 101,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "WAQI|252",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "WAQI|-524644",
+    "value": 123,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "WAQI|-516028",
+    "value": 113,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "WAQI|242",
+    "value": 115,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "WAQI|-662017",
+    "value": 196,
+    "unit": "AQI",
+    "tier": "alert",
+    "captured_at": 1790899523050
+  },
+  {
+    "region_key": "WAQI|239",
+    "value": 105,
+    "unit": "AQI",
+    "tier": "watch",
+    "captured_at": 1790899523050
   }
 ]
