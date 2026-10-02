@@ -6,13 +6,6 @@
     "lastAlertedAt": 1790806436966,
     "issueNumber": 1423
   },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "alert",
-    "firstSeen": 1790833793457,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1424
-  },
   "FORECAST|US|CA|E San Fernando Vly": {
     "region": "E San Fernando Vly, CA",
     "tier": "watch",
@@ -20,159 +13,12 @@
     "lastAlertedAt": 1790860257407,
     "issueNumber": 1429
   },
-  "US|CA|Arden Arcade-Del Paso Manor": {
-    "region": "Arden Arcade-Del Paso Manor, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1434
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1435
-  },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1436
-  },
-  "US|CA|C San Bernardino M": {
-    "region": "C San Bernardino M, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1437
-  },
   "US|CA|E San Bernardino": {
     "region": "E San Bernardino, CA",
     "tier": "watch",
     "firstSeen": 1790894400087,
     "lastAlertedAt": 1790894400087,
     "issueNumber": 1438
-  },
-  "US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1439
-  },
-  "US|CA|Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1440
-  },
-  "US|CA|Lake Elsinore": {
-    "region": "Lake Elsinore, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1441
-  },
-  "US|CA|Madera": {
-    "region": "Madera, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1442
-  },
-  "US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1443
-  },
-  "US|CA|Modesto": {
-    "region": "Modesto, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1444
-  },
-  "US|CA|Natomas": {
-    "region": "Natomas, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1445
-  },
-  "US|CA|North Highlands": {
-    "region": "North Highlands, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1446
-  },
-  "US|CA|Sacramento": {
-    "region": "Sacramento, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1447
-  },
-  "US|CA|San Diego Foothills": {
-    "region": "San Diego Foothills, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1448
-  },
-  "US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1449
-  },
-  "US|CA|W San Fernando Vly": {
-    "region": "W San Fernando Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1450
-  },
-  "WAQI|252": {
-    "region": "Rubidoux - Mission Blvd, Riverside, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1451
-  },
-  "WAQI|246": {
-    "region": "Santa Clarita-Placerita, Los Angeles, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1452
-  },
-  "WAQI|242": {
-    "region": "Glendora-Laurel, Los Angeles, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1453
-  },
-  "WAQI|7358": {
-    "region": "Branch Street, Missouri, USA, MO",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1454
-  },
-  "WAQI|-570067": {
-    "region": "Lifers 98th, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1455
   },
   "FORECAST|US|CA|North Orange CO": {
     "region": "North Orange CO, CA",
@@ -195,11 +41,102 @@
     "lastAlertedAt": 1790894400087,
     "issueNumber": 1458
   },
-  "US-CA-San Francisco": {
-    "region": "San Francisco Bay Area, CA",
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
     "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1459
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1461
+  },
+  "CA|IANHQ|Wood Buffalo - south": {
+    "region": "Wood Buffalo - south, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1462
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "alert",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1463
+  },
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1464
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1465
+  },
+  "WAQI|7357": {
+    "region": "Troost, Missouri, USA, US",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1466
+  },
+  "WAQI|-1438231": {
+    "region": "Rue Jacques-bureau, null",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1467
+  },
+  "FORECAST|US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1468
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1469
+  },
+  "FORECAST|US|CA|E San Gabriel Vly": {
+    "region": "E San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1470
+  },
+  "FORECAST|US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1471
+  },
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1472
+  },
+  "FORECAST|US|CA|San Diego Foothills": {
+    "region": "San Diego Foothills, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1473
+  },
+  "FORECAST|US|CA|Santa Clarita Vly": {
+    "region": "Santa Clarita Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1790919277535,
+    "lastAlertedAt": 1790919277535,
+    "issueNumber": 1474
   }
 }
