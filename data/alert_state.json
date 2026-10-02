@@ -6,20 +6,6 @@
     "lastAlertedAt": 1790806436966,
     "issueNumber": 1423
   },
-  "FORECAST|US|CA|E San Fernando Vly": {
-    "region": "E San Fernando Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790860257407,
-    "lastAlertedAt": 1790860257407,
-    "issueNumber": 1429
-  },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1438
-  },
   "FORECAST|US|CA|North Orange CO": {
     "region": "North Orange CO, CA",
     "tier": "watch",
@@ -41,68 +27,12 @@
     "lastAlertedAt": 1790894400087,
     "issueNumber": 1458
   },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1461
-  },
-  "CA|IANHQ|Wood Buffalo - south": {
-    "region": "Wood Buffalo - south, CA",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1462
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "alert",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1463
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1464
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1465
-  },
-  "WAQI|7357": {
-    "region": "Troost, Missouri, USA, US",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1466
-  },
-  "WAQI|-1438231": {
-    "region": "Rue Jacques-bureau, null",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1467
-  },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
     "firstSeen": 1790919277535,
     "lastAlertedAt": 1790919277535,
     "issueNumber": 1468
-  },
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1469
   },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
@@ -138,5 +68,54 @@
     "firstSeen": 1790919277535,
     "lastAlertedAt": 1790919277535,
     "issueNumber": 1474
+  },
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
+    "tier": "watch",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1475
+  },
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
+    "tier": "watch",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1476
+  },
+  "WAQI|-1435885": {
+    "region": "Rue Morin, null",
+    "tier": "watch",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1477
+  },
+  "US-NY-New York City": {
+    "region": "New York City, NY",
+    "tier": "watch",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1478
+  },
+  "US-PA-Philadelphia": {
+    "region": "Philadelphia, PA",
+    "tier": "alert",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1479
+  },
+  "US-CO-Denver": {
+    "region": "Denver / Front Range, CO",
+    "tier": "watch",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1480
+  },
+  "US-NC-Raleigh-Durham": {
+    "region": "Raleigh-Durham (Triangle), NC",
+    "tier": "watch",
+    "firstSeen": 1790944328050,
+    "lastAlertedAt": 1790944328050,
+    "issueNumber": 1481
   }
 }
