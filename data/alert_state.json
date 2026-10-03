@@ -6,75 +6,12 @@
     "lastAlertedAt": 1790806436966,
     "issueNumber": 1423
   },
-  "FORECAST|US|CA|North Orange CO": {
-    "region": "North Orange CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1456
-  },
-  "FORECAST|US|CA|S San Gabriel Vly": {
-    "region": "S San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790894400087,
-    "lastAlertedAt": 1790894400087,
-    "issueNumber": 1457
-  },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "watch",
     "firstSeen": 1790919277535,
     "lastAlertedAt": 1790919277535,
     "issueNumber": 1470
-  },
-  "FORECAST|US|CA|Santa Clarita Vly": {
-    "region": "Santa Clarita Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1474
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1482
-  },
-  "US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1483
-  },
-  "US|CA|Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1485
-  },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1486
-  },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1489
-  },
-  "WAQI|275": {
-    "region": "Fresno - Drummond Street, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1491
   },
   "FORECAST|US|CA|Arden Arcade-Del Paso Manor": {
     "region": "Arden Arcade-Del Paso Manor, CA",
@@ -97,26 +34,12 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1494
   },
-  "FORECAST|US|CA|Concord": {
-    "region": "Concord, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1495
-  },
   "FORECAST|US|CA|Elk Grove": {
     "region": "Elk Grove, CA",
     "tier": "watch",
     "firstSeen": 1790979159539,
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1496
-  },
-  "FORECAST|US|CA|Fairfield": {
-    "region": "Fairfield, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1497
   },
   "FORECAST|US|CA|Folsom": {
     "region": "Folsom, CA",
@@ -131,13 +54,6 @@
     "firstSeen": 1790979159539,
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1499
-  },
-  "FORECAST|US|CA|Livermore": {
-    "region": "Livermore, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1500
   },
   "FORECAST|US|CA|Modesto": {
     "region": "Modesto, CA",
@@ -160,13 +76,6 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1505
   },
-  "FORECAST|US|CA|Oakland": {
-    "region": "Oakland, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1506
-  },
   "FORECAST|US|CA|Roseville-Rocklin": {
     "region": "Roseville-Rocklin, CA",
     "tier": "watch",
@@ -181,47 +90,12 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1508
   },
-  "FORECAST|US|CA|San Francisco": {
-    "region": "San Francisco, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1509
-  },
-  "FORECAST|US|CA|San Jose": {
-    "region": "San Jose, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1510
-  },
   "FORECAST|US|CA|Sloughhouse": {
     "region": "Sloughhouse, CA",
     "tier": "watch",
     "firstSeen": 1790979159539,
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1511
-  },
-  "US|CA|Madera": {
-    "region": "Madera, CA",
-    "tier": "watch",
-    "firstSeen": 1791004601664,
-    "lastAlertedAt": 1791004601664,
-    "issueNumber": 1522
-  },
-  "US|CA|Merced": {
-    "region": "Merced, CA",
-    "tier": "watch",
-    "firstSeen": 1791004601664,
-    "lastAlertedAt": 1791004601664,
-    "issueNumber": 1523
-  },
-  "WAQI|276": {
-    "region": "Fresno - Garland, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1791004601664,
-    "lastAlertedAt": 1791004601664,
-    "issueNumber": 1524
   },
   "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
@@ -230,18 +104,95 @@
     "lastAlertedAt": 1791004601664,
     "issueNumber": 1525
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
-    "tier": "watch",
-    "firstSeen": 1791004601664,
-    "lastAlertedAt": 1791004601664,
-    "issueNumber": 1526
+  "US|CA|Yosemite National Park": {
+    "region": "Yosemite National Park, CA",
+    "tier": "alert",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1528
   },
-  "US-CA-San Rafael": {
-    "region": "San Rafael, CA",
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
+    "tier": "alert",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1529
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
     "tier": "watch",
-    "firstSeen": 1791004601664,
-    "lastAlertedAt": 1791004601664,
-    "issueNumber": 1527
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1530
+  },
+  "FORECAST|US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1531
+  },
+  "FORECAST|US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1532
+  },
+  "FORECAST|US|CA|Hanford": {
+    "region": "Hanford, CA",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1533
+  },
+  "FORECAST|US|CA|Madera": {
+    "region": "Madera, CA",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1534
+  },
+  "FORECAST|US|CA|Merced": {
+    "region": "Merced, CA",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1535
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1536
+  },
+  "US-TX-Houston": {
+    "region": "Houston, TX",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1537
+  },
+  "US-TX-Austin": {
+    "region": "Austin, TX",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1538
+  },
+  "US-TX-San Antonio": {
+    "region": "San Antonio, TX",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1539
+  },
+  "US-TX-Corpus Christi": {
+    "region": "Corpus Christi, TX",
+    "tier": "watch",
+    "firstSeen": 1791027478642,
+    "lastAlertedAt": 1791027478642,
+    "issueNumber": 1540
   }
 }
