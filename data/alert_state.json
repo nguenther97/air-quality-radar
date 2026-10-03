@@ -48,13 +48,6 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1483
   },
-  "US|CA|E San Bernardino": {
-    "region": "E San Bernardino, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1484
-  },
   "US|CA|Fresno": {
     "region": "Fresno, CA",
     "tier": "watch",
@@ -69,33 +62,12 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1486
   },
-  "US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1487
-  },
-  "US|CA|S Central LA CO": {
-    "region": "S Central LA CO, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1488
-  },
   "US|CA|Visalia": {
     "region": "Visalia, CA",
     "tier": "watch",
     "firstSeen": 1790979159539,
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1489
-  },
-  "WAQI|-570067": {
-    "region": "Lifers 98th, null",
-    "tier": "alert",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1490
   },
   "WAQI|275": {
     "region": "Fresno - Drummond Street, Fresno, California, CA",
@@ -167,20 +139,6 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1500
   },
-  "FORECAST|US|CA|Madera": {
-    "region": "Madera, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1501
-  },
-  "FORECAST|US|CA|Merced": {
-    "region": "Merced, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1502
-  },
   "FORECAST|US|CA|Modesto": {
     "region": "Modesto, CA",
     "tier": "watch",
@@ -244,74 +202,46 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1511
   },
-  "US|MN|Minneapolis": {
-    "region": "Minneapolis, MN",
-    "tier": "alert",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1512
-  },
-  "US|WI|Milwaukee": {
-    "region": "Milwaukee, WI",
+  "US|CA|Madera": {
+    "region": "Madera, CA",
     "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1513
+    "firstSeen": 1791004601664,
+    "lastAlertedAt": 1791004601664,
+    "issueNumber": 1522
   },
-  "US|MI|Detroit": {
-    "region": "Detroit, MI",
-    "tier": "alert",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1514
-  },
-  "US|IL|Chicago": {
-    "region": "Chicago, IL",
-    "tier": "alert",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1515
-  },
-  "US|DC|Washington": {
-    "region": "Washington, DC",
-    "tier": "alert",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1516
-  },
-  "US|NY|New York": {
-    "region": "New York, NY",
+  "US|CA|Merced": {
+    "region": "Merced, CA",
     "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1517
+    "firstSeen": 1791004601664,
+    "lastAlertedAt": 1791004601664,
+    "issueNumber": 1523
   },
-  "US|PA|Philadelphia": {
-    "region": "Philadelphia, PA",
+  "WAQI|276": {
+    "region": "Fresno - Garland, Fresno, California, CA",
     "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1518
+    "firstSeen": 1791004601664,
+    "lastAlertedAt": 1791004601664,
+    "issueNumber": 1524
   },
-  "US|PA|Pittsburgh": {
-    "region": "Pittsburgh, PA",
+  "FORECAST|US|CA|Metro Riverside CO": {
+    "region": "Metro Riverside CO, CA",
     "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1519
+    "firstSeen": 1791004601664,
+    "lastAlertedAt": 1791004601664,
+    "issueNumber": 1525
   },
-  "US|OH|Cleveland": {
-    "region": "Cleveland, OH",
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
     "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1520
+    "firstSeen": 1791004601664,
+    "lastAlertedAt": 1791004601664,
+    "issueNumber": 1526
   },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
+  "US-CA-San Rafael": {
+    "region": "San Rafael, CA",
     "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1521
+    "firstSeen": 1791004601664,
+    "lastAlertedAt": 1791004601664,
+    "issueNumber": 1527
   }
 }
