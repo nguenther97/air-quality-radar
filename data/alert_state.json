@@ -113,17 +113,10 @@
   },
   "WAQI|230": {
     "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
-    "tier": "alert",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1529
-  },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
     "tier": "watch",
     "firstSeen": 1791027478642,
     "lastAlertedAt": 1791027478642,
-    "issueNumber": 1530
+    "issueNumber": 1529
   },
   "FORECAST|US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
@@ -160,39 +153,88 @@
     "lastAlertedAt": 1791027478642,
     "issueNumber": 1535
   },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1536
+  "WAQI|-2626225": {
+    "region": "KomokaWeather, null",
+    "tier": "alert",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1541
   },
-  "US-TX-Houston": {
-    "region": "Houston, TX",
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
     "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1537
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1542
   },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
     "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1538
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1543
   },
-  "US-TX-San Antonio": {
-    "region": "San Antonio, TX",
+  "WAQI|5485": {
+    "region": "Edson, Alberta, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1539
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1544
   },
-  "US-TX-Corpus Christi": {
-    "region": "Corpus Christi, TX",
+  "FORECAST|US|CA|Concord": {
+    "region": "Concord, CA",
     "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1540
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1545
+  },
+  "FORECAST|US|CA|Fairfield": {
+    "region": "Fairfield, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1546
+  },
+  "FORECAST|US|CA|Livermore": {
+    "region": "Livermore, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1547
+  },
+  "FORECAST|US|CA|Oakland": {
+    "region": "Oakland, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1548
+  },
+  "FORECAST|US|CA|San Francisco": {
+    "region": "San Francisco, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1549
+  },
+  "FORECAST|US|CA|San Jose": {
+    "region": "San Jose, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1550
+  },
+  "US-CA-Santa Rosa": {
+    "region": "Santa Rosa, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1551
+  },
+  "US-CA-Stockton": {
+    "region": "Stockton, CA",
+    "tier": "watch",
+    "firstSeen": 1791044176787,
+    "lastAlertedAt": 1791044176787,
+    "issueNumber": 1552
   }
 }
