@@ -106,7 +106,7 @@
   },
   "US|CA|Yosemite National Park": {
     "region": "Yosemite National Park, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1791027478642,
     "lastAlertedAt": 1791027478642,
     "issueNumber": 1528
@@ -117,13 +117,6 @@
     "firstSeen": 1791027478642,
     "lastAlertedAt": 1791027478642,
     "issueNumber": 1529
-  },
-  "FORECAST|US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1531
   },
   "FORECAST|US|CA|Fresno": {
     "region": "Fresno, CA",
@@ -152,34 +145,6 @@
     "firstSeen": 1791027478642,
     "lastAlertedAt": 1791027478642,
     "issueNumber": 1535
-  },
-  "WAQI|-2626225": {
-    "region": "KomokaWeather, null",
-    "tier": "alert",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1541
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1542
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1543
-  },
-  "WAQI|5485": {
-    "region": "Edson, Alberta, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1544
   },
   "FORECAST|US|CA|Concord": {
     "region": "Concord, CA",
@@ -223,18 +188,67 @@
     "lastAlertedAt": 1791044176787,
     "issueNumber": 1550
   },
-  "US-CA-Santa Rosa": {
-    "region": "Santa Rosa, CA",
+  "US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
     "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1551
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1553
   },
-  "US-CA-Stockton": {
-    "region": "Stockton, CA",
+  "US|CO|Denver-Boulder": {
+    "region": "Denver-Boulder, CO",
     "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1552
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1554
+  },
+  "US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1555
+  },
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, null",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1556
+  },
+  "FORECAST|US|CA|C San Bernardino": {
+    "region": "C San Bernardino, CA",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1557
+  },
+  "FORECAST|US|CA|Saddleback Vly": {
+    "region": "Saddleback Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1558
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1559
+  },
+  "CA-BC-Kelowna": {
+    "region": "Kelowna, BC",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1560
+  },
+  "US-NV-Reno": {
+    "region": "Reno, NV",
+    "tier": "watch",
+    "firstSeen": 1791061980015,
+    "lastAlertedAt": 1791061980015,
+    "issueNumber": 1561
   }
 }
