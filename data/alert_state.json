@@ -1,11 +1,4 @@
 {
-  "FORECAST|US|CA|W San Gabriel Vly": {
-    "region": "W San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1790806436966,
-    "lastAlertedAt": 1790806436966,
-    "issueNumber": 1423
-  },
   "FORECAST|US|CA|E San Gabriel Vly": {
     "region": "E San Gabriel Vly, CA",
     "tier": "watch",
@@ -55,13 +48,6 @@
     "lastAlertedAt": 1790979159539,
     "issueNumber": 1499
   },
-  "FORECAST|US|CA|Modesto": {
-    "region": "Modesto, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1503
-  },
   "FORECAST|US|CA|Natomas": {
     "region": "Natomas, CA",
     "tier": "watch",
@@ -104,13 +90,6 @@
     "lastAlertedAt": 1791004601664,
     "issueNumber": 1525
   },
-  "US|CA|Yosemite National Park": {
-    "region": "Yosemite National Park, CA",
-    "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1528
-  },
   "WAQI|230": {
     "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
     "tier": "watch",
@@ -132,89 +111,12 @@
     "lastAlertedAt": 1791027478642,
     "issueNumber": 1533
   },
-  "FORECAST|US|CA|Madera": {
-    "region": "Madera, CA",
-    "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1534
-  },
-  "FORECAST|US|CA|Merced": {
-    "region": "Merced, CA",
-    "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1535
-  },
-  "FORECAST|US|CA|Concord": {
-    "region": "Concord, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1545
-  },
-  "FORECAST|US|CA|Fairfield": {
-    "region": "Fairfield, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1546
-  },
-  "FORECAST|US|CA|Livermore": {
-    "region": "Livermore, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1547
-  },
-  "FORECAST|US|CA|Oakland": {
-    "region": "Oakland, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1548
-  },
-  "FORECAST|US|CA|San Francisco": {
-    "region": "San Francisco, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1549
-  },
-  "FORECAST|US|CA|San Jose": {
-    "region": "San Jose, CA",
-    "tier": "watch",
-    "firstSeen": 1791044176787,
-    "lastAlertedAt": 1791044176787,
-    "issueNumber": 1550
-  },
   "US|CA|Bakersfield": {
     "region": "Bakersfield, CA",
     "tier": "watch",
     "firstSeen": 1791061980015,
     "lastAlertedAt": 1791061980015,
     "issueNumber": 1553
-  },
-  "US|CO|Denver-Boulder": {
-    "region": "Denver-Boulder, CO",
-    "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1554
-  },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1555
-  },
-  "WAQI|8592": {
-    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, null",
-    "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1556
   },
   "FORECAST|US|CA|C San Bernardino": {
     "region": "C San Bernardino, CA",
@@ -230,25 +132,46 @@
     "lastAlertedAt": 1791061980015,
     "issueNumber": 1558
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
-    "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1559
+  "WAQI|217": {
+    "region": "Austin Audubon Society, Austin, Texas, null",
+    "tier": "alert",
+    "firstSeen": 1791116429556,
+    "lastAlertedAt": 1791116429556,
+    "issueNumber": 1562
   },
-  "CA-BC-Kelowna": {
-    "region": "Kelowna, BC",
-    "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1560
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1791116429556,
+    "lastAlertedAt": 1791116429556,
+    "issueNumber": 1563
   },
-  "US-NV-Reno": {
-    "region": "Reno, NV",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1561
+    "firstSeen": 1791116429556,
+    "lastAlertedAt": 1791116429556,
+    "issueNumber": 1564
+  },
+  "WAQI|-2626225": {
+    "region": "KomokaWeather, null",
+    "tier": "watch",
+    "firstSeen": 1791116429556,
+    "lastAlertedAt": 1791116429556,
+    "issueNumber": 1565
+  },
+  "WAQI|-534268": {
+    "region": "Soco Mt, null",
+    "tier": "watch",
+    "firstSeen": 1791116429556,
+    "lastAlertedAt": 1791116429556,
+    "issueNumber": 1566
+  },
+  "FORECAST|US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "watch",
+    "firstSeen": 1791116429556,
+    "lastAlertedAt": 1791116429556,
+    "issueNumber": 1567
   }
 }
