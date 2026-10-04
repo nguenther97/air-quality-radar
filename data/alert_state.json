@@ -6,96 +6,12 @@
     "lastAlertedAt": 1790919277535,
     "issueNumber": 1470
   },
-  "FORECAST|US|CA|Arden Arcade-Del Paso Manor": {
-    "region": "Arden Arcade-Del Paso Manor, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1492
-  },
-  "FORECAST|US|CA|Auburn": {
-    "region": "Auburn, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1493
-  },
-  "FORECAST|US|CA|Colfax": {
-    "region": "Colfax, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1494
-  },
-  "FORECAST|US|CA|Elk Grove": {
-    "region": "Elk Grove, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1496
-  },
-  "FORECAST|US|CA|Folsom": {
-    "region": "Folsom, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1498
-  },
-  "FORECAST|US|CA|Lincoln": {
-    "region": "Lincoln, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1499
-  },
-  "FORECAST|US|CA|Natomas": {
-    "region": "Natomas, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1504
-  },
-  "FORECAST|US|CA|North Highlands": {
-    "region": "North Highlands, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1505
-  },
-  "FORECAST|US|CA|Roseville-Rocklin": {
-    "region": "Roseville-Rocklin, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1507
-  },
-  "FORECAST|US|CA|Sacramento": {
-    "region": "Sacramento, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1508
-  },
-  "FORECAST|US|CA|Sloughhouse": {
-    "region": "Sloughhouse, CA",
-    "tier": "watch",
-    "firstSeen": 1790979159539,
-    "lastAlertedAt": 1790979159539,
-    "issueNumber": 1511
-  },
   "FORECAST|US|CA|Metro Riverside CO": {
     "region": "Metro Riverside CO, CA",
     "tier": "watch",
     "firstSeen": 1791004601664,
     "lastAlertedAt": 1791004601664,
     "issueNumber": 1525
-  },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
-    "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1529
   },
   "FORECAST|US|CA|Fresno": {
     "region": "Fresno, CA",
@@ -132,46 +48,95 @@
     "lastAlertedAt": 1791061980015,
     "issueNumber": 1558
   },
-  "WAQI|217": {
-    "region": "Austin Audubon Society, Austin, Texas, null",
-    "tier": "alert",
-    "firstSeen": 1791116429556,
-    "lastAlertedAt": 1791116429556,
-    "issueNumber": 1562
-  },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1791116429556,
-    "lastAlertedAt": 1791116429556,
-    "issueNumber": 1563
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, CA",
+  "US|CA|Fremont": {
+    "region": "Fremont, CA",
     "tier": "watch",
-    "firstSeen": 1791116429556,
-    "lastAlertedAt": 1791116429556,
-    "issueNumber": 1564
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1568
   },
-  "WAQI|-2626225": {
-    "region": "KomokaWeather, null",
-    "tier": "watch",
-    "firstSeen": 1791116429556,
-    "lastAlertedAt": 1791116429556,
-    "issueNumber": 1565
-  },
-  "WAQI|-534268": {
-    "region": "Soco Mt, null",
-    "tier": "watch",
-    "firstSeen": 1791116429556,
-    "lastAlertedAt": 1791116429556,
-    "issueNumber": 1566
-  },
-  "FORECAST|US|CA|Visalia": {
+  "US|CA|Visalia": {
     "region": "Visalia, CA",
     "tier": "watch",
-    "firstSeen": 1791116429556,
-    "lastAlertedAt": 1791116429556,
-    "issueNumber": 1567
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1569
+  },
+  "FORECAST|US|CA|Central LA CO": {
+    "region": "Central LA CO, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1570
+  },
+  "FORECAST|US|CA|Concord": {
+    "region": "Concord, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1571
+  },
+  "FORECAST|US|CA|Fairfield": {
+    "region": "Fairfield, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1572
+  },
+  "FORECAST|US|CA|Livermore": {
+    "region": "Livermore, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1573
+  },
+  "FORECAST|US|CA|Modesto": {
+    "region": "Modesto, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1574
+  },
+  "FORECAST|US|CA|Redwood City": {
+    "region": "Redwood City, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1575
+  },
+  "FORECAST|US|CA|S Central LA CO": {
+    "region": "S Central LA CO, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1576
+  },
+  "FORECAST|US|CA|S San Gabriel Vly": {
+    "region": "S San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1577
+  },
+  "FORECAST|US|CA|San Jose": {
+    "region": "San Jose, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1578
+  },
+  "FORECAST|US|CA|W San Gabriel Vly": {
+    "region": "W San Gabriel Vly, CA",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1579
+  },
+  "US-NV-Reno": {
+    "region": "Reno-Sparks, NV",
+    "tier": "watch",
+    "firstSeen": 1791148965217,
+    "lastAlertedAt": 1791148965217,
+    "issueNumber": 1580
   }
 }
