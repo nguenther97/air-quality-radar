@@ -1,142 +1,114 @@
 {
-  "FORECAST|US|CA|E San Gabriel Vly": {
-    "region": "E San Gabriel Vly, CA",
+  "US|OR|Burns": {
+    "region": "Burns, OR",
     "tier": "watch",
-    "firstSeen": 1790919277535,
-    "lastAlertedAt": 1790919277535,
-    "issueNumber": 1470
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1581
   },
-  "FORECAST|US|CA|Metro Riverside CO": {
-    "region": "Metro Riverside CO, CA",
-    "tier": "watch",
-    "firstSeen": 1791004601664,
-    "lastAlertedAt": 1791004601664,
-    "issueNumber": 1525
+  "US|OR|La Grande": {
+    "region": "La Grande, OR",
+    "tier": "alert",
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1582
   },
-  "FORECAST|US|CA|Fresno": {
-    "region": "Fresno, CA",
+  "US|PA|Mon Valley Area": {
+    "region": "Mon Valley Area, PA",
     "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1532
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1583
   },
-  "FORECAST|US|CA|Hanford": {
-    "region": "Hanford, CA",
+  "US|MO|Saint Louis": {
+    "region": "Saint Louis, MO",
     "tier": "watch",
-    "firstSeen": 1791027478642,
-    "lastAlertedAt": 1791027478642,
-    "issueNumber": 1533
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1584
   },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
+  "US|IL|South and West Suburbs (Chicago)": {
+    "region": "South and West Suburbs (Chicago), IL",
     "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1553
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1585
   },
-  "FORECAST|US|CA|C San Bernardino": {
-    "region": "C San Bernardino, CA",
+  "WAQI|-2463805": {
+    "region": "Big White, null",
     "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1557
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1586
   },
-  "FORECAST|US|CA|Saddleback Vly": {
-    "region": "Saddleback Vly, CA",
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
     "tier": "watch",
-    "firstSeen": 1791061980015,
-    "lastAlertedAt": 1791061980015,
-    "issueNumber": 1558
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1587
   },
-  "US|CA|Fremont": {
-    "region": "Fremont, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1568
+  "WAQI|-2725612": {
+    "region": "Red Mtn Rd, null",
+    "tier": "alert",
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1588
   },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
+  "WAQI|-208354": {
+    "region": "Mount Bachelor, null",
     "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1569
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1589
   },
-  "FORECAST|US|CA|Central LA CO": {
-    "region": "Central LA CO, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1570
+  "WAQI|81": {
+    "region": "La Grande, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1590
   },
-  "FORECAST|US|CA|Concord": {
-    "region": "Concord, CA",
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
     "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1571
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1591
   },
-  "FORECAST|US|CA|Fairfield": {
-    "region": "Fairfield, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1572
+  "WAQI|7358": {
+    "region": "Branch Street, Missouri, USA, US",
+    "tier": "alert",
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1592
   },
-  "FORECAST|US|CA|Livermore": {
-    "region": "Livermore, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1573
+  "WAQI|72": {
+    "region": "Burns, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1593
   },
-  "FORECAST|US|CA|Modesto": {
-    "region": "Modesto, CA",
+  "WAQI|8625": {
+    "region": "Anjou, Montreal, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1574
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1594
   },
-  "FORECAST|US|CA|Redwood City": {
-    "region": "Redwood City, CA",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1575
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1595
   },
-  "FORECAST|US|CA|S Central LA CO": {
-    "region": "S Central LA CO, CA",
+  "WAQI|291": {
+    "region": "Calexico-Ethel Street, Imperial, California, CA",
     "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1576
-  },
-  "FORECAST|US|CA|S San Gabriel Vly": {
-    "region": "S San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1577
-  },
-  "FORECAST|US|CA|San Jose": {
-    "region": "San Jose, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1578
-  },
-  "FORECAST|US|CA|W San Gabriel Vly": {
-    "region": "W San Gabriel Vly, CA",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1579
-  },
-  "US-NV-Reno": {
-    "region": "Reno-Sparks, NV",
-    "tier": "watch",
-    "firstSeen": 1791148965217,
-    "lastAlertedAt": 1791148965217,
-    "issueNumber": 1580
+    "firstSeen": 1792602615235,
+    "lastAlertedAt": 1792602615235,
+    "issueNumber": 1596
   }
 }
