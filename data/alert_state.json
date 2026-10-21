@@ -1,87 +1,10 @@
 {
-  "US|OR|Burns": {
-    "region": "Burns, OR",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1581
-  },
   "US|OR|La Grande": {
     "region": "La Grande, OR",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1792602615235,
     "lastAlertedAt": 1792602615235,
     "issueNumber": 1582
-  },
-  "US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1583
-  },
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1584
-  },
-  "US|IL|South and West Suburbs (Chicago)": {
-    "region": "South and West Suburbs (Chicago), IL",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1585
-  },
-  "WAQI|-2463805": {
-    "region": "Big White, null",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1586
-  },
-  "WAQI|9605": {
-    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1587
-  },
-  "WAQI|-2725612": {
-    "region": "Red Mtn Rd, null",
-    "tier": "alert",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1588
-  },
-  "WAQI|-208354": {
-    "region": "Mount Bachelor, null",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1589
-  },
-  "WAQI|81": {
-    "region": "La Grande, Oregon, USA, US",
-    "tier": "alert",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1590
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1591
-  },
-  "WAQI|7358": {
-    "region": "Branch Street, Missouri, USA, US",
-    "tier": "alert",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1592
   },
   "WAQI|72": {
     "region": "Burns, Oregon, USA, US",
@@ -90,25 +13,60 @@
     "lastAlertedAt": 1792602615235,
     "issueNumber": 1593
   },
-  "WAQI|8625": {
-    "region": "Anjou, Montreal, Canada, CA",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1594
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1597
   },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1595
+  "WAQI|6271": {
+    "region": "Chaparral, New Mexico, USA, US",
+    "tier": "alert",
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1598
   },
-  "WAQI|291": {
-    "region": "Calexico-Ethel Street, Imperial, California, CA",
+  "WAQI|-494671": {
+    "region": "SHADY PASS ROAD , null",
     "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1596
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1599
+  },
+  "WAQI|5856": {
+    "region": "Woodin Ave, Chelan, Washington, USA, US",
+    "tier": "watch",
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1600
+  },
+  "WAQI|-562918": {
+    "region": "Forks-Tillicum Ln, null",
+    "tier": "alert",
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1601
+  },
+  "WAQI|-492277": {
+    "region": "Entiat, null",
+    "tier": "watch",
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1602
+  },
+  "US-TX-Austin": {
+    "region": "Austin, TX",
+    "tier": "watch",
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1603
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1792618876546,
+    "lastAlertedAt": 1792618876546,
+    "issueNumber": 1604
   }
 }
