@@ -1,88 +1,4 @@
 {
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "alert",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792669753355,
-    "issueNumber": 1605
-  },
-  "US|CA|Niland": {
-    "region": "Niland, CA",
-    "tier": "alert",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792669753355,
-    "issueNumber": 1608
-  },
-  "WAQI|7359": {
-    "region": "St. Joseph, Missouri, USA, MO",
-    "tier": "watch",
-    "firstSeen": 1792669753355,
-    "lastAlertedAt": 1792669753355,
-    "issueNumber": 1628
-  },
-  "US|IA|Southeast Iowa": {
-    "region": "Southeast Iowa, IA",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1631
-  },
-  "US|MO|St. Joseph": {
-    "region": "St. Joseph, MO",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1632
-  },
-  "US|MN|Twin Cities": {
-    "region": "Twin Cities, MN",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1633
-  },
-  "US|AZ|Yuma": {
-    "region": "Yuma, AZ",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1634
-  },
-  "CA|IANHQ|Wood Buffalo - south": {
-    "region": "Wood Buffalo - south, CA",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1635
-  },
-  "WAQI|8625": {
-    "region": "Anjou, Montreal, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1636
-  },
-  "WAQI|6913": {
-    "region": "Jefferson School, Davenport, Iowa, USA, US",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1637
-  },
-  "WAQI|8395": {
-    "region": "Yuma Supersite, Arizona, USA, US",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1638
-  },
-  "WAQI|7431": {
-    "region": "Hattiesburg, Mississippi, USA, MS",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1639
-  },
   "WAQI|-494671": {
     "region": "SHADY PASS ROAD , null",
     "tier": "watch",
@@ -90,74 +6,88 @@
     "lastAlertedAt": 1792688933250,
     "issueNumber": 1640
   },
-  "WAQI|-503569": {
-    "region": "Sisters Forest Service SensOR, null",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1641
-  },
-  "WAQI|-505018": {
-    "region": "Austin North Interstate 35, null",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1642
-  },
-  "WAQI|-2606233": {
-    "region": "Black Urban Farmers Association-BUFA, null",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1643
-  },
-  "WAQI|-1203037": {
-    "region": "Rang Sainte-anne, null",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1644
-  },
-  "WAQI|4213": {
-    "region": "Golden Helipad, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1645
-  },
-  "WAQI|5307": {
-    "region": "Lewiston, Idaho, USA, ID",
-    "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1646
-  },
   "WAQI|5437": {
     "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1792688933250,
     "lastAlertedAt": 1792688933250,
     "issueNumber": 1647
   },
-  "WAQI|7350": {
-    "region": "Blair Street, Missouri, USA, US",
+  "US|LA|Baton Rouge Area": {
+    "region": "Baton Rouge Area, LA",
     "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1648
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1651
   },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1649
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1652
   },
-  "WAQI|10712": {
-    "region": "Janvier, Alberta, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1650
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1653
+  },
+  "US|OK|Oklahoma City": {
+    "region": "Oklahoma City, OK",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1654
+  },
+  "US|TX|San Antonio": {
+    "region": "San Antonio, TX",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1655
+  },
+  "WAQI|9279": {
+    "region": "Wauchope, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1656
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, null",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1657
+  },
+  "WAQI|5934": {
+    "region": "Milw 16th  St, Wisconsin, USA, US",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1658
+  },
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1659
+  },
+  "US-MN-Minneapolis-St. Paul": {
+    "region": "Minneapolis-St. Paul, MN",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1660
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1792704825889,
+    "lastAlertedAt": 1792704825889,
+    "issueNumber": 1661
   }
 }
