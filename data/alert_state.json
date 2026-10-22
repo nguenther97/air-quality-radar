@@ -1,72 +1,100 @@
 {
-  "US|OR|La Grande": {
-    "region": "La Grande, OR",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
     "tier": "watch",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1582
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1605
   },
-  "WAQI|72": {
-    "region": "Burns, Oregon, USA, US",
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
+    "tier": "watch",
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1606
+  },
+  "US|FL|Miami": {
+    "region": "Miami, FL",
     "tier": "alert",
-    "firstSeen": 1792602615235,
-    "lastAlertedAt": 1792602615235,
-    "issueNumber": 1593
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1607
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "US|CA|Niland": {
+    "region": "Niland, CA",
     "tier": "watch",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1597
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1608
   },
-  "WAQI|6271": {
-    "region": "Chaparral, New Mexico, USA, US",
+  "US|WA|Twisp": {
+    "region": "Twisp, WA",
+    "tier": "watch",
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1609
+  },
+  "WAQI|-548659": {
+    "region": "Breckenridge, null",
     "tier": "alert",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1598
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1610
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , null",
+  "WAQI|6426": {
+    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
     "tier": "watch",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1599
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1611
   },
-  "WAQI|5856": {
-    "region": "Woodin Ave, Chelan, Washington, USA, US",
-    "tier": "watch",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1600
-  },
-  "WAQI|-562918": {
-    "region": "Forks-Tillicum Ln, null",
+  "WAQI|8863": {
+    "region": "Niland-English Road, Imperial, California, null",
     "tier": "alert",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1601
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1612
   },
-  "WAQI|-492277": {
-    "region": "Entiat, null",
+  "WAQI|14106": {
+    "region": "Kelowna KLO Road, British Comlumbia, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1602
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1613
   },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
+  "WAQI|-555631": {
+    "region": "Alpharetta, Georgia, USA, GA",
     "tier": "watch",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1603
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1614
   },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "WAQI|-562864": {
+    "region": "Twisp-S Lincoln St, null",
     "tier": "watch",
-    "firstSeen": 1792618876546,
-    "lastAlertedAt": 1792618876546,
-    "issueNumber": 1604
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1615
+  },
+  "US-CA-El Centro": {
+    "region": "El Centro, CA",
+    "tier": "watch",
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1616
+  },
+  "US-IN-Fort Wayne": {
+    "region": "Fort Wayne, IN",
+    "tier": "watch",
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1617
+  },
+  "US-CO-Vail": {
+    "region": "Vail/Eagle County, CO",
+    "tier": "watch",
+    "firstSeen": 1792644082350,
+    "lastAlertedAt": 1792644082350,
+    "issueNumber": 1618
   }
 }
