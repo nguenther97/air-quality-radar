@@ -1,17 +1,10 @@
 {
   "US|CA|Imperial Valley": {
     "region": "Imperial Valley, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
+    "lastAlertedAt": 1792669753355,
     "issueNumber": 1605
-  },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1606
   },
   "US|FL|Miami": {
     "region": "Miami, FL",
@@ -22,24 +15,10 @@
   },
   "US|CA|Niland": {
     "region": "Niland, CA",
-    "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1608
-  },
-  "US|WA|Twisp": {
-    "region": "Twisp, WA",
-    "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1609
-  },
-  "WAQI|-548659": {
-    "region": "Breckenridge, null",
     "tier": "alert",
     "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1610
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1608
   },
   "WAQI|6426": {
     "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
@@ -55,46 +34,95 @@
     "lastAlertedAt": 1792644082350,
     "issueNumber": 1612
   },
-  "WAQI|14106": {
-    "region": "Kelowna KLO Road, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1613
-  },
   "WAQI|-555631": {
     "region": "Alpharetta, Georgia, USA, GA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
+    "lastAlertedAt": 1792669753355,
     "issueNumber": 1614
   },
-  "WAQI|-562864": {
-    "region": "Twisp-S Lincoln St, null",
-    "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1615
+  "US|CA|Brawley": {
+    "region": "Brawley, CA",
+    "tier": "alert",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1619
   },
-  "US-CA-El Centro": {
-    "region": "El Centro, CA",
+  "US|PA|Mon Valley Area": {
+    "region": "Mon Valley Area, PA",
     "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1616
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1620
   },
-  "US-IN-Fort Wayne": {
-    "region": "Fort Wayne, IN",
+  "US|MO|Saint Louis": {
+    "region": "Saint Louis, MO",
     "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1617
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1621
   },
-  "US-CO-Vail": {
-    "region": "Vail/Eagle County, CO",
+  "US|CA|Westmorland": {
+    "region": "Westmorland, CA",
+    "tier": "alert",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1622
+  },
+  "WAQI|-527362": {
+    "region": "ACTS002.5, null",
     "tier": "watch",
-    "firstSeen": 1792644082350,
-    "lastAlertedAt": 1792644082350,
-    "issueNumber": 1618
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1623
+  },
+  "WAQI|7330": {
+    "region": "Newtwn, Kentucky, USA, US",
+    "tier": "watch",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1624
+  },
+  "WAQI|185": {
+    "region": "Haws Athletic Center, fort Worth, Dallas, Texas, null",
+    "tier": "alert",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1625
+  },
+  "WAQI|13979": {
+    "region": "Edmonton McCauley, Alberta, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1626
+  },
+  "WAQI|13289": {
+    "region": "Sandersville, Georgia, USA, US",
+    "tier": "watch",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1627
+  },
+  "WAQI|7359": {
+    "region": "St. Joseph, Missouri, USA, MO",
+    "tier": "watch",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1628
+  },
+  "WAQI|-524638": {
+    "region": "Rue Ida-Steinberg, null",
+    "tier": "watch",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1629
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "watch",
+    "firstSeen": 1792669753355,
+    "lastAlertedAt": 1792669753355,
+    "issueNumber": 1630
   }
 }
