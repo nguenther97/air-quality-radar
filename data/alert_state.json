@@ -1,52 +1,10 @@
 {
-  "US|IL|Chicago": {
-    "region": "Chicago, IL",
-    "tier": "watch",
-    "firstSeen": 1792730793680,
-    "lastAlertedAt": 1792730793680,
-    "issueNumber": 1662
-  },
-  "US|IL|North and West Suburbs (Chicago)": {
-    "region": "North and West Suburbs (Chicago), IL",
-    "tier": "watch",
-    "firstSeen": 1792730793680,
-    "lastAlertedAt": 1792730793680,
-    "issueNumber": 1664
-  },
   "US|IL|South and West Suburbs (Chicago)": {
     "region": "South and West Suburbs (Chicago), IL",
     "tier": "watch",
     "firstSeen": 1792730793680,
     "lastAlertedAt": 1792730793680,
     "issueNumber": 1666
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1792730793680,
-    "lastAlertedAt": 1792730793680,
-    "issueNumber": 1671
-  },
-  "FORECAST|US|OK|Oklahoma City": {
-    "region": "Oklahoma City, OK",
-    "tier": "watch",
-    "firstSeen": 1792730793680,
-    "lastAlertedAt": 1792730793680,
-    "issueNumber": 1676
-  },
-  "US|ID|Pinehurst": {
-    "region": "Pinehurst, ID",
-    "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1679
-  },
-  "US|PA|Pittsburgh": {
-    "region": "Pittsburgh, PA",
-    "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1680
   },
   "WAQI|-882490": {
     "region": "Norwood Park 2, null",
@@ -55,60 +13,74 @@
     "lastAlertedAt": 1792755356847,
     "issueNumber": 1681
   },
-  "WAQI|7623": {
-    "region": "Pine, Idaho, USA, US",
+  "US|CO|Denver-Boulder": {
+    "region": "Denver-Boulder, CO",
     "tier": "alert",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1682
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1690
   },
-  "WAQI|-881437": {
-    "region": "West Pullman 2, null",
+  "US|IN|Fort Wayne": {
+    "region": "Fort Wayne, IN",
     "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1683
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1691
   },
-  "WAQI|-524572": {
-    "region": "Rue Kirouac, null",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1692
+  },
+  "WAQI|-498067": {
+    "region": "Adams Birch Street, null",
     "tier": "alert",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1684
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1693
   },
-  "WAQI|11927": {
-    "region": "Houston, Pennsylvania, USA, US",
+  "WAQI|205": {
+    "region": "Denton Airport South, fort Worth, Dallas, Texas, null",
     "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1685
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1694
   },
-  "WAQI|-881611": {
-    "region": "North Lawndale 1, null",
-    "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1686
+  "WAQI|-524515": {
+    "region": "Baldwin Rue, null",
+    "tier": "alert",
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1695
   },
-  "WAQI|7419": {
-    "region": "Rockville, Maryland, USA, MD",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1687
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1696
   },
-  "US-MN-Minneapolis-Saint Paul": {
-    "region": "Minneapolis-Saint Paul, MN",
-    "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1688
+  "WAQI|203": {
+    "region": "Houston Aldine, Houston, Texas, null",
+    "tier": "alert",
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1697
   },
-  "CA-QC-Gatineau": {
-    "region": "Gatineau, QC",
+  "US-TX-Austin": {
+    "region": "Austin, TX",
     "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1689
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1698
+  },
+  "US-MI-Detroit": {
+    "region": "Detroit metro, MI",
+    "tier": "watch",
+    "firstSeen": 1792775081716,
+    "lastAlertedAt": 1792775081716,
+    "issueNumber": 1699
   }
 }
