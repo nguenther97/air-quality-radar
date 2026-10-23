@@ -1,31 +1,10 @@
 {
-  "US|IL|South and West Suburbs (Chicago)": {
-    "region": "South and West Suburbs (Chicago), IL",
-    "tier": "watch",
-    "firstSeen": 1792730793680,
-    "lastAlertedAt": 1792730793680,
-    "issueNumber": 1666
-  },
-  "WAQI|-882490": {
-    "region": "Norwood Park 2, null",
-    "tier": "watch",
-    "firstSeen": 1792755356847,
-    "lastAlertedAt": 1792755356847,
-    "issueNumber": 1681
-  },
   "US|CO|Denver-Boulder": {
     "region": "Denver-Boulder, CO",
     "tier": "alert",
     "firstSeen": 1792775081716,
     "lastAlertedAt": 1792775081716,
     "issueNumber": 1690
-  },
-  "US|IN|Fort Wayne": {
-    "region": "Fort Wayne, IN",
-    "tier": "watch",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1691
   },
   "US|TX|Houston-Galveston-Brazoria": {
     "region": "Houston-Galveston-Brazoria, TX",
@@ -41,20 +20,6 @@
     "lastAlertedAt": 1792775081716,
     "issueNumber": 1693
   },
-  "WAQI|205": {
-    "region": "Denton Airport South, fort Worth, Dallas, Texas, null",
-    "tier": "watch",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1694
-  },
-  "WAQI|-524515": {
-    "region": "Baldwin Rue, null",
-    "tier": "alert",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1695
-  },
   "WAQI|11964": {
     "region": "Clavet, Saskatchewan, Canada, CA",
     "tier": "watch",
@@ -62,25 +27,67 @@
     "lastAlertedAt": 1792775081716,
     "issueNumber": 1696
   },
-  "WAQI|203": {
-    "region": "Houston Aldine, Houston, Texas, null",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1700
+  },
+  "US|WY|Gillette": {
+    "region": "Gillette, WY",
+    "tier": "watch",
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1701
+  },
+  "US|SD|Watertown": {
+    "region": "Watertown, SD",
+    "tier": "watch",
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1702
+  },
+  "WAQI|178": {
+    "region": "Park Place, Houston, Texas, null",
+    "tier": "watch",
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1703
+  },
+  "WAQI|7492": {
+    "region": "Watertown, South Dakota, USA, SD",
+    "tier": "watch",
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1704
+  },
+  "WAQI|-1202791": {
+    "region": "Rue Chateaubriand, null",
+    "tier": "watch",
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1705
+  },
+  "WAQI|-562918": {
+    "region": "Forks-Tillicum Ln, null",
     "tier": "alert",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1697
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1706
   },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
+  "US-CO-Colorado Springs": {
+    "region": "Colorado Springs, CO",
     "tier": "watch",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1698
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1707
   },
-  "US-MI-Detroit": {
-    "region": "Detroit metro, MI",
+  "US-CO-Fort Collins": {
+    "region": "Fort Collins, CO",
     "tier": "watch",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1699
+    "firstSeen": 1792790572187,
+    "lastAlertedAt": 1792790572187,
+    "issueNumber": 1708
   }
 }
