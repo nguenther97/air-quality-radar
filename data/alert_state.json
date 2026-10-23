@@ -1,93 +1,121 @@
 {
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , null",
+  "US|IL|Chicago": {
+    "region": "Chicago, IL",
     "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1640
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1662
   },
-  "WAQI|5437": {
-    "region": "Rouyn-Noranda - secteur du centre-ville, Quebec, Canada, CA",
+  "US|NM|Dona Ana County": {
+    "region": "Dona Ana County, NM",
     "tier": "watch",
-    "firstSeen": 1792688933250,
-    "lastAlertedAt": 1792688933250,
-    "issueNumber": 1647
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1663
   },
-  "US|LA|Baton Rouge Area": {
-    "region": "Baton Rouge Area, LA",
+  "US|IL|North and West Suburbs (Chicago)": {
+    "region": "North and West Suburbs (Chicago), IL",
     "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1651
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1664
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "US|MO|Saint Louis": {
+    "region": "Saint Louis, MO",
     "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1652
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1665
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "US|IL|South and West Suburbs (Chicago)": {
+    "region": "South and West Suburbs (Chicago), IL",
     "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1653
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1666
   },
-  "US|OK|Oklahoma City": {
+  "WAQI|13979": {
+    "region": "Edmonton McCauley, Alberta, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1667
+  },
+  "WAQI|4214": {
+    "region": "Grand Forks City Hall, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1668
+  },
+  "WAQI|-881590": {
+    "region": "South Chicago 1, null",
+    "tier": "watch",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1669
+  },
+  "WAQI|212": {
+    "region": "Hamshire, Beaumont, Texas, null",
+    "tier": "watch",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1670
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "alert",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1671
+  },
+  "WAQI|6277": {
+    "region": "Santa Teresa, New Mexico, USA, US",
+    "tier": "alert",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1672
+  },
+  "WAQI|-783604": {
+    "region": "Garfield Ridge 1, null",
+    "tier": "watch",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1673
+  },
+  "WAQI|-974644": {
+    "region": "South Deering 10, null",
+    "tier": "watch",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1674
+  },
+  "WAQI|-399718": {
+    "region": "Lawrence Hall of Science, null",
+    "tier": "alert",
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1675
+  },
+  "FORECAST|US|OK|Oklahoma City": {
     "region": "Oklahoma City, OK",
     "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1654
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1676
   },
-  "US|TX|San Antonio": {
-    "region": "San Antonio, TX",
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
     "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1655
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1677
   },
-  "WAQI|9279": {
-    "region": "Wauchope, Saskatchewan, Canada, CA",
+  "CA-BC-South Okanagan": {
+    "region": "South Okanagan, BC",
     "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1656
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, null",
-    "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1657
-  },
-  "WAQI|5934": {
-    "region": "Milw 16th  St, Wisconsin, USA, US",
-    "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1658
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1659
-  },
-  "US-MN-Minneapolis-St. Paul": {
-    "region": "Minneapolis-St. Paul, MN",
-    "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1660
-  },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
-    "tier": "watch",
-    "firstSeen": 1792704825889,
-    "lastAlertedAt": 1792704825889,
-    "issueNumber": 1661
+    "firstSeen": 1792730793680,
+    "lastAlertedAt": 1792730793680,
+    "issueNumber": 1678
   }
 }
