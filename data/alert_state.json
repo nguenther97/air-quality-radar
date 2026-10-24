@@ -6,109 +6,11 @@
     "lastAlertedAt": 1792839398497,
     "issueNumber": 1711
   },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792816434964,
-    "lastAlertedAt": 1792816434964,
-    "issueNumber": 1715
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "watch",
-    "firstSeen": 1792816434964,
-    "lastAlertedAt": 1792816434964,
-    "issueNumber": 1720
-  },
-  "US|WI|Kettle Moraine South": {
-    "region": "Kettle Moraine South, WI",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1724
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1725
-  },
-  "US|GA|Rome": {
-    "region": "Rome, GA",
+  "WAQI|185": {
+    "region": "Haws Athletic Center, fort Worth, Dallas, Texas, null",
     "tier": "alert",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1726
-  },
-  "WAQI|208": {
-    "region": "El Paso Chamizal, El Paso, Texas, null",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1727
-  },
-  "WAQI|-408889": {
-    "region": "Huntingdon Air Quality, null",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1728
-  },
-  "WAQI|-503554": {
-    "region": "La Pine Rural Fire Dept 103, null",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1729
-  },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
-    "tier": "alert",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1730
-  },
-  "WAQI|11752": {
-    "region": "Waukesha-cleveland Ave., Wisconsin, USA, WI",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1731
-  },
-  "WAQI|7491": {
-    "region": "Badlands, South Dakota, USA, US",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1732
-  },
-  "WAQI|-543496": {
-    "region": "Av Belanger, null",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1733
-  },
-  "WAQI|-399127": {
-    "region": "ACTS001.2, null",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1734
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, null",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1735
-  },
-  "CA-QC-Gatineau": {
-    "region": "Gatineau, QC",
-    "tier": "watch",
-    "firstSeen": 1792839398497,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1736
+    "firstSeen": 1792857319455,
+    "lastAlertedAt": 1792857319455,
+    "issueNumber": 1737
   }
 }
