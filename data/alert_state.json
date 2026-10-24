@@ -1,93 +1,107 @@
 {
-  "US|CO|Denver-Boulder": {
-    "region": "Denver-Boulder, CO",
+  "US|OK|Miami": {
+    "region": "Miami, OK",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1709
+  },
+  "US|GA|Savannah": {
+    "region": "Savannah, GA",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1710
+  },
+  "WAQI|-399241": {
+    "region": "Boulder Creek Fire Station, null",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1711
+  },
+  "WAQI|7448": {
+    "region": "Keene, New Hampshire, USA, NH",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1712
+  },
+  "WAQI|6513": {
+    "region": "Baton Rouge Capitol site, Louisiana, USA, US",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1713
+  },
+  "WAQI|-1435885": {
+    "region": "Rue Morin, null",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1714
+  },
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1690
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1715
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "WAQI|4208": {
+    "region": "Houston Firehall, British Comlumbia, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1692
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1716
   },
-  "WAQI|-498067": {
-    "region": "Adams Birch Street, null",
+  "WAQI|13071": {
+    "region": "Holland, Michigan, USA, MI",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1717
+  },
+  "WAQI|5329": {
+    "region": "Kalamazoo, Michigan, USA, MI",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1718
+  },
+  "WAQI|-494020": {
+    "region": "Main Street, null",
     "tier": "alert",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1693
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1719
   },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792775081716,
-    "lastAlertedAt": 1792775081716,
-    "issueNumber": 1696
-  },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1700
-  },
-  "US|WY|Gillette": {
-    "region": "Gillette, WY",
-    "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1701
-  },
-  "US|SD|Watertown": {
-    "region": "Watertown, SD",
-    "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1702
-  },
-  "WAQI|178": {
-    "region": "Park Place, Houston, Texas, null",
-    "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1703
-  },
-  "WAQI|7492": {
-    "region": "Watertown, South Dakota, USA, SD",
-    "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1704
-  },
-  "WAQI|-1202791": {
-    "region": "Rue Chateaubriand, null",
-    "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1705
-  },
-  "WAQI|-562918": {
-    "region": "Forks-Tillicum Ln, null",
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
     "tier": "alert",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1706
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1720
   },
-  "US-CO-Colorado Springs": {
-    "region": "Colorado Springs, CO",
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
     "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1707
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1721
   },
-  "US-CO-Fort Collins": {
-    "region": "Fort Collins, CO",
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
     "tier": "watch",
-    "firstSeen": 1792790572187,
-    "lastAlertedAt": 1792790572187,
-    "issueNumber": 1708
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1722
+  },
+  "US-IL-Chicago": {
+    "region": "Chicago, IL",
+    "tier": "watch",
+    "firstSeen": 1792816434964,
+    "lastAlertedAt": 1792816434964,
+    "issueNumber": 1723
   }
 }
