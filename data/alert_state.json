@@ -1,16 +1,30 @@
 {
-  "WAQI|-399241": {
-    "region": "Boulder Creek Fire Station, null",
-    "tier": "alert",
-    "firstSeen": 1792816434964,
-    "lastAlertedAt": 1792839398497,
-    "issueNumber": 1711
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1792874807721,
+    "lastAlertedAt": 1792874807721,
+    "issueNumber": 1738
   },
-  "WAQI|185": {
-    "region": "Haws Athletic Center, fort Worth, Dallas, Texas, null",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
+    "tier": "watch",
+    "firstSeen": 1792874807721,
+    "lastAlertedAt": 1792874807721,
+    "issueNumber": 1739
+  },
+  "WAQI|-559756": {
+    "region": "Montclair ES, null",
     "tier": "alert",
-    "firstSeen": 1792857319455,
-    "lastAlertedAt": 1792857319455,
-    "issueNumber": 1737
+    "firstSeen": 1792874807721,
+    "lastAlertedAt": 1792874807721,
+    "issueNumber": 1740
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1792874807721,
+    "lastAlertedAt": 1792874807721,
+    "issueNumber": 1741
   }
 }
