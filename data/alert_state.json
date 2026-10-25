@@ -1,30 +1,149 @@
 {
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "US|IN|Fort Wayne": {
+    "region": "Fort Wayne, IN",
     "tier": "watch",
-    "firstSeen": 1792874807721,
-    "lastAlertedAt": 1792874807721,
-    "issueNumber": 1738
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1742
   },
-  "US|TX|Houston-Galveston-Brazoria": {
-    "region": "Houston-Galveston-Brazoria, TX",
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
     "tier": "watch",
-    "firstSeen": 1792874807721,
-    "lastAlertedAt": 1792874807721,
-    "issueNumber": 1739
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1743
   },
-  "WAQI|-559756": {
-    "region": "Montclair ES, null",
+  "US|CT|New Haven": {
+    "region": "New Haven, CT",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1744
+  },
+  "US|PA|Philadelphia": {
+    "region": "Philadelphia, PA",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1745
+  },
+  "US|GA|Rome": {
+    "region": "Rome, GA",
     "tier": "alert",
-    "firstSeen": 1792874807721,
-    "lastAlertedAt": 1792874807721,
-    "issueNumber": 1740
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1746
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
+  "US|IN|South Bend": {
+    "region": "South Bend, IN",
     "tier": "watch",
-    "firstSeen": 1792874807721,
-    "lastAlertedAt": 1792874807721,
-    "issueNumber": 1741
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1747
+  },
+  "US|PA|Susquehanna Valley": {
+    "region": "Susquehanna Valley, PA",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1748
+  },
+  "WAQI|-398104": {
+    "region": "Sagrado, null",
+    "tier": "alert",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1749
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "alert",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1750
+  },
+  "WAQI|5899": {
+    "region": "Lancaster, Pennsylvania, USA, PA",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1751
+  },
+  "WAQI|7503": {
+    "region": "Elkhart-Prairie St., Indiana, USA, IN",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1752
+  },
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1753
+  },
+  "WAQI|-555520": {
+    "region": "1901 Walnut St, null",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1754
+  },
+  "WAQI|-2549578": {
+    "region": "Westboro, null",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1755
+  },
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1756
+  },
+  "WAQI|-566281": {
+    "region": "Rue Nolin, null",
+    "tier": "alert",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1757
+  },
+  "WAQI|7324": {
+    "region": "Indpls-Washington Park, Indiana, USA, US",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1758
+  },
+  "US-IL-Chicago": {
+    "region": "Chicago, IL",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1759
+  },
+  "US-PA-Pittsburgh": {
+    "region": "Pittsburgh, PA",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1760
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1761
+  },
+  "US-CA-Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1792903107827,
+    "lastAlertedAt": 1792903107827,
+    "issueNumber": 1762
   }
 }
