@@ -1,18 +1,4 @@
 {
-  "US|IN|Fort Wayne": {
-    "region": "Fort Wayne, IN",
-    "tier": "watch",
-    "firstSeen": 1792903107827,
-    "lastAlertedAt": 1792903107827,
-    "issueNumber": 1742
-  },
-  "US|IN|South Bend": {
-    "region": "South Bend, IN",
-    "tier": "watch",
-    "firstSeen": 1792903107827,
-    "lastAlertedAt": 1792903107827,
-    "issueNumber": 1747
-  },
   "US|PA|Susquehanna Valley": {
     "region": "Susquehanna Valley, PA",
     "tier": "watch",
@@ -27,48 +13,6 @@
     "lastAlertedAt": 1792903107827,
     "issueNumber": 1751
   },
-  "US|NJ|Riverline": {
-    "region": "Riverline, NJ",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1763
-  },
-  "US|MI|Southeast": {
-    "region": "Southeast, MI",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1764
-  },
-  "WAQI|7510": {
-    "region": "South Bend-Shields Dr, Indiana, USA, IN",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1765
-  },
-  "WAQI|-548659": {
-    "region": "Breckenridge, null",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1766
-  },
-  "WAQI|3565": {
-    "region": "South Camden, NewJersey, USA, US",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1767
-  },
-  "WAQI|-470581": {
-    "region": "La Mesa, CA",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1768
-  },
   "WAQI|-1364725": {
     "region": "Palo Verde ES, null",
     "tier": "watch",
@@ -76,18 +20,39 @@
     "lastAlertedAt": 1792927468253,
     "issueNumber": 1769
   },
-  "WAQI|13979": {
-    "region": "Edmonton McCauley, Alberta, Canada, CA",
+  "US|GA|Rome": {
+    "region": "Rome, GA",
     "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1770
+    "firstSeen": 1792944912044,
+    "lastAlertedAt": 1792944912044,
+    "issueNumber": 1772
   },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1771
+  "WAQI|13975": {
+    "region": "Smithers Muheim Memorial, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1792944912044,
+    "lastAlertedAt": 1792944912044,
+    "issueNumber": 1773
+  },
+  "WAQI|-2579746": {
+    "region": "Ann Arbor Senior Center, null",
+    "tier": "watch",
+    "firstSeen": 1792944912044,
+    "lastAlertedAt": 1792944912044,
+    "issueNumber": 1774
+  },
+  "WAQI|276": {
+    "region": "Fresno - Garland, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1792944912044,
+    "lastAlertedAt": 1792944912044,
+    "issueNumber": 1775
+  },
+  "WAQI|-565120": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1792944912044,
+    "lastAlertedAt": 1792944912044,
+    "issueNumber": 1776
   }
 }
