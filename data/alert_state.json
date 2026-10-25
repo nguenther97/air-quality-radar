@@ -1,46 +1,4 @@
 {
-  "US|PA|Susquehanna Valley": {
-    "region": "Susquehanna Valley, PA",
-    "tier": "watch",
-    "firstSeen": 1792903107827,
-    "lastAlertedAt": 1792903107827,
-    "issueNumber": 1748
-  },
-  "WAQI|5899": {
-    "region": "Lancaster, Pennsylvania, USA, PA",
-    "tier": "watch",
-    "firstSeen": 1792903107827,
-    "lastAlertedAt": 1792903107827,
-    "issueNumber": 1751
-  },
-  "WAQI|-1364725": {
-    "region": "Palo Verde ES, null",
-    "tier": "watch",
-    "firstSeen": 1792927468253,
-    "lastAlertedAt": 1792927468253,
-    "issueNumber": 1769
-  },
-  "US|GA|Rome": {
-    "region": "Rome, GA",
-    "tier": "watch",
-    "firstSeen": 1792944912044,
-    "lastAlertedAt": 1792944912044,
-    "issueNumber": 1772
-  },
-  "WAQI|13975": {
-    "region": "Smithers Muheim Memorial, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1792944912044,
-    "lastAlertedAt": 1792944912044,
-    "issueNumber": 1773
-  },
-  "WAQI|-2579746": {
-    "region": "Ann Arbor Senior Center, null",
-    "tier": "watch",
-    "firstSeen": 1792944912044,
-    "lastAlertedAt": 1792944912044,
-    "issueNumber": 1774
-  },
   "WAQI|276": {
     "region": "Fresno - Garland, Fresno, California, CA",
     "tier": "watch",
@@ -54,5 +12,75 @@
     "firstSeen": 1792944912044,
     "lastAlertedAt": 1792944912044,
     "issueNumber": 1776
+  },
+  "US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1777
+  },
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1778
+  },
+  "CA|IACMW|Edson": {
+    "region": "Edson, CA",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1779
+  },
+  "WAQI|-1364728": {
+    "region": "Beacon Ave, null",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1780
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1781
+  },
+  "WAQI|5485": {
+    "region": "Edson, Alberta, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1782
+  },
+  "WAQI|213": {
+    "region": "SETRPC 42 Mauriceville, Beaumont, Texas, null",
+    "tier": "alert",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1783
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "alert",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1784
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1785
+  },
+  "US-TX-Houston": {
+    "region": "Houston, TX",
+    "tier": "watch",
+    "firstSeen": 1792961340480,
+    "lastAlertedAt": 1792961340480,
+    "issueNumber": 1786
   }
 }
