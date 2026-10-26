@@ -1,66 +1,10 @@
 {
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1792961340480,
-    "lastAlertedAt": 1792961340480,
-    "issueNumber": 1781
-  },
-  "US|OH|Columbus": {
-    "region": "Columbus, OH",
-    "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1787
-  },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "alert",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1788
-  },
-  "US|MI|Jackson": {
-    "region": "Jackson, MI",
-    "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1789
-  },
-  "WAQI|5334": {
-    "region": "Tecumseh, Michigan, USA, US",
-    "tier": "alert",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1790
-  },
-  "WAQI|-494020": {
-    "region": "Main Street, null",
-    "tier": "alert",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1791
-  },
   "WAQI|6426": {
     "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
+    "lastAlertedAt": 1793019520488,
     "issueNumber": 1792
-  },
-  "WAQI|230": {
-    "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
-    "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1793
-  },
-  "WAQI|-882412": {
-    "region": "Montclare 2, null",
-    "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1794
   },
   "WAQI|4249": {
     "region": "Valemount Firehall, British Comlumbia, Canada, CA",
@@ -69,67 +13,95 @@
     "lastAlertedAt": 1792989842634,
     "issueNumber": 1795
   },
-  "WAQI|-881887": {
-    "region": "Gage Park 2, null",
+  "US|CA|Border Area": {
+    "region": "Border Area, CA",
     "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1796
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1805
   },
-  "WAQI|-1984750": {
-    "region": "West Beacon, null",
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
     "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1797
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1806
   },
-  "WAQI|-881545": {
-    "region": "West Pullman 1, null",
-    "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1798
-  },
-  "WAQI|4208": {
-    "region": "Houston Firehall, British Comlumbia, Canada, CA",
+  "US|PA|Mon Valley Area": {
+    "region": "Mon Valley Area, PA",
     "tier": "alert",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1799
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1807
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, null",
+  "US|MI|Southeast": {
+    "region": "Southeast, MI",
     "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1800
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1808
   },
-  "WAQI|7398": {
-    "region": "East St. Louis, Illinois, USA, US",
+  "WAQI|9605": {
+    "region": "Corcoran-Patterson Avenue, Kings, California, CA",
     "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1801
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1809
   },
-  "WAQI|7324": {
-    "region": "Indpls-Washington Park, Indiana, USA, US",
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "watch",
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1810
+  },
+  "WAQI|7358": {
+    "region": "Branch Street, Missouri, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1811
+  },
+  "WAQI|252": {
+    "region": "Rubidoux - Mission Blvd, Riverside, null",
     "tier": "alert",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1802
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1812
   },
-  "US-OH-Cleveland": {
-    "region": "Cleveland, OH",
-    "tier": "alert",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1803
-  },
-  "US-OH-Cincinnati": {
-    "region": "Cincinnati, OH",
+  "WAQI|-470581": {
+    "region": "La Mesa, CA",
     "tier": "watch",
-    "firstSeen": 1792989842634,
-    "lastAlertedAt": 1792989842634,
-    "issueNumber": 1804
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1813
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "watch",
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1814
+  },
+  "WAQI|-548659": {
+    "region": "Breckenridge, null",
+    "tier": "watch",
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1815
+  },
+  "WAQI|-405916": {
+    "region": "Bushview Crescent Waterloo, null",
+    "tier": "watch",
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1816
+  },
+  "WAQI|-405484": {
+    "region": "Halton Hills Air Sensor, null",
+    "tier": "watch",
+    "firstSeen": 1793019520488,
+    "lastAlertedAt": 1793019520488,
+    "issueNumber": 1817
   }
 }
