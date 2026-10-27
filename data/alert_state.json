@@ -1,11 +1,4 @@
 {
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "watch",
-    "firstSeen": 1793077263501,
-    "lastAlertedAt": 1793077263501,
-    "issueNumber": 1825
-  },
   "WAQI|4616": {
     "region": "Kitimat Riverlodge, British Comlumbia, Canada, CA",
     "tier": "watch",
@@ -13,46 +6,39 @@
     "lastAlertedAt": 1793077263501,
     "issueNumber": 1829
   },
-  "WAQI|7324": {
-    "region": "Indpls-Washington Park, Indiana, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793077263501,
-    "lastAlertedAt": 1793077263501,
-    "issueNumber": 1837
-  },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
-    "tier": "watch",
-    "firstSeen": 1793077263501,
-    "lastAlertedAt": 1793077263501,
-    "issueNumber": 1839
-  },
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
-    "tier": "watch",
-    "firstSeen": 1793102904936,
-    "lastAlertedAt": 1793102904936,
-    "issueNumber": 1840
-  },
-  "WAQI|14109": {
-    "region": "Quesnel Johnston Avenue, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793102904936,
-    "lastAlertedAt": 1793102904936,
-    "issueNumber": 1841
-  },
-  "US-TX-Houston": {
-    "region": "Houston, TX",
-    "tier": "watch",
-    "firstSeen": 1793102904936,
-    "lastAlertedAt": 1793102904936,
-    "issueNumber": 1842
-  },
   "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+    "region": "Dallas-Fort Worth Metroplex, Texas, USA, US",
     "tier": "watch",
     "firstSeen": 1793102904936,
     "lastAlertedAt": 1793102904936,
     "issueNumber": 1843
+  },
+  "WAQI|6323": {
+    "region": "I-25 Denver, Colorado, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793123953015,
+    "lastAlertedAt": 1793123953015,
+    "issueNumber": 1844
+  },
+  "WAQI|-524518": {
+    "region": "Av De Villebon, null",
+    "tier": "watch",
+    "firstSeen": 1793123953015,
+    "lastAlertedAt": 1793123953015,
+    "issueNumber": 1845
+  },
+  "US-TX-Austin": {
+    "region": "Austin, Texas, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793123953015,
+    "lastAlertedAt": 1793123953015,
+    "issueNumber": 1846
+  },
+  "US-AZ-Tucson": {
+    "region": "Tucson Metro Area, Arizona, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793123953015,
+    "lastAlertedAt": 1793123953015,
+    "issueNumber": 1847
   }
 }
