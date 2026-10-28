@@ -1,24 +1,10 @@
 {
-  "WAQI|-417733": {
-    "region": "Inverhuron, null",
-    "tier": "watch",
-    "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1848
-  },
   "WAQI|-662017": {
     "region": "Richmond Street West, null",
-    "tier": "watch",
-    "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1849
-  },
-  "WAQI|-503548": {
-    "region": "Chiloquin Duke Drive, null",
     "tier": "alert",
     "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1850
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1849
   },
   "WAQI|-2216566": {
     "region": "Calle Inglaterra, null",
@@ -27,25 +13,95 @@
     "lastAlertedAt": 1793139118134,
     "issueNumber": 1851
   },
-  "WAQI|-506095": {
-    "region": "Lake Quinault Fisheries (Amanda Park, WA), null",
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
     "tier": "alert",
-    "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1852
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1855
   },
-  "US-NY-Buffalo": {
-    "region": "Buffalo, NY",
-    "tier": "watch",
-    "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1853
+  "US|CA|Lake Elsinore": {
+    "region": "Lake Elsinore, CA",
+    "tier": "alert",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1856
   },
-  "US-OR-Portland": {
-    "region": "Portland, OR",
+  "US|AR|Little Rock-North Little Rock": {
+    "region": "Little Rock-North Little Rock, AR",
     "tier": "watch",
-    "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1854
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1857
+  },
+  "WAQI|-1666027": {
+    "region": "I-10 W, null",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1858
+  },
+  "WAQI|-524455": {
+    "region": "Leduc Sensor, Alberta, null",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1859
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1860
+  },
+  "WAQI|249": {
+    "region": "Lake Elsinore-W Flint Street, Riverside, CA",
+    "tier": "alert",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1861
+  },
+  "WAQI|7383": {
+    "region": "Parr, Arkansas, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1862
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, null",
+    "tier": "alert",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1863
+  },
+  "WAQI|7324": {
+    "region": "Indpls-Washington Park, Indiana, USA, US",
+    "tier": "alert",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1864
+  },
+  "WAQI|-2725612": {
+    "region": "Red Mtn Rd, null",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1865
+  },
+  "US-TX-Austin": {
+    "region": "Austin, TX",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1866
+  },
+  "US-TX-Beaumont-Port Arthur": {
+    "region": "Beaumont-Port Arthur, TX",
+    "tier": "watch",
+    "firstSeen": 1793165963892,
+    "lastAlertedAt": 1793165963892,
+    "issueNumber": 1867
   }
 }
