@@ -6,102 +6,81 @@
     "lastAlertedAt": 1793165963892,
     "issueNumber": 1849
   },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1793139118134,
-    "lastAlertedAt": 1793139118134,
-    "issueNumber": 1851
-  },
   "US|IN|Indianapolis": {
     "region": "Indianapolis, IN",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1793165963892,
     "lastAlertedAt": 1793165963892,
     "issueNumber": 1855
   },
-  "US|CA|Lake Elsinore": {
-    "region": "Lake Elsinore, CA",
-    "tier": "alert",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1856
-  },
-  "US|AR|Little Rock-North Little Rock": {
-    "region": "Little Rock-North Little Rock, AR",
+  "US|OH|Toledo": {
+    "region": "Toledo, OH",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1857
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1868
   },
-  "WAQI|-1666027": {
-    "region": "I-10 W, null",
+  "WAQI|-880915": {
+    "region": "Morgan Park 2, null",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1858
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1869
   },
-  "WAQI|-524455": {
-    "region": "Leduc Sensor, Alberta, null",
+  "WAQI|-561025": {
+    "region": "Rue Main, null",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1859
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1870
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
+  "WAQI|7327": {
+    "region": "Indpls-W.18th St, Indiana, USA, US",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1860
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1871
   },
-  "WAQI|249": {
-    "region": "Lake Elsinore-W Flint Street, Riverside, CA",
-    "tier": "alert",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1861
-  },
-  "WAQI|7383": {
-    "region": "Parr, Arkansas, USA, US",
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1862
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1872
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, null",
-    "tier": "alert",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1863
-  },
-  "WAQI|7324": {
-    "region": "Indpls-Washington Park, Indiana, USA, US",
-    "tier": "alert",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1864
-  },
-  "WAQI|-2725612": {
-    "region": "Red Mtn Rd, null",
+  "WAQI|-882463": {
+    "region": "Englewood 3, null",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1865
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1873
   },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
+  "WAQI|-399688": {
+    "region": "Walgrove ES (7603), null",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1866
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1874
   },
-  "US-TX-Beaumont-Port Arthur": {
-    "region": "Beaumont-Port Arthur, TX",
+  "US-MI-Detroit": {
+    "region": "Detroit, MI",
     "tier": "watch",
-    "firstSeen": 1793165963892,
-    "lastAlertedAt": 1793165963892,
-    "issueNumber": 1867
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1875
+  },
+  "US-MN-Minneapolis": {
+    "region": "Minneapolis-Saint Paul, MN",
+    "tier": "watch",
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1876
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "watch",
+    "firstSeen": 1793191877554,
+    "lastAlertedAt": 1793191877554,
+    "issueNumber": 1877
   }
 }
