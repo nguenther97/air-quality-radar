@@ -1,58 +1,100 @@
 {
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
+  "US|TX|Houston-Galveston-Brazoria": {
+    "region": "Houston-Galveston-Brazoria, TX",
     "tier": "watch",
-    "firstSeen": 1793226781452,
-    "lastAlertedAt": 1793226781452,
-    "issueNumber": 1882
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1903
   },
-  "WAQI|-470581": {
-    "region": "La Mesa, CA",
+  "WAQI|-417733": {
+    "region": "Inverhuron, null",
     "tier": "alert",
-    "firstSeen": 1793252704472,
-    "lastAlertedAt": 1793252704472,
-    "issueNumber": 1893
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1904
   },
-  "US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
     "tier": "watch",
-    "firstSeen": 1793278687885,
-    "lastAlertedAt": 1793278687885,
-    "issueNumber": 1897
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1905
   },
-  "WAQI|-399688": {
-    "region": "Walgrove ES (7603), null",
-    "tier": "watch",
-    "firstSeen": 1793278687885,
-    "lastAlertedAt": 1793278687885,
-    "issueNumber": 1898
-  },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793278687885,
-    "lastAlertedAt": 1793278687885,
-    "issueNumber": 1899
-  },
-  "WAQI|6426": {
-    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793278687885,
-    "lastAlertedAt": 1793278687885,
-    "issueNumber": 1900
-  },
-  "WAQI|-548659": {
-    "region": "Breckenridge, null",
-    "tier": "watch",
-    "firstSeen": 1793278687885,
-    "lastAlertedAt": 1793278687885,
-    "issueNumber": 1901
-  },
-  "US-PA-Pittsburgh": {
-    "region": "Pittsburgh Metro Area, PA",
+  "WAQI|-555631": {
+    "region": "Alpharetta, Georgia, USA, GA",
     "tier": "alert",
-    "firstSeen": 1793278687885,
-    "lastAlertedAt": 1793278687885,
-    "issueNumber": 1902
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1906
+  },
+  "WAQI|-504940": {
+    "region": "Houston North Wayside, null",
+    "tier": "alert",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1907
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
+    "tier": "watch",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1908
+  },
+  "WAQI|-2064079": {
+    "region": "Keddie, null",
+    "tier": "watch",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1909
+  },
+  "WAQI|-3133621": {
+    "region": "Rue Jacques-bureau, null",
+    "tier": "alert",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1910
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "watch",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1911
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "alert",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1912
+  },
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
+    "tier": "watch",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1913
+  },
+  "US-PA-Philadelphia": {
+    "region": "Philadelphia, PA",
+    "tier": "alert",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1914
+  },
+  "US-VA-Northern Virginia": {
+    "region": "Washington DC Metro (Northern Virginia), VA",
+    "tier": "watch",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1915
+  },
+  "US-AZ-Tucson": {
+    "region": "Tucson, AZ",
+    "tier": "watch",
+    "firstSeen": 1793313841572,
+    "lastAlertedAt": 1793313841572,
+    "issueNumber": 1916
   }
 }
