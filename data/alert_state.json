@@ -1,37 +1,107 @@
 {
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
-    "tier": "watch",
-    "firstSeen": 1793226781452,
-    "lastAlertedAt": 1793226781452,
-    "issueNumber": 1878
-  },
-  "WAQI|7358": {
-    "region": "Branch Street, Missouri, USA, US",
-    "tier": "alert",
-    "firstSeen": 1793226781452,
-    "lastAlertedAt": 1793226781452,
-    "issueNumber": 1879
-  },
-  "WAQI|7635": {
-    "region": "Shreveport Downtown Airport site, Louisiana, USA, US",
-    "tier": "alert",
-    "firstSeen": 1793226781452,
-    "lastAlertedAt": 1793226781452,
-    "issueNumber": 1880
-  },
-  "WAQI|-1891222": {
-    "region": "Rue Du Du Zephyr, null",
-    "tier": "alert",
-    "firstSeen": 1793226781452,
-    "lastAlertedAt": 1793226781452,
-    "issueNumber": 1881
-  },
   "WAQI|-2216566": {
     "region": "Calle Inglaterra, null",
     "tier": "watch",
     "firstSeen": 1793226781452,
     "lastAlertedAt": 1793226781452,
     "issueNumber": 1882
+  },
+  "US|OR|Burns": {
+    "region": "Burns, OR",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1883
+  },
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1884
+  },
+  "US|CT|New Haven": {
+    "region": "New Haven, CT",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1885
+  },
+  "US|NY|Western New York Region": {
+    "region": "Western New York Region, NY",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1886
+  },
+  "WAQI|72": {
+    "region": "Burns, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1887
+  },
+  "WAQI|7324": {
+    "region": "Indpls-Washington Park, Indiana, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1888
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1889
+  },
+  "WAQI|230": {
+    "region": "Yosemite Village - Visitor Center, Mariposa, California, null",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1890
+  },
+  "WAQI|5879": {
+    "region": "Buffalo, NY",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1891
+  },
+  "WAQI|-877267": {
+    "region": "Giguère Avenue, null",
+    "tier": "alert",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1892
+  },
+  "WAQI|-470581": {
+    "region": "La Mesa, CA",
+    "tier": "alert",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1893
+  },
+  "WAQI|-2854876": {
+    "region": "Western Ave., null",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1894
+  },
+  "WAQI|-524581": {
+    "region": "Notre-Dame Rue O, null",
+    "tier": "watch",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1895
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "alert",
+    "firstSeen": 1793252704472,
+    "lastAlertedAt": 1793252704472,
+    "issueNumber": 1896
   }
 }
