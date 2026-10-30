@@ -1,66 +1,10 @@
 {
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "alert",
-    "firstSeen": 1793313841572,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1905
-  },
   "WAQI|-2064079": {
     "region": "Keddie, null",
     "tier": "alert",
     "firstSeen": 1793313841572,
     "lastAlertedAt": 1793339122816,
     "issueNumber": 1909
-  },
-  "WAQI|-3133621": {
-    "region": "Rue Jacques-bureau, null",
-    "tier": "watch",
-    "firstSeen": 1793313841572,
-    "lastAlertedAt": 1793313841572,
-    "issueNumber": 1910
-  },
-  "US|SC|Charleston": {
-    "region": "Charleston, SC",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1917
-  },
-  "US|MS|Cleveland": {
-    "region": "Cleveland, MS",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1918
-  },
-  "US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1919
-  },
-  "US|CA|Quincy": {
-    "region": "Quincy, CA",
-    "tier": "alert",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1920
-  },
-  "US|MT|Thompson Falls": {
-    "region": "Thompson Falls, MT",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1921
-  },
-  "WAQI|-1364728": {
-    "region": "Beacon Ave, null",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1922
   },
   "WAQI|-2216566": {
     "region": "Calle Inglaterra, null",
@@ -69,40 +13,12 @@
     "lastAlertedAt": 1793339122816,
     "issueNumber": 1923
   },
-  "WAQI|4207": {
-    "region": "Burns Lake Fire Centre, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1924
-  },
   "WAQI|-470581": {
     "region": "La Mesa, CA",
     "tier": "alert",
     "firstSeen": 1793339122816,
     "lastAlertedAt": 1793339122816,
     "issueNumber": 1925
-  },
-  "WAQI|4208": {
-    "region": "Houston Firehall, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1926
-  },
-  "WAQI|10177": {
-    "region": "Cleveland, Mississippi, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1927
-  },
-  "WAQI|6426": {
-    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1928
   },
   "WAQI|-516028": {
     "region": "Easton, Pennsylvania, PA",
@@ -111,18 +27,88 @@
     "lastAlertedAt": 1793339122816,
     "issueNumber": 1929
   },
-  "US-CA-San Francisco Bay Area": {
-    "region": "San Francisco Bay Area, CA",
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
     "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1930
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1932
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles, CA",
+  "US|CA|Visalia": {
+    "region": "Visalia, CA",
     "tier": "watch",
-    "firstSeen": 1793339122816,
-    "lastAlertedAt": 1793339122816,
-    "issueNumber": 1931
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1933
+  },
+  "WAQI|-565105": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1934
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1935
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1936
+  },
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1937
+  },
+  "WAQI|-1364725": {
+    "region": "Palo Verde ES, null",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1938
+  },
+  "WAQI|10154": {
+    "region": "Oakridge, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1939
+  },
+  "WAQI|7402": {
+    "region": "Alsip, Illinois, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1940
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1941
+  },
+  "US-MN-Minneapolis": {
+    "region": "Minneapolis-St. Paul, MN",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1942
+  },
+  "US-MI-Detroit": {
+    "region": "Detroit, MI",
+    "tier": "watch",
+    "firstSeen": 1793364719709,
+    "lastAlertedAt": 1793364719709,
+    "issueNumber": 1943
   }
 }
