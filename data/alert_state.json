@@ -1,45 +1,10 @@
 {
-  "US|OR|Chiloquin": {
-    "region": "Chiloquin, OR",
-    "tier": "alert",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1944
-  },
-  "WAQI|-462277": {
-    "region": "HuntRdLakewood, null",
-    "tier": "alert",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1945
-  },
   "WAQI|-524644": {
     "region": "Rue Saint-jean, null",
     "tier": "watch",
     "firstSeen": 1793398615102,
     "lastAlertedAt": 1793398615102,
     "issueNumber": 1946
-  },
-  "WAQI|7390": {
-    "region": "Waterbury, Connecticut, USA, CT",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1947
-  },
-  "WAQI|-1984750": {
-    "region": "West Beacon, null",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1948
-  },
-  "WAQI|-503548": {
-    "region": "Chiloquin Duke Drive, null",
-    "tier": "alert",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1949
   },
   "FORECAST|US|CA|Hanford": {
     "region": "Hanford, CA",
@@ -55,53 +20,81 @@
     "lastAlertedAt": 1793398615102,
     "issueNumber": 1951
   },
-  "US-TX-Dallas": {
-    "region": "Dallas-Fort Worth, TX",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1952
-  },
-  "US-TX-Houston": {
-    "region": "Houston, TX",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1953
-  },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1954
-  },
-  "US-DC-Washington": {
-    "region": "Washington DC Metro (Northern Virginia), DC",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1955
-  },
-  "CA-QC-Montreal": {
-    "region": "Montreal, QC",
+  "US|ID|St. Maries": {
+    "region": "St. Maries, ID",
     "tier": "alert",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1956
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1959
   },
-  "US-PA-Allentown": {
-    "region": "Lehigh Valley, PA",
+  "CA|GBEIN|Winnipeg": {
+    "region": "Winnipeg, MB",
     "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1957
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1960
   },
-  "US-CO-Denver": {
-    "region": "Front Range, CO",
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
     "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1958
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1961
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "watch",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1962
+  },
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1963
+  },
+  "WAQI|72": {
+    "region": "Burns, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1964
+  },
+  "WAQI|4208": {
+    "region": "Houston Firehall, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1965
+  },
+  "WAQI|-399688": {
+    "region": "Walgrove ES (7603), null",
+    "tier": "watch",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1966
+  },
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1967
+  },
+  "WAQI|6909": {
+    "region": "Winnipeg Ellen St., Manitoba, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1968
+  },
+  "WAQI|11923": {
+    "region": "Turner Cascade Jr. High, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1793425057767,
+    "lastAlertedAt": 1793425057767,
+    "issueNumber": 1969
   }
 }
