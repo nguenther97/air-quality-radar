@@ -1,11 +1,4 @@
 {
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "watch",
-    "firstSeen": 1793398615102,
-    "lastAlertedAt": 1793398615102,
-    "issueNumber": 1946
-  },
   "FORECAST|US|CA|Hanford": {
     "region": "Hanford, CA",
     "tier": "watch",
@@ -27,47 +20,12 @@
     "lastAlertedAt": 1793425057767,
     "issueNumber": 1959
   },
-  "CA|GBEIN|Winnipeg": {
-    "region": "Winnipeg, MB",
-    "tier": "watch",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1960
-  },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
-    "tier": "watch",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1961
-  },
   "WAQI|-219883": {
     "region": "Edgewater, null",
     "tier": "watch",
     "firstSeen": 1793425057767,
     "lastAlertedAt": 1793425057767,
     "issueNumber": 1962
-  },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1963
-  },
-  "WAQI|72": {
-    "region": "Burns, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1964
-  },
-  "WAQI|4208": {
-    "region": "Houston Firehall, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1965
   },
   "WAQI|-399688": {
     "region": "Walgrove ES (7603), null",
@@ -83,18 +41,88 @@
     "lastAlertedAt": 1793425057767,
     "issueNumber": 1967
   },
-  "WAQI|6909": {
-    "region": "Winnipeg Ellen St., Manitoba, Canada, CA",
+  "US|SC|Charleston": {
+    "region": "Charleston, SC",
     "tier": "alert",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1968
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1970
   },
-  "WAQI|11923": {
-    "region": "Turner Cascade Jr. High, Oregon, USA, US",
+  "US|OR|La Pine": {
+    "region": "La Pine, OR",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1971
+  },
+  "WAQI|7546": {
+    "region": "Cape Romain, South Carolina, USA, US",
     "tier": "alert",
-    "firstSeen": 1793425057767,
-    "lastAlertedAt": 1793425057767,
-    "issueNumber": 1969
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1972
+  },
+  "WAQI|10154": {
+    "region": "Oakridge, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1973
+  },
+  "WAQI|7431": {
+    "region": "Hattiesburg, Mississippi, USA, MS",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1974
+  },
+  "WAQI|-405484": {
+    "region": "Halton Hills Air Sensor, null",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1975
+  },
+  "WAQI|-492277": {
+    "region": "Entiat, null",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1976
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "alert",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1977
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1978
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1979
+  },
+  "US-CA-Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1980
+  },
+  "US-SC-Myrtle Beach": {
+    "region": "Myrtle Beach/Horry County, SC",
+    "tier": "alert",
+    "firstSeen": 1793449469110,
+    "lastAlertedAt": 1793449469110,
+    "issueNumber": 1981
   }
 }
