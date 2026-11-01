@@ -6,67 +6,32 @@
     "lastAlertedAt": 1793449469110,
     "issueNumber": 1973
   },
-  "WAQI|-235702": {
-    "region": "Creston Hillside, null",
+  "WAQI|8828": {
+    "region": "Gibbons, Alberta, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1793482261240,
-    "lastAlertedAt": 1793482261240,
-    "issueNumber": 1983
+    "firstSeen": 1793570375705,
+    "lastAlertedAt": 1793570375705,
+    "issueNumber": 2008
   },
-  "WAQI|4213": {
-    "region": "Golden Helipad, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793512769849,
-    "lastAlertedAt": 1793512769849,
-    "issueNumber": 1990
-  },
-  "WAQI|-399688": {
-    "region": "Walgrove ES (7603), null",
-    "tier": "watch",
-    "firstSeen": 1793512769849,
-    "lastAlertedAt": 1793512769849,
-    "issueNumber": 1997
-  },
-  "WAQI|10714": {
-    "region": "Duncan College Street, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793512769849,
-    "lastAlertedAt": 1793512769849,
-    "issueNumber": 1998
-  },
-  "WAQI|4248": {
-    "region": "Vanderhoof, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793539179938,
-    "lastAlertedAt": 1793539179938,
-    "issueNumber": 2003
-  },
-  "WAQI|-492277": {
-    "region": "Entiat, null",
-    "tier": "watch",
-    "firstSeen": 1793539179938,
-    "lastAlertedAt": 1793539179938,
-    "issueNumber": 2004
-  },
-  "WAQI|-515179": {
-    "region": "South Overton, null",
-    "tier": "watch",
-    "firstSeen": 1793539179938,
-    "lastAlertedAt": 1793539179938,
-    "issueNumber": 2005
-  },
-  "WAQI|4204": {
-    "region": "Prince George Plaza 400, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1793539179938,
-    "lastAlertedAt": 1793539179938,
-    "issueNumber": 2006
-  },
-  "CA-BC-Vancouver": {
-    "region": "Metro Vancouver, British Columbia, Canada, BC",
+  "WAQI|4206": {
+    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1793539179938,
-    "lastAlertedAt": 1793539179938,
-    "issueNumber": 2007
+    "firstSeen": 1793570375705,
+    "lastAlertedAt": 1793570375705,
+    "issueNumber": 2009
+  },
+  "WAQI|13979": {
+    "region": "Edmonton McCauley, Alberta, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793570375705,
+    "lastAlertedAt": 1793570375705,
+    "issueNumber": 2010
+  },
+  "WAQI|-524455": {
+    "region": "Leduc Sensor, Alberta, null",
+    "tier": "watch",
+    "firstSeen": 1793570375705,
+    "lastAlertedAt": 1793570375705,
+    "issueNumber": 2011
   }
 }
