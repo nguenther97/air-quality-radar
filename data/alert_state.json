@@ -6,32 +6,102 @@
     "lastAlertedAt": 1793449469110,
     "issueNumber": 1973
   },
-  "WAQI|8828": {
-    "region": "Gibbons, Alberta, Canada, CA",
+  "US|CO|Denver-Boulder": {
+    "region": "Denver-Boulder, CO",
     "tier": "watch",
-    "firstSeen": 1793570375705,
-    "lastAlertedAt": 1793570375705,
-    "issueNumber": 2008
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2012
   },
-  "WAQI|4206": {
-    "region": "Harmac Cedar Woobank, British Comlumbia, Canada, CA",
+  "US|OR|Portland": {
+    "region": "Portland, OR",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2013
+  },
+  "WAQI|79": {
+    "region": "John Day, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2014
+  },
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2015
+  },
+  "WAQI|-494020": {
+    "region": "Main Street, null",
     "tier": "alert",
-    "firstSeen": 1793570375705,
-    "lastAlertedAt": 1793570375705,
-    "issueNumber": 2009
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2016
   },
-  "WAQI|13979": {
-    "region": "Edmonton McCauley, Alberta, Canada, CA",
+  "WAQI|-500215": {
+    "region": "Arapahoe Community College, null",
     "tier": "watch",
-    "firstSeen": 1793570375705,
-    "lastAlertedAt": 1793570375705,
-    "issueNumber": 2010
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2017
   },
-  "WAQI|-524455": {
-    "region": "Leduc Sensor, Alberta, null",
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
     "tier": "watch",
-    "firstSeen": 1793570375705,
-    "lastAlertedAt": 1793570375705,
-    "issueNumber": 2011
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2018
+  },
+  "WAQI|5481": {
+    "region": "Drayton Valley, Alberta, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2019
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2020
+  },
+  "WAQI|5476": {
+    "region": "Bruderheim, Alberta, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2021
+  },
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2022
+  },
+  "CA-MB-Winnipeg": {
+    "region": "Winnipeg, MB",
+    "tier": "alert",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2023
+  },
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2024
+  },
+  "CA-SK-Regina": {
+    "region": "Regina, SK",
+    "tier": "watch",
+    "firstSeen": 1793599115966,
+    "lastAlertedAt": 1793599115966,
+    "issueNumber": 2025
   }
 }
