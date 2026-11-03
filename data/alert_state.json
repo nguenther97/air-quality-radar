@@ -1,44 +1,44 @@
 {
-  "US|OK|Pryor": {
-    "region": "Pryor, OK",
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "watch",
+    "firstSeen": 1793714995669,
+    "lastAlertedAt": 1793714995669,
+    "issueNumber": 2037
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "watch",
+    "firstSeen": 1793714995669,
+    "lastAlertedAt": 1793714995669,
+    "issueNumber": 2038
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
     "tier": "alert",
-    "firstSeen": 1793667388348,
-    "lastAlertedAt": 1793667388348,
-    "issueNumber": 2031
+    "firstSeen": 1793714995669,
+    "lastAlertedAt": 1793714995669,
+    "issueNumber": 2039
   },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
-    "tier": "alert",
-    "firstSeen": 1793667388348,
-    "lastAlertedAt": 1793667388348,
-    "issueNumber": 2032
-  },
-  "WAQI|-2725612": {
-    "region": "Red Mtn Rd, null",
+  "WAQI|-524473": {
+    "region": "High Level, Alberta, null",
     "tier": "watch",
-    "firstSeen": 1793667388348,
-    "lastAlertedAt": 1793667388348,
-    "issueNumber": 2033
+    "firstSeen": 1793714995669,
+    "lastAlertedAt": 1793714995669,
+    "issueNumber": 2040
   },
-  "WAQI|298": {
-    "region": "Colusa-Sunrise Blvd, Colusa, California, null",
+  "US-UT-Salt Lake City": {
+    "region": "Salt Lake City, Utah, USA, UT",
     "tier": "watch",
-    "firstSeen": 1793667388348,
-    "lastAlertedAt": 1793667388348,
-    "issueNumber": 2034
+    "firstSeen": 1793714995669,
+    "lastAlertedAt": 1793714995669,
+    "issueNumber": 2041
   },
-  "WAQI|10879": {
-    "region": "Cranbrook Muriel Baxter, British Comlumbia, Canada, CA",
+  "US-AK-Fairbanks": {
+    "region": "Fairbanks, Alaska, USA, AK",
     "tier": "watch",
-    "firstSeen": 1793667388348,
-    "lastAlertedAt": 1793667388348,
-    "issueNumber": 2035
-  },
-  "WAQI|-2216005": {
-    "region": "North Federal Boulevard, null",
-    "tier": "watch",
-    "firstSeen": 1793667388348,
-    "lastAlertedAt": 1793667388348,
-    "issueNumber": 2036
+    "firstSeen": 1793714995669,
+    "lastAlertedAt": 1793714995669,
+    "issueNumber": 2042
   }
 }
