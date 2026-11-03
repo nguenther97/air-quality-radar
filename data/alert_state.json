@@ -1,11 +1,4 @@
 {
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
-    "tier": "watch",
-    "firstSeen": 1793714995669,
-    "lastAlertedAt": 1793714995669,
-    "issueNumber": 2037
-  },
   "WAQI|-219883": {
     "region": "Edgewater, null",
     "tier": "watch",
@@ -20,25 +13,18 @@
     "lastAlertedAt": 1793714995669,
     "issueNumber": 2039
   },
-  "WAQI|-524473": {
-    "region": "High Level, Alberta, null",
+  "WAQI|-573634": {
+    "region": "Skookumchuck Farstad Way, null",
     "tier": "watch",
-    "firstSeen": 1793714995669,
-    "lastAlertedAt": 1793714995669,
-    "issueNumber": 2040
+    "firstSeen": 1793748038220,
+    "lastAlertedAt": 1793748038220,
+    "issueNumber": 2043
   },
-  "US-UT-Salt Lake City": {
-    "region": "Salt Lake City, Utah, USA, UT",
+  "WAQI|-406651": {
+    "region": "LDJZKVIX, null",
     "tier": "watch",
-    "firstSeen": 1793714995669,
-    "lastAlertedAt": 1793714995669,
-    "issueNumber": 2041
-  },
-  "US-AK-Fairbanks": {
-    "region": "Fairbanks, Alaska, USA, AK",
-    "tier": "watch",
-    "firstSeen": 1793714995669,
-    "lastAlertedAt": 1793714995669,
-    "issueNumber": 2042
+    "firstSeen": 1793748038220,
+    "lastAlertedAt": 1793748038220,
+    "issueNumber": 2044
   }
 }
