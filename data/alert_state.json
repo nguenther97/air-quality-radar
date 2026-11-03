@@ -1,37 +1,44 @@
 {
-  "US|PA|Susquehanna Valley": {
-    "region": "Susquehanna Valley, PA",
-    "tier": "watch",
-    "firstSeen": 1793634410698,
-    "lastAlertedAt": 1793634410698,
-    "issueNumber": 2026
+  "US|OK|Pryor": {
+    "region": "Pryor, OK",
+    "tier": "alert",
+    "firstSeen": 1793667388348,
+    "lastAlertedAt": 1793667388348,
+    "issueNumber": 2031
   },
-  "WAQI|82": {
-    "region": "Lakeview, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793634410698,
-    "lastAlertedAt": 1793634410698,
-    "issueNumber": 2027
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
+    "tier": "alert",
+    "firstSeen": 1793667388348,
+    "lastAlertedAt": 1793667388348,
+    "issueNumber": 2032
   },
-  "WAQI|-492277": {
-    "region": "Entiat, null",
+  "WAQI|-2725612": {
+    "region": "Red Mtn Rd, null",
     "tier": "watch",
-    "firstSeen": 1793634410698,
-    "lastAlertedAt": 1793634410698,
-    "issueNumber": 2028
+    "firstSeen": 1793667388348,
+    "lastAlertedAt": 1793667388348,
+    "issueNumber": 2033
   },
-  "US-CO-Denver": {
-    "region": "Denver Metro / North Front Range, CO",
+  "WAQI|298": {
+    "region": "Colusa-Sunrise Blvd, Colusa, California, null",
     "tier": "watch",
-    "firstSeen": 1793634410698,
-    "lastAlertedAt": 1793634410698,
-    "issueNumber": 2029
+    "firstSeen": 1793667388348,
+    "lastAlertedAt": 1793667388348,
+    "issueNumber": 2034
   },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix Metro (Maricopa & Pinal Counties), AZ",
+  "WAQI|10879": {
+    "region": "Cranbrook Muriel Baxter, British Comlumbia, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1793634410698,
-    "lastAlertedAt": 1793634410698,
-    "issueNumber": 2030
+    "firstSeen": 1793667388348,
+    "lastAlertedAt": 1793667388348,
+    "issueNumber": 2035
+  },
+  "WAQI|-2216005": {
+    "region": "North Federal Boulevard, null",
+    "tier": "watch",
+    "firstSeen": 1793667388348,
+    "lastAlertedAt": 1793667388348,
+    "issueNumber": 2036
   }
 }
