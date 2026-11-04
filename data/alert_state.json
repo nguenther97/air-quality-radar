@@ -1,79 +1,44 @@
 {
-  "WAQI|-219883": {
-    "region": "Edgewater, null",
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
     "tier": "watch",
-    "firstSeen": 1793714995669,
-    "lastAlertedAt": 1793714995669,
-    "issueNumber": 2038
+    "firstSeen": 1793835558501,
+    "lastAlertedAt": 1793835558501,
+    "issueNumber": 2066
   },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, null",
-    "tier": "watch",
-    "firstSeen": 1793773006372,
-    "lastAlertedAt": 1793773006372,
-    "issueNumber": 2047
-  },
-  "WAQI|-2725612": {
-    "region": "Red Mtn Rd, null",
-    "tier": "watch",
-    "firstSeen": 1793773006372,
-    "lastAlertedAt": 1793773006372,
-    "issueNumber": 2054
-  },
-  "US|MT|Libby": {
-    "region": "Libby, MT",
-    "tier": "watch",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2058
-  },
-  "US|WA|Omak": {
-    "region": "Omak, WA",
-    "tier": "watch",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2059
-  },
-  "US|OR|Tillamook": {
-    "region": "Tillamook, OR",
+  "WAQI|4214": {
+    "region": "Grand Forks City Hall, British Comlumbia, Canada, CA",
     "tier": "alert",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2060
+    "firstSeen": 1793835558501,
+    "lastAlertedAt": 1793835558501,
+    "issueNumber": 2067
   },
-  "WAQI|131": {
-    "region": "Colville Tribe, Omak, Washington, USA, US",
+  "WAQI|-499345": {
+    "region": "FHSR Resort, null",
     "tier": "watch",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2061
+    "firstSeen": 1793835558501,
+    "lastAlertedAt": 1793835558501,
+    "issueNumber": 2068
   },
-  "WAQI|-409114": {
-    "region": "Montréal, Ahuntsic Live Meteo Station, null",
+  "WAQI|76": {
+    "region": "Grants Pass, Oregon, USA, OR",
     "tier": "watch",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2062
+    "firstSeen": 1793835558501,
+    "lastAlertedAt": 1793835558501,
+    "issueNumber": 2069
   },
-  "WAQI|8391": {
-    "region": "Nogales Post Office, Arizona, USA, US",
+  "WAQI|127": {
+    "region": "Makah Tribe, Neah Bay 2, Washington, USA, US",
     "tier": "watch",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2063
+    "firstSeen": 1793835558501,
+    "lastAlertedAt": 1793835558501,
+    "issueNumber": 2070
   },
-  "WAQI|-503542": {
-    "region": "Tillamook Jr High School, null",
-    "tier": "alert",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2064
-  },
-  "WAQI|5485": {
-    "region": "Edson, Alberta, Canada, CA",
+  "WAQI|-1340200": {
+    "region": "Wenatchee, WA",
     "tier": "watch",
-    "firstSeen": 1793803137938,
-    "lastAlertedAt": 1793803137938,
-    "issueNumber": 2065
+    "firstSeen": 1793835558501,
+    "lastAlertedAt": 1793835558501,
+    "issueNumber": 2071
   }
 }
