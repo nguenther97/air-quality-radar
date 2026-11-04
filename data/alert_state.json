@@ -6,13 +6,6 @@
     "lastAlertedAt": 1793714995669,
     "issueNumber": 2038
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "alert",
-    "firstSeen": 1793714995669,
-    "lastAlertedAt": 1793714995669,
-    "issueNumber": 2039
-  },
   "WAQI|-573634": {
     "region": "Skookumchuck Farstad Way, null",
     "tier": "watch",
@@ -20,11 +13,95 @@
     "lastAlertedAt": 1793748038220,
     "issueNumber": 2043
   },
-  "WAQI|-406651": {
-    "region": "LDJZKVIX, null",
+  "US|NV|Las Vegas": {
+    "region": "Las Vegas, NV",
     "tier": "watch",
-    "firstSeen": 1793748038220,
-    "lastAlertedAt": 1793748038220,
-    "issueNumber": 2044
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2045
+  },
+  "WAQI|-573970": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2046
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "alert",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2047
+  },
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2048
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "alert",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2049
+  },
+  "WAQI|9283": {
+    "region": "Estevan, Saskatchewan, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2050
+  },
+  "WAQI|-524638": {
+    "region": "Rue Ida-Steinberg, null",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2051
+  },
+  "WAQI|14109": {
+    "region": "Quesnel Johnston Avenue, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2052
+  },
+  "WAQI|-235702": {
+    "region": "Creston Hillside, null",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2053
+  },
+  "WAQI|-2725612": {
+    "region": "Red Mtn Rd, null",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2054
+  },
+  "WAQI|10879": {
+    "region": "Cranbrook Muriel Baxter, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2055
+  },
+  "CA-BC-Vancouver": {
+    "region": "Metro Vancouver, BC",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2056
+  },
+  "US-CO-Denver": {
+    "region": "Denver, CO",
+    "tier": "watch",
+    "firstSeen": 1793773006372,
+    "lastAlertedAt": 1793773006372,
+    "issueNumber": 2057
   }
 }
