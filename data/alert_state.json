@@ -6,39 +6,151 @@
     "lastAlertedAt": 1793835558501,
     "issueNumber": 2066
   },
-  "WAQI|4214": {
-    "region": "Grand Forks City Hall, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1793835558501,
-    "lastAlertedAt": 1793835558501,
-    "issueNumber": 2067
-  },
-  "WAQI|-499345": {
-    "region": "FHSR Resort, null",
-    "tier": "watch",
-    "firstSeen": 1793835558501,
-    "lastAlertedAt": 1793835558501,
-    "issueNumber": 2068
-  },
   "WAQI|76": {
     "region": "Grants Pass, Oregon, USA, OR",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1793835558501,
-    "lastAlertedAt": 1793835558501,
+    "lastAlertedAt": 1793860944382,
     "issueNumber": 2069
   },
-  "WAQI|127": {
-    "region": "Makah Tribe, Neah Bay 2, Washington, USA, US",
-    "tier": "watch",
-    "firstSeen": 1793835558501,
-    "lastAlertedAt": 1793835558501,
-    "issueNumber": 2070
+  "US|ID|Coeur d'Alene": {
+    "region": "Coeur d'Alene, ID",
+    "tier": "alert",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2072
   },
-  "WAQI|-1340200": {
-    "region": "Wenatchee, WA",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
     "tier": "watch",
-    "firstSeen": 1793835558501,
-    "lastAlertedAt": 1793835558501,
-    "issueNumber": 2071
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2073
+  },
+  "US|OR|Grants Pass": {
+    "region": "Grants Pass, OR",
+    "tier": "alert",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2074
+  },
+  "US|ID|Sandpoint": {
+    "region": "Sandpoint, ID",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2075
+  },
+  "WAQI|158": {
+    "region": "Fifth St, Wenatchee, Washington, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2076
+  },
+  "WAQI|4213": {
+    "region": "Golden Helipad, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2077
+  },
+  "WAQI|-524581": {
+    "region": "Notre-Dame Rue O, null",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2078
+  },
+  "WAQI|-472216": {
+    "region": "Stevenson, null",
+    "tier": "alert",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2079
+  },
+  "WAQI|-235702": {
+    "region": "Creston Hillside, null",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2080
+  },
+  "WAQI|-493840": {
+    "region": "White Salmon-N Main Ave, null",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2081
+  },
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, null",
+    "tier": "alert",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2082
+  },
+  "WAQI|5319": {
+    "region": "Sandpoint, Idaho, USA, US",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2083
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2084
+  },
+  "WAQI|-376639": {
+    "region": "Thomas Drive, null",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2085
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2086
+  },
+  "WAQI|-1984750": {
+    "region": "West Beacon, null",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2087
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "alert",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2088
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2089
+  },
+  "US-OR-Pendleton": {
+    "region": "Pendleton, OR",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2090
+  },
+  "US-OR-The Dalles": {
+    "region": "The Dalles, OR",
+    "tier": "watch",
+    "firstSeen": 1793860944382,
+    "lastAlertedAt": 1793860944382,
+    "issueNumber": 2091
   }
 }
