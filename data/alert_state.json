@@ -1,80 +1,10 @@
 {
-  "WAQI|-219883": {
-    "region": "Edgewater, null",
-    "tier": "watch",
-    "firstSeen": 1793860944382,
-    "lastAlertedAt": 1793860944382,
-    "issueNumber": 2084
-  },
   "WAQI|-2064079": {
     "region": "Keddie, null",
-    "tier": "watch",
-    "firstSeen": 1793908525970,
-    "lastAlertedAt": 1793908525970,
-    "issueNumber": 2095
-  },
-  "US|CA|Calexico": {
-    "region": "Calexico, CA",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2097
-  },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2098
-  },
-  "US|OR|Klamath Falls": {
-    "region": "Klamath Falls, OR",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2099
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2100
-  },
-  "US|CA|Portola": {
-    "region": "Portola, CA",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2101
-  },
-  "US|ID|St. Maries": {
-    "region": "St. Maries, ID",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2102
-  },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2103
-  },
-  "WAQI|-534268": {
-    "region": "Soco Mt, null",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2104
-  },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
     "tier": "alert",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2105
+    "firstSeen": 1793908525970,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2095
   },
   "WAQI|-235702": {
     "region": "Creston Hillside, null",
@@ -83,60 +13,88 @@
     "lastAlertedAt": 1793947207272,
     "issueNumber": 2106
   },
-  "WAQI|80": {
-    "region": "Klamath Falls, Oregon, USA, OR",
+  "US|CA|Fresno": {
+    "region": "Fresno, CA",
     "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2107
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2115
   },
-  "WAQI|-504940": {
-    "region": "Houston North Wayside, null",
+  "WAQI|4613": {
+    "region": "Madera City, Madera, California, null",
     "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2108
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2116
   },
-  "WAQI|291": {
-    "region": "Calexico-Ethel Street, Imperial, California, CA",
+  "WAQI|13062": {
+    "region": "Redding - Health Department, Shasta, California, CA",
     "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2109
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2117
   },
-  "WAQI|-524527": {
-    "region": "Rue 16e, null",
+  "WAQI|-565120": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2118
+  },
+  "WAQI|-2606233": {
+    "region": "Black Urban Farmers Association-BUFA, null",
     "tier": "alert",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2110
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2119
   },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
+  "WAQI|-1984750": {
+    "region": "West Beacon, null",
+    "tier": "watch",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2120
+  },
+  "US-TX-Austin": {
+    "region": "Austin, TX",
+    "tier": "watch",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2121
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2122
+  },
+  "US-CO-Denver": {
+    "region": "Denver, CO",
+    "tier": "watch",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2123
+  },
+  "US-UT-Salt Lake City": {
+    "region": "Salt Lake City, UT",
+    "tier": "watch",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2124
+  },
+  "US-AZ-Phoenix": {
+    "region": "Phoenix, AZ",
     "tier": "alert",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2111
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2125
   },
-  "WAQI|-1364728": {
-    "region": "Beacon Ave, null",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2112
-  },
-  "US-ID-Boise": {
-    "region": "Boise metro area, ID",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2113
-  },
-  "US-CA-Los Angeles": {
-    "region": "San Fernando, San Gabriel, and Santa Clarita Valleys, CA",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2114
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "alert",
+    "firstSeen": 1793992947797,
+    "lastAlertedAt": 1793992947797,
+    "issueNumber": 2126
   }
 }
