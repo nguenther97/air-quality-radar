@@ -1,18 +1,4 @@
 {
-  "WAQI|-2064079": {
-    "region": "Keddie, null",
-    "tier": "alert",
-    "firstSeen": 1793908525970,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2095
-  },
-  "WAQI|-235702": {
-    "region": "Creston Hillside, null",
-    "tier": "watch",
-    "firstSeen": 1793947207272,
-    "lastAlertedAt": 1793947207272,
-    "issueNumber": 2106
-  },
   "US|CA|Fresno": {
     "region": "Fresno, CA",
     "tier": "watch",
@@ -20,81 +6,116 @@
     "lastAlertedAt": 1793992947797,
     "issueNumber": 2115
   },
-  "WAQI|4613": {
-    "region": "Madera City, Madera, California, null",
+  "US|LA|Thibodaux": {
+    "region": "Thibodaux, LA",
     "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2116
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2127
   },
-  "WAQI|13062": {
-    "region": "Redding - Health Department, Shasta, California, CA",
-    "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2117
-  },
-  "WAQI|-565120": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2118
-  },
-  "WAQI|-2606233": {
-    "region": "Black Urban Farmers Association-BUFA, null",
+  "US|MT|Thompson Falls": {
+    "region": "Thompson Falls, MT",
     "tier": "alert",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2119
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2128
   },
-  "WAQI|-1984750": {
-    "region": "West Beacon, null",
+  "US|CA|Visalia": {
+    "region": "Visalia, CA",
     "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2120
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2129
   },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
+  "WAQI|3903": {
+    "region": "Vallejo, Solano, California, CA",
     "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2121
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2130
   },
-  "US-TX-Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "WAQI|-1364728": {
+    "region": "Beacon Ave, null",
     "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2122
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2131
   },
-  "US-CO-Denver": {
-    "region": "Denver, CO",
+  "WAQI|-2463805": {
+    "region": "Big White, null",
     "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2123
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2132
   },
-  "US-UT-Salt Lake City": {
-    "region": "Salt Lake City, UT",
+  "WAQI|6518": {
+    "region": "Thibodaux site, Louisiana, USA, US",
     "tier": "watch",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2124
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2133
   },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "alert",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2125
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2134
   },
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
-    "tier": "alert",
-    "firstSeen": 1793992947797,
-    "lastAlertedAt": 1793992947797,
-    "issueNumber": 2126
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2135
+  },
+  "WAQI|288": {
+    "region": "Porterville, Tulare, California, CA",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2136
+  },
+  "WAQI|276": {
+    "region": "Fresno - Garland, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2137
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2138
+  },
+  "FORECAST|US|ID|Sandpoint": {
+    "region": "Sandpoint, ID",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2139
+  },
+  "FORECAST|US|ID|St. Maries": {
+    "region": "St. Maries, ID",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2140
+  },
+  "US-CA-San Francisco": {
+    "region": "San Francisco Bay Area, CA",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2141
+  },
+  "CA-BC-Kelowna": {
+    "region": "Kelowna/Okanagan, BC",
+    "tier": "watch",
+    "firstSeen": 1794030952660,
+    "lastAlertedAt": 1794030952660,
+    "issueNumber": 2142
   }
 }
