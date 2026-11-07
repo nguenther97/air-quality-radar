@@ -1,18 +1,4 @@
 {
-  "WAQI|-503554": {
-    "region": "La Pine Rural Fire Dept 103, null",
-    "tier": "watch",
-    "firstSeen": 1794030952660,
-    "lastAlertedAt": 1794030952660,
-    "issueNumber": 2134
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1794030952660,
-    "lastAlertedAt": 1794030952660,
-    "issueNumber": 2135
-  },
   "FORECAST|US|ID|Sandpoint": {
     "region": "Sandpoint, ID",
     "tier": "watch",
@@ -26,13 +12,6 @@
     "firstSeen": 1794030952660,
     "lastAlertedAt": 1794030952660,
     "issueNumber": 2140
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "watch",
-    "firstSeen": 1794056264075,
-    "lastAlertedAt": 1794056264075,
-    "issueNumber": 2143
   },
   "WAQI|-2064079": {
     "region": "Keddie, null",
@@ -48,13 +27,6 @@
     "lastAlertedAt": 1794056264075,
     "issueNumber": 2145
   },
-  "WAQI|-1364725": {
-    "region": "Palo Verde ES, null",
-    "tier": "watch",
-    "firstSeen": 1794056264075,
-    "lastAlertedAt": 1794056264075,
-    "issueNumber": 2146
-  },
   "WAQI|-565120": {
     "region": "Fresno, CA",
     "tier": "watch",
@@ -62,11 +34,11 @@
     "lastAlertedAt": 1794056264075,
     "issueNumber": 2147
   },
-  "US-OR-Portland": {
-    "region": "Portland metro, OR",
-    "tier": "alert",
-    "firstSeen": 1794056264075,
-    "lastAlertedAt": 1794056264075,
-    "issueNumber": 2148
+  "WAQI|-1364728": {
+    "region": "Beacon Ave, null",
+    "tier": "watch",
+    "firstSeen": 1794088076768,
+    "lastAlertedAt": 1794088076768,
+    "issueNumber": 2149
   }
 }
