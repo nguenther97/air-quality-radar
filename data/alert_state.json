@@ -8,66 +8,10 @@
   },
   "WAQI|-2064079": {
     "region": "Keddie, null",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1794056264075,
     "lastAlertedAt": 1794117478280,
     "issueNumber": 2144
-  },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1794117478280,
-    "lastAlertedAt": 1794117478280,
-    "issueNumber": 2150
-  },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, null",
-    "tier": "watch",
-    "firstSeen": 1794117478280,
-    "lastAlertedAt": 1794117478280,
-    "issueNumber": 2158
-  },
-  "US|CA|Border Area": {
-    "region": "Border Area, CA",
-    "tier": "watch",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2167
-  },
-  "WAQI|4207": {
-    "region": "Burns Lake Fire Centre, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2168
-  },
-  "WAQI|-494020": {
-    "region": "Main Street, null",
-    "tier": "alert",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2169
-  },
-  "WAQI|-565120": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2170
-  },
-  "WAQI|-881587": {
-    "region": "Avalon Park 1, null",
-    "tier": "alert",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2171
-  },
-  "WAQI|-398716": {
-    "region": "22nd Ave & Martin Luther King, null",
-    "tier": "watch",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2172
   },
   "FORECAST|US|ID|Sandpoint": {
     "region": "Sandpoint, ID",
@@ -75,5 +19,26 @@
     "firstSeen": 1794144078854,
     "lastAlertedAt": 1794144078854,
     "issueNumber": 2173
+  },
+  "WAQI|-3029236": {
+    "region": "4e Rue, null",
+    "tier": "watch",
+    "firstSeen": 1794175280982,
+    "lastAlertedAt": 1794175280982,
+    "issueNumber": 2174
+  },
+  "WAQI|-1364728": {
+    "region": "Beacon Ave, null",
+    "tier": "watch",
+    "firstSeen": 1794175280982,
+    "lastAlertedAt": 1794175280982,
+    "issueNumber": 2175
+  },
+  "WAQI|-398251": {
+    "region": "Gladys Valley Bldg, null",
+    "tier": "watch",
+    "firstSeen": 1794175280982,
+    "lastAlertedAt": 1794175280982,
+    "issueNumber": 2176
   }
 }
