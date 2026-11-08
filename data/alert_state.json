@@ -1,11 +1,4 @@
 {
-  "FORECAST|US|ID|Sandpoint": {
-    "region": "Sandpoint, ID",
-    "tier": "watch",
-    "firstSeen": 1794030952660,
-    "lastAlertedAt": 1794030952660,
-    "issueNumber": 2139
-  },
   "FORECAST|US|ID|St. Maries": {
     "region": "St. Maries, ID",
     "tier": "watch",
@@ -15,30 +8,128 @@
   },
   "WAQI|-2064079": {
     "region": "Keddie, null",
-    "tier": "watch",
-    "firstSeen": 1794056264075,
-    "lastAlertedAt": 1794056264075,
-    "issueNumber": 2144
-  },
-  "WAQI|-566278": {
-    "region": "Rue Nolin, null",
     "tier": "alert",
     "firstSeen": 1794056264075,
-    "lastAlertedAt": 1794056264075,
-    "issueNumber": 2145
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2144
   },
-  "WAQI|-565120": {
-    "region": "Fresno, CA",
+  "US|CA|Hanford": {
+    "region": "Hanford, CA",
     "tier": "watch",
-    "firstSeen": 1794056264075,
-    "lastAlertedAt": 1794056264075,
-    "issueNumber": 2147
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2150
   },
-  "WAQI|-1364728": {
-    "region": "Beacon Ave, null",
+  "US|MS|Hattiesburg": {
+    "region": "Hattiesburg, MS",
+    "tier": "alert",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2151
+  },
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
+    "tier": "alert",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2152
+  },
+  "US|CA|Merced": {
+    "region": "Merced, CA",
     "tier": "watch",
-    "firstSeen": 1794088076768,
-    "lastAlertedAt": 1794088076768,
-    "issueNumber": 2149
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2153
+  },
+  "US|CA|S Central LA CO": {
+    "region": "S Central LA CO, CA",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2154
+  },
+  "WAQI|-533755": {
+    "region": "Nicholas, null",
+    "tier": "alert",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2155
+  },
+  "WAQI|7431": {
+    "region": "Hattiesburg, Mississippi, USA, MS",
+    "tier": "alert",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2156
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2157
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2158
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2159
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2160
+  },
+  "WAQI|7327": {
+    "region": "Indpls-W.18th St, Indiana, USA, US",
+    "tier": "alert",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2161
+  },
+  "WAQI|297": {
+    "region": "Gridley, Butte, California, null",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2162
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2163
+  },
+  "WAQI|296": {
+    "region": "Chico - East Avenue, Butte, California, CA",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2164
+  },
+  "US-TX-Dallas": {
+    "region": "Dallas-Fort Worth, TX",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2165
+  },
+  "US-NC-Charlotte": {
+    "region": "Charlotte/Gastonia (Catawba region), NC",
+    "tier": "watch",
+    "firstSeen": 1794117478280,
+    "lastAlertedAt": 1794117478280,
+    "issueNumber": 2166
   }
 }
