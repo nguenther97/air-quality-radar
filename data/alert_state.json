@@ -20,25 +20,137 @@
     "lastAlertedAt": 1794144078854,
     "issueNumber": 2173
   },
-  "WAQI|-3029236": {
-    "region": "4e Rue, null",
+  "US|OR|Coos, Lower Umpqua, and Siuslaw Indians of Oregon": {
+    "region": "Coos, Lower Umpqua, and Siuslaw Indians of Oregon, OR",
     "tier": "watch",
-    "firstSeen": 1794175280982,
-    "lastAlertedAt": 1794175280982,
-    "issueNumber": 2174
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2177
   },
-  "WAQI|-1364728": {
-    "region": "Beacon Ave, null",
+  "US|FL|Daytona Beach": {
+    "region": "Daytona Beach, FL",
     "tier": "watch",
-    "firstSeen": 1794175280982,
-    "lastAlertedAt": 1794175280982,
-    "issueNumber": 2175
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2178
   },
-  "WAQI|-398251": {
-    "region": "Gladys Valley Bldg, null",
+  "US|CA|Portola": {
+    "region": "Portola, CA",
     "tier": "watch",
-    "firstSeen": 1794175280982,
-    "lastAlertedAt": 1794175280982,
-    "issueNumber": 2176
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2179
+  },
+  "US|AZ|Rillito": {
+    "region": "Rillito, AZ",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2180
+  },
+  "WAQI|6310": {
+    "region": "Daytona - Blind Services, Volusia, Florida, USA, US",
+    "tier": "alert",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2181
+  },
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2182
+  },
+  "WAQI|7407": {
+    "region": "kc, Wy, Kansas, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2183
+  },
+  "WAQI|-569110": {
+    "region": "Stockton, CA",
+    "tier": "alert",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2184
+  },
+  "WAQI|4226": {
+    "region": "North Delta, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2185
+  },
+  "WAQI|-2854876": {
+    "region": "Western Ave., null",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2186
+  },
+  "WAQI|4617": {
+    "region": "Port Alberni Elementary, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2187
+  },
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2188
+  },
+  "WAQI|-1984750": {
+    "region": "West Beacon, null",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2189
+  },
+  "WAQI|7623": {
+    "region": "Pine, Idaho, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2190
+  },
+  "WAQI|72": {
+    "region": "Burns, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2191
+  },
+  "US-TX-Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth Metroplex, TX",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2192
+  },
+  "US-TX-Austin": {
+    "region": "Austin, TX",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2193
+  },
+  "US-CO-Denver": {
+    "region": "Denver / Front Range Urban Corridor, CO",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2194
+  },
+  "US-CA-Los Angeles": {
+    "region": "San Fernando, San Gabriel, and Santa Clarita Valleys, CA",
+    "tier": "watch",
+    "firstSeen": 1794205375133,
+    "lastAlertedAt": 1794205375133,
+    "issueNumber": 2195
   }
 }
