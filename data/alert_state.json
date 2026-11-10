@@ -1,37 +1,170 @@
 {
-  "FORECAST|US|ID|St. Maries": {
-    "region": "St. Maries, ID",
-    "tier": "watch",
-    "firstSeen": 1794030952660,
-    "lastAlertedAt": 1794030952660,
-    "issueNumber": 2140
-  },
-  "FORECAST|US|ID|Sandpoint": {
-    "region": "Sandpoint, ID",
-    "tier": "watch",
-    "firstSeen": 1794144078854,
-    "lastAlertedAt": 1794144078854,
-    "issueNumber": 2173
-  },
-  "WAQI|-2725612": {
-    "region": "Red Mtn Rd, null",
-    "tier": "alert",
-    "firstSeen": 1794262747280,
-    "lastAlertedAt": 1794262747280,
-    "issueNumber": 2196
-  },
-  "US-OR-Portland": {
-    "region": "Portland metro, OR",
-    "tier": "alert",
-    "firstSeen": 1794262747280,
-    "lastAlertedAt": 1794262747280,
-    "issueNumber": 2197
-  },
   "CA-ON-Toronto": {
     "region": "Toronto, ON",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1794262747280,
     "lastAlertedAt": 1794262747280,
     "issueNumber": 2198
+  },
+  "US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2199
+  },
+  "US|ID|Pinehurst": {
+    "region": "Pinehurst, ID",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2200
+  },
+  "US|CA|Portola": {
+    "region": "Portola, CA",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2201
+  },
+  "US|ID|Sandpoint": {
+    "region": "Sandpoint, ID",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2202
+  },
+  "US|MT|Seeley Lake": {
+    "region": "Seeley Lake, MT",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2203
+  },
+  "US|ID|St. Maries": {
+    "region": "St. Maries, ID",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2204
+  },
+  "US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2205
+  },
+  "US|CA|Yuba City and Marysville": {
+    "region": "Yuba City and Marysville, CA",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2206
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2207
+  },
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2208
+  },
+  "WAQI|5319": {
+    "region": "Sandpoint, Idaho, USA, US",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2209
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2210
+  },
+  "WAQI|8306": {
+    "region": "Springfield City Hall, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2211
+  },
+  "WAQI|-399100": {
+    "region": "Del Paso & El Camino, null",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2212
+  },
+  "WAQI|-2463805": {
+    "region": "Big White, null",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2213
+  },
+  "WAQI|-1984750": {
+    "region": "West Beacon, null",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2214
+  },
+  "WAQI|307": {
+    "region": "Yuba City, Sutter, California, CA",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2215
+  },
+  "WAQI|7623": {
+    "region": "Pine, Idaho, USA, US",
+    "tier": "alert",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2216
+  },
+  "WAQI|6426": {
+    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2217
+  },
+  "WAQI|281": {
+    "region": "Hanford-S Irwin Street, Kings, California, CA",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2218
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2219
+  },
+  "US-MT-Missoula": {
+    "region": "Missoula, MT",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2220
+  },
+  "CA-BC-Kelowna": {
+    "region": "Kelowna, BC",
+    "tier": "watch",
+    "firstSeen": 1794294880523,
+    "lastAlertedAt": 1794294880523,
+    "issueNumber": 2221
   }
 }
