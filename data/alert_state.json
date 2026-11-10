@@ -1,115 +1,10 @@
 {
-  "CA-ON-Toronto": {
-    "region": "Toronto, ON",
-    "tier": "watch",
-    "firstSeen": 1794262747280,
-    "lastAlertedAt": 1794262747280,
-    "issueNumber": 2198
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2199
-  },
-  "US|ID|Pinehurst": {
-    "region": "Pinehurst, ID",
-    "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2200
-  },
-  "US|CA|Portola": {
-    "region": "Portola, CA",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2201
-  },
-  "US|ID|Sandpoint": {
-    "region": "Sandpoint, ID",
-    "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2202
-  },
-  "US|MT|Seeley Lake": {
-    "region": "Seeley Lake, MT",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2203
-  },
-  "US|ID|St. Maries": {
-    "region": "St. Maries, ID",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2204
-  },
-  "US|CA|Visalia": {
-    "region": "Visalia, CA",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2205
-  },
-  "US|CA|Yuba City and Marysville": {
-    "region": "Yuba City and Marysville, CA",
-    "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2206
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, null",
-    "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2207
-  },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2208
-  },
-  "WAQI|5319": {
-    "region": "Sandpoint, Idaho, USA, US",
-    "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2209
-  },
   "WAQI|-1882399": {
     "region": "UACJ_Babicora, null",
     "tier": "alert",
     "firstSeen": 1794294880523,
     "lastAlertedAt": 1794294880523,
     "issueNumber": 2210
-  },
-  "WAQI|8306": {
-    "region": "Springfield City Hall, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2211
-  },
-  "WAQI|-399100": {
-    "region": "Del Paso & El Camino, null",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2212
-  },
-  "WAQI|-2463805": {
-    "region": "Big White, null",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2213
   },
   "WAQI|-1984750": {
     "region": "West Beacon, null",
@@ -118,53 +13,81 @@
     "lastAlertedAt": 1794294880523,
     "issueNumber": 2214
   },
-  "WAQI|307": {
-    "region": "Yuba City, Sutter, California, CA",
+  "US|CA|Border Area": {
+    "region": "Border Area, CA",
     "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2215
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2222
   },
-  "WAQI|7623": {
-    "region": "Pine, Idaho, USA, US",
+  "US|CA|Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2223
+  },
+  "CA|FCTOV|Sudbury": {
+    "region": "Sudbury, ON",
+    "tier": "watch",
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2224
+  },
+  "WAQI|-399466": {
+    "region": "Century Pk ES (2945), null",
+    "tier": "watch",
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2225
+  },
+  "WAQI|31": {
+    "region": "Sudbury, Ontario, Canada, ON",
     "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2216
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2226
   },
-  "WAQI|6426": {
-    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
+  "WAQI|8592": {
+    "region": "Otay Mesa - Donovan Correctional Facility, San Diego, California, null",
     "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2217
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2227
   },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2218
+  "WAQI|-504940": {
+    "region": "Houston North Wayside, null",
+    "tier": "alert",
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2228
   },
-  "US-WA-Spokane": {
-    "region": "Spokane, WA",
+  "WAQI|-235702": {
+    "region": "Creston Hillside, null",
     "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2219
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2229
   },
-  "US-MT-Missoula": {
-    "region": "Missoula, MT",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2220
+  "WAQI|6306": {
+    "region": "Woodlawn Beach Middle School, Santa Rosa, Florida, USA, US",
+    "tier": "alert",
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2230
   },
-  "CA-BC-Kelowna": {
-    "region": "Kelowna, BC",
+  "WAQI|-565120": {
+    "region": "Fresno, CA",
     "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2221
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2231
+  },
+  "US-MN-Minneapolis": {
+    "region": "Minneapolis-St. Paul, MN",
+    "tier": "watch",
+    "firstSeen": 1794339719254,
+    "lastAlertedAt": 1794339719254,
+    "issueNumber": 2232
   }
 }
