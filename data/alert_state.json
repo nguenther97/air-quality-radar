@@ -1,72 +1,149 @@
 {
-  "WAQI|-235702": {
-    "region": "Creston Hillside, null",
+  "US|OR|Chiloquin": {
+    "region": "Chiloquin, OR",
     "tier": "watch",
-    "firstSeen": 1794339719254,
-    "lastAlertedAt": 1794339719254,
-    "issueNumber": 2229
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2278
   },
-  "US|WV|Moundsville": {
-    "region": "Moundsville, WV",
+  "US|CA|Gridley": {
+    "region": "Gridley, CA",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2269
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2279
   },
-  "WAQI|7441": {
-    "region": "W Owen Sch, North Carolina, USA, US",
+  "US|OR|Klamath Falls": {
+    "region": "Klamath Falls, OR",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2270
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2280
   },
-  "WAQI|5485": {
-    "region": "Edson, Alberta, Canada, CA",
+  "US|OR|La Pine": {
+    "region": "La Pine, OR",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2271
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2281
   },
-  "WAQI|-555526": {
-    "region": "7927 Frankford Ave, null",
+  "US|CA|Redding": {
+    "region": "Redding, CA",
+    "tier": "alert",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2282
+  },
+  "US|ID|St. Maries": {
+    "region": "St. Maries, ID",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2272
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2283
   },
-  "WAQI|-470464": {
-    "region": "Newport-Calispel, null",
+  "WAQI|-401731": {
+    "region": "Blend Golf Club, null",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2273
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2284
   },
-  "WAQI|7377": {
-    "region": "Moundsville, West Virginia, USA, US",
+  "WAQI|13062": {
+    "region": "Redding - Health Department, Shasta, California, CA",
+    "tier": "alert",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2285
+  },
+  "WAQI|-2606233": {
+    "region": "Black Urban Farmers Association-BUFA, null",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2274
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2286
   },
-  "US-NC-Raleigh-Durham": {
-    "region": "Research Triangle (Raleigh-Durham, including Durham, Wake, Franklin, Granville counties), NC",
+  "WAQI|-2854876": {
+    "region": "Western Ave., null",
+    "tier": "alert",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2287
+  },
+  "WAQI|-2064079": {
+    "region": "Keddie, null",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2275
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2288
   },
-  "US-NC-Charlotte": {
-    "region": "Charlotte (Mecklenburg County), NC",
+  "WAQI|-503548": {
+    "region": "Chiloquin Duke Drive, null",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2276
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2289
   },
-  "US-WA-Spokane": {
+  "WAQI|-534268": {
+    "region": "Soco Mt, null",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2290
+  },
+  "WAQI|-571123": {
+    "region": "Klamath Falls, OR",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2291
+  },
+  "WAQI|-1364728": {
+    "region": "Beacon Ave, null",
+    "tier": "alert",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2292
+  },
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2293
+  },
+  "WAQI|297": {
+    "region": "Gridley, Butte, California, null",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2294
+  },
+  "WAQI|-497227": {
+    "region": "Klamath Falls - Peterson School Collocation 1, OR",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2295
+  },
+  "WAQI|-1666030": {
+    "region": "Tiwa Blvd, null",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2296
+  },
+  "US|WA|Spokane": {
     "region": "Spokane, WA",
     "tier": "watch",
-    "firstSeen": 1794444040325,
-    "lastAlertedAt": 1794444040325,
-    "issueNumber": 2277
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2297
+  },
+  "US|ID|Boise": {
+    "region": "Boise metro area, ID",
+    "tier": "watch",
+    "firstSeen": 1794496247818,
+    "lastAlertedAt": 1794496247818,
+    "issueNumber": 2298
   }
 }
