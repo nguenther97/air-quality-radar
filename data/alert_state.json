@@ -1,32 +1,4 @@
 {
-  "US|OR|Chiloquin": {
-    "region": "Chiloquin, OR",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2278
-  },
-  "US|CA|Gridley": {
-    "region": "Gridley, CA",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2279
-  },
-  "US|OR|Klamath Falls": {
-    "region": "Klamath Falls, OR",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2280
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2281
-  },
   "US|CA|Redding": {
     "region": "Redding, CA",
     "tier": "alert",
@@ -41,109 +13,46 @@
     "lastAlertedAt": 1794496247818,
     "issueNumber": 2283
   },
-  "WAQI|-401731": {
-    "region": "Blend Golf Club, null",
+  "US|ID|Kamiah - Nez Perce Reservation": {
+    "region": "Kamiah - Nez Perce Reservation, ID",
     "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2284
+    "firstSeen": 1794526602919,
+    "lastAlertedAt": 1794526602919,
+    "issueNumber": 2299
   },
-  "WAQI|13062": {
-    "region": "Redding - Health Department, Shasta, California, CA",
+  "WAQI|-557551": {
+    "region": "18 Boutiliers, null",
     "tier": "alert",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2285
+    "firstSeen": 1794526602919,
+    "lastAlertedAt": 1794526602919,
+    "issueNumber": 2300
   },
-  "WAQI|-2606233": {
-    "region": "Black Urban Farmers Association-BUFA, null",
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
     "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2286
+    "firstSeen": 1794526602919,
+    "lastAlertedAt": 1794526602919,
+    "issueNumber": 2301
   },
-  "WAQI|-2854876": {
-    "region": "Western Ave., null",
-    "tier": "alert",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2287
-  },
-  "WAQI|-2064079": {
-    "region": "Keddie, null",
+  "WAQI|-398833": {
+    "region": "Raymond Case ES, null",
     "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2288
+    "firstSeen": 1794526602919,
+    "lastAlertedAt": 1794526602919,
+    "issueNumber": 2302
   },
-  "WAQI|-503548": {
-    "region": "Chiloquin Duke Drive, null",
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles Basin, CA",
     "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2289
+    "firstSeen": 1794526602919,
+    "lastAlertedAt": 1794526602919,
+    "issueNumber": 2303
   },
-  "WAQI|-534268": {
-    "region": "Soco Mt, null",
+  "US-AZ-Phoenix": {
+    "region": "Phoenix Metro, AZ",
     "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2290
-  },
-  "WAQI|-571123": {
-    "region": "Klamath Falls, OR",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2291
-  },
-  "WAQI|-1364728": {
-    "region": "Beacon Ave, null",
-    "tier": "alert",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2292
-  },
-  "WAQI|-503554": {
-    "region": "La Pine Rural Fire Dept 103, null",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2293
-  },
-  "WAQI|297": {
-    "region": "Gridley, Butte, California, null",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2294
-  },
-  "WAQI|-497227": {
-    "region": "Klamath Falls - Peterson School Collocation 1, OR",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2295
-  },
-  "WAQI|-1666030": {
-    "region": "Tiwa Blvd, null",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2296
-  },
-  "US|WA|Spokane": {
-    "region": "Spokane, WA",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2297
-  },
-  "US|ID|Boise": {
-    "region": "Boise metro area, ID",
-    "tier": "watch",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2298
+    "firstSeen": 1794526602919,
+    "lastAlertedAt": 1794526602919,
+    "issueNumber": 2304
   }
 }
