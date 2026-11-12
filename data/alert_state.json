@@ -1,18 +1,4 @@
 {
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, null",
-    "tier": "alert",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2210
-  },
-  "WAQI|-1984750": {
-    "region": "West Beacon, null",
-    "tier": "watch",
-    "firstSeen": 1794294880523,
-    "lastAlertedAt": 1794294880523,
-    "issueNumber": 2214
-  },
   "WAQI|-235702": {
     "region": "Creston Hillside, null",
     "tier": "watch",
@@ -20,151 +6,67 @@
     "lastAlertedAt": 1794339719254,
     "issueNumber": 2229
   },
-  "US|OH|Canton and Massillon": {
-    "region": "Canton and Massillon, OH",
+  "US|WV|Moundsville": {
+    "region": "Moundsville, WV",
     "tier": "watch",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794377568998,
-    "issueNumber": 2233
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2269
   },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "alert",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794377568998,
-    "issueNumber": 2235
-  },
-  "WAQI|7503": {
-    "region": "Elkhart-Prairie St., Indiana, USA, IN",
-    "tier": "alert",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794377568998,
-    "issueNumber": 2239
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
+  "WAQI|7441": {
+    "region": "W Owen Sch, North Carolina, USA, US",
     "tier": "watch",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794377568998,
-    "issueNumber": 2240
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2270
   },
-  "WAQI|-574129": {
-    "region": "Whitefish Yard, null",
+  "WAQI|5485": {
+    "region": "Edson, Alberta, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794377568998,
-    "issueNumber": 2241
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2271
   },
-  "WAQI|6426": {
-    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
-    "tier": "alert",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2246
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, null",
+  "WAQI|-555526": {
+    "region": "7927 Frankford Ave, null",
     "tier": "watch",
-    "firstSeen": 1794377568998,
-    "lastAlertedAt": 1794377568998,
-    "issueNumber": 2249
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2272
   },
-  "US|IL|Chicago": {
-    "region": "Chicago, IL",
+  "WAQI|-470464": {
+    "region": "Newport-Calispel, null",
     "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2255
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2273
   },
-  "US|GA|Douglas": {
-    "region": "Douglas, GA",
+  "WAQI|7377": {
+    "region": "Moundsville, West Virginia, USA, US",
     "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2256
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2274
   },
-  "US|ID|Kootenai Tribe": {
-    "region": "Kootenai Tribe, ID",
+  "US-NC-Raleigh-Durham": {
+    "region": "Research Triangle (Raleigh-Durham, including Durham, Wake, Franklin, Granville counties), NC",
     "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2257
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2275
   },
-  "US|AL|Montgomery": {
-    "region": "Montgomery, AL",
+  "US-NC-Charlotte": {
+    "region": "Charlotte (Mecklenburg County), NC",
     "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2258
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2276
   },
-  "US|IL|South and West Suburbs (Chicago)": {
-    "region": "South and West Suburbs (Chicago), IL",
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
     "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2259
-  },
-  "US|MT|Thompson Falls": {
-    "region": "Thompson Falls, MT",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2260
-  },
-  "WAQI|7379": {
-    "region": "Montg, Alabama, USA, US",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2261
-  },
-  "WAQI|-565120": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2262
-  },
-  "WAQI|-939061": {
-    "region": "Humboldt Park 5, null",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2263
-  },
-  "WAQI|8699": {
-    "region": "Indpls - I-70 E, Indiana, USA, US",
-    "tier": "alert",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2264
-  },
-  "WAQI|-974644": {
-    "region": "South Deering 10, null",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2265
-  },
-  "WAQI|7483": {
-    "region": "Trenton, South Carolina, USA, US",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2266
-  },
-  "WAQI|-2463805": {
-    "region": "Big White, null",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2267
-  },
-  "US-TN-Memphis": {
-    "region": "Memphis, TN",
-    "tier": "watch",
-    "firstSeen": 1794406812678,
-    "lastAlertedAt": 1794406812678,
-    "issueNumber": 2268
+    "firstSeen": 1794444040325,
+    "lastAlertedAt": 1794444040325,
+    "issueNumber": 2277
   }
 }
