@@ -1,11 +1,4 @@
 {
-  "US|CA|Redding": {
-    "region": "Redding, CA",
-    "tier": "alert",
-    "firstSeen": 1794496247818,
-    "lastAlertedAt": 1794496247818,
-    "issueNumber": 2282
-  },
   "US|ID|St. Maries": {
     "region": "St. Maries, ID",
     "tier": "watch",
@@ -13,46 +6,88 @@
     "lastAlertedAt": 1794496247818,
     "issueNumber": 2283
   },
-  "US|ID|Kamiah - Nez Perce Reservation": {
-    "region": "Kamiah - Nez Perce Reservation, ID",
-    "tier": "watch",
-    "firstSeen": 1794526602919,
-    "lastAlertedAt": 1794526602919,
-    "issueNumber": 2299
-  },
-  "WAQI|-557551": {
-    "region": "18 Boutiliers, null",
+  "US|OR|Ashland": {
+    "region": "Ashland, OR",
     "tier": "alert",
-    "firstSeen": 1794526602919,
-    "lastAlertedAt": 1794526602919,
-    "issueNumber": 2300
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2305
   },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
+  "US|OR|Lyons": {
+    "region": "Lyons, OR",
     "tier": "watch",
-    "firstSeen": 1794526602919,
-    "lastAlertedAt": 1794526602919,
-    "issueNumber": 2301
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2306
   },
-  "WAQI|-398833": {
-    "region": "Raymond Case ES, null",
+  "WAQI|9506": {
+    "region": "Ashland Fire Department, Oregon, USA, US",
     "tier": "watch",
-    "firstSeen": 1794526602919,
-    "lastAlertedAt": 1794526602919,
-    "issueNumber": 2302
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2307
   },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles Basin, CA",
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
     "tier": "watch",
-    "firstSeen": 1794526602919,
-    "lastAlertedAt": 1794526602919,
-    "issueNumber": 2303
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2308
   },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix Metro, AZ",
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "alert",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2309
+  },
+  "WAQI|84": {
+    "region": "Medford, Oregon, USA, OR",
     "tier": "watch",
-    "firstSeen": 1794526602919,
-    "lastAlertedAt": 1794526602919,
-    "issueNumber": 2304
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2310
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "alert",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2311
+  },
+  "WAQI|89": {
+    "region": "Salem, Oregon, USA, OR",
+    "tier": "watch",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2312
+  },
+  "WAQI|83": {
+    "region": "Lyons, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2313
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "alert",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2314
+  },
+  "US-WA-Spokane": {
+    "region": "Spokane, WA",
+    "tier": "watch",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2315
+  },
+  "CA-QC-Montreal": {
+    "region": "Montreal, QC",
+    "tier": "watch",
+    "firstSeen": 1794552114214,
+    "lastAlertedAt": 1794552114214,
+    "issueNumber": 2316
   }
 }
