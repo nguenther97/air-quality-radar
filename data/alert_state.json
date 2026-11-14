@@ -1,53 +1,4 @@
 {
-  "US|WA|Wenatchee": {
-    "region": "Wenatchee, WA",
-    "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2319
-  },
-  "US|NE|WTN1": {
-    "region": "WTN1, NE",
-    "tier": "alert",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2320
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2321
-  },
-  "WAQI|158": {
-    "region": "Fifth St, Wenatchee, Washington, USA, US",
-    "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2322
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2323
-  },
-  "WAQI|7623": {
-    "region": "Pine, Idaho, USA, US",
-    "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2324
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, null",
-    "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2325
-  },
   "WAQI|7488": {
     "region": "Credit Union, South Dakota, USA, US",
     "tier": "watch",
@@ -55,39 +6,74 @@
     "lastAlertedAt": 1794637137609,
     "issueNumber": 2326
   },
-  "WAQI|4208": {
-    "region": "Houston Firehall, British Comlumbia, Canada, CA",
+  "US|SD|Rapid City": {
+    "region": "Rapid City, SD",
+    "tier": "watch",
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2332
+  },
+  "US|WA|Twisp": {
+    "region": "Twisp, WA",
+    "tier": "watch",
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2333
+  },
+  "WAQI|-399085": {
+    "region": "Aragon ES (2178), null",
     "tier": "alert",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2327
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2334
   },
-  "WAQI|9514": {
-    "region": "KNI-Topeka, Kansas, USA, US",
-    "tier": "alert",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2328
-  },
-  "US-AZ-Phoenix": {
-    "region": "Phoenix metro / Maricopa County, AZ",
+  "WAQI|-235702": {
+    "region": "Creston Hillside, null",
     "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2329
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2335
   },
-  "US-TX-Dallas-FortWorth": {
-    "region": "Dallas-Fort Worth Metroplex, TX",
+  "WAQI|-398851": {
+    "region": "Crescent Hts Bl EEC (9597), null",
     "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2330
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2336
   },
-  "US-TX-Austin": {
-    "region": "Austin metro, TX",
+  "WAQI|84": {
+    "region": "Medford, Oregon, USA, OR",
     "tier": "watch",
-    "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
-    "issueNumber": 2331
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2337
+  },
+  "WAQI|-3133654": {
+    "region": "Av Notre-dame, null",
+    "tier": "watch",
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2338
+  },
+  "WAQI|-2463805": {
+    "region": "Big White, null",
+    "tier": "watch",
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2339
+  },
+  "US-UT-Salt Lake City": {
+    "region": "Salt Lake City / Wasatch Front, UT",
+    "tier": "watch",
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2340
+  },
+  "US-CA-Fresno": {
+    "region": "Fresno / San Joaquin Valley, CA",
+    "tier": "watch",
+    "firstSeen": 1794679132626,
+    "lastAlertedAt": 1794679132626,
+    "issueNumber": 2341
   }
 }
