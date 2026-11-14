@@ -1,16 +1,93 @@
 {
-  "US|CA|Modesto": {
-    "region": "Modesto, CA",
+  "US|WA|Wenatchee": {
+    "region": "Wenatchee, WA",
     "tier": "watch",
-    "firstSeen": 1794598759663,
-    "lastAlertedAt": 1794598759663,
-    "issueNumber": 2317
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2319
   },
-  "FORECAST|US|ID|St. Maries": {
-    "region": "St. Maries, ID",
+  "US|NE|WTN1": {
+    "region": "WTN1, NE",
+    "tier": "alert",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2320
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
     "tier": "watch",
-    "firstSeen": 1794598759663,
-    "lastAlertedAt": 1794598759663,
-    "issueNumber": 2318
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2321
+  },
+  "WAQI|158": {
+    "region": "Fifth St, Wenatchee, Washington, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2322
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2323
+  },
+  "WAQI|7623": {
+    "region": "Pine, Idaho, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2324
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2325
+  },
+  "WAQI|7488": {
+    "region": "Credit Union, South Dakota, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2326
+  },
+  "WAQI|4208": {
+    "region": "Houston Firehall, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2327
+  },
+  "WAQI|9514": {
+    "region": "KNI-Topeka, Kansas, USA, US",
+    "tier": "alert",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2328
+  },
+  "US-AZ-Phoenix": {
+    "region": "Phoenix metro / Maricopa County, AZ",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2329
+  },
+  "US-TX-Dallas-FortWorth": {
+    "region": "Dallas-Fort Worth Metroplex, TX",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2330
+  },
+  "US-TX-Austin": {
+    "region": "Austin metro, TX",
+    "tier": "watch",
+    "firstSeen": 1794637137609,
+    "lastAlertedAt": 1794637137609,
+    "issueNumber": 2331
   }
 }
