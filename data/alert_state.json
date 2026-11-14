@@ -6,74 +6,39 @@
     "lastAlertedAt": 1794637137609,
     "issueNumber": 2326
   },
-  "US|SD|Rapid City": {
-    "region": "Rapid City, SD",
+  "US|IA|Southeast Iowa": {
+    "region": "Southeast Iowa, IA",
     "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2332
+    "firstSeen": 1794694901529,
+    "lastAlertedAt": 1794694901529,
+    "issueNumber": 2342
   },
-  "US|WA|Twisp": {
-    "region": "Twisp, WA",
-    "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2333
-  },
-  "WAQI|-399085": {
-    "region": "Aragon ES (2178), null",
+  "WAQI|-2223370": {
+    "region": "Coventry Cl NE, null",
     "tier": "alert",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2334
+    "firstSeen": 1794694901529,
+    "lastAlertedAt": 1794694901529,
+    "issueNumber": 2343
   },
-  "WAQI|-235702": {
-    "region": "Creston Hillside, null",
+  "WAQI|-562864": {
+    "region": "Twisp-S Lincoln St, null",
     "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2335
+    "firstSeen": 1794694901529,
+    "lastAlertedAt": 1794694901529,
+    "issueNumber": 2344
   },
-  "WAQI|-398851": {
-    "region": "Crescent Hts Bl EEC (9597), null",
+  "US-IL-Chicago": {
+    "region": "Chicago, IL",
     "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2336
+    "firstSeen": 1794694901529,
+    "lastAlertedAt": 1794694901529,
+    "issueNumber": 2345
   },
-  "WAQI|84": {
-    "region": "Medford, Oregon, USA, OR",
+  "US-TX-Austin": {
+    "region": "Austin, TX",
     "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2337
-  },
-  "WAQI|-3133654": {
-    "region": "Av Notre-dame, null",
-    "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2338
-  },
-  "WAQI|-2463805": {
-    "region": "Big White, null",
-    "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2339
-  },
-  "US-UT-Salt Lake City": {
-    "region": "Salt Lake City / Wasatch Front, UT",
-    "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2340
-  },
-  "US-CA-Fresno": {
-    "region": "Fresno / San Joaquin Valley, CA",
-    "tier": "watch",
-    "firstSeen": 1794679132626,
-    "lastAlertedAt": 1794679132626,
-    "issueNumber": 2341
+    "firstSeen": 1794694901529,
+    "lastAlertedAt": 1794694901529,
+    "issueNumber": 2346
   }
 }
