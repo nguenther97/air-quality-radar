@@ -6,88 +6,60 @@
     "lastAlertedAt": 1794723998553,
     "issueNumber": 2326
   },
-  "US|TX|Dallas-Fort Worth": {
-    "region": "Dallas-Fort Worth, TX",
+  "US|SD|Rapid City": {
+    "region": "Rapid City, SD",
     "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2347
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2359
   },
-  "US|OR|Grants Pass": {
-    "region": "Grants Pass, OR",
-    "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2348
-  },
-  "US|IL|Rockford": {
-    "region": "Rockford, IL",
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
     "tier": "watch",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2349
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2360
   },
-  "WAQI|-399475": {
-    "region": "Hart St ES (4445), null",
+  "WAQI|-2463805": {
+    "region": "Big White, null",
     "tier": "watch",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2350
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2361
   },
-  "WAQI|3911": {
-    "region": "Rome, Georgia, USA, GA",
-    "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2351
-  },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
+  "WAQI|7380": {
+    "region": "Adeq-dsr, Arkansas, USA, US",
     "tier": "watch",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2352
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2362
   },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
-    "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2353
-  },
-  "WAQI|11934": {
-    "region": "Rockford, Illinois, USA, IL",
-    "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2354
-  },
-  "WAQI|183": {
-    "region": "Kaufman, fort Worth, Dallas, Texas, null",
+  "WAQI|-2211553": {
+    "region": "Armstrong Site (Solar), null",
     "tier": "watch",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2355
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2363
   },
-  "WAQI|-505171": {
-    "region": "Dallas Bexar Street, null",
+  "US-UT-Salt Lake City": {
+    "region": "Salt Lake City, UT",
     "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2356
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2364
   },
-  "WAQI|76": {
-    "region": "Grants Pass, Oregon, USA, OR",
-    "tier": "alert",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2357
-  },
-  "WAQI|-504997": {
-    "region": "Convention Center, null",
+  "US-AK-Fairbanks": {
+    "region": "Fairbanks, AK",
     "tier": "watch",
-    "firstSeen": 1794723998553,
-    "lastAlertedAt": 1794723998553,
-    "issueNumber": 2358
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2365
+  },
+  "US-CA-Fresno": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1794768574903,
+    "lastAlertedAt": 1794768574903,
+    "issueNumber": 2366
   }
 }
