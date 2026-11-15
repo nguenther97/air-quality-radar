@@ -1,44 +1,93 @@
 {
   "WAQI|7488": {
     "region": "Credit Union, South Dakota, USA, US",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1794637137609,
-    "lastAlertedAt": 1794637137609,
+    "lastAlertedAt": 1794723998553,
     "issueNumber": 2326
   },
-  "US|IA|Southeast Iowa": {
-    "region": "Southeast Iowa, IA",
-    "tier": "watch",
-    "firstSeen": 1794694901529,
-    "lastAlertedAt": 1794694901529,
-    "issueNumber": 2342
-  },
-  "WAQI|-2223370": {
-    "region": "Coventry Cl NE, null",
+  "US|TX|Dallas-Fort Worth": {
+    "region": "Dallas-Fort Worth, TX",
     "tier": "alert",
-    "firstSeen": 1794694901529,
-    "lastAlertedAt": 1794694901529,
-    "issueNumber": 2343
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2347
   },
-  "WAQI|-562864": {
-    "region": "Twisp-S Lincoln St, null",
-    "tier": "watch",
-    "firstSeen": 1794694901529,
-    "lastAlertedAt": 1794694901529,
-    "issueNumber": 2344
+  "US|OR|Grants Pass": {
+    "region": "Grants Pass, OR",
+    "tier": "alert",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2348
   },
-  "US-IL-Chicago": {
-    "region": "Chicago, IL",
+  "US|IL|Rockford": {
+    "region": "Rockford, IL",
     "tier": "watch",
-    "firstSeen": 1794694901529,
-    "lastAlertedAt": 1794694901529,
-    "issueNumber": 2345
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2349
   },
-  "US-TX-Austin": {
-    "region": "Austin, TX",
+  "WAQI|-399475": {
+    "region": "Hart St ES (4445), null",
     "tier": "watch",
-    "firstSeen": 1794694901529,
-    "lastAlertedAt": 1794694901529,
-    "issueNumber": 2346
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2350
+  },
+  "WAQI|3911": {
+    "region": "Rome, Georgia, USA, GA",
+    "tier": "alert",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2351
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "watch",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2352
+  },
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
+    "tier": "alert",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2353
+  },
+  "WAQI|11934": {
+    "region": "Rockford, Illinois, USA, IL",
+    "tier": "alert",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2354
+  },
+  "WAQI|183": {
+    "region": "Kaufman, fort Worth, Dallas, Texas, null",
+    "tier": "watch",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2355
+  },
+  "WAQI|-505171": {
+    "region": "Dallas Bexar Street, null",
+    "tier": "alert",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2356
+  },
+  "WAQI|76": {
+    "region": "Grants Pass, Oregon, USA, OR",
+    "tier": "alert",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2357
+  },
+  "WAQI|-504997": {
+    "region": "Convention Center, null",
+    "tier": "watch",
+    "firstSeen": 1794723998553,
+    "lastAlertedAt": 1794723998553,
+    "issueNumber": 2358
   }
 }
