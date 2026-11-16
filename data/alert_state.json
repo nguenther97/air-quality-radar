@@ -6,60 +6,95 @@
     "lastAlertedAt": 1794723998553,
     "issueNumber": 2326
   },
-  "US|SD|Rapid City": {
-    "region": "Rapid City, SD",
+  "US|IL|Aurora and Elgin": {
+    "region": "Aurora and Elgin, IL",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2367
+  },
+  "US|IL|Joliet and Will County": {
+    "region": "Joliet and Will County, IL",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2368
+  },
+  "US|IL|South and West Suburbs (Chicago)": {
+    "region": "South and West Suburbs (Chicago), IL",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2369
+  },
+  "US|WA|Twisp": {
+    "region": "Twisp, WA",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2370
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2371
+  },
+  "WAQI|9640": {
+    "region": "Joliet, Illinois, USA, IL",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2372
+  },
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2373
+  },
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2374
+  },
+  "WAQI|8200": {
+    "region": "Hillcrest HS, Missouri, USA, US",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2375
+  },
+  "WAQI|-562864": {
+    "region": "Twisp-S Lincoln St, null",
+    "tier": "watch",
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2376
+  },
+  "WAQI|7503": {
+    "region": "Elkhart-Prairie St., Indiana, USA, IN",
     "tier": "alert",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2359
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2377
   },
-  "WAQI|-219883": {
-    "region": "Edgewater, null",
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
     "tier": "watch",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2360
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2378
   },
-  "WAQI|-2463805": {
-    "region": "Big White, null",
-    "tier": "watch",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2361
-  },
-  "WAQI|7380": {
-    "region": "Adeq-dsr, Arkansas, USA, US",
-    "tier": "watch",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2362
-  },
-  "WAQI|-2211553": {
-    "region": "Armstrong Site (Solar), null",
-    "tier": "watch",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2363
-  },
-  "US-UT-Salt Lake City": {
-    "region": "Salt Lake City, UT",
+  "US-IL-Rockford": {
+    "region": "Rockford, IL",
     "tier": "alert",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2364
-  },
-  "US-AK-Fairbanks": {
-    "region": "Fairbanks, AK",
-    "tier": "watch",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2365
-  },
-  "US-CA-Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1794768574903,
-    "lastAlertedAt": 1794768574903,
-    "issueNumber": 2366
+    "firstSeen": 1794810287855,
+    "lastAlertedAt": 1794810287855,
+    "issueNumber": 2379
   }
 }
