@@ -6,104 +6,6 @@
     "lastAlertedAt": 1794986684364,
     "issueNumber": 2403
   },
-  "US|OH|Canton and Massillon": {
-    "region": "Canton and Massillon, OH",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2409
-  },
-  "US|MI|Kalamazoo": {
-    "region": "Kalamazoo, MI",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2410
-  },
-  "US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2411
-  },
-  "US|WA|Twisp": {
-    "region": "Twisp, WA",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2412
-  },
-  "WAQI|4207": {
-    "region": "Burns Lake Fire Centre, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2413
-  },
-  "WAQI|-3133621": {
-    "region": "Rue Jacques-bureau, null",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2414
-  },
-  "WAQI|-548659": {
-    "region": "Breckenridge, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2415
-  },
-  "WAQI|13975": {
-    "region": "Smithers Muheim Memorial, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2416
-  },
-  "WAQI|13979": {
-    "region": "Edmonton McCauley, Alberta, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2417
-  },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2418
-  },
-  "WAQI|4208": {
-    "region": "Houston Firehall, British Comlumbia, Canada, CA",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2419
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2420
-  },
-  "WAQI|-881599": {
-    "region": "South Deering 1, null",
-    "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2421
-  },
-  "WAQI|-3334957": {
-    "region": "UACJ_Centro Comunitario, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2422
-  },
   "WAQI|-524638": {
     "region": "Rue Ida-Steinberg, null",
     "tier": "watch",
@@ -111,81 +13,60 @@
     "lastAlertedAt": 1794986684364,
     "issueNumber": 2423
   },
-  "WAQI|-470908": {
-    "region": "Republic, null",
+  "US|NM|Albuquerque": {
+    "region": "Albuquerque, NM",
     "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2424
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2435
   },
-  "WAQI|5329": {
-    "region": "Kalamazoo, Michigan, USA, MI",
+  "US|CA|Owens Lake": {
+    "region": "Owens Lake, CA",
     "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2425
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2436
   },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
+  "US|MO|St. Joseph": {
+    "region": "St. Joseph, MO",
     "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2426
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2437
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2427
-  },
-  "WAQI|-405484": {
-    "region": "Halton Hills Air Sensor, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2428
-  },
-  "WAQI|6426": {
-    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
+  "WAQI|7478": {
+    "region": "E Providence, Rhode Island, USA, US",
     "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2429
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2438
   },
-  "WAQI|-470581": {
-    "region": "La Mesa, CA",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2430
-  },
-  "WAQI|-524581": {
-    "region": "Notre-Dame Rue O, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2431
-  },
-  "US-MN-Minneapolis-Saint Paul": {
-    "region": "Minneapolis-Saint Paul, MN",
+  "WAQI|-515155": {
+    "region": "Jackson-Mahon 03, null",
     "tier": "alert",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2432
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2439
   },
-  "CA-MB-Winnipeg": {
-    "region": "Winnipeg, MB",
+  "WAQI|7359": {
+    "region": "St. Joseph, Missouri, USA, MO",
     "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2433
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2440
   },
-  "US-NY-New York City": {
-    "region": "New York City, NY",
+  "WAQI|-1882399": {
+    "region": "UACJ_Babicora, null",
     "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2434
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2441
+  },
+  "FORECAST|US|PA|Mon Valley Area": {
+    "region": "Mon Valley Area, PA",
+    "tier": "watch",
+    "firstSeen": 1795033732226,
+    "lastAlertedAt": 1795033732226,
+    "issueNumber": 2442
   }
 }
