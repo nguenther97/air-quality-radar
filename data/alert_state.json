@@ -1,121 +1,79 @@
 {
-  "WAQI|-524638": {
-    "region": "Rue Ida-Steinberg, null",
-    "tier": "watch",
-    "firstSeen": 1794986684364,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2423
-  },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, null",
-    "tier": "alert",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2441
-  },
-  "FORECAST|US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
-    "tier": "watch",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2442
-  },
-  "US|OR|Florence": {
-    "region": "Florence, OR",
-    "tier": "alert",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2443
-  },
-  "US|CA|Quincy": {
-    "region": "Quincy, CA",
-    "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2444
-  },
-  "US|PA|Susquehanna Valley": {
-    "region": "Susquehanna Valley, PA",
-    "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2445
-  },
   "WAQI|11925": {
     "region": "Florence Forestry Department, Oregon, USA, US",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1795072892801,
     "lastAlertedAt": 1795072892801,
     "issueNumber": 2446
   },
-  "WAQI|-524581": {
-    "region": "Notre-Dame Rue O, null",
-    "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2447
-  },
-  "WAQI|-565969": {
-    "region": "4816 Whitaker Ave, null",
-    "tier": "alert",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2448
-  },
   "WAQI|-3133621": {
     "region": "Rue Jacques-bureau, null",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
+    "lastAlertedAt": 1795120392835,
     "issueNumber": 2449
   },
-  "WAQI|7385": {
-    "region": "Danbury, Connecticut, USA, CT",
-    "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2450
-  },
-  "WAQI|4249": {
-    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+  "US|SD|Brookings": {
+    "region": "Brookings, SD",
     "tier": "alert",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2451
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2457
   },
-  "WAQI|-515146": {
-    "region": "Harwell 01, null",
+  "WAQI|11964": {
+    "region": "Clavet, Saskatchewan, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2452
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2458
   },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
+  "WAQI|-574129": {
+    "region": "Whitefish Yard, null",
+    "tier": "watch",
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2459
+  },
+  "WAQI|-3133294": {
+    "region": "Bourdages Rue, null",
+    "tier": "watch",
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2460
+  },
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
     "tier": "alert",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2453
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2461
   },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, null",
+  "WAQI|-399475": {
+    "region": "Hart St ES (4445), null",
     "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2454
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2462
   },
-  "WAQI|-524644": {
-    "region": "Rue Saint-jean, null",
+  "WAQI|14102": {
+    "region": "New Westminster Sapperton Park, British Comlumbia, Canada, CA",
     "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2455
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2463
   },
-  "WAQI|13144": {
-    "region": "Algonquin Parkway, Kentucky, USA, US",
+  "WAQI|7665": {
+    "region": "Research Farm, South Dakota, USA, US",
     "tier": "alert",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2456
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2464
+  },
+  "WAQI|-470440": {
+    "region": "Clínica de Nutrición, null",
+    "tier": "watch",
+    "firstSeen": 1795120392835,
+    "lastAlertedAt": 1795120392835,
+    "issueNumber": 2465
   }
 }
