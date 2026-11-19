@@ -1,11 +1,4 @@
 {
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
-    "tier": "alert",
-    "firstSeen": 1794948798481,
-    "lastAlertedAt": 1794986684364,
-    "issueNumber": 2403
-  },
   "WAQI|-524638": {
     "region": "Rue Ida-Steinberg, null",
     "tier": "watch",
@@ -13,53 +6,11 @@
     "lastAlertedAt": 1794986684364,
     "issueNumber": 2423
   },
-  "US|NM|Albuquerque": {
-    "region": "Albuquerque, NM",
-    "tier": "watch",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2435
-  },
-  "US|CA|Owens Lake": {
-    "region": "Owens Lake, CA",
-    "tier": "watch",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2436
-  },
-  "US|MO|St. Joseph": {
-    "region": "St. Joseph, MO",
-    "tier": "watch",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2437
-  },
-  "WAQI|7478": {
-    "region": "E Providence, Rhode Island, USA, US",
-    "tier": "alert",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2438
-  },
-  "WAQI|-515155": {
-    "region": "Jackson-Mahon 03, null",
-    "tier": "alert",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2439
-  },
-  "WAQI|7359": {
-    "region": "St. Joseph, Missouri, USA, MO",
-    "tier": "watch",
-    "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
-    "issueNumber": 2440
-  },
   "WAQI|-1882399": {
     "region": "UACJ_Babicora, null",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795033732226,
-    "lastAlertedAt": 1795033732226,
+    "lastAlertedAt": 1795072892801,
     "issueNumber": 2441
   },
   "FORECAST|US|PA|Mon Valley Area": {
@@ -68,5 +19,103 @@
     "firstSeen": 1795033732226,
     "lastAlertedAt": 1795033732226,
     "issueNumber": 2442
+  },
+  "US|OR|Florence": {
+    "region": "Florence, OR",
+    "tier": "alert",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2443
+  },
+  "US|CA|Quincy": {
+    "region": "Quincy, CA",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2444
+  },
+  "US|PA|Susquehanna Valley": {
+    "region": "Susquehanna Valley, PA",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2445
+  },
+  "WAQI|11925": {
+    "region": "Florence Forestry Department, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2446
+  },
+  "WAQI|-524581": {
+    "region": "Notre-Dame Rue O, null",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2447
+  },
+  "WAQI|-565969": {
+    "region": "4816 Whitaker Ave, null",
+    "tier": "alert",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2448
+  },
+  "WAQI|-3133621": {
+    "region": "Rue Jacques-bureau, null",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2449
+  },
+  "WAQI|7385": {
+    "region": "Danbury, Connecticut, USA, CT",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2450
+  },
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2451
+  },
+  "WAQI|-515146": {
+    "region": "Harwell 01, null",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2452
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "alert",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2453
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2454
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "watch",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2455
+  },
+  "WAQI|13144": {
+    "region": "Algonquin Parkway, Kentucky, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795072892801,
+    "lastAlertedAt": 1795072892801,
+    "issueNumber": 2456
   }
 }
