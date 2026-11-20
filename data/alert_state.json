@@ -1,73 +1,10 @@
 {
-  "WAQI|-3133621": {
-    "region": "Rue Jacques-bureau, null",
-    "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2449
-  },
   "WAQI|-399475": {
     "region": "Hart St ES (4445), null",
     "tier": "alert",
     "firstSeen": 1795120392835,
     "lastAlertedAt": 1795158717144,
     "issueNumber": 2462
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, null",
-    "tier": "alert",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2465
-  },
-  "US|OH|Canton and Massillon": {
-    "region": "Canton and Massillon, OH",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2466
-  },
-  "US|OR|Clackamas": {
-    "region": "Clackamas, OR",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2467
-  },
-  "US|OR|Coos, Lower Umpqua, and Siuslaw Indians of Oregon": {
-    "region": "Coos, Lower Umpqua, and Siuslaw Indians of Oregon, OR",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2468
-  },
-  "US|IN|Indianapolis": {
-    "region": "Indianapolis, IN",
-    "tier": "alert",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2469
-  },
-  "US|OR|La Pine": {
-    "region": "La Pine, OR",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2470
-  },
-  "US|MT|Libby": {
-    "region": "Libby, MT",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2471
-  },
-  "US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2472
   },
   "US|MO|Saint Louis": {
     "region": "Saint Louis, MO",
@@ -76,130 +13,60 @@
     "lastAlertedAt": 1795158717144,
     "issueNumber": 2473
   },
-  "US|ID|St. Maries": {
-    "region": "St. Maries, ID",
+  "US|TX|El Paso": {
+    "region": "El Paso, TX",
     "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2474
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2492
   },
-  "US|PA|Susquehanna Valley": {
-    "region": "Susquehanna Valley, PA",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2475
-  },
-  "US|IN|Terre Haute": {
-    "region": "Terre Haute, IN",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2476
-  },
-  "US|WA|Twisp": {
-    "region": "Twisp, WA",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2477
-  },
-  "WAQI|-503536": {
-    "region": "Coos Bay Marshfield HS, null",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2478
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2479
-  },
-  "WAQI|-400060": {
-    "region": "Big Pine, null",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2480
-  },
-  "WAQI|7358": {
-    "region": "Branch Street, Missouri, USA, US",
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
     "tier": "alert",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2481
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2493
   },
-  "WAQI|-408889": {
-    "region": "Huntingdon Air Quality, null",
+  "WAQI|7380": {
+    "region": "Adeq-dsr, Arkansas, USA, US",
     "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2482
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2494
   },
-  "WAQI|8301": {
-    "region": "Carus - Spangler Rd., Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2483
-  },
-  "WAQI|5899": {
-    "region": "Lancaster, Pennsylvania, USA, PA",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2484
-  },
-  "WAQI|6426": {
-    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2485
-  },
-  "WAQI|-503554": {
-    "region": "La Pine Rural Fire Dept 103, null",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2486
-  },
-  "WAQI|90": {
-    "region": "Shady Cove, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2487
-  },
-  "WAQI|-1882396": {
+  "WAQI|-3334960": {
     "region": "UACJ_IIT, null",
-    "tier": "alert",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2488
-  },
-  "WAQI|-562864": {
-    "region": "Twisp-S Lincoln St, null",
     "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2489
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2495
   },
-  "WAQI|7324": {
-    "region": "Indpls-Washington Park, Indiana, USA, US",
+  "WAQI|-503548": {
+    "region": "Chiloquin Duke Drive, null",
     "tier": "alert",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2490
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2496
   },
-  "WAQI|7506": {
-    "region": "Terre Haute-Lafayette Ave, Indiana, USA, IN",
+  "WAQI|-350485": {
+    "region": "No Name Creek, null",
     "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2491
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2497
+  },
+  "WAQI|-1666027": {
+    "region": "I-10 W, null",
+    "tier": "watch",
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2498
+  },
+  "WAQI|7359": {
+    "region": "St. Joseph, Missouri, USA, MO",
+    "tier": "watch",
+    "firstSeen": 1795205607639,
+    "lastAlertedAt": 1795205607639,
+    "issueNumber": 2499
   }
 }
