@@ -1,79 +1,205 @@
 {
-  "WAQI|11925": {
-    "region": "Florence Forestry Department, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795072892801,
-    "lastAlertedAt": 1795072892801,
-    "issueNumber": 2446
-  },
   "WAQI|-3133621": {
     "region": "Rue Jacques-bureau, null",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1795072892801,
     "lastAlertedAt": 1795120392835,
     "issueNumber": 2449
   },
-  "US|SD|Brookings": {
-    "region": "Brookings, SD",
-    "tier": "alert",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2457
-  },
-  "WAQI|11964": {
-    "region": "Clavet, Saskatchewan, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2458
-  },
-  "WAQI|-574129": {
-    "region": "Whitefish Yard, null",
-    "tier": "watch",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2459
-  },
-  "WAQI|-3133294": {
-    "region": "Bourdages Rue, null",
-    "tier": "watch",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2460
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
-    "tier": "alert",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2461
-  },
   "WAQI|-399475": {
     "region": "Hart St ES (4445), null",
-    "tier": "watch",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2462
-  },
-  "WAQI|14102": {
-    "region": "New Westminster Sapperton Park, British Comlumbia, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2463
-  },
-  "WAQI|7665": {
-    "region": "Research Farm, South Dakota, USA, US",
     "tier": "alert",
     "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
-    "issueNumber": 2464
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2462
   },
   "WAQI|-470440": {
     "region": "Clínica de Nutrición, null",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795120392835,
+    "lastAlertedAt": 1795158717144,
     "issueNumber": 2465
+  },
+  "US|OH|Canton and Massillon": {
+    "region": "Canton and Massillon, OH",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2466
+  },
+  "US|OR|Clackamas": {
+    "region": "Clackamas, OR",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2467
+  },
+  "US|OR|Coos, Lower Umpqua, and Siuslaw Indians of Oregon": {
+    "region": "Coos, Lower Umpqua, and Siuslaw Indians of Oregon, OR",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2468
+  },
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
+    "tier": "alert",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2469
+  },
+  "US|OR|La Pine": {
+    "region": "La Pine, OR",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2470
+  },
+  "US|MT|Libby": {
+    "region": "Libby, MT",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2471
+  },
+  "US|PA|Mon Valley Area": {
+    "region": "Mon Valley Area, PA",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2472
+  },
+  "US|MO|Saint Louis": {
+    "region": "Saint Louis, MO",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2473
+  },
+  "US|ID|St. Maries": {
+    "region": "St. Maries, ID",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2474
+  },
+  "US|PA|Susquehanna Valley": {
+    "region": "Susquehanna Valley, PA",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2475
+  },
+  "US|IN|Terre Haute": {
+    "region": "Terre Haute, IN",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2476
+  },
+  "US|WA|Twisp": {
+    "region": "Twisp, WA",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2477
+  },
+  "WAQI|-503536": {
+    "region": "Coos Bay Marshfield HS, null",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2478
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2479
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2480
+  },
+  "WAQI|7358": {
+    "region": "Branch Street, Missouri, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2481
+  },
+  "WAQI|-408889": {
+    "region": "Huntingdon Air Quality, null",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2482
+  },
+  "WAQI|8301": {
+    "region": "Carus - Spangler Rd., Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2483
+  },
+  "WAQI|5899": {
+    "region": "Lancaster, Pennsylvania, USA, PA",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2484
+  },
+  "WAQI|6426": {
+    "region": "Glassport High Street, Allegheny, Pennsylvania, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2485
+  },
+  "WAQI|-503554": {
+    "region": "La Pine Rural Fire Dept 103, null",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2486
+  },
+  "WAQI|90": {
+    "region": "Shady Cove, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2487
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "alert",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2488
+  },
+  "WAQI|-562864": {
+    "region": "Twisp-S Lincoln St, null",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2489
+  },
+  "WAQI|7324": {
+    "region": "Indpls-Washington Park, Indiana, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2490
+  },
+  "WAQI|7506": {
+    "region": "Terre Haute-Lafayette Ave, Indiana, USA, IN",
+    "tier": "watch",
+    "firstSeen": 1795158717144,
+    "lastAlertedAt": 1795158717144,
+    "issueNumber": 2491
   }
 }
