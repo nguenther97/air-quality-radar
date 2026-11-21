@@ -1,52 +1,10 @@
 {
-  "WAQI|-399475": {
-    "region": "Hart St ES (4445), null",
-    "tier": "alert",
-    "firstSeen": 1795120392835,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2462
-  },
-  "US|MO|Saint Louis": {
-    "region": "Saint Louis, MO",
-    "tier": "watch",
-    "firstSeen": 1795158717144,
-    "lastAlertedAt": 1795158717144,
-    "issueNumber": 2473
-  },
   "US|TX|El Paso": {
     "region": "El Paso, TX",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
+    "lastAlertedAt": 1795244589020,
     "issueNumber": 2492
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
-    "tier": "alert",
-    "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
-    "issueNumber": 2493
-  },
-  "WAQI|7380": {
-    "region": "Adeq-dsr, Arkansas, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
-    "issueNumber": 2494
-  },
-  "WAQI|-3334960": {
-    "region": "UACJ_IIT, null",
-    "tier": "watch",
-    "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
-    "issueNumber": 2495
-  },
-  "WAQI|-503548": {
-    "region": "Chiloquin Duke Drive, null",
-    "tier": "alert",
-    "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
-    "issueNumber": 2496
   },
   "WAQI|-350485": {
     "region": "No Name Creek, null",
@@ -55,18 +13,249 @@
     "lastAlertedAt": 1795205607639,
     "issueNumber": 2497
   },
-  "WAQI|-1666027": {
-    "region": "I-10 W, null",
+  "US|WA|Darrington": {
+    "region": "Darrington, WA",
     "tier": "watch",
-    "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
-    "issueNumber": 2498
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2500
   },
-  "WAQI|7359": {
-    "region": "St. Joseph, Missouri, USA, MO",
+  "US|WA|Everett-Marysville-Lynnwood": {
+    "region": "Everett-Marysville-Lynnwood, WA",
     "tier": "watch",
-    "firstSeen": 1795205607639,
-    "lastAlertedAt": 1795205607639,
-    "issueNumber": 2499
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2501
+  },
+  "US|MS|Jackson": {
+    "region": "Jackson, MS",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2502
+  },
+  "US|NY|New York City Region": {
+    "region": "New York City Region, NY",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2503
+  },
+  "US|MI|Southeast": {
+    "region": "Southeast, MI",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2504
+  },
+  "US|PA|Susquehanna Valley": {
+    "region": "Susquehanna Valley, PA",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2505
+  },
+  "US|CA|Truckee": {
+    "region": "Truckee, CA",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2506
+  },
+  "US|NY|Western New York Region": {
+    "region": "Western New York Region, NY",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2507
+  },
+  "WAQI|-485110": {
+    "region": "Wood Glen, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2508
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2509
+  },
+  "WAQI|14691": {
+    "region": "Sensor Box 5, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2510
+  },
+  "WAQI|-406096": {
+    "region": "Annin Street, Philadlephia, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2511
+  },
+  "WAQI|-2725612": {
+    "region": "Red Mtn Rd, null",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2512
+  },
+  "WAQI|-2626660": {
+    "region": "Sand Point Weather, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2513
+  },
+  "WAQI|-503536": {
+    "region": "Coos Bay Marshfield HS, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2514
+  },
+  "WAQI|193": {
+    "region": "Socorro Hueco, El Paso, Texas, null",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2515
+  },
+  "WAQI|-3133225": {
+    "region": "Rue Provancher, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2516
+  },
+  "WAQI|80": {
+    "region": "Klamath Falls, Oregon, USA, OR",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2517
+  },
+  "WAQI|5879": {
+    "region": "Buffalo, NY",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2518
+  },
+  "WAQI|296": {
+    "region": "Chico - East Avenue, Butte, California, CA",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2519
+  },
+  "WAQI|-470488": {
+    "region": "Brewster, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2520
+  },
+  "WAQI|7432": {
+    "region": "Jackson NCORE, Mississippi, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2521
+  },
+  "WAQI|232": {
+    "region": "Truckee - Fire Station, Nevada, California, null",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2522
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2523
+  },
+  "WAQI|-212680": {
+    "region": "Wallingford Playfield, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2524
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2525
+  },
+  "WAQI|5899": {
+    "region": "Lancaster, Pennsylvania, USA, PA",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2526
+  },
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2527
+  },
+  "WAQI|109": {
+    "region": "Fir St, Darrington, Washington, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2528
+  },
+  "WAQI|5882": {
+    "region": "Port Richmond, New York, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2529
+  },
+  "WAQI|5324": {
+    "region": "Dearborn, Michigan, USA, MI",
+    "tier": "alert",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2530
+  },
+  "WAQI|123": {
+    "region": "7th Ave, Marysville, Washington, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2531
+  },
+  "FORECAST|US|PA|Mon Valley Area": {
+    "region": "Mon Valley Area, PA",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2532
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2533
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles, CA",
+    "tier": "watch",
+    "firstSeen": 1795244589020,
+    "lastAlertedAt": 1795244589020,
+    "issueNumber": 2534
   }
 }
