@@ -1,59 +1,24 @@
 {
   "US|PA|Susquehanna Valley": {
     "region": "Susquehanna Valley, PA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795244589020,
-    "lastAlertedAt": 1795244589020,
+    "lastAlertedAt": 1795329854520,
     "issueNumber": 2505
   },
   "WAQI|5899": {
     "region": "Lancaster, Pennsylvania, USA, PA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795244589020,
-    "lastAlertedAt": 1795244589020,
+    "lastAlertedAt": 1795329854520,
     "issueNumber": 2526
-  },
-  "FORECAST|US|PA|Mon Valley Area": {
-    "region": "Mon Valley Area, PA",
-    "tier": "watch",
-    "firstSeen": 1795244589020,
-    "lastAlertedAt": 1795244589020,
-    "issueNumber": 2532
-  },
-  "US|CA|San Jose": {
-    "region": "San Jose, CA",
-    "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2535
   },
   "WAQI|5900": {
     "region": "Lancaster Downwind, Pennsylvania, USA, US",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1795288375471,
     "lastAlertedAt": 1795288375471,
     "issueNumber": 2536
-  },
-  "WAQI|6429": {
-    "region": "Lincoln, Allegheny, Pennsylvania, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2537
-  },
-  "WAQI|10": {
-    "region": "Hamilton Downtown, Ontario, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2538
-  },
-  "WAQI|7514": {
-    "region": "Rumford, Maine, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2539
   },
   "WAQI|8355": {
     "region": "San Jose-Knox Avenue, Santa Clara, California, CA",
@@ -62,46 +27,235 @@
     "lastAlertedAt": 1795288375471,
     "issueNumber": 2540
   },
-  "WAQI|-1364725": {
-    "region": "Palo Verde ES, null",
+  "US|CT|Danbury": {
+    "region": "Danbury, CT",
     "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2541
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2547
   },
-  "WAQI|-494671": {
-    "region": "SHADY PASS ROAD , null",
+  "US|AK|Fairbanks": {
+    "region": "Fairbanks, AK",
     "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2542
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2548
   },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, null",
+  "US|IN|Indianapolis": {
+    "region": "Indianapolis, IN",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2549
+  },
+  "US|MI|Kalamazoo": {
+    "region": "Kalamazoo, MI",
     "tier": "alert",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2543
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2550
   },
-  "WAQI|-399166": {
-    "region": "Rio Linda & Grand, null",
+  "US|OR|Medford": {
+    "region": "Medford, OR",
     "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2544
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2551
   },
-  "US-PA-Pittsburgh": {
-    "region": "Pittsburgh, PA",
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
     "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2545
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2552
   },
-  "US-CA-Sacramento": {
-    "region": "Sacramento, CA",
+  "US|WA|Twisp": {
+    "region": "Twisp, WA",
     "tier": "watch",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
-    "issueNumber": 2546
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2553
+  },
+  "US|TX|Tyler-Longview-Marshall": {
+    "region": "Tyler-Longview-Marshall, TX",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2554
+  },
+  "WAQI|7327": {
+    "region": "Indpls-W.18th St, Indiana, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2555
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "alert",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2556
+  },
+  "WAQI|-503572": {
+    "region": "Medford Jackson Park, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2557
+  },
+  "WAQI|4249": {
+    "region": "Valemount Firehall, British Comlumbia, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2558
+  },
+  "WAQI|7503": {
+    "region": "Elkhart-Prairie St., Indiana, USA, IN",
+    "tier": "alert",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2559
+  },
+  "WAQI|-485110": {
+    "region": "Wood Glen, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2560
+  },
+  "WAQI|-524581": {
+    "region": "Notre-Dame Rue O, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2561
+  },
+  "WAQI|10136": {
+    "region": "Terrebonne - secteur du parc Vaillant, Quebec, Canada, QC",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2562
+  },
+  "WAQI|-470581": {
+    "region": "La Mesa, CA",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2563
+  },
+  "WAQI|4214": {
+    "region": "Grand Forks City Hall, British Comlumbia, Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2564
+  },
+  "WAQI|221": {
+    "region": "Karnack, Tyler, Texas, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2565
+  },
+  "WAQI|5896": {
+    "region": "Hershey, Pennsylvania, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2566
+  },
+  "WAQI|5335": {
+    "region": "Ypsilanti, Michigan, USA, MI",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2567
+  },
+  "WAQI|7385": {
+    "region": "Danbury, Connecticut, USA, CT",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2568
+  },
+  "WAQI|-406096": {
+    "region": "Annin Street, Philadlephia, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2569
+  },
+  "WAQI|-500233": {
+    "region": "oak park, MI",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2570
+  },
+  "WAQI|5329": {
+    "region": "Kalamazoo, Michigan, USA, MI",
+    "tier": "alert",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2571
+  },
+  "WAQI|-1882396": {
+    "region": "UACJ_IIT, null",
+    "tier": "alert",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2572
+  },
+  "WAQI|-398455": {
+    "region": "Saint Augustine, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2573
+  },
+  "WAQI|-524644": {
+    "region": "Rue Saint-jean, null",
+    "tier": "alert",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2574
+  },
+  "WAQI|-3133225": {
+    "region": "Rue Provancher, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2575
+  },
+  "WAQI|-405484": {
+    "region": "Halton Hills Air Sensor, null",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2576
+  },
+  "CA-ON-Toronto": {
+    "region": "Toronto, ON",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2577
+  },
+  "US-CA-San Francisco": {
+    "region": "San Francisco Bay Area, CA",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2578
+  },
+  "US-AZ-Tucson": {
+    "region": "Tucson, AZ",
+    "tier": "watch",
+    "firstSeen": 1795329854520,
+    "lastAlertedAt": 1795329854520,
+    "issueNumber": 2579
   }
 }
