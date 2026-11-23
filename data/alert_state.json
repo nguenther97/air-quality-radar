@@ -1,37 +1,107 @@
 {
   "WAQI|8355": {
     "region": "San Jose-Knox Avenue, Santa Clara, California, CA",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795288375471,
+    "lastAlertedAt": 1795419223616,
     "issueNumber": 2540
   },
-  "WAQI|-400060": {
-    "region": "Big Pine, null",
+  "US|CA|Calexico": {
+    "region": "Calexico, CA",
     "tier": "watch",
-    "firstSeen": 1795329854520,
-    "lastAlertedAt": 1795329854520,
-    "issueNumber": 2556
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2583
   },
-  "WAQI|7514": {
-    "region": "Rumford, Maine, USA, US",
+  "US|CA|Chico": {
+    "region": "Chico, CA",
     "tier": "watch",
-    "firstSeen": 1795376172765,
-    "lastAlertedAt": 1795376172765,
-    "issueNumber": 2580
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2584
   },
-  "WAQI|8198": {
-    "region": "Ward, Alabama, USA, US",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
     "tier": "watch",
-    "firstSeen": 1795376172765,
-    "lastAlertedAt": 1795376172765,
-    "issueNumber": 2581
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2585
   },
-  "WAQI|3558": {
-    "region": "Elizabeth Trailer, NewJersey, USA, US",
+  "US|CA|Portola": {
+    "region": "Portola, CA",
     "tier": "watch",
-    "firstSeen": 1795376172765,
-    "lastAlertedAt": 1795376172765,
-    "issueNumber": 2582
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2586
+  },
+  "WAQI|-1438276": {
+    "region": "Saint-Laurent Rue, null",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2587
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2588
+  },
+  "WAQI|-565105": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2589
+  },
+  "WAQI|-3133327": {
+    "region": "Rue Morin, null",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2590
+  },
+  "WAQI|-399166": {
+    "region": "Rio Linda & Grand, null",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2591
+  },
+  "WAQI|-524581": {
+    "region": "Notre-Dame Rue O, null",
+    "tier": "watch",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2592
+  },
+  "WAQI|-497227": {
+    "region": "Klamath Falls - Peterson School Collocation 1, OR",
+    "tier": "watch",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2593
+  },
+  "US-CA-Monterey": {
+    "region": "Monterey, CA",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2594
+  },
+  "US-CA-Los Angeles": {
+    "region": "Los Angeles County, CA",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2595
+  },
+  "US-CA-San Francisco": {
+    "region": "San Francisco, CA",
+    "tier": "alert",
+    "firstSeen": 1795419223616,
+    "lastAlertedAt": 1795419223616,
+    "issueNumber": 2596
   }
 }
