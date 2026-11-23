@@ -1,107 +1,72 @@
 {
-  "WAQI|8355": {
-    "region": "San Jose-Knox Avenue, Santa Clara, California, CA",
-    "tier": "alert",
-    "firstSeen": 1795288375471,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2540
-  },
-  "US|CA|Calexico": {
-    "region": "Calexico, CA",
+  "US|ID|Lapwai - Nez Perce Reservation": {
+    "region": "Lapwai - Nez Perce Reservation, ID",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2583
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2597
   },
-  "US|CA|Chico": {
-    "region": "Chico, CA",
+  "WAQI|-2216566": {
+    "region": "Calle Inglaterra, null",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2584
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2598
   },
-  "US|CA|Imperial Valley": {
-    "region": "Imperial Valley, CA",
+  "WAQI|5899": {
+    "region": "Lancaster, Pennsylvania, USA, PA",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2585
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2599
   },
-  "US|CA|Portola": {
-    "region": "Portola, CA",
+  "WAQI|5896": {
+    "region": "Hershey, Pennsylvania, USA, US",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2586
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2600
   },
-  "WAQI|-1438276": {
-    "region": "Saint-Laurent Rue, null",
-    "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2587
-  },
-  "WAQI|-219883": {
-    "region": "Edgewater, null",
-    "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2588
-  },
-  "WAQI|-565105": {
-    "region": "Bakersfield, CA",
+  "WAQI|6423": {
+    "region": "Harrisburg, Pennsylvania, USA, PA",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2589
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2601
   },
-  "WAQI|-3133327": {
-    "region": "Rue Morin, null",
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
     "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2590
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2602
   },
-  "WAQI|-399166": {
-    "region": "Rio Linda & Grand, null",
+  "WAQI|-556870": {
+    "region": "Fire Station 44, null",
     "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2591
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2603
   },
-  "WAQI|-524581": {
-    "region": "Notre-Dame Rue O, null",
+  "WAQI|5459": {
+    "region": "Saint-Jean-Baptiste, Montreal, Canada, CA",
+    "tier": "alert",
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2604
+  },
+  "US-PA-York": {
+    "region": "York, PA",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2592
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2605
   },
-  "WAQI|-497227": {
-    "region": "Klamath Falls - Peterson School Collocation 1, OR",
+  "US-PA-Carlisle": {
+    "region": "Carlisle, PA",
     "tier": "watch",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2593
-  },
-  "US-CA-Monterey": {
-    "region": "Monterey, CA",
-    "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2594
-  },
-  "US-CA-Los Angeles": {
-    "region": "Los Angeles County, CA",
-    "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2595
-  },
-  "US-CA-San Francisco": {
-    "region": "San Francisco, CA",
-    "tier": "alert",
-    "firstSeen": 1795419223616,
-    "lastAlertedAt": 1795419223616,
-    "issueNumber": 2596
+    "firstSeen": 1795477865485,
+    "lastAlertedAt": 1795477865485,
+    "issueNumber": 2606
   }
 }
