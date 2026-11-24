@@ -1,53 +1,4 @@
 {
-  "US|ID|Lapwai - Nez Perce Reservation": {
-    "region": "Lapwai - Nez Perce Reservation, ID",
-    "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2597
-  },
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2598
-  },
-  "WAQI|5899": {
-    "region": "Lancaster, Pennsylvania, USA, PA",
-    "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2599
-  },
-  "WAQI|5896": {
-    "region": "Hershey, Pennsylvania, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2600
-  },
-  "WAQI|6423": {
-    "region": "Harrisburg, Pennsylvania, USA, PA",
-    "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2601
-  },
-  "WAQI|-662017": {
-    "region": "Richmond Street West, null",
-    "tier": "alert",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2602
-  },
-  "WAQI|-556870": {
-    "region": "Fire Station 44, null",
-    "tier": "alert",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2603
-  },
   "WAQI|5459": {
     "region": "Saint-Jean-Baptiste, Montreal, Canada, CA",
     "tier": "alert",
@@ -55,18 +6,109 @@
     "lastAlertedAt": 1795477865485,
     "issueNumber": 2604
   },
-  "US-PA-York": {
-    "region": "York, PA",
+  "US|CA|Fresno": {
+    "region": "Fresno, CA",
     "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2605
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2607
   },
-  "US-PA-Carlisle": {
-    "region": "Carlisle, PA",
+  "US|CA|Portola": {
+    "region": "Portola, CA",
+    "tier": "alert",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2608
+  },
+  "WAQI|-565120": {
+    "region": "Fresno, CA",
     "tier": "watch",
-    "firstSeen": 1795477865485,
-    "lastAlertedAt": 1795477865485,
-    "issueNumber": 2606
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2609
+  },
+  "WAQI|-524455": {
+    "region": "Leduc Sensor, Alberta, null",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2610
+  },
+  "WAQI|11923": {
+    "region": "Turner Cascade Jr. High, Oregon, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2611
+  },
+  "WAQI|-565105": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2612
+  },
+  "WAQI|-408982": {
+    "region": "EDTNAB, null",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2613
+  },
+  "WAQI|-399166": {
+    "region": "Rio Linda & Grand, null",
+    "tier": "alert",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2614
+  },
+  "WAQI|72": {
+    "region": "Burns, Oregon, USA, US",
+    "tier": "alert",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2615
+  },
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2616
+  },
+  "WAQI|-470581": {
+    "region": "La Mesa, CA",
+    "tier": "alert",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2617
+  },
+  "WAQI|-1984750": {
+    "region": "West Beacon, null",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2618
+  },
+  "WAQI|-559771": {
+    "region": "Hoover ES, null",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2619
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2620
+  },
+  "US-AZ-Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "alert",
+    "firstSeen": 1795513901983,
+    "lastAlertedAt": 1795513901983,
+    "issueNumber": 2621
   }
 }
