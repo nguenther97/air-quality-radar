@@ -1,136 +1,10 @@
 {
-  "WAQI|-565105": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1795513901983,
-    "lastAlertedAt": 1795513901983,
-    "issueNumber": 2612
-  },
-  "US|CA|Big Bear Lake": {
-    "region": "Big Bear Lake, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2624
-  },
-  "US|CA|Fresno": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2625
-  },
-  "US|CA|Hanford": {
-    "region": "Hanford, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2626
-  },
-  "US|CA|Portola": {
-    "region": "Portola, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2627
-  },
-  "WAQI|-1882399": {
-    "region": "UACJ_Babicora, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2628
-  },
-  "WAQI|281": {
-    "region": "Hanford-S Irwin Street, Kings, California, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2629
-  },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2630
-  },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2631
-  },
-  "WAQI|-470908": {
-    "region": "Republic, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2632
-  },
-  "WAQI|-219883": {
-    "region": "Edgewater, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2633
-  },
-  "WAQI|-524434": {
-    "region": "Happy Valley, Alberta, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2634
-  },
-  "WAQI|-411760": {
-    "region": "Tebeau Hall, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2635
-  },
-  "WAQI|9189": {
-    "region": "WHlthDpt, Kansas, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2636
-  },
-  "WAQI|-515224": {
-    "region": "Remington Park, null",
-    "tier": "alert",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2637
-  },
-  "WAQI|-470581": {
-    "region": "La Mesa, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2638
-  },
   "WAQI|8355": {
     "region": "San Jose-Knox Avenue, Santa Clara, California, CA",
     "tier": "alert",
     "firstSeen": 1795595331568,
     "lastAlertedAt": 1795595331568,
     "issueNumber": 2639
-  },
-  "WAQI|-417733": {
-    "region": "Inverhuron, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2640
-  },
-  "WAQI|-565120": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2641
   },
   "WAQI|-399166": {
     "region": "Rio Linda & Grand, null",
@@ -139,53 +13,25 @@
     "lastAlertedAt": 1795595331568,
     "issueNumber": 2642
   },
-  "WAQI|-409114": {
-    "region": "Montréal, Ahuntsic Live Meteo Station, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2643
-  },
-  "WAQI|-555655": {
-    "region": "Hartsdale, New York, null",
+  "US|CA|San Jose": {
+    "region": "San Jose, CA",
     "tier": "alert",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2644
+    "firstSeen": 1795642767207,
+    "lastAlertedAt": 1795642767207,
+    "issueNumber": 2650
   },
-  "WAQI|10154": {
-    "region": "Oakridge, Oregon, USA, US",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2645
-  },
-  "US-CA-San Francisco": {
-    "region": "San Francisco, CA",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2646
-  },
-  "US-CA-Sacramento": {
-    "region": "Sacramento, CA",
+  "WAQI|-2725612": {
+    "region": "Red Mtn Rd, null",
     "tier": "alert",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2647
+    "firstSeen": 1795642767207,
+    "lastAlertedAt": 1795642767207,
+    "issueNumber": 2651
   },
-  "US-CA-Stockton": {
-    "region": "Stockton, CA",
+  "US-NY-New York City": {
+    "region": "New York City, NY",
     "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2648
-  },
-  "US-OR-Eugene": {
-    "region": "Eugene, OR",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2649
+    "firstSeen": 1795642767207,
+    "lastAlertedAt": 1795642767207,
+    "issueNumber": 2652
   }
 }
