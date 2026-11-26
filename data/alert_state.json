@@ -1,91 +1,7 @@
 {
-  "WAQI|-399166": {
-    "region": "Rio Linda & Grand, null",
-    "tier": "watch",
-    "firstSeen": 1795595331568,
-    "lastAlertedAt": 1795595331568,
-    "issueNumber": 2642
-  },
-  "US|NM|Albuquerque": {
-    "region": "Albuquerque, NM",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2653
-  },
-  "US|CA|Big Bear Lake": {
-    "region": "Big Bear Lake, CA",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2654
-  },
-  "US|CA|Border Area": {
-    "region": "Border Area, CA",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2655
-  },
-  "US|CA|Chico": {
-    "region": "Chico, CA",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2656
-  },
-  "US|MT|Hamilton": {
-    "region": "Hamilton, MT",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2657
-  },
-  "US|ID|Pocatello": {
-    "region": "Pocatello, ID",
-    "tier": "alert",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2658
-  },
-  "US|CA|Portola": {
-    "region": "Portola, CA",
-    "tier": "alert",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2659
-  },
-  "US|ID|Salmon": {
-    "region": "Salmon, ID",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2660
-  },
-  "WAQI|-1984750": {
-    "region": "West Beacon, null",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2661
-  },
-  "WAQI|14116": {
-    "region": "Grimshaw, Alberta, Canada, CA",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2662
-  },
-  "WAQI|193": {
-    "region": "Socorro Hueco, El Paso, Texas, null",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2663
-  },
   "WAQI|-2216566": {
     "region": "Calle Inglaterra, null",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1795680818787,
     "lastAlertedAt": 1795680818787,
     "issueNumber": 2664
@@ -97,53 +13,74 @@
     "lastAlertedAt": 1795680818787,
     "issueNumber": 2665
   },
-  "WAQI|-1882396": {
-    "region": "UACJ_IIT, null",
+  "CA-AB-Edmonton": {
+    "region": "Edmonton, AB",
     "tier": "alert",
     "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2666
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2672
   },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
-    "tier": "alert",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2667
+  "US|NJ|Southeast Burlington and Ocean Counties": {
+    "region": "Southeast Burlington and Ocean Counties, NJ",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2673
   },
-  "WAQI|-569110": {
+  "WAQI|-541255": {
+    "region": "Fort St Jhon,106 St and 97 Ave, BC,  Canada, CA",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2674
+  },
+  "WAQI|-524434": {
+    "region": "Happy Valley, Alberta, null",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2675
+  },
+  "WAQI|7591": {
+    "region": "New Albany, Ohio, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2676
+  },
+  "WAQI|7623": {
+    "region": "Pine, Idaho, USA, US",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2677
+  },
+  "WAQI|-565105": {
+    "region": "Bakersfield, CA",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2678
+  },
+  "FORECAST|US|CA|Portola": {
+    "region": "Portola, CA",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2679
+  },
+  "CA-AB-Calgary": {
+    "region": "Calgary, AB",
+    "tier": "watch",
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2680
+  },
+  "US-CA-Stockton": {
     "region": "Stockton, CA",
     "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2668
-  },
-  "WAQI|274": {
-    "region": "Clovis-N Villa Avenue, Fresno, California, CA",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2669
-  },
-  "WAQI|4613": {
-    "region": "Madera City, Madera, California, null",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2670
-  },
-  "US-TX-El Paso": {
-    "region": "US-TX-El Paso, TX",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2671
-  },
-  "CA-AB-Edmonton": {
-    "region": "CA-AB-Edmonton, AB",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2672
+    "firstSeen": 1795728533952,
+    "lastAlertedAt": 1795728533952,
+    "issueNumber": 2681
   }
 }
