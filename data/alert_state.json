@@ -1,18 +1,4 @@
 {
-  "WAQI|-2216566": {
-    "region": "Calle Inglaterra, null",
-    "tier": "alert",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2664
-  },
-  "WAQI|-565120": {
-    "region": "Fresno, CA",
-    "tier": "watch",
-    "firstSeen": 1795680818787,
-    "lastAlertedAt": 1795680818787,
-    "issueNumber": 2665
-  },
   "WAQI|7591": {
     "region": "New Albany, Ohio, USA, US",
     "tier": "watch",
@@ -22,157 +8,17 @@
   },
   "WAQI|-565105": {
     "region": "Bakersfield, CA",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1795728533952,
     "lastAlertedAt": 1795767972124,
     "issueNumber": 2678
   },
-  "US|CA|Arden Arcade-Del Paso Manor": {
-    "region": "Arden Arcade-Del Paso Manor, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2682
-  },
-  "US|CA|Bakersfield": {
-    "region": "Bakersfield, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2683
-  },
-  "US|CA|Chico": {
-    "region": "Chico, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2684
-  },
-  "US|NV|Las Vegas": {
-    "region": "Las Vegas, NV",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2685
-  },
-  "US|CA|Modesto": {
-    "region": "Modesto, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2686
-  },
-  "US|CA|North Highlands": {
-    "region": "North Highlands, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2687
-  },
-  "US|AZ|Phoenix": {
-    "region": "Phoenix, AZ",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2688
-  },
-  "US|CA|Portola": {
-    "region": "Portola, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2689
-  },
-  "US|NV|Reno-Sparks": {
-    "region": "Reno-Sparks, NV",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2690
-  },
-  "US|CA|S Central LA CO": {
-    "region": "S Central LA CO, CA",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2691
-  },
-  "US|CA|Yuba City and Marysville": {
-    "region": "Yuba City and Marysville, CA",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2692
-  },
-  "WAQI|5358": {
-    "region": "Portola - Gulling Street, Plumas, California, null",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2693
-  },
-  "WAQI|-515155": {
-    "region": "Jackson-Mahon 03, null",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2694
-  },
-  "WAQI|-398455": {
-    "region": "Saint Augustine, null",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2695
-  },
-  "WAQI|-398764": {
-    "region": "Big Sur Ranger Station, null",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2696
-  },
-  "WAQI|-506236": {
-    "region": "South Escondido Boulevard, null",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2697
-  },
-  "WAQI|-399214": {
-    "region": "Compton ES (3205), null",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2698
-  },
   "WAQI|-1882396": {
     "region": "UACJ_IIT, null",
-    "tier": "alert",
+    "tier": "watch",
     "firstSeen": 1795767972124,
     "lastAlertedAt": 1795767972124,
     "issueNumber": 2699
-  },
-  "WAQI|-470440": {
-    "region": "Clínica de Nutrición, null",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2700
-  },
-  "WAQI|3894": {
-    "region": "Oakland - East, Alameda, California, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2701
-  },
-  "WAQI|-398113": {
-    "region": "Estrella ES (2942), null",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2702
   },
   "WAQI|-569110": {
     "region": "Stockton, CA",
@@ -181,53 +27,53 @@
     "lastAlertedAt": 1795767972124,
     "issueNumber": 2703
   },
-  "WAQI|-470581": {
-    "region": "La Mesa, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2704
-  },
-  "WAQI|-503542": {
-    "region": "Tillamook Jr High School, null",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2705
-  },
-  "WAQI|3903": {
-    "region": "Vallejo, Solano, California, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2706
-  },
-  "WAQI|307": {
-    "region": "Yuba City, Sutter, California, CA",
-    "tier": "alert",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2707
-  },
-  "US-CA-San Francisco": {
-    "region": "San Francisco, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2708
-  },
-  "US-CA-San Jose": {
-    "region": "San Jose, CA",
-    "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2709
-  },
   "US-CA-Sacramento": {
-    "region": "Sacramento, CA",
+    "region": "Sacramento Metro, CA",
     "tier": "watch",
     "firstSeen": 1795767972124,
     "lastAlertedAt": 1795767972124,
     "issueNumber": 2710
+  },
+  "WAQI|-1381432": {
+    "region": "10-3 Stockton Boulevard, null",
+    "tier": "watch",
+    "firstSeen": 1795814057675,
+    "lastAlertedAt": 1795814057675,
+    "issueNumber": 2711
+  },
+  "WAQI|-219883": {
+    "region": "Edgewater, null",
+    "tier": "watch",
+    "firstSeen": 1795814057675,
+    "lastAlertedAt": 1795814057675,
+    "issueNumber": 2712
+  },
+  "WAQI|-491353": {
+    "region": "Pinetree Lane, null",
+    "tier": "watch",
+    "firstSeen": 1795814057675,
+    "lastAlertedAt": 1795814057675,
+    "issueNumber": 2713
+  },
+  "WAQI|-1364725": {
+    "region": "Palo Verde ES, null",
+    "tier": "watch",
+    "firstSeen": 1795814057675,
+    "lastAlertedAt": 1795814057675,
+    "issueNumber": 2714
+  },
+  "WAQI|-417733": {
+    "region": "Inverhuron, null",
+    "tier": "alert",
+    "firstSeen": 1795814057675,
+    "lastAlertedAt": 1795814057675,
+    "issueNumber": 2715
+  },
+  "US-CA-Modesto": {
+    "region": "Modesto Metro, CA",
+    "tier": "watch",
+    "firstSeen": 1795814057675,
+    "lastAlertedAt": 1795814057675,
+    "issueNumber": 2716
   }
 }
