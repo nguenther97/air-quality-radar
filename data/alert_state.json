@@ -15,9 +15,9 @@
   },
   "WAQI|-1882396": {
     "region": "UACJ_IIT, null",
-    "tier": "watch",
+    "tier": "alert",
     "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
+    "lastAlertedAt": 1795851904086,
     "issueNumber": 2699
   },
   "WAQI|-569110": {
@@ -27,53 +27,158 @@
     "lastAlertedAt": 1795767972124,
     "issueNumber": 2703
   },
-  "US-CA-Sacramento": {
-    "region": "Sacramento Metro, CA",
+  "US|CA|Bakersfield": {
+    "region": "Bakersfield, CA",
     "tier": "watch",
-    "firstSeen": 1795767972124,
-    "lastAlertedAt": 1795767972124,
-    "issueNumber": 2710
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2717
   },
-  "WAQI|-1381432": {
-    "region": "10-3 Stockton Boulevard, null",
+  "US|LA|Baton Rouge Area": {
+    "region": "Baton Rouge Area, LA",
     "tier": "watch",
-    "firstSeen": 1795814057675,
-    "lastAlertedAt": 1795814057675,
-    "issueNumber": 2711
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2718
   },
-  "WAQI|-219883": {
-    "region": "Edgewater, null",
+  "US|CA|Calexico": {
+    "region": "Calexico, CA",
     "tier": "watch",
-    "firstSeen": 1795814057675,
-    "lastAlertedAt": 1795814057675,
-    "issueNumber": 2712
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2719
   },
-  "WAQI|-491353": {
-    "region": "Pinetree Lane, null",
+  "US|CA|Fresno": {
+    "region": "Fresno, CA",
     "tier": "watch",
-    "firstSeen": 1795814057675,
-    "lastAlertedAt": 1795814057675,
-    "issueNumber": 2713
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2720
   },
-  "WAQI|-1364725": {
-    "region": "Palo Verde ES, null",
+  "US|CA|Imperial Valley": {
+    "region": "Imperial Valley, CA",
     "tier": "watch",
-    "firstSeen": 1795814057675,
-    "lastAlertedAt": 1795814057675,
-    "issueNumber": 2714
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2721
   },
-  "WAQI|-417733": {
-    "region": "Inverhuron, null",
+  "US|NV|Las Vegas": {
+    "region": "Las Vegas, NV",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2722
+  },
+  "US|AZ|Nogales": {
+    "region": "Nogales, AZ",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2723
+  },
+  "US|AZ|Phoenix": {
+    "region": "Phoenix, AZ",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2724
+  },
+  "US|CA|Portola": {
+    "region": "Portola, CA",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2725
+  },
+  "US|CA|S Central LA CO": {
+    "region": "S Central LA CO, CA",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2726
+  },
+  "US|CA|Visalia": {
+    "region": "Visalia, CA",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2727
+  },
+  "WAQI|5358": {
+    "region": "Portola - Gulling Street, Plumas, California, null",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2728
+  },
+  "WAQI|-3334960": {
+    "region": "UACJ_IIT, null",
     "tier": "alert",
-    "firstSeen": 1795814057675,
-    "lastAlertedAt": 1795814057675,
-    "issueNumber": 2715
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2729
   },
-  "US-CA-Modesto": {
-    "region": "Modesto Metro, CA",
+  "WAQI|-662017": {
+    "region": "Richmond Street West, null",
     "tier": "watch",
-    "firstSeen": 1795814057675,
-    "lastAlertedAt": 1795814057675,
-    "issueNumber": 2716
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2730
+  },
+  "WAQI|-560542": {
+    "region": "Fire Station 94, null",
+    "tier": "alert",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2731
+  },
+  "WAQI|-398455": {
+    "region": "Saint Augustine, null",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2732
+  },
+  "WAQI|-1984750": {
+    "region": "West Beacon, null",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2733
+  },
+  "WAQI|-400060": {
+    "region": "Big Pine, null",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2734
+  },
+  "WAQI|-470581": {
+    "region": "La Mesa, CA",
+    "tier": "alert",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2735
+  },
+  "WAQI|-3029236": {
+    "region": "4e Rue, null",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2736
+  },
+  "WAQI|-565120": {
+    "region": "Fresno, CA",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2737
+  },
+  "WAQI|274": {
+    "region": "Clovis-N Villa Avenue, Fresno, California, CA",
+    "tier": "watch",
+    "firstSeen": 1795851904086,
+    "lastAlertedAt": 1795851904086,
+    "issueNumber": 2738
   }
 }
